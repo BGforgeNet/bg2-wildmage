@@ -330,7 +330,8 @@ COPY ~WildMage/0/spl/WM_GLPH.CRE~		~override/WM_GLPH.CRE~
 
 ACTION_IF FILE_EXISTS ~DATA/BG1ARE.BIF~ THEN BEGIN
 
-EXTEND_TOP ~aram00.bcs~ ~WildMage/0/baf/wm_aram00.baf~
+COPY_EXISTING ~ARAM00.BCS~ ~override~
+  REPLACE_BCS_BLOCK ~WildMage/0/baf/owm_aram00.baf~ ~WildMage/0/baf/nwm_aram00.baf~
 EXTEND_TOP ~ar0602.bcs~ ~WildMage/0/baf/wm_ar0602.baf~
 
 END
