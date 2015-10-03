@@ -1,0 +1,129 @@
+//-----------------------------------------
+//         -------------------------
+//           Dialogue du Livre de Sorts 
+//         -------------------------
+//-----------------------------------------
+@00 = ~Vous ouvrez le livre de sorts de Rhialto pour la première fois. C'est un capharnaüm de notes aléatoires, d'indéchiffrables gribouillages et de dessins enfantins, complètement tâchés de sang, de bile et d'autres trucs que vous n'arrivez pas à (et ne voulez surtout pas) reconnaître. Étonnamment, certaines entrées de sorts restent lisibles.~
+
+
+@01 = ~Vous risquez un nouveau coup d'oeil dans le livre de sorts de Rhialto. Vous séparez avec précaution deux feuilles qui était collées, pour découvrir un dessin antipathique d'un vieux sage avec une longue barbe et un chapeau pointu, qui semble fixer avec envie quelque chose qui ressemble à un bouc pétrifié.~
+@02 = ~Vous ouvrez le livre de sorts à une page au hasard, et remarquez un gribouillage que vous n'aviez pas vu auparavant : "<CHARNAME>, enlevez vos sales pattes de mon livre de sorts !"~
+@03 = ~Quand vous ouvrez le livre de sorts de Rhialto, une des pages se détache et tombe par terre.~
+
+@04 = ~Le livre de sorts de Rhialto est toujours en désordre, et son esprit devait l'être aussi ; vous vous demandez si la même folie pourrait vous toucher si vous continuez à lire ses écrits.~
+@05 = ~Vous ouvrez à nouveau le livre de sorts de Rhialto ; tout est toujours aussi désordonné, mais vous commencez à vous y faire.~
+@06 = ~Vous continuez à étudier le livre de sorts de Rhialto.~
+@07 = ~Rhialto était peut-être fou, mais son savoir était véritablement immense.~
+
+@08 = ~Bien que vous soyez sûr d'avoir appris chaque sort de ce livre, vous ressentez pourtant une forte envie de risquer un nouveau coup d'oeil.~ ~Bien que vous soyez sûre d'avoir appris chaque sort de ce livre, vous ressentez pourtant une forte envie de risquer un nouveau coup d'oeil.~
+@09 = ~Alors que vous ouvrez de nouveau le livre de sorts de Rhialto, il tombe en poussière.~
+
+@10 = ~Étudier le livre de sorts pendant un moment, et voir si vous pouvez apprendre quelque chose de neuf.~
+@11 = ~Fermer le livre.~
+@12 = ~Quand vous examinez ce sort étrange de plus près, il s'avère être complètement inutile. Aucun intérêt à l'apprendre.~
+
+@13 = ~Vous passez un peu de temps à parcourir le livre...~
+@14 = ~Vous avez trouvé quelque chose d'intéressant.~
+@15 = ~Vous ne trouvez rien de nouveau.~
+
+@16 = ~Vous essayez d'apprendre le sort, mais c'est trop difficile, vous avez besoin de plus d'expérience dans cet art pour y arriver.~
+@17 = ~Vous réussissez à apprendre le sort.~
+@18 = ~Malgré tous vos efforts de concentration, vous lisez une ligne et l'oubliez immédiatement, comme si quelqu'un de puissant l'effaçait de votre mémoire. A l'évidence, quelqu'un ne veut pas que vous connaissiez ce sort.~
+@19 = ~Vous fermez le livre.~
+
+@20 = ~Essayer d'apprendre le sort "Sort Aléatoire I".~
+@21 = ~Essayer d'apprendre le sort "Conduit Chaotique de Rhialto".~
+@22 = ~Essayer d'apprendre le sort "Forme de Rongeur".~
+
+@23 = ~Essayer d'apprendre le sort "Douche de Lames".~
+@24 = ~Essayer d'apprendre le sort "Projectiles Aléatoires de Rhialto".~
+
+@25 = ~Essayer d'apprendre le sort "Courbure de l'Espace de Gymlainac".~
+@26 = ~Essayer d'apprendre le sort "Vil Mot de Discorde".~
+
+@27 = ~Essayer d'apprendre le sort "Régénération Cellulaire".~
+@28 = ~Essayer d'apprendre le sort "Glyphe de Magie Entropique".~
+
+@29 = ~Essayer d'apprendre le sort "Veine Chanceuse de Paithan".~
+@30 = ~Essayer d'apprendre le sort "Vortex".~
+
+@31 = ~Essayer d'apprendre le sort "Fiasco de Paithan".~
+@32 = ~Essayer d'apprendre le sort "Frappe Entropique".~
+
+@33 = ~Essayer d'apprendre le sort "Envoi Aléatoire de Hornung".~
+@34 = ~Essayer d'apprendre le sort "Convocation de Vache".~
+
+@35 = ~Essayer d'apprendre le sort "Oeil du Spectateur".~
+@36 = ~Essayer d'apprendre le sort "Récupération Entropique de Mynoc".~
+
+@37 = ~Essayer d'apprendre le sort "Bouclier Entropique".~
+@38 = ~Essayer d'apprendre le sort "Sphère Entropique".~
+
+@39 = ~Essayer d'apprendre le sort "Réincarnation Merveilleuse de Rhialto".~
+
+@40 = ~Essayer d'apprendre le sort "Avatar de Rhialto".~
+
+@41 = ~Essayer d'apprendre le sort "Appel Irrésistible de Mynoc".~
+@42 = ~Essayer d'apprendre le sort "Convocation de Horde Sauvage".~
+@43 = ~Essayer d'apprendre le sort "Sort Aléatoire II".~
+@44 = ~Essayer d'apprendre le sort "Instabilité Corporelle".~
+@45 = ~Essayer d'apprendre le sort "Sort Aléatoire III".~
+@46 = ~Essayer d'apprendre le sort "Armure Entropique de Meece".~
+@47 = ~Essayer d'apprendre le sort "Sort Aléatoire IV".~
+@48 = ~Essayer d'apprendre le sort "Décharge d'Entropie".~
+@49 = ~Essayer d'apprendre le sort "Feu Entropique".~
+
+//-----------------------------------------
+//         -----------------------
+//           Dialogue de Rhialto 
+//         -----------------------
+//-----------------------------------------
+
+@100 = ~Bien, bien, bien... Qu’avons-nous là ? Salutations, jeune homme. Nul doute êtes-vous honoré de rencontrer Rhialto le Merveilleux.~ ~Bien, bien, bien... Qu’avons-nous là ? Salutations, jeune femme. Nul doute êtes-vous honorée de rencontrer Rhialto le Merveilleux.~
+@101 = ~Ah oui, vous êtes parfait. Soyez honoré, jeune homme, puisque votre existence a maintenant un objectif : Rhialto le Merveilleux a besoin de votre rate.~ ~Ah oui, vous êtes parfaite. Soyez honorée, jeune femme, puisque votre existence a maintenant un objectif : Rhialto le Merveilleux a besoin de votre rate.~
+@102 = ~Ce sera le composant final du plus grand sort conçu depuis, depuis toujours en fait !!! Bien sûr, il faut qu'elle soit extraite alors que vous êtes en vie, autrement elle ne vaudrait rien en tant qu'ingrédient.~
+@103 = ~Mais ça ne sera pas trop douloureux... Bon, du moins ça ne durera pas trop longtemps. Rhialto le Merveilleux est un chirurgien très expérimenté, ça ne prendra qu'une heure ou deux...~
+
+@110 = ~Ainsi nous nous rencontrons de nouveau... Vous semblez avoir plus confiance en vous depuis que Rhialto le Merveilleux a eu son petit accident. Ce n'est que justice que vous, qui avez causé sa chute avec votre insolente résistance, ayez ramené Rhialto à la vie.~
+@111 = ~Mais pour cela, vous avez dû lire le livre de sorts de Rhialto. Rhialto le Merveilleux n'aime pas qu'on touche à ses affaires !!!~ 
+
+
+
+//-------------------------------------------
+//         ----------------------------
+//          Dialogue de la classe de Tisseur de Sorts 
+//         ----------------------------
+//-------------------------------------------
+// Gain de Dons
+
+@200 = ~Choisissez une capacité spéciale~
+@201 = ~Ambidextrie (Rang 1)~
+@202 = ~Ambidextrie (Rang 2)~
+@203 = ~Attaque Sournoise (x2)~
+@204 = ~Adepte de l'Attaque Sournoise (x3)~
+@205 = ~Expert de l'Attaque Sournoise (x4)~
+@206 = ~Maître de l'Attaque Sournoise (x5)~
+@207 = ~Vitesse de Combat~
+@208 = ~Spécialisation en Dagues~
+@209 = ~Maîtrise de la Dague~
+@210 = ~Science du Critique~
+@211 = ~Dur à Cuire~
+@212 = ~Coups Vicieux~
+@213 = ~Aptitude de Haut Niveau de Voleur : "Assassinat"~
+@214 = ~Aptitude de Haut Niveau de Voleur : "Prévention de la Mort"~
+@215 = ~Aptitude de Haut Niveau de Voleur : "Evasion"~
+@216 = ~Sort de Tissage~
+@217 = ~Explosion Entropique~
+
+//-----------------------------------------
+// Devenir Tisseur de Sorts ?
+
+@220 = ~Vous ne savez exactement ce qu'il vient de se passer, mais dans la furie du combat vous avez d'une certaine façon réussi à lancer un sort spontanément.~
+@221 = ~Vous ressentez maintenant une étrange onde de pouvoir magique en vous. Quoiqu'il soit en train de se produire, vous sentez quelque part que si vous y cédez, vous en serez transformé pour toujours.~
+@222 = ~Embrasser ce nouveau pouvoir.~
+@223 = ~Essayer de le supprimer.~
+@224 = ~Quoi que ce fut, vous avez été suffisamment fort pour le supprimer.~ 
+@225 = ~Un flot d'énergie chaotique vous submerge.~ 
+@230 = ~Alors que vous vous laissez submerger par l'afflux de pouvoir magique, vous sentez que votre compréhension de la Toile magique change.~
+@231 = ~Vous essayez pour la première fois d'étudier le chaos autour de vous, le pliant à votre volonté, puisant votre force du reflux et du flot imprévisibles de la magie entropique.~
+@232 = ~Vous ressentez maintenant une relation étroite avec la Toile. Vous êtes à présent capable d'emmêler la Toile, la refaçonner, la tisser au gré de votre imagination.~

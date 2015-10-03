@@ -1,0 +1,33 @@
+2DA V1.0
+****
+            				   ResRef	   Type
+WEAVE				WM_WAV43	3
+CELLULAR_REGENERATION		WM_HEAL		3
+CONFUSION                       SPWI401    	3
+CONTAGION                       SPWI409    	3
+CORPOREAL_INSTABILITY		WM_LIQ		3
+DIMENSION_DOOR                  SPWI402    	3
+EMOTION_HOPELESSNESS            SPWI411    	3
+ENCHANTED_WEAPON                SPWI417    	3
+FAR_SIGHT                       SPWI424    	3
+FIRE_SHIELD_BLUE                SPWI403    	3
+FIRE_SHIELD_RED                 SPWI418    	3
+GLYPH_OF_WILD_MAGIC		WM_GLYPH	3
+GREATER_MALISON                 SPWI412    	3
+ICE_STORM                       SPWI404    	3
+IMPROVED_INVISIBILITY           SPWI405    	3
+MINOR_GLOBE_OF_INVULNERABILITY  SPWI406    	3
+MINOR_SEQUENCER                 SPWI420    	3
+MONSTER_SUMMONING_2             SPWI407    	3
+OTILUKES_RESILIENT_SPHERE       SPWI413    	3
+POLYMORPH_OTHER                 SPWI415    	3
+POLYMORPH_SELF                  SPWI416    	3
+REMOVE_CURSE                    SPWI410    	3
+SECRET_WORD                     SPWI419    	3
+SPIDER_SPAWN                    SPWI423    	3
+SPIRIT_ARMOR                    SPWI414    	3
+STONE_SKIN                      SPWI408    	3
+_SUMMON_INSECTS			SPPR319		3
+TELEPORT_FIELD                  SPWI421    	3
+WIZARD_EYE			SPWI425    	3
+WEAVE				WM_WAV45	3

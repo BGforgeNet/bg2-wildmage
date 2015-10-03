@@ -1,0 +1,36 @@
+2DA V1.0
+****
+            				   ResRef	   Type
+WEAVE				WM_WAV21	3
+AGANNAZAR_SCORCHER              SPWI217    	3
+BLADE_SHOWER			WM_BLADE	3
+BLUR                            SPWI201    	3
+CHAOS_SHIELD			SPWI222         3
+DEAFNESS                        SPWI223    	3
+DETECT_INVISIBILITY             SPWI203    	3
+DETECT_EVIL                     SPWI202    	3
+_FLAME_BLADE			SPPR206		3
+GHOUL_TOUCH                     SPWI218    	3
+GLITTERDUST                     SPWI224    	3
+_GOOD_BERRIES			SPPR207		3
+HORROR                          SPWI205    	3
+INVISIBILITY                    SPWI206    	3
+KNOCK                           SPWI207    	3
+KNOW_ALIGNMENT                  SPWI208    	3
+LUCK                            SPWI209    	3
+MELF_ACID_ARROW                 SPWI211    	3
+MIRROR_IMAGE                    SPWI212    	3
+POWER_WORD_SLEEP                SPWI220    	3
+PROTECTION_FROM_PETRIFICATION   SPWI108    	3
+RAY_OF_ENFEEBLEMENT             SPWI221    	3
+RESIST_FEAR                     SPWI210    	3
+RHIALTOS_RANDOM_MISSILES	WM_MISS		3
+STINKING_CLOUD                  SPWI213    	3
+STRENGTH                        SPWI214    	3
+SUMMON_WILD_HORDE		WM_HORDE	3
+VOCALIZE                        SPWI219    	3
+WEB                             SPWI215    	3
+WEAVE				WM_WAV23	3
+
+
+

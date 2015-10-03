@@ -1,0 +1,26 @@
+2DA V1.0
+****
+            				   ResRef	   Type
+WEAVE				WM_WAV54	3
+ANIMATE_DEAD                    SPWI501    	3
+BREACH                          SPWI513    	3
+CHAOS                           SPWI508    	3
+CLOUDKILL                       SPWI502    	3
+CONE_OF_COLD                    SPWI503    	3
+CONJURE_LESSER_AIR_ELEMENTAL    SPWI520    	3
+CONJURE_LESSER_EARTH_ELEMENTAL  SPWI521    	3
+CONJURE_LESSER_FIRE_ELEMENTAL   SPWI516    	3
+DOMINATION                      SPWI506    	3
+FEEBLEMIND                      SPWI509    	3
+HOLD_MONSTER                    SPWI507    	3
+LOWER_RESISTANCE                SPWI514    	3
+MONSTER_SUMMONING_3             SPWI504    	3
+ORACLE                          SPWI515    	3
+PAITHANS_LUCKY_STREAK		WM_LUCK		3
+PROTECTION_FROM_ACID            SPWI517    	3
+PROTECTION_FROM_ELECTRICITY     SPWI512    	3
+PROTECTION_FROM_NORMAL_WEAPONS  SPWI511    	3
+SHADOW_DOOR                     SPWI505    	3
+SPELL_IMMUNITY                  SPWI510    	3
+SPELL_SHIELD                    SPWI519    	3
+VORTEX				WM_VORTX	3

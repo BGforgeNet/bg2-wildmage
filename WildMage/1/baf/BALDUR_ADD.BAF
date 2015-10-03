@@ -1,0 +1,26 @@
+//----------------------------------------
+// If Protagonist is a Non-Lawful Wild Mage,
+// he spontaneous casts a spell when he 
+// looses 50% of his Hitpoints
+//----------------------------------------
+
+IF
+	Global("wm_spellshaper","GLOBAL",0)
+	!Alignment(Player1,MASK_LAWFUL)
+	Class(Player1,Mage)
+	Kit(Player1,0)
+	HPPercentLT(Player1,51)
+	NotStateCheck(Player1,STATE_HELPLESS)
+	NotStateCheck(Player1,STATE_STUNNED)
+	NotStateCheck(Player1,STATE_PANIC)
+	NotStateCheck(Player1,STATE_BERSERK)
+	NotStateCheck(Player1,STATE_SLEEPING)
+	NotStateCheck(Player1,STATE_CHARMED)
+	NotStateCheck(Player1,STATE_CONFUSED)
+THEN
+	RESPONSE #100
+          ActionOverride(Player1,ForceSpell(LastAttackerOf(Myself),WIZARD_LARLOCH_MINOR_DRAIN))
+	  SmallWait(15) 
+	  SetGlobal("wm_spellshaper","GLOBAL",1)
+	  ActionOverride(Player1,Startdialog("WM_LEVEL",Myself))
+END

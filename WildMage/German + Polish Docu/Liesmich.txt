@@ -1,0 +1,402 @@
+Hasardeur Erweiterungen
+ Pseudo "Kit" / Zauber Sammlung für Baldurs Gate II: Thron des Bhaal
+
+Autor:   JOG (Jochen Gehring, jo.ge@gmx.net)
+Version:  1.2 (23.Nov.2005)
+Homepage: http://mods.jo-ge.net/bg
+
+**************************************************************************
+
+INHALT:
+
+1. Einleitung
+
+2. Komponenten
+    2.1 Unbändige Magie Zauber
+    2.2 Sprücheweber "Kit"
+    2.3 Sprücheweber Spielfigurwechsel
+    2.4 Allgemeine Zauberspruch Modifikationen
+
+3. Kompatibilität
+
+4. Bekannte Inkompatibilitäten und Fehler
+
+5. Hilfen
+
+6. Dank
+
+7. Versionsgeschichte
+
+
+**************************************************************************
+
+1.       EINLEITUNG
+
+Chaotische Magie ist spassig, Ich mochte schon immer Welten wie Moorcocks
+wo Magie etwas unglaublich mächtiges ist, aber auch unglaublich gefährlich
+für Gegner Freunde und den Magier selbst.
+
+Die Unbändige Magie (das englische "Wild Magic" ist viel viel schöner...) 
+bringt etwas von diesem Spass in das D&D Universum, wo Magie normalerweise
+eine Verlässliche Wissenschaft mit strikten Regeln und Ritualen ist.
+
+Thron des Bhaal brachte zwar den Hasardeur (Wild Mage...) aber die Unbändige
+Magie an sich wurde vernachlässigt. Einen Hasardeur zu spielen bedeutet
+"Nahals Gewagte Hexerei" immer wieder zu Zaubern, und dabei solange nachzuladen
+bis das gewünschte Ergebnis heraus kommt (So habe ich jedenfalls gespielt...)
+
+
+Der Hexenmeister verfügt zwar über die Fähigkeit Zauber nach Bedarf zu sprechen,
+hat aber nicht die Flexibilität eines "Zauberkundigen" wenn es darum geht
+neue Sprüche zu lernen. Hexenmeister sind schön zu Spielen im echten D&D 
+Rollenspiel aber in Baldur's Gate funktionieren sie nicht:
+
+
+Im richtigen Rollenspiel braucht ein "Zauberkundiger"... (Sorry, ab jetzt heissen
+"Zauberkundige" "Wizards" und "Hexenmeister" "Sorcerer" die deutschen Bezeichnungen
+sind einfach nur doof.) Also: ein Wizard schleppt dicke, teure Zauberbücher
+mit sich rum, die nur eine begrenzte Anzahl an Zaubern aufnehmen können. Die meisten
+Zauber die ein Wizard kennt stehen in Büchern die daheim auf einem Regal Staub 
+ansetzen. alles in allem hat ein Wizard auf Reisen nur vielleicht 50% mehr Zauber
+als ein Sorcerer. Der Nachteil des Wizards ist, dass er völlig Hilflos ist wenn man
+ihm seine Zauberbücher wegnimmt oder zerstört, während der Sorcerer seine Zauber 
+immer und überall wirken kann.
+
+In Baldur's Gate hat ein Wizard immer unbegrenzten Zugriff auf alle Zauber die
+er kennt, während ein Sorcerer immer noch an die Regeln fürs Computerlose
+Rollenspiel gebunden ist. Wenn ein Spiel 204 Zauber hat, von denen ein Typ Magier 
+alle Lernen kann sie sich aber im Voraus einprägen muss, macht es wenig Sinn,
+einen anderen Typ Magier zu spielen, der auf das einprägen verzichten kann, aber
+nur 45 der 204 Zauber lernen kann, und das ohne Chance einen Zauber auszutauschen
+wenn es sich im Nachhinein als Fehler erweist ihn gelernt zu haben.
+
+
+
+Sovran's "Art of Weaving" Mod hat mich dazu inspiriert, eine neue Unterklasse des 
+Wizards zu erstellen: mein "Sprücheweber" kann Zauber spontan wirken genau wie ein
+Sorcerer, aber statt die Anzahl der bekannten Zauber zu beschränken kann diese Klasse
+weniger Zauber pro Tag sprechen und lernt neue Zauberränge auch sehr viel später.
+
+Während der Testphase habe ich realisiert dass das Game immer noch keine chaotischen
+Zaubersprüche hat die auf Unbändiger Magie basieren, zuerst habe ich einige Zauber
+erstellt die der Sprücheweber automatisch lernte, aber im Laufe der Zeit wurden es
+immer mehr, und so entschloss ich mich 2 Zauber für jeden Rang zu erstellen, die
+jeder Hasardeur erlernen kann.
+
+
+In eigener Sache:
+
+Ich bin zwar Deutscher, habe aber die US Version des Spiels. Die deutsche Version
+dieses Mods wurde aus der englischen Version rückübersetzt. Ich zwar habe darauf
+geachtet die korrekten deutschen D&D Bezeichnungen zu benutzen, auch wenn die
+manchmal mehr als lächerlich klingen und oft auch schlichtweg falsch übersetzt
+sind, Nichtsdestotrotz kann es gut sein, dass z.B die Zauberbeschreibungen
+nicht ganz zum Rest des deutschen Spiels passen. Änderungsvorschläge sind willkommen.
+
+Die Deutsche Übersetzung habe ich mangels Eigeninteresse ganz klar Vernachlässigt,
+ehrlich gesagt kann ich auch wirklich nicht verstehen warum jemand die Deutsche
+Version bevorzugt, aber OK, ich komm auch aus einer Generation der nichts anderes
+übrig blieb als Englisch zu lernen, wenn sie auf ihren C64 und Amigas irgendwas 
+anderes als Ballerspiele spielen wollte. 
+
+
+
+************************************************************************** 
+
+2.       KOMPONENTEN
+
+2.1      UNBÄNDIGE MAGIE ZAUBER
+         
+         Diese Mod enthält 18 neue Zauer die auf Unbändiger Magie basieren.
+         In englischer Sprache sind sie detailiert in SPELLS.PDF beschrieben          
+         Im Spiel selbst werden natürlich die Deutschen Versionen dieser
+         Beschreibungen verwendet.
+
+         Wenn die Party nach Installation des Mods im Freien rastet, oder sofort nach
+         dem Rasten in einer Taverne diese verlässt, wird sie auf einen Hasardeur 
+         treffen, und Zugriff auf sein Zauberbuch erlangen. Aus dem Zauberbuch können
+         Hasardeure einen Zauber pro Erfahrungsstufe erlernen. 
+
+
+2.2      SPRÜCHEWEBER
+
+         Der Sprücheweber kann sich auf die Magie nicht so verlassen wie ein Wizard.
+         Seine Magiefähigkeiten sind vergleichbar mit denen eines Barden, und seine
+         Spruchwebe-Fähigkeit ist unzuverlässig. Er hat eine große Auswahl an Zaubern
+         (von denen einige auch einem Wizard oder Hasardeur verschlossen sind) kann 
+         diese aber nicht allzuoft wirken. Zum Ausgleich verfügt der Sprücheweber über 
+         Nahkampffähigkeiten die denen eines Diebs oder Barden entsprechen. Ein 
+         Sprücheweber "löst" seine "Probleme" meist ohne Magie, und hebt sich seine
+         Zauber für den Notfall auf.
+
+         Dieser Sprücheweber ist das genaue Gegenteil der D&D3 Prestige-Klasse 
+         (Angenommen der "Spellweaver" wurde tatsächlich so übersetzt...) Kein Künstler
+         mit einer beinahe schon religiösen Konzentration auf die Magie, sondern ein
+         Opportunist, für den Magie ein mächtiges aber unzuverlässiges Werkzeug ist,
+         dass denselben Stellenwert hat wie eine gute Nahkampfwaffe.
+
+         Das Grundkonzept des Sprüchewebers entspricht am ehesten Elric der mit
+         zwei Dolchen anstatt einem Zweihänder kämpft.
+
+         Mehr Details zu dieser Klasse finden sich in "SPRÜCHEWEBER.TXT"
+
+
+         Es gibt zwei Wege ein Sprücheweber zu werden:
+
+         1. Wenn ein Protagonist ein chaotischer oder neutraler Hasardeur ist, bekommt
+            er die Chance ein Sprücheweber zu werden mitten im Kampf wenn er Ernsthaft 
+            verletzt wurde.
+
+         2. Rechtschaffene Protagonisten und andere Partymitglieder müssen Rhialtos
+            Zauberbuch studieren: Einer der Zauber - "Rhialtos Chaosstrom" führt beim
+            Zaubernden dieselben Veränderungen durch, die bei einem nicht-Rechtschaffenen
+            Protagonisten spontan geschehen.
+
+
+2.3	 SPRÜCHEWEBER - SPIELFIGURWECHSEL
+
+         Der Sprücheweber ist gedacht als ein "Schurke" mit Magietalenten, ganz anders als
+         der Standard-Fantasy-Magier mit Robe und spitzem Hut. Die Magier-Spielfigur passt
+         nicht zu diesem Character, (jedenfalls nicht zu dem den Ich spiele)
+         
+         Diese Komponente verändert die Spielfigur wenn der Char ein Sprücheweber wird:
+
+         Weibliche Sprücheweber sehen aus wie Diebe
+         Männliche sprucheweber sehen aus wie Priester 
+
+
+
+2.4	 ALLGEMEINE ZAUBERSPRUCH MODIFIKATIONEN
+
+         Diese Komponente ist unabhängig von den anderen. Sie verändert einige der
+         originalen Zaubersprüche:
+
+         "Magische Geschosse"
+           Die Geschosse verursachen jetzt immer 1W4+1 Schaden, so wie es sein sollte.
+           Ursprünglich waren es 2W2 bei Stufe 3-8 und 2W2+1 bei Stufe 1,2 und 9+
+
+         "Dimensions Tür" 
+           So wie duzende anderer Zauberer im spiel, kann man nun auch selbst jede Stelle
+           in der Nähe als Ziel aussuchen. Es ist nicht länger nätig dass ein freier Pfad
+           zum Zielpunkt innerhalb der Sichtweite des Zaubernden ist. Man kann jeden Ort
+           im aktuellen Areal auswählen den man bereits besucht hat. (Es werden keine
+           Spruchrollen im Spiel erzeugt um diesen Zauber zu lernen. Wer keinen Sprücheweber
+           spielt muss einen anderen Mod installieren oder sich den Zauber oder die Spruchrolle
+           mit Shadowkeeper "besorgen")
+
+
+**************************************************************************
+
+3.       KOMPATIBLITÄT
+
+ Dieser Mod benötigt Thron des Bhaal
+ Er wurde erstellt um sowohl mit Schatten von Amn / Thron des Bhaal
+ als auch mit einer Bg1TuTu Installation zu laufen.
+ (Detailierte Technische Infos in "COMPATIBILITY.PDF") 
+
+ Der Mod funktioniert mit Mehrspielerpartien, auch mehrere Hasardeure
+ in einer Mehrspielerpartie werden unterstützt.
+
+ Ein Charakter der Sorvans "Spellweaver" Kit benutzt kann die neuen Zauber
+ erlernen, aber wenn eine Klassenänderung zu meinem "Sprücheweber" überschreibt
+ Sorvans Script, und der Charakter bekommt keine neuen Fertigkeiten mehr.
+
+ Mehrklassige Hasardeure können ebenfalls zu Sprüchewebern werden, allerdings
+ gibt es Kosmetische Probleme (Beide Klassen werden als "Sprücheweber" bezeichnet)
+ Und einige Kombinationen sind zu Mächtig. (s.U.)
+
+ Das Sprücheweber "Kit" funktioniert auch mit Mods die den Zauber-Fortschritt
+ eines Wizards verändern (z.B auf die Korrekten P&P Rollenspielwerte setzen)
+ Allerdings ist der Zauberabzug des Sprüchewebers für die Standard BG2 Tabellen
+ ausgelegt, wo 2 Zauber weniger pro Zauberrang einen Abzug von 33% bedeuten.
+ In einem Spiel mit Zauberfortschritt nach korrekten D&D Regeln wird ein 
+ hochstufiger Sprücheweber sehr viel mächtiger sein als beabsichtigt.
+
+
+**************************************************************************
+
+4.       BEKANNTE INKOMPATIBLITÄTEN / FEHLER
+
+ - Andere Mods die das "Override" Script eines Charakters ändern sind
+   inkompatibel mit dem Sprücheweber der ebenfalls ein solches Script verwendet.
+
+ - "Spruch Weben" Verhält sich etwas seltsam mit Zaubern aus Mods, einschliesslich  
+    denen aus diesem Mod: Solange originale Bioware-Zauber eingeprägt sind hat
+    "Spruch Weben" keine Probleme damit, auch Zauber die aus Mods stammen aus
+    dem Gedächtnis des Zaubernden zu löschen, aber sobald nur noch Zauber aus
+    Mods übrig sind, kann "Spruch Weben" nicht länger benutzt werden. 
+
+ - Mehrklassige Sprücheweber bekommen ihre Sprücheweber-Fähigkeiten von der 
+   höchststufigen Klasse. Ein "Hasardeur/Dieb" kann Sprücheweber werden, aber
+   würde extrem übermächtig sein. (Naja, einen mehrklassigen Hasardeur bekommt
+   man sowieso nur durch cheaten...)
+
+ - Menschliche Sprücheweber die ihre Klasse wechseln, bekommen weiterhin ihre
+   Sprücheweber Fertigkeiten, sobald die Stufe der neuen Klasse höher ist als die
+   der alten. (Daher sind auch Mods die Hasardeuren den Klassenwechsel erlauben
+   als "Cheats" anzusehen...)
+
+ - Werden Gegenstände die die Anzahl der Magiersptrüche erhöhen von einem Sprücheweber
+   getragen, können sie dafür sorgen, daß der Character wärend des Rastens alle Zauber
+   des modifizierten Rangs vergisst. Dies scheint eine Engine-Bug zu sein und ich 
+   habe keine Ahnung wie man es beheben könnte. Die Lösung ist einfach KEINE solchen 
+   Gegenstönde zu tragen, (da sie ja definitiv nicht funktionieren)
+
+
+ KEINE FEHLER:
+
+ - Sofort nach Aufstieg zur 20. oder 45. Stufe wird ein Sprücheweber für 
+   eine Sekunde gelähmt/festgehalten. Dies geschieht absichtlich, um zu verhindern
+   dass ein "Ring der Zauberkunde?" angelegt wird, während der "Hand"-Gegenstand,
+   der Normalerweise die Funktion solcher Objekte verhindert ausgetauscht wird
+   (um die Anzahl der einprägbaren Zauber zu aktualisieren)
+
+ - "Hornungs Zufälliger Entsender" ist absichtlich ein Zauber des 7. Rangs,
+   Er kann in Baldur's Gate nicht für Dimensionsreisen benutzt werden, ist also
+   nicht mehr als ein extravagante Version von "Auflösung" - Kein Grund ihn
+   zu einem Zauber des 8. Rangs zu machen. 
+
+ - Einige andere Zauber wurden ebenfalls nicht völlig getreu den 
+   Originalbeschreibungen realisiert. Dies geschah entweder aus "Künstlerfreiheit"
+   oder würde notwendig weil sie technisch nicht realisierbar waren, und/oder 
+   aus Spielbalance Gründen.
+
+ - "Kuhruf" verletzt manchmal jeden in der gesamten Area. Dies scheint fest
+   im Spielcode eingebaut und von Bioware beabsichtigt zu sein. Dasselbe passiert
+   mit der unbändigen Woge und dem Originalen 2. Rang Zauber.
+
+
+**************************************************************************
+
+5.       HILFEN
+ 
+ - Zugegeben, Rhialto ist ein sehr mächtiger Gegner, Trotzdem kann man ihn 
+   mit einem einzigen Magier der 1. Stufe mit nur 4 Trefferpunkten besiegen.
+   Ich hab es während ich diesen Mod getestet habe unzählige Male getan.
+
+   Das Geheimnis ist abzuhauen, und zu hoffen dass er während er dich 
+   Verfolgt einen Unfall hat. Tatsächlich ist es schwerer ihn mit einer
+   vollen Gruppe zu besiegen, da er es wirklich liebt anzusehen, was 
+   Glyphe der Unbändigen Magie bei einer kleinen Armee anrichtet
+
+
+**************************************************************************
+
+6.       Dank
+
+ * Mein Besonderer Dank geht an:
+
+   Sovran
+   
+   Sorvans "The Art of Weaving" <http://www.rpgdungeon.net/weaver>
+   war die Hauptinspirationsquelle für diesen Mod.
+  
+   Ich möchte ihr nicht nur für den "The Art of Weaving" Mod danken,
+   sondern auch für die einiges davon zu benutzen: 
+
+   - Die Icons von "Entropischer Schild", "Spruch Weben" und "Unbändiger Schlag"
+   - Die Grundlage für "Spruch Weben" (ursprünglich der Zauber "Weaver's Wicked Dweomer")
+   - Die Grundlagen für "Unbändiger Schlag" und "Magiebruch" ("Tangle" und "Unravel")
+
+ --------------------------------------
+ * Quellen für Zauber:
+
+   TOME OF VAST KNOWLEDGE 
+     <http://www.istari.org/gnba/progs/html/util.html>
+
+    - "Zelluläre Regeneration"
+    - "Auge des Betrachters"
+    - "Gymlainacs Lichtbrechung"
+    - "Zufälliger Zauber"
+
+
+   THE NET.LIBRAM OF WILD MAGIC 
+     <http://public.www.planetmirror.com/pub/gnba/books/olik/Spells_Magic.html> 
+
+    - "Paithans Glückssträhne"
+    - "Paithans Fiasko"
+
+
+   PLANEWALKER.COM <www.planewalker.com> 
+
+    - "Klingensturm" by "Rhys"
+
+
+   "TOME OF MAGIC" (TSR) <www.tsr.com> 
+
+    - "Wirbel"
+    - "Unbändiger Schlag"   
+    - "Hornungs Zufälliger Entsender"
+
+ --------------------------------------
+ * Quellen für Gegenstände:
+
+   TOME OF VAST KNOWLEDGE 
+     <http://www.istari.org/gnba/progs/html/util.html>
+ 
+    - "Teddybär des Schutzes"
+
+
+
+ --------------------------------------
+ * Tools die für diesen Mod benutzt wurden:
+
+    - WeiDU by Westley Weimer <http://weidu.org>
+
+    - DLTCEP by Avenger <http://www.dragonlancetc.com>
+
+    - Infinity Explorer by Dmitry Jemerov <http://infexp.sourceforge.net>
+
+    - NearInfinity by Jon Olav Hauglid <http://www.idi.ntnu.no/~joh/ni>
+
+    - IESDP maintained by igi <http://iesdp.gibberlings3.net>
+
+**************************************************************************
+
+7.       VERSIONSGESCHICHTE
+
+05.Oct.2005 (v0.9)
+
+ - Erste Testversion...
+
+
+
+28.Oct.2005 (v1.0)
+
+ ! Erste deutsche Version
+
+ - Schädelbombe kann nicht mehr von Magierkiller benutzt werden
+
+ - Wenn Rhialto Glyphe der Unbändigen Magie zaubert und dabei einen Unschuldigen
+   verletzt oder tötet, wird nicht mehr die Party dafür verantwortlich gemacht.
+
+ - Sprücheweber bekam keinen 66% Bonus auf Sagenkunde
+
+ - Spruch Weben erzeugte einen permanenten Lichteffekt
+
+ - Ein Sprücheweber kann nicht länger einen "Ring der Zauberkunde?" benutzen
+   um seine Anzahl an Zaubern zu steigern wenn er zur 20. oder 45. Stufe aufsteigt.
+
+ + Der Sprücheweber wird nicht mehr als Hasardeur bezeichnet
+
+ + Rhialto taucht nicht mehr in Candlekeep oder Irenicus' Dungeon auf
+
+ + Spruch-Fortschritt des Sprüchewebers geändert:
+   Bei Stufe 1-5 ist sind es jetzt 1,2,2,3,3 Sprüche des 1. Rangs statt bisher 0,1,1,2,3
+
+ + "Spruch Weben" ist Nicht länger eine Anzahl an Extras-Zaubern die zusätzlich zu den
+   konventionellen Zaubern genutzt werden können. Die Fähigkeit entzieht jetzt eingeprägte
+   Zauber, und kann nur solange benutzt werden, wie noch Zauber eingeprägt sind.
+
+ + Der ETW0 und Charakterfertigkeiten Fortschritt des Sprüchewebers wurde zugunsten
+   niedriger Stufen verändert. ETW0 ist jetzt so gut wie identisch zu Dieben und Barden,
+   und Charakterfertigkeiten gibt es häufiger in niedrigen Stufen.
+
+ + Sprücheweber erlernt "Magiebruch" jetzt alle 9 Stufen anstatt bei Stufe 10,25,45
+
+ + Spontanen Klassenwechsel für Nicht-Rechtschaffene Hasardeure implementiert.
+
+
+...
+
+(Weitere Änderungen siehe englische README.TXT)
