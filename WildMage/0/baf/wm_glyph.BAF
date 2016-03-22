@@ -1,9 +1,9 @@
 IF
-	Die()
+  Die()
 THEN
   RESPONSE #100
-	Destroyself()
-END	
+  Destroyself()
+END  
 
 IF
   See([ANYONE])

@@ -22,8 +22,8 @@
 // 13   14       7     "Hornung's Random Dispatcher" + "Summon Cow"
 // 15   16       8     "Eye of the Beholder" + "Mynoc's Wild Recuperation"
 // 17   18       9     "Entropy Shield" + "Wild Sphere" 
-// 19		10     "Rhialto's Marvelous Reincarnation" (Needs to be spellshaper)
-// 20		12      (Can't learn this spell, just a reference to "Karsus's Avatar")
+// 19    10     "Rhialto's Marvelous Reincarnation" (Needs to be spellshaper)
+// 20    12      (Can't learn this spell, just a reference to "Karsus's Avatar")
 //----------------------------------------------------------------------------------------
 
 BEGIN WM_SBOOK
@@ -182,18 +182,18 @@ IF ~~ study1
   IF ~Global("wm_book_spell_A","LOCALS",4) GlobalGT("wm_book_spell","LOCALS",16)~ THEN REPLY @45 GOTO 25 
   IF ~Global("wm_book_spell_A","LOCALS",5) GlobalGT("wm_book_spell","LOCALS",19)~ THEN REPLY @46 GOTO 26 
   IF ~Global("wm_book_spell_A","LOCALS",6) GlobalGT("wm_book_spell","LOCALS",22)~ THEN REPLY @47 GOTO 27 
-  IF ~Global("wm_book_spell_A","LOCALS",7) GlobalGT("wm_book_spell","LOCALS",25)~ THEN REPLY @48 GOTO 28  	
+  IF ~Global("wm_book_spell_A","LOCALS",7) GlobalGT("wm_book_spell","LOCALS",25)~ THEN REPLY @48 GOTO 28    
   IF ~Global("wm_book_spell_A","LOCALS",8) GlobalGT("wm_book_spell","LOCALS",28)~ THEN REPLY @49 GOTO 29
 
   IF ~~ THEN REPLY @11 GOTO close2
 END
 
-IF ~~ study2				// Can't find "Rhialto's Marvelous Reincarnation"
-  SAY @15				// unless Chaos Conduit was cast... 
-  IF ~~ THEN REPLY @11 GOTO close2	
+IF ~~ study2        // Can't find "Rhialto's Marvelous Reincarnation"
+  SAY @15        // unless Chaos Conduit was cast... 
+  IF ~~ THEN REPLY @11 GOTO close2  
 END
 
-IF ~~ study3				// Need to search three times for "Rhialto's Avatar"
+IF ~~ study3        // Need to search three times for "Rhialto's Avatar"
   SAY @15
   IF ~~ THEN DO ~IncrementGlobal("wm_book_spell","LOCALS",1)~ REPLY @11 GOTO close2
 END
@@ -217,7 +217,7 @@ IF ~~ success
   IF ~~ THEN EXIT
 END  
 
-IF ~~ useless								// Spellshaper cant learn Chaos Conduit...
+IF ~~ useless                // Spellshaper cant learn Chaos Conduit...
   SAY @12
   IF ~~ THEN EXIT
 END 
@@ -228,9 +228,9 @@ END
 
 IF ~~ 00
   SAY ~~
-  IF ~Level(Myself,1) GlobalGT("wm_book_spell","LOCALS",0)~		// 1st and 2nd spell at Level 1+
+  IF ~Level(Myself,1) GlobalGT("wm_book_spell","LOCALS",0)~    // 1st and 2nd spell at Level 1+
      THEN GOTO fail
-  IF ~OR(2) LevelGT(Myself,1) Global("wm_book_spell","LOCALS",0)	// 3rd spell at Level 2+ 
+  IF ~OR(2) LevelGT(Myself,1) Global("wm_book_spell","LOCALS",0)  // 3rd spell at Level 2+ 
      ~ THEN DO ~Actionoverride(Myself,AddSpecialAbility("wm_rnd"))
                 IncrementGlobal("wm_book_spell","LOCALS",6)~
             GOTO success
@@ -238,9 +238,9 @@ END
 
 IF ~~ 02
   SAY ~~
-  IF ~Level(Myself,1) GlobalGT("wm_book_spell","LOCALS",0)~		// 1st and 2nd spell at Level 1+
+  IF ~Level(Myself,1) GlobalGT("wm_book_spell","LOCALS",0)~    // 1st and 2nd spell at Level 1+
      THEN GOTO fail 
-  IF ~OR(2) LevelGT(Myself,1) Global("wm_book_spell","LOCALS",0) 	// 3rd spell at Level 2+ 
+  IF ~OR(2) LevelGT(Myself,1) Global("wm_book_spell","LOCALS",0)   // 3rd spell at Level 2+ 
      ~ THEN DO ~Actionoverride(Myself,AddSpecialAbility("wm_sqrl"))
                 IncrementGlobal("wm_book_spell","LOCALS",1)~
             GOTO success
@@ -251,9 +251,9 @@ END
 
 IF ~~ 03
   SAY ~~ 
-  IF ~ LevelLT(Myself,3)~ 						// first spell at Level 3+
+  IF ~ LevelLT(Myself,3)~             // first spell at Level 3+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,3) GlobalGT("wm_book_spell","LOCALS",7)~ 		// second spell at Level 4+
+  IF ~!LevelGT(Myself,3) GlobalGT("wm_book_spell","LOCALS",7)~     // second spell at Level 4+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,3) 
       OR(2) LevelGT(Myself,3) Global("wm_book_spell","LOCALS",7)
@@ -264,9 +264,9 @@ END
 
 IF ~~ 04
   SAY ~~ 
-  IF ~ LevelLT(Myself,3)~ 						// first spell at Level 3+
+  IF ~ LevelLT(Myself,3)~             // first spell at Level 3+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,3) GlobalGT("wm_book_spell","LOCALS",7)~ 		// second spell at Level 4+
+  IF ~!LevelGT(Myself,3) GlobalGT("wm_book_spell","LOCALS",7)~     // second spell at Level 4+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,3) 
       OR(2) LevelGT(Myself,3) Global("wm_book_spell","LOCALS",7)
@@ -280,9 +280,9 @@ END
 
 IF ~~ 05
   SAY ~~ 
-  IF ~ LevelLT(Myself,5)~ 						// first spell at Level 5+
+  IF ~ LevelLT(Myself,5)~             // first spell at Level 5+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,5) GlobalGT("wm_book_spell","LOCALS",10)~ 	// second spell at Level 6+
+  IF ~!LevelGT(Myself,5) GlobalGT("wm_book_spell","LOCALS",10)~   // second spell at Level 6+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,5) 
       OR(2) LevelGT(Myself,5) Global("wm_book_spell","LOCALS",10)
@@ -293,9 +293,9 @@ END
 
 IF ~~ 06
   SAY ~~ 
-  IF ~ LevelLT(Myself,5)~ 						// first spell at Level 5+
+  IF ~ LevelLT(Myself,5)~             // first spell at Level 5+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,5) GlobalGT("wm_book_spell","LOCALS",10)~ 	// second spell at Level 6+
+  IF ~!LevelGT(Myself,5) GlobalGT("wm_book_spell","LOCALS",10)~   // second spell at Level 6+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,5) 
       OR(2) LevelGT(Myself,5) Global("wm_book_spell","LOCALS",10)
@@ -309,9 +309,9 @@ END
 
 IF ~~ 07
   SAY ~~ 
-  IF ~ LevelLT(Myself,7)~ 						// first spell at Level 7+
+  IF ~ LevelLT(Myself,7)~             // first spell at Level 7+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,7) GlobalGT("wm_book_spell","LOCALS",13)~ 	// second spell at Level 8+
+  IF ~!LevelGT(Myself,7) GlobalGT("wm_book_spell","LOCALS",13)~   // second spell at Level 8+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,7) 
       OR(2) LevelGT(Myself,7) Global("wm_book_spell","LOCALS",13)
@@ -322,9 +322,9 @@ END
 
 IF ~~ 08
   SAY ~~ 
-  IF ~ LevelLT(Myself,7)~ 						// first spell at Level 7+
+  IF ~ LevelLT(Myself,7)~             // first spell at Level 7+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,7) GlobalGT("wm_book_spell","LOCALS",13)~ 	// second spell at Level 8+
+  IF ~!LevelGT(Myself,7) GlobalGT("wm_book_spell","LOCALS",13)~   // second spell at Level 8+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,7) 
       OR(2) LevelGT(Myself,7) Global("wm_book_spell","LOCALS",13)
@@ -338,9 +338,9 @@ END
 
 IF ~~ 09
   SAY ~~ 
-  IF ~ LevelLT(Myself,9)~ 						// first spell at Level 9+
+  IF ~ LevelLT(Myself,9)~             // first spell at Level 9+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,9) GlobalGT("wm_book_spell","LOCALS",16)~ 	// second spell at Level 10+
+  IF ~!LevelGT(Myself,9) GlobalGT("wm_book_spell","LOCALS",16)~   // second spell at Level 10+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,9) 
       OR(2) LevelGT(Myself,9) Global("wm_book_spell","LOCALS",16)
@@ -351,9 +351,9 @@ END
 
 IF ~~ 10
   SAY ~~ 
-  IF ~ LevelLT(Myself,9)~ 						// first spell at Level 9+
+  IF ~ LevelLT(Myself,9)~             // first spell at Level 9+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,9) GlobalGT("wm_book_spell","LOCALS",16)~ 	// second spell at Level 10+
+  IF ~!LevelGT(Myself,9) GlobalGT("wm_book_spell","LOCALS",16)~   // second spell at Level 10+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,9) 
       OR(2) LevelGT(Myself,9) Global("wm_book_spell","LOCALS",16)
@@ -367,9 +367,9 @@ END
 
 IF ~~ 11
   SAY ~~ 
-  IF ~ LevelLT(Myself,11)~ 						// first spell at Level 11+
+  IF ~ LevelLT(Myself,11)~             // first spell at Level 11+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,11) GlobalGT("wm_book_spell","LOCALS",19)~ 	// second spell at Level 12+
+  IF ~!LevelGT(Myself,11) GlobalGT("wm_book_spell","LOCALS",19)~   // second spell at Level 12+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,11) 
       OR(2) LevelGT(Myself,11) Global("wm_book_spell","LOCALS",19)
@@ -380,9 +380,9 @@ END
 
 IF ~~ 12
   SAY ~~ 
-  IF ~ LevelLT(Myself,11)~ 						// first spell at Level 11+
+  IF ~ LevelLT(Myself,11)~             // first spell at Level 11+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,11) GlobalGT("wm_book_spell","LOCALS",19)~ 	// second spell at Level 12+
+  IF ~!LevelGT(Myself,11) GlobalGT("wm_book_spell","LOCALS",19)~   // second spell at Level 12+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,11) 
       OR(2) LevelGT(Myself,11) Global("wm_book_spell","LOCALS",19)
@@ -396,9 +396,9 @@ END
 
 IF ~~ 13
   SAY ~~ 
-  IF ~ LevelLT(Myself,13)~ 						// first spell at Level 13+
+  IF ~ LevelLT(Myself,13)~             // first spell at Level 13+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,13) GlobalGT("wm_book_spell","LOCALS",22)~ 	// second spell at Level 14+
+  IF ~!LevelGT(Myself,13) GlobalGT("wm_book_spell","LOCALS",22)~   // second spell at Level 14+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,13) 
       OR(2) LevelGT(Myself,13) Global("wm_book_spell","LOCALS",22)
@@ -409,9 +409,9 @@ END
 
 IF ~~ 14
   SAY ~~ 
-  IF ~ LevelLT(Myself,13)~ 						// first spell at Level 13+
+  IF ~ LevelLT(Myself,13)~             // first spell at Level 13+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,13) GlobalGT("wm_book_spell","LOCALS",22)~ 	// second spell at Level 14+
+  IF ~!LevelGT(Myself,13) GlobalGT("wm_book_spell","LOCALS",22)~   // second spell at Level 14+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,13) 
       OR(2) LevelGT(Myself,13) Global("wm_book_spell","LOCALS",22)
@@ -426,9 +426,9 @@ END
 
 IF ~~ 15
   SAY ~~ 
-  IF ~ LevelLT(Myself,15)~ 						// first spell at Level 15+
+  IF ~ LevelLT(Myself,15)~             // first spell at Level 15+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,15) GlobalGT("wm_book_spell","LOCALS",25)~ 	// second spell at Level 16+
+  IF ~!LevelGT(Myself,15) GlobalGT("wm_book_spell","LOCALS",25)~   // second spell at Level 16+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,15) 
       OR(2) LevelGT(Myself,15) Global("wm_book_spell","LOCALS",25)
@@ -439,9 +439,9 @@ END
 
 IF ~~ 16
   SAY ~~ 
-  IF ~ LevelLT(Myself,15)~ 						// first spell at Level 15+
+  IF ~ LevelLT(Myself,15)~             // first spell at Level 15+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,15) GlobalGT("wm_book_spell","LOCALS",25)~ 	// second spell at Level 16+
+  IF ~!LevelGT(Myself,15) GlobalGT("wm_book_spell","LOCALS",25)~   // second spell at Level 16+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,15) 
       OR(2) LevelGT(Myself,15) Global("wm_book_spell","LOCALS",25)
@@ -454,9 +454,9 @@ END
 
 IF ~~ 17
   SAY ~~ 
-  IF ~ LevelLT(Myself,17)~ 						// first spell at Level 17+
+  IF ~ LevelLT(Myself,17)~             // first spell at Level 17+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,17) GlobalGT("wm_book_spell","LOCALS",28)~ 	// second spell at Level 18+
+  IF ~!LevelGT(Myself,17) GlobalGT("wm_book_spell","LOCALS",28)~   // second spell at Level 18+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,17) 
       OR(2) LevelGT(Myself,17) Global("wm_book_spell","LOCALS",28)
@@ -467,9 +467,9 @@ END
 
 IF ~~ 18
   SAY ~~ 
-  IF ~ LevelLT(Myself,17)~ 						// first spell at Level 17+
+  IF ~ LevelLT(Myself,17)~             // first spell at Level 17+
      THEN GOTO fail
-  IF ~!LevelGT(Myself,17) GlobalGT("wm_book_spell","LOCALS",28)~ 	// second spell at Level 18+
+  IF ~!LevelGT(Myself,17) GlobalGT("wm_book_spell","LOCALS",28)~   // second spell at Level 18+
      THEN GOTO fail 
   IF ~!LevelLT(Myself,17) 
       OR(2) LevelGT(Myself,17) Global("wm_book_spell","LOCALS",28)
@@ -483,7 +483,7 @@ END
 
 IF ~~ 19
   SAY ~~ 
-  IF ~ LevelLT(Myself,19)~ 						// 10th Level spell at Level 19+
+  IF ~ LevelLT(Myself,19)~             // 10th Level spell at Level 19+
      THEN GOTO fail
   IF ~!LevelLT(Myself,19)~
      THEN DO ~Actionoverride(Myself,AddSpecialAbility("wm_reinc")) 
@@ -496,7 +496,7 @@ END
 
 IF ~~ 20
   SAY ~~ 
-  IF ~ LevelLT(Myself,20)~ 						// Fun at Level 20+
+  IF ~ LevelLT(Myself,20)~             // Fun at Level 20+
      THEN GOTO fail
   IF ~!LevelLT(Myself,20)~ 
      THEN GOTO fun
@@ -516,72 +516,72 @@ END
 IF ~~ 21
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_attr")) 	// Mynok's Irresistible Appeal
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_attr"))   // Mynok's Irresistible Appeal
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 22
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_horde")) 	// Summon Wild Horde
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_horde"))   // Summon Wild Horde
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 23
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_rnd2")) 	// Random Spell II
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_rnd2"))   // Random Spell II
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 24
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_liq")) 	// Corporeal Instability
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_liq"))   // Corporeal Instability
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 25
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_rnd3")) 	// Random Spell III
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_rnd3"))   // Random Spell III
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 26
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_armor")) 	// Meece's Wild Armour
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_armor"))   // Meece's Wild Armour
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 27
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_rnd4")) 	// Random Spell IV
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_rnd4"))   // Random Spell IV
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 28
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_chaob")) 	// Entropy Burst
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_chaob"))   // Entropy Burst
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 
 IF ~~ 29
   SAY ~~
   IF ~~ THEN DO ~
-	Actionoverride(Myself,AddSpecialAbility("wm_wfire")) 	// Wildfire
-	IncrementGlobal("wm_book_spell_A","LOCALS",1)~
+  Actionoverride(Myself,AddSpecialAbility("wm_wfire"))   // Wildfire
+  IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
 

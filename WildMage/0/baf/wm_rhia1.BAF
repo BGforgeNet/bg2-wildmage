@@ -6,17 +6,17 @@
 // "Prep"          And a nice contigency for the same reason
 // "summon"        First summoned creature is doomed to die...
 //
-// "delay"	   Timer for spellcasting pause
+// "delay"     Timer for spellcasting pause
 //
 // "doomed"        Wild surge turns him into squirrel when this reaches 5/7/10 dependent on Level
-// "missile"	   Has cast "Rhialto's Random missile" (3 times) 
+// "missile"     Has cast "Rhialto's Random missile" (3 times) 
 // "glyph"         Has cast "Glyph of Wild magic" (2 times)
 // "word"          Has cast "Vile Word of Discord" (2 times)
 // "strike"        Has cast "Wildstrike" (1 time)
 // "sphere"        Has cast "Wild Sphere" (1 time)
 // "assassin"      Has used "Assasination" (2 times) 
 
-IF						// First Talk, then fight
+IF            // First Talk, then fight
    See(PLAYER1)
    Global("doomed","LOCALS",0)
 THEN
@@ -37,7 +37,7 @@ IF
   LevelLT(LastSeenBy(Myself),3)
 THEN
   RESPONSE #100
-    DisplayString(Myself,39968) 	 	// ~Spell Trigger - Fired~
+    DisplayString(Myself,39968)      // ~Spell Trigger - Fired~
     ReallyForceSpellRES("WM_LUCK",Myself)
     ReallyForceSpell(Myself,WIZARD_ARMOR)
     ReallyForceSpell(Myself,WIZARD_SHIELD)
@@ -50,7 +50,7 @@ IF
   LevelLT(LastSeenBy(Myself),8)
 THEN
   RESPONSE #100
-    DisplayString(Myself,39968) 	 	// ~Spell Trigger - Fired~
+    DisplayString(Myself,39968)      // ~Spell Trigger - Fired~
     ReallyForceSpellRES("WM_LUCK",Myself)
     ReallyForceSpellRES("WM_LIGHT",Myself)  
     ReallyForceSpell(Myself,WIZARD_SHIELD)
@@ -62,7 +62,7 @@ IF
   Global("SpellTrigger","LOCALS",0)
 THEN
   RESPONSE #100
-    DisplayString(Myself,39968) 	 	// ~Spell Trigger - Fired~
+    DisplayString(Myself,39968)      // ~Spell Trigger - Fired~
     ReallyForceSpellRES("WM_LUCK",Myself)
     ReallyForceSpellRES("WM_LIGHT",Myself)  
     ReallyForceSpellRES("WM_SHLD",Myself)
@@ -72,7 +72,7 @@ END
 IF
   Global("Prep","LOCALS",0)
   See(NearestEnemyOf(Myself))
-  LevelLT(LastSeenBy(Myself),15)		// Level 0-15
+  LevelLT(LastSeenBy(Myself),15)    // Level 0-15
   TookDamage()
 THEN
   RESPONSE #100
@@ -84,7 +84,7 @@ END
 IF
   Global("Prep","LOCALS",0)
   See(NearestEnemyOf(Myself))
-  TookDamage()					// Level 15+
+  TookDamage()          // Level 15+
 THEN
   RESPONSE #100
     DisplayString(Myself,43050) // Chain Contingency - Improved Mantle
@@ -112,7 +112,7 @@ END
 
 IF
   See(NearestEnemyOf(Myself))
-  LevelGT(LastSeenBy(Myself),9)			// Level 10+
+  LevelGT(LastSeenBy(Myself),9)      // Level 10+
   !HasBounceEffects(Myself)
   !HasImmunityEffects(Myself)
   HaveSpell(WIZARD_SPELL_TURNING)
@@ -160,7 +160,7 @@ THEN
     Spell(LastSeenBy(Myself),WIZARD_SLOW)
 END
 
-IF						// Level 7+
+IF            // Level 7+
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_FIRE_SHIELD_RED)
   LevelGT(LastSeenBy(Myself),6)
@@ -174,7 +174,7 @@ END
 
 IF
   Global("glyph","LOCALS",0)
-  See(TenthNearestEnemyOf(Myself))		// Glyph of Wild Magic
+  See(TenthNearestEnemyOf(Myself))    // Glyph of Wild Magic
   !Range(LastSeenBy(Myself),5)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
@@ -185,9 +185,9 @@ THEN
     ForceSpellRES("WM_GLPH",LastSeenBy(Myself))
 END
 
-IF						// Vile Word of Discord	
+IF            // Vile Word of Discord  
   GlobalGT("word","LOCALS",0)
-  NumCreatureGT([ENEMY],1)			// Useless when there's only one enemy nearby...
+  NumCreatureGT([ENEMY],1)      // Useless when there's only one enemy nearby...
   See(NearestEnemyOf(Myself))
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
@@ -198,9 +198,9 @@ THEN
     ForceSpellRes("WM_WORD",LastSeenBy(Myself))
 END
 
-IF						// Vile Word of Discord	
+IF            // Vile Word of Discord  
   GlobalGT("word","LOCALS",0)
-  See(NearestEnemyOf(Myself))			// But we can also cast it at neutrals...
+  See(NearestEnemyOf(Myself))      // But we can also cast it at neutrals...
   See([NEUTRAL])
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
@@ -212,7 +212,7 @@ THEN
 END
 
 IF
-  Global("strike","LOCALS",0)			// Wildstrike
+  Global("strike","LOCALS",0)      // Wildstrike
   GlobalGT("doomed","LOCALS",2)
   See(TenthNearestEnemyOfType([0.0.0.MAGE_ALL]))
   !GlobalTimerNotExpired("delay","LOCALS")
@@ -227,9 +227,9 @@ END
 IF
   Global("sphere","LOCALS",0)
   GlobalGT("doomed","LOCALS",4)
-  See(TenthNearestEnemyOf(Myself))		// Wild Sphere
-  LevelGT(LastSeenBy(Myself),15)		// Only at Level 16+
-  !Range(LastSeenBy(Myself),15)			// And when the target is far away...
+  See(TenthNearestEnemyOf(Myself))    // Wild Sphere
+  LevelGT(LastSeenBy(Myself),15)    // Only at Level 16+
+  !Range(LastSeenBy(Myself),15)      // And when the target is far away...
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -240,9 +240,9 @@ THEN
 END
 
 IF
-  Global("wm_start","GLOBAL",1)			// At first meeting:			
-  See(NearestEnemyOf(Myself))			// Permanently turned into a squirrel
-  GlobalGT("doomed","LOCALS",5)			// after a few rounds...
+  Global("wm_start","GLOBAL",1)      // At first meeting:      
+  See(NearestEnemyOf(Myself))      // Permanently turned into a squirrel
+  GlobalGT("doomed","LOCALS",5)      // after a few rounds...
   Level(Player1,1)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
@@ -253,10 +253,10 @@ THEN
 END
 
 IF
-  Global("wm_start","GLOBAL",1)			// At first meeting:			
-  See(NearestEnemyOf(Myself))			// Permanently turned into a squirrel
-  GlobalGT("doomed","LOCALS",8)			// after a few rounds more
-  LevelLT(LastSeenBy(Myself),5)			// at level 2-5
+  Global("wm_start","GLOBAL",1)      // At first meeting:      
+  See(NearestEnemyOf(Myself))      // Permanently turned into a squirrel
+  GlobalGT("doomed","LOCALS",8)      // after a few rounds more
+  LevelLT(LastSeenBy(Myself),5)      // at level 2-5
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -266,9 +266,9 @@ THEN
 END
 
 IF
-  Global("wm_start","GLOBAL",1)			// At first meeting:			
-  See(NearestEnemyOf(Myself))			// Permanently turned into a squirrel
-  GlobalGT("doomed","LOCALS",12)		// later at Level 5-9
+  Global("wm_start","GLOBAL",1)      // At first meeting:      
+  See(NearestEnemyOf(Myself))      // Permanently turned into a squirrel
+  GlobalGT("doomed","LOCALS",12)    // later at Level 5-9
   LevelLT(LastSeenBy(Myself),10)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
@@ -279,9 +279,9 @@ THEN
 END
 
 IF
-  Global("wm_start","GLOBAL",1)			// At first meeting:				
-  See(NearestEnemyOf(Myself))			// Permanently turned into a squirrel
-  GlobalGT("doomed","LOCALS",16)		// much later at Level 10-19
+  Global("wm_start","GLOBAL",1)      // At first meeting:        
+  See(NearestEnemyOf(Myself))      // Permanently turned into a squirrel
+  GlobalGT("doomed","LOCALS",16)    // much later at Level 10-19
   LevelLT(LastSeenBy(Myself),20)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
@@ -292,9 +292,9 @@ THEN
 END
 
 IF
-  Global("wm_start","GLOBAL",1)			// At first meeting:				
-  See(NearestEnemyOf(Myself))			// Permanently turned into a squirrel
-  GlobalGT("doomed","LOCALS",20)		// and very much later at Level 20+
+  Global("wm_start","GLOBAL",1)      // At first meeting:        
+  See(NearestEnemyOf(Myself))      // Permanently turned into a squirrel
+  GlobalGT("doomed","LOCALS",20)    // and very much later at Level 20+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -319,8 +319,8 @@ END
 
 IF
   Global("missile","LOCALS",0)
-  See(TenthNearestEnemyOf(Myself))		// Rhialto's Random Missile
-  LevelGT(LastSeenBy(Myself),4)			// Level 5+
+  See(TenthNearestEnemyOf(Myself))    // Rhialto's Random Missile
+  LevelGT(LastSeenBy(Myself),4)      // Level 5+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -330,10 +330,10 @@ THEN
     ForceSpellRES("WM_MISS",LastSeenBy(Myself))
 END
 
-IF			
+IF      
   See(TenthNearestEnemyOf(Myself))
   HaveSpell(WIZARD_MAGIC_MISSILE)
-  LevelGT(LastSeenBy(Myself),2)			// Level 3+
+  LevelGT(LastSeenBy(Myself),2)      // Level 3+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -344,8 +344,8 @@ END
 
 IF
   Global("missile","LOCALS",1)
-  See(ThirdNearestEnemyOf(Myself))		// Rhialto's Random Missile
-  LevelGT(LastSeenBy(Myself),4)			// Level 5+
+  See(ThirdNearestEnemyOf(Myself))    // Rhialto's Random Missile
+  LevelGT(LastSeenBy(Myself),4)      // Level 5+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -379,8 +379,8 @@ END
 
 IF
   Global("missile","LOCALS",2)
-  See(LastAttackerOf(Myself))			// Rhialto's Random Missile
-  LevelGT(LastSeenBy(Myself),3)			// Level 4+
+  See(LastAttackerOf(Myself))      // Rhialto's Random Missile
+  LevelGT(LastSeenBy(Myself),3)      // Level 4+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -404,7 +404,7 @@ END
 
 IF
   See(TenthNearestEnemyOf(Myself))
-  LevelGT(LastSeenBy(Myself),5)			// Level 6+
+  LevelGT(LastSeenBy(Myself),5)      // Level 6+
   !Range(LastSeenBy(Myself),15)
   HaveSpell(WIZARD_FIREBALL)
   !GlobalTimerNotExpired("delay","LOCALS")
@@ -418,7 +418,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_NPC_SYMBOL_STUN)
-  LevelGT(LastSeenBy(Myself),2)			// Level 3+
+  LevelGT(LastSeenBy(Myself),2)      // Level 3+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -430,7 +430,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_DOMINATION)
-  LevelGT(LastSeenBy(Myself),6)			// Level 7+
+  LevelGT(LastSeenBy(Myself),6)      // Level 7+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -442,7 +442,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_FLAME_ARROW)
-  LevelGT(LastSeenBy(Myself),3)			// Level 4+
+  LevelGT(LastSeenBy(Myself),3)      // Level 4+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -464,7 +464,7 @@ END
 
 IF
   Global("glyph","LOCALS",1)
-  See(TenthNearestEnemyOf(Myself))		// Glyph of Wild Magic
+  See(TenthNearestEnemyOf(Myself))    // Glyph of Wild Magic
   !Range(LastSeenBy(Myself),5)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
@@ -476,7 +476,7 @@ THEN
 END
 
 IF
-  Global("strike","LOCALS",1)			// Wildstrike
+  Global("strike","LOCALS",1)      // Wildstrike
   GlobalGT("doomed","LOCALS",2)
   See(TenthNearestEnemyOfType([0.0.0.MAGE_ALL]))
   !GlobalTimerNotExpired("delay","LOCALS")
@@ -491,7 +491,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_ABI_DALZIMS_HORRID_WILTING)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -503,7 +503,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_SUMMON_EFREET)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -515,7 +515,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_SUN_FIRE)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -527,7 +527,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_PRISMATIC_SPRAY)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -539,7 +539,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_FINGER_OF_DEATH)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -551,7 +551,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_FLESH_TO_STONE)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -563,7 +563,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   HaveSpell(WIZARD_DISINTEGRATE)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
@@ -572,10 +572,10 @@ THEN
     Spell(NearestEnemyOf(Myself),WIZARD_DISINTEGRATE)
 END
 
-IF						// Assassination
+IF            // Assassination
   See(NearestEnemyOf(Myself))
   GlobalLT("assassin","LOCALS",2)
-  LevelGT(LastSeenBy(Myself),15)		// Level 16+
+  LevelGT(LastSeenBy(Myself),15)    // Level 16+
   Range(LastSeenBy(Myself),4)
 THEN
   RESPONSE #100

@@ -1,11 +1,11 @@
 IF 
-	Global("wm_bgt","Global",1)
-	Global("ENDOFBG1","Global",2)
-	GlobalGT("Chapter","GLOBAL",0)
-	Partyrested()
+  Global("wm_bgt","Global",1)
+  Global("ENDOFBG1","Global",2)
+  GlobalGT("Chapter","GLOBAL",0)
+  Partyrested()
         AreaType(OUTDOOR)
 THEN 
-	RESPONSE #100 
-		ActionOverride(Player1,Createcreature("wm_rhia1",[-1.-1],0))
-		SetGlobal("wm_bgt","Global",2)
+  RESPONSE #100 
+    ActionOverride(Player1,Createcreature("wm_rhia1",[-1.-1],0))
+    SetGlobal("wm_bgt","Global",2)
 END

@@ -3,12 +3,12 @@
 //-------------------------------
 
 IF
-	Global("wm_start","GLOBAL",0)
-	GlobalGT("Chapter","GLOBAL",0)
-	Partyrested()
+  Global("wm_start","GLOBAL",0)
+  GlobalGT("Chapter","GLOBAL",0)
+  Partyrested()
         AreaType(OUTDOOR)
 THEN
-	RESPONSE #100
+  RESPONSE #100
           ActionOverride(Player1,Createcreature("wm_rhia1",[-1.-1],0)) 
           SetGlobal("wm_start","GLOBAL",1)
 END

@@ -3,8 +3,8 @@ IF
   Global("wm_bg1book","GLOBAL",0)
 THEN
   RESPONSE #100
-	SetGlobal("wm_bg1book","GLOBAL",1)
-	Continue()
+  SetGlobal("wm_bg1book","GLOBAL",1)
+  Continue()
 END
 
 IF
@@ -12,6 +12,6 @@ IF
   Global("IHavePants","GLOBAL",0)
 THEN
   RESPONSE #100
-	SetGlobal("IHavePants","GLOBAL",1)
-	Continue()
+  SetGlobal("IHavePants","GLOBAL",1)
+  Continue()
 END

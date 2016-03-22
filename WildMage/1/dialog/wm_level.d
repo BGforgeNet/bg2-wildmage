@@ -16,10 +16,10 @@
 //
 // Local Variables:
 //
-// wm_feat_ambidextrous	= "Ambidextrousity" (Two Ranks!)
-// wm_feat_vicious   	= "Vicious Hits" (+1 Damage)
-// wm_feat_toughness 	= "Toughness" (+10% Hitpoints)
-// wm_feat_criticals 	= "Improved Criticals" (+1 Critical Hit Range)
+// wm_feat_ambidextrous  = "Ambidextrousity" (Two Ranks!)
+// wm_feat_vicious     = "Vicious Hits" (+1 Damage)
+// wm_feat_toughness   = "Toughness" (+10% Hitpoints)
+// wm_feat_criticals   = "Improved Criticals" (+1 Critical Hit Range)
 //----------------------------------------------------------------------------------------
 
 BEGIN WM_LEVEL
@@ -57,67 +57,67 @@ IF ~or(2)
      !CheckStatLT(Myself,19,INT)~ 0
   SAY @200
 
-  IF ~!LevelLT(Myself,5)~					// Weaveshear
+  IF ~!LevelLT(Myself,5)~          // Weaveshear
      THEN REPLY @217 GOTO shear
 
-  IF ~!LevelLT(Myself,3)~					// Weave Spell
+  IF ~!LevelLT(Myself,3)~          // Weave Spell
      THEN REPLY @216 GOTO Weave
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",0)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",0)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @201 GOTO ambidex
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",1)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",1)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @202 GOTO ambidex
 
-  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~ 		// Backstabbing (x2)
+  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~     // Backstabbing (x2)
      THEN REPLY @203 GOTO backstab  
 
-  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Adept (x3) 
+  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Adept (x3) 
       !LevelLT(Myself,5)
       !CheckStatLT(Myself,14,DEX)~
      THEN REPLY @204 GOTO backstab
 
-  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Expert (x4)
+  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Expert (x4)
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,15,DEX)~
      THEN REPLY @205 GOTO backstab
 
-  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Master (x5)
+  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Master (x5)
       !LevelLT(Myself,15)
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @206 GOTO backstab
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",2)			// Combat Speed
+  IF ~Global("wm_feat_ambidextrous","LOCALS",2)      // Combat Speed
       !LevelLT(Myself,18)~     
      THEN REPLY @207 GOTO speed
 
-  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~			// Dagger Specialization
+  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~      // Dagger Specialization
      THEN REPLY @208 GOTO dagger
 
-  IF ~Global("wm_feat_criticals","LOCALS",0)			// Improved Criticals
+  IF ~Global("wm_feat_criticals","LOCALS",0)      // Improved Criticals
       !LevelLT(Myself,9)~
      THEN REPLY @210 GOTO quick
 
-  IF ~Global("wm_feat_toughness","LOCALS",0) 			// Toughness
+  IF ~Global("wm_feat_toughness","LOCALS",0)       // Toughness
       !LevelLT(Myself,3)~
      THEN REPLY @211 GOTO tough
 
-  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)			// Vicious hits
+  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)      // Vicious hits
       !LevelLT(Myself,3)~    
      THEN REPLY @212 GOTO damage
 
-  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Rogue HLA: Assassination
+  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Rogue HLA: Assassination
       !LevelLT(Myself,18)
-      !CheckStatLT(Myself,16,DEX)~					
+      !CheckStatLT(Myself,16,DEX)~          
      THEN REPLY @213 GOTO assassin
 
-  IF ~Global("wm_feat_toughness","LOCALS",1)			// Rogue HLA: Avoid Death
+  IF ~Global("wm_feat_toughness","LOCALS",1)      // Rogue HLA: Avoid Death
       !LevelLT(Myself,18)~
      THEN REPLY @214 GOTO avoid
 
-  IF ~!CheckStatLT(Myself,16,DEX)				// Rogue HLA: Evasion
+  IF ~!CheckStatLT(Myself,16,DEX)        // Rogue HLA: Evasion
       !LevelLT(Myself,18)~      
      THEN REPLY @215 GOTO evade
 END
@@ -129,68 +129,68 @@ IF ~!LevelLT(Myself,24)
     !CheckStatLT(Myself,15,INT)~ 1
   SAY @200
 
-  IF ~!LevelLT(Myself,5)~					// Weaveshear
+  IF ~!LevelLT(Myself,5)~          // Weaveshear
      THEN REPLY @217 GOTO shear
 
-  IF ~!LevelLT(Myself,3)~					// Weave Spell
+  IF ~!LevelLT(Myself,3)~          // Weave Spell
      THEN REPLY @216 GOTO Weave
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",0)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",0)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @201 GOTO ambidex
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",1)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",1)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @202 GOTO ambidex
 
-  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~ 		// Backstabbing (x2)
+  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~     // Backstabbing (x2)
      THEN REPLY @203 GOTO backstab  
 
-  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Adept (x3) 
+  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Adept (x3) 
       !LevelLT(Myself,5)
       !CheckStatLT(Myself,14,DEX)~
      THEN REPLY @204 GOTO backstab
 
-  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Expert (x4)
+  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Expert (x4)
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,15,DEX)~
      THEN REPLY @205 GOTO backstab
 
-  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Master (x5)
+  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Master (x5)
       !LevelLT(Myself,15)
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @206 GOTO backstab
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",2)			// Combat Speed
+  IF ~Global("wm_feat_ambidextrous","LOCALS",2)      // Combat Speed
       !LevelLT(Myself,18)~     
      THEN REPLY @207 GOTO speed
 
-  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~			// Dagger Specialization
+  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~      // Dagger Specialization
      THEN REPLY @208 GOTO dagger
 
-  IF ~Global("wm_feat_criticals","LOCALS",0)			// Improved Criticals
+  IF ~Global("wm_feat_criticals","LOCALS",0)      // Improved Criticals
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,17,DEX)~    
      THEN REPLY @210 GOTO quick
 
-  IF ~Global("wm_feat_toughness","LOCALS",0) 			// Toughness
+  IF ~Global("wm_feat_toughness","LOCALS",0)       // Toughness
       !LevelLT(Myself,3)~
      THEN REPLY @211 GOTO tough
 
-  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)			// Vicious hits
+  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)      // Vicious hits
       !LevelLT(Myself,3)~    
      THEN REPLY @212 GOTO damage
 
-  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Rogue HLA: Assassination
+  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Rogue HLA: Assassination
       !LevelLT(Myself,18)
-      !CheckStatLT(Myself,16,DEX)~					
+      !CheckStatLT(Myself,16,DEX)~          
      THEN REPLY @213 GOTO assassin
 
-  IF ~Global("wm_feat_toughness","LOCALS",1)			// Rogue HLA: Avoid Death
+  IF ~Global("wm_feat_toughness","LOCALS",1)      // Rogue HLA: Avoid Death
       !LevelLT(Myself,18)~
      THEN REPLY @214 GOTO avoid
 
-  IF ~!CheckStatLT(Myself,16,DEX)				// Rogue HLA: Evasion
+  IF ~!CheckStatLT(Myself,16,DEX)        // Rogue HLA: Evasion
       !LevelLT(Myself,18)~      
      THEN REPLY @215 GOTO evade
 END
@@ -202,68 +202,68 @@ IF ~!LevelLT(Myself,27)
     !CheckStatLT(Myself,16,INT)~ 2
   SAY @200
 
-  IF ~!LevelLT(Myself,5)~					// Weaveshear
+  IF ~!LevelLT(Myself,5)~          // Weaveshear
      THEN REPLY @217 GOTO shear
 
-  IF ~!LevelLT(Myself,3)~					// Weave Spell
+  IF ~!LevelLT(Myself,3)~          // Weave Spell
      THEN REPLY @216 GOTO Weave
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",0)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",0)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @201 GOTO ambidex
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",1)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",1)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @202 GOTO ambidex
 
-  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~ 		// Backstabbing (x2)
+  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~     // Backstabbing (x2)
      THEN REPLY @203 GOTO backstab  
 
-  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Adept (x3) 
+  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Adept (x3) 
       !LevelLT(Myself,5)
       !CheckStatLT(Myself,14,DEX)~
      THEN REPLY @204 GOTO backstab
 
-  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Expert (x4)
+  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Expert (x4)
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,15,DEX)~
      THEN REPLY @205 GOTO backstab
 
-  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Master (x5)
+  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Master (x5)
       !LevelLT(Myself,15)
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @206 GOTO backstab
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",2)			// Combat Speed
+  IF ~Global("wm_feat_ambidextrous","LOCALS",2)      // Combat Speed
       !LevelLT(Myself,18)~     
      THEN REPLY @207 GOTO speed
 
-  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~			// Dagger Specialization
+  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~      // Dagger Specialization
      THEN REPLY @208 GOTO dagger
 
-  IF ~Global("wm_feat_criticals","LOCALS",0)			// Improved Criticals
+  IF ~Global("wm_feat_criticals","LOCALS",0)      // Improved Criticals
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,17,DEX)~    
      THEN REPLY @210 GOTO quick
 
-  IF ~Global("wm_feat_toughness","LOCALS",0) 			// Toughness
+  IF ~Global("wm_feat_toughness","LOCALS",0)       // Toughness
       !LevelLT(Myself,3)~
      THEN REPLY @211 GOTO tough
 
-  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)			// Vicious hits
+  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)      // Vicious hits
       !LevelLT(Myself,3)~    
      THEN REPLY @212 GOTO damage
 
-  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Rogue HLA: Assassination
+  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Rogue HLA: Assassination
       !LevelLT(Myself,18)
-      !CheckStatLT(Myself,16,DEX)~					
+      !CheckStatLT(Myself,16,DEX)~          
      THEN REPLY @213 GOTO assassin
 
-  IF ~Global("wm_feat_toughness","LOCALS",1)			// Rogue HLA: Avoid Death
+  IF ~Global("wm_feat_toughness","LOCALS",1)      // Rogue HLA: Avoid Death
       !LevelLT(Myself,18)~
      THEN REPLY @214 GOTO avoid
 
-  IF ~!CheckStatLT(Myself,16,DEX)				// Rogue HLA: Evasion
+  IF ~!CheckStatLT(Myself,16,DEX)        // Rogue HLA: Evasion
       !LevelLT(Myself,18)~      
      THEN REPLY @215 GOTO evade
 END
@@ -275,68 +275,68 @@ IF ~!LevelLT(Myself,30)
     !CheckStatLT(Myself,17,INT)~ 3
   SAY @200
 
-  IF ~!LevelLT(Myself,5)~					// Weaveshear
+  IF ~!LevelLT(Myself,5)~          // Weaveshear
      THEN REPLY @217 GOTO shear
 
-  IF ~!LevelLT(Myself,3)~					// Weave Spell
+  IF ~!LevelLT(Myself,3)~          // Weave Spell
      THEN REPLY @216 GOTO Weave
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",0)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",0)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @201 GOTO ambidex
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",1)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",1)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @202 GOTO ambidex
 
-  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~ 		// Backstabbing (x2)
+  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~     // Backstabbing (x2)
      THEN REPLY @203 GOTO backstab  
 
-  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Adept (x3) 
+  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Adept (x3) 
       !LevelLT(Myself,5)
       !CheckStatLT(Myself,14,DEX)~
      THEN REPLY @204 GOTO backstab
 
-  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Expert (x4)
+  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Expert (x4)
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,15,DEX)~
      THEN REPLY @205 GOTO backstab
 
-  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Master (x5)
+  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Master (x5)
       !LevelLT(Myself,15)
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @206 GOTO backstab
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",2)			// Combat Speed
+  IF ~Global("wm_feat_ambidextrous","LOCALS",2)      // Combat Speed
       !LevelLT(Myself,18)~     
      THEN REPLY @207 GOTO speed
 
-  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~			// Dagger Specialization
+  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~      // Dagger Specialization
      THEN REPLY @208 GOTO dagger
 
-  IF ~Global("wm_feat_criticals","LOCALS",0)			// Improved Criticals
+  IF ~Global("wm_feat_criticals","LOCALS",0)      // Improved Criticals
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,17,DEX)~    
      THEN REPLY @210 GOTO quick
 
-  IF ~Global("wm_feat_toughness","LOCALS",0) 			// Toughness
+  IF ~Global("wm_feat_toughness","LOCALS",0)       // Toughness
       !LevelLT(Myself,3)~
      THEN REPLY @211 GOTO tough
 
-  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)			// Vicious hits
+  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)      // Vicious hits
       !LevelLT(Myself,3)~    
      THEN REPLY @212 GOTO damage
 
-  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Rogue HLA: Assassination
+  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Rogue HLA: Assassination
       !LevelLT(Myself,18)
-      !CheckStatLT(Myself,16,DEX)~					
+      !CheckStatLT(Myself,16,DEX)~          
      THEN REPLY @213 GOTO assassin
 
-  IF ~Global("wm_feat_toughness","LOCALS",1)			// Rogue HLA: Avoid Death
+  IF ~Global("wm_feat_toughness","LOCALS",1)      // Rogue HLA: Avoid Death
       !LevelLT(Myself,18)~
      THEN REPLY @214 GOTO avoid
 
-  IF ~!CheckStatLT(Myself,16,DEX)				// Rogue HLA: Evasion
+  IF ~!CheckStatLT(Myself,16,DEX)        // Rogue HLA: Evasion
       !LevelLT(Myself,18)~      
      THEN REPLY @215 GOTO evade
 END
@@ -348,68 +348,68 @@ IF ~!LevelLT(Myself,36)
     !CheckStatLT(Myself,18,INT)~ 4
   SAY @200
 
-  IF ~!LevelLT(Myself,5)~					// Weaveshear
+  IF ~!LevelLT(Myself,5)~          // Weaveshear
      THEN REPLY @217 GOTO shear
 
-  IF ~!LevelLT(Myself,3)~					// Weave Spell
+  IF ~!LevelLT(Myself,3)~          // Weave Spell
      THEN REPLY @216 GOTO Weave
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",0)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",0)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @201 GOTO ambidex
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",1)			// Ambidextrousity
+  IF ~Global("wm_feat_ambidextrous","LOCALS",1)      // Ambidextrousity
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @202 GOTO ambidex
 
-  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~ 		// Backstabbing (x2)
+  IF ~CheckStat(Myself,1,BACKSTABDAMAGEMULTIPLIER)~     // Backstabbing (x2)
      THEN REPLY @203 GOTO backstab  
 
-  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Adept (x3) 
+  IF ~CheckStat(Myself,2,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Adept (x3) 
       !LevelLT(Myself,5)
       !CheckStatLT(Myself,14,DEX)~
      THEN REPLY @204 GOTO backstab
 
-  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Expert (x4)
+  IF ~CheckStat(Myself,3,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Expert (x4)
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,15,DEX)~
      THEN REPLY @205 GOTO backstab
 
-  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Backstabbing Master (x5)
+  IF ~CheckStat(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Backstabbing Master (x5)
       !LevelLT(Myself,15)
       !CheckStatLT(Myself,16,DEX)~
      THEN REPLY @206 GOTO backstab
 
-  IF ~Global("wm_feat_ambidextrous","LOCALS",2)			// Combat Speed
+  IF ~Global("wm_feat_ambidextrous","LOCALS",2)      // Combat Speed
       !LevelLT(Myself,18)~     
      THEN REPLY @207 GOTO speed
 
-  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~			// Dagger Specialization
+  IF ~CheckStat(Myself,1,PROFICIENCYDAGGER)~      // Dagger Specialization
      THEN REPLY @208 GOTO dagger
 
-  IF ~Global("wm_feat_criticals","LOCALS",0)			// Improved Criticals
+  IF ~Global("wm_feat_criticals","LOCALS",0)      // Improved Criticals
       !LevelLT(Myself,9)
       !CheckStatLT(Myself,17,DEX)~    
      THEN REPLY @210 GOTO quick
 
-  IF ~Global("wm_feat_toughness","LOCALS",0) 			// Toughness
+  IF ~Global("wm_feat_toughness","LOCALS",0)       // Toughness
       !LevelLT(Myself,3)~
      THEN REPLY @211 GOTO tough
 
-  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)			// Vicious hits
+  IF ~!GlobalGT("wm_feat_vicious","LOCALS",4)      // Vicious hits
       !LevelLT(Myself,3)~    
      THEN REPLY @212 GOTO damage
 
-  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER) 		// Rogue HLA: Assassination
+  IF ~!CheckStatLT(Myself,4,BACKSTABDAMAGEMULTIPLIER)     // Rogue HLA: Assassination
       !LevelLT(Myself,18)
-      !CheckStatLT(Myself,16,DEX)~					
+      !CheckStatLT(Myself,16,DEX)~          
      THEN REPLY @213 GOTO assassin
 
-  IF ~Global("wm_feat_toughness","LOCALS",1)			// Rogue HLA: Avoid Death
+  IF ~Global("wm_feat_toughness","LOCALS",1)      // Rogue HLA: Avoid Death
       !LevelLT(Myself,18)~
      THEN REPLY @214 GOTO avoid
 
-  IF ~!CheckStatLT(Myself,16,DEX)				// Rogue HLA: Evasion
+  IF ~!CheckStatLT(Myself,16,DEX)        // Rogue HLA: Evasion
       !LevelLT(Myself,18)~      
      THEN REPLY @215 GOTO evade
 END
