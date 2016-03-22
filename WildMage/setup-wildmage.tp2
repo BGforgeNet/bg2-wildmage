@@ -33,8 +33,8 @@ REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~
 //------------------------------------------------------
 //    Mod-start in Baldur.BCS
 //------------------------------------------------------
-EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/0/baf/BALDUR_ADD.BAF~
-EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/0/baf/BALDUR_ADD.BAF~
+EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/0/baf/baldur_add.baf~
+EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/0/baf/baldur_add.baf~
 
 //------------------------------------------------------
 //     Projectiles

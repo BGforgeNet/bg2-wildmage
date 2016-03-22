@@ -2,7 +2,7 @@ IF
   Die()
 THEN
   RESPONSE #100
-  Destroyself()
+    Destroyself()
 END  
 
 IF
@@ -10,11 +10,10 @@ IF
 THEN
   RESPONSE #100
     ForceSpell(LastSeenBy(Myself),WIZARD_CHARM_PERSON)
- RESPONSE #100
+  RESPONSE #100
     ForceSpell(LastSeenBy(Myself),WIZARD_COLOR_SPRAY)
   RESPONSE #100
     ForceSpell(LastSeenBy(Myself),WIZARD_MAGIC_MISSILE)
   RESPONSE #100
     ForceSpell(LastSeenBy(Myself),WIZARD_SPOOK)
 END
-

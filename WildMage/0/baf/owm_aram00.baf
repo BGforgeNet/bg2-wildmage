@@ -3,6 +3,6 @@ IF
   Global("IHavePants","GLOBAL",0)
 THEN
   RESPONSE #100
-  SetGlobal("IHavePants","GLOBAL",1)
-  Continue()
+    SetGlobal("IHavePants","GLOBAL",1)
+    Continue()
 END
