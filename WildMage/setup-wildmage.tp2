@@ -28,7 +28,7 @@ LANGUAGE ~Francais (d'Oghmatiques)~
 //******************************************************
 
 BEGIN @1
-REQUIRE_FILE ~Data/25Dialog.bif~ @10
+REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~
 
 //------------------------------------------------------
 //    Mod-start in Baldur.BCS
