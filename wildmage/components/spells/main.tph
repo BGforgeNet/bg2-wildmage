@@ -1,7 +1,7 @@
 OUTER_SPRINT COMP ~spells~
 
 //------------------------------------------------------
-//    Mod-start in Baldur.BCS
+//    Rhialto appearance
 //------------------------------------------------------
 EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/%COMP%/baf/baldur_add.baf~
 EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/%COMP%/baf/baldur_add.baf~

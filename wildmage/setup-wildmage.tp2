@@ -24,7 +24,7 @@ LANGUAGE ~Francais (d'Oghmatiques)~
 //New Wild Magic Spells
 BEGIN @1
 REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~
-INCLUDE ~%MOD_FOLDER%/components/spells~
+INCLUDE ~%MOD_FOLDER%/components/spells/main.tph~
 
 //**************************************************************************************************
 
