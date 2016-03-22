@@ -1,0 +1,693 @@
+BACKUP ~wildmage/backup~
+AUTHOR ~jo.ge@gmx.net~
+
+LANGUAGE ~English~
+         ~english~
+         ~%MOD_FOLDER%/tra/english/text.tra~
+
+LANGUAGE ~Deutsch~
+         ~german~
+         ~%MOD_FOLDER%/tra/german/text.tra~
+
+LANGUAGE ~Polski (Maciek F)~
+         ~polish~
+         ~%MOD_FOLDER%/tra/polish/text.tra~
+
+LANGUAGE ~Russian (aerie.ru)~
+         ~russian~
+         ~%MOD_FOLDER%/tra/russian/text.tra~
+
+LANGUAGE ~Francais (d'Oghmatiques)~
+         ~french~
+         ~%MOD_FOLDER%/tra/french/text.tra~
+
+//******************************************************
+//** ------------------------------------------------ **
+//**  (0)   New Wild Magic Spells                **
+//** ------------------------------------------------ **
+//******************************************************
+
+BEGIN @1
+REQUIRE_FILE ~Data/25Dialog.bif~ @10
+
+//------------------------------------------------------
+//    Mod-start in Baldur.BCS
+//------------------------------------------------------
+EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/0/baf/BALDUR_ADD.BAF~
+EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/0/baf/BALDUR_ADD.BAF~
+
+//------------------------------------------------------
+//     Projectiles
+//------------------------------------------------------
+ADD_PROJECTILE ~%MOD_FOLDER%/0/spl/wm_cf_60.pro~
+ADD_PROJECTILE ~%MOD_FOLDER%/0/spl/wm_chaob.pro~
+
+//------------------------------------------------------
+//   Copy Stuff to Override Folder
+//------------------------------------------------------
+COPY ~%MOD_FOLDER%/0/copy~  ~override~
+
+
+//--------------------------------------------------------------------------
+//               SPELLS
+//--------------------------------------------------------------------------
+
+//-----------------------------------------------------------
+// Wild Magic Spells
+
+COPY ~%MOD_FOLDER%/0/spl/wm_sqrl.spl~  ~override/wm_sqrl.spl~    // Wizard Spell: Rodent Form
+  SAY NAME1 @20201
+  SAY UNIDENTIFIED_DESC @20202
+  SAY 0x366 @20211
+  SAY 0x396 @20212
+
+COPY ~%MOD_FOLDER%/0/spl/wm_sqrl1.spl~  ~override/wm_sqrl1.spl~    // Wizard Spell: Ratatosk Shape
+  SAY NAME1 @20301
+  SAY UNIDENTIFIED_DESC @20302
+
+COPY ~%MOD_FOLDER%/0/spl/wm_rnd.spl~  ~override/wm_rnd.spl~    // Wizard Spell: Random Spell
+  SAY NAME1 @20401
+  SAY UNIDENTIFIED_DESC @20402
+
+COPY ~%MOD_FOLDER%/0/spl/wm_blade.spl~  ~override/wm_blade.spl~    // Wizard Spell: Blade Shower
+  SAY NAME1 @20501
+  SAY UNIDENTIFIED_DESC @20502
+  SAY 0x25e @20511
+  SAY 0x3de @20511
+  SAY 0x58e @20511
+  SAY 0x76e @20511
+  SAY 0x97e @20511
+COPY ~%MOD_FOLDER%/0/spl/wm_blad1.spl~  ~override/wm_blad1.spl~
+  SAY NAME1 @20501
+  SAY 0x536 @10101
+  SAY 0x896 @10101
+  SAY 0xbf6 @10101
+  SAY 0xf56 @10101
+  SAY 0x12b6 @10101
+  SAY 0x1616 @10101
+  SAY 0x1976 @10101
+  SAY 0x1cd6 @10101
+  SAY 0x2036 @10101
+
+COPY ~%MOD_FOLDER%/0/spl/WM_MISS.SPL~  ~override/WM_MISS.SPL~    // Wizard Spell: Rhialto's Random Missiles
+  SAY NAME1 @20601
+  SAY UNIDENTIFIED_DESC @20602
+
+COPY ~%MOD_FOLDER%/0/spl/WM_GLYPH.SPL~  ~override/WM_GLYPH.SPL~    // Wizard Spell: Glyph of Wild Magic
+  SAY NAME1 @20701
+  SAY UNIDENTIFIED_DESC @20702
+COPY ~%MOD_FOLDER%/0/spl/WM_GLYPH.CRE~  ~override/WM_GLYPH.CRE~
+  SAY NAME1 @20711
+  SAY NAME2 @20711
+COMPILE ~%MOD_FOLDER%/0/baf/WM_GLYPH.BAF~
+
+COPY ~%MOD_FOLDER%/0/spl/WM_LIGHT.SPL~  ~override/WM_LIGHT.SPL~    // Wizard Spell: Gymlainac's Lightbend
+  SAY NAME1 @20801
+  SAY UNIDENTIFIED_DESC @20802
+
+COPY ~%MOD_FOLDER%/0/spl/WM_WORD.SPL~  ~override/WM_WORD.SPL~    // Wizard Spell: Vile Word of Discord
+  SAY NAME1 @20901
+  SAY UNIDENTIFIED_DESC @20902
+
+COPY ~%MOD_FOLDER%/0/spl/WM_HEAL.SPL~  ~override/WM_HEAL.SPL~    // Wizard Spell: Cellular Regeneration
+  SAY NAME1 @21001
+  SAY UNIDENTIFIED_DESC @21002
+
+COPY ~%MOD_FOLDER%/0/spl/WM_VORTX.SPL~  ~override/WM_VORTX.SPL~    // Wizard Spell: Vortex
+  SAY NAME1 @21101
+  SAY UNIDENTIFIED_DESC @21102
+COPY ~%MOD_FOLDER%/0/spl/WM_VORTX.CRE~  ~override/WM_VORTX.CRE~
+  SAY NAME1 @21101
+  SAY NAME2 @21101
+
+COPY ~%MOD_FOLDER%/0/spl/WM_LUCK.SPL~  ~override/WM_LUCK.SPL~    // Wizard Spell: Paithan's Lucky Streak
+  SAY NAME1 @21201
+  SAY UNIDENTIFIED_DESC @21202
+
+COPY ~%MOD_FOLDER%/0/spl/WM_UNLK.SPL~  ~override/WM_UNLK.SPL~    // Wizard Spell: Paithan's Fiasco
+  SAY NAME1 @21301
+  SAY UNIDENTIFIED_DESC @21302
+COPY ~%MOD_FOLDER%/0/spl/WM_UNLK1.SPL~      ~override/WM_UNLK1.SPL~
+  SAY 0x4be @21311
+
+COPY ~%MOD_FOLDER%/0/spl/WM_STRIK.SPL~  ~override/WM_STRIK.SPL~    // Wizard Spell: Wild Strike
+  SAY NAME1 @21401
+  SAY UNIDENTIFIED_DESC @21402
+  SAY 0x2be @10101
+  SAY 0x4ce @10101
+  SAY 0x6de @10101
+  SAY 0x8ee @10101
+  SAY 0xafe @10101
+  SAY 0xd0e @10101
+  SAY 0xf1e @10101
+  SAY 0x112e @10101
+  SAY 0x133e @10101
+  SAY 0x154e @10101
+  SAY 0x175e @10101
+
+COPY ~%MOD_FOLDER%/0/spl/WM_DISP.SPL~  ~override/WM_DISP.SPL~    // Wizard Spell: Hornung's Random Dispatcher
+  SAY NAME1 @21501
+  SAY UNIDENTIFIED_DESC @21502
+  SAY 0x1be @21511
+  SAY 0x1ee @21512
+  SAY 0x21e @21513
+  SAY 0x24e @21514
+  SAY 0x27e @21515
+  SAY 0x2ae @21516
+  SAY 0x2de @21517
+  SAY 0x30e @21518
+  SAY 0x33e @21519
+  SAY 0x36e @21520
+  SAY 0x39e @21521
+  SAY 0x3ce @21522
+  SAY 0x3fe @21523
+  SAY 0x42e @21524
+  SAY 0x45e @21525
+  SAY 0x48e @21526
+  SAY 0x4be @21527
+  SAY 0x4ee @21528
+  SAY 0x51e @21529
+  SAY 0x54e @21530
+  SAY 0x57e @21531
+  SAY 0x5ae @21532
+  SAY 0x5de @21533
+  SAY 0x60e @21534
+  SAY 0x63e @21535
+  SAY 0x66e @21536
+  SAY 0x69e @21537
+  SAY 0x6ce @21538
+  SAY 0x6fe @21539
+  SAY 0x72e @21540
+  SAY 0x75e @21541
+  SAY 0x78e @21542
+  SAY 0x7be @21543
+  SAY 0x7ee @21544
+  SAY 0x81e @21545
+  SAY 0x84e @21546
+  SAY 0x87e @21547
+  SAY 0x8ae @21548
+  SAY 0x8de @21549
+  SAY 0x90e @21550
+COMPILE ~%MOD_FOLDER%/0/baf/WM_DISP.BAF~
+
+COPY ~%MOD_FOLDER%/0/spl/WM_COW.SPL~  ~override/WM_COW.SPL~    // Wizard Spell: Summon Cow
+  SAY NAME1 @21601
+  SAY UNIDENTIFIED_DESC @21602
+
+COPY ~%MOD_FOLDER%/0/spl/WM_RECUP.spl~  ~override/WM_RECUP.spl~   // Wizard Spell: Mynoc's Recuperation
+  SAY NAME1 @21701
+  SAY UNIDENTIFIED_DESC @21702
+COPY ~%MOD_FOLDER%/0/spl/WM_RECU1.spl~  ~override/WM_RECU1.spl~
+  SAY 0x1be @21711
+  SAY 0x1ee @21712
+  SAY 0x21e @21713
+  SAY 0x24e @21714
+
+COPY ~%MOD_FOLDER%/0/spl/WM_EYE.SPL~  ~override/WM_EYE.SPL~    // Wizard Spell: Eye of the Beholder
+  SAY NAME1 @21801
+  SAY UNIDENTIFIED_DESC @21802
+  SAY 0x25e @21811
+  SAY 0x3de @21811
+  SAY 0x58e @21811
+  SAY 0x76e @21811
+  SAY 0x97e @21811
+COPY ~%MOD_FOLDER%/0/spl/WM_EYE1.SPL~  ~override/WM_EYE1.SPL~
+  SAY NAME1 @21803
+
+COPY ~%MOD_FOLDER%/0/spl/WM_SHLD.spl~       ~override/WM_SHLD.spl~     // Wizard Spell: Entropy Shield
+  SAY NAME1 @21901
+  SAY UNIDENTIFIED_DESC @21902
+
+COPY ~%MOD_FOLDER%/0/spl/WM_SPHR.spl~       ~override/WM_SPHR.spl~     // Wizard Spell: Wild Sphere
+  SAY NAME1 @22001
+  SAY UNIDENTIFIED_DESC @22002
+  SAY 0x42e @10101
+  WRITE_SHORT 0x098 ~%wm_cf_60%~
+
+COPY ~%MOD_FOLDER%/0/spl/WM_REINC.SPL~  ~override/WM_REINC.SPL~     // Rhialto's Marvelous Reincarnation
+  SAY NAME1 @22101
+  SAY UNIDENTIFIED_DESC @22102
+
+//v1.4
+
+COPY ~%MOD_FOLDER%/0/spl/WM_CHAOB.SPL~  ~override/WM_CHAOB.SPL~     // Wizard Spell: Entropy Burst
+  SAY NAME1 @22201
+  SAY UNIDENTIFIED_DESC @22202
+  WRITE_SHORT 0x098 ~%wm_chaob%~
+
+COPY ~%MOD_FOLDER%/0/spl/WM_HORDE.SPL~  ~override/WM_HORDE.SPL~     // Wizard Spell: Summon Wild Horde
+  SAY NAME1 @22401
+  SAY UNIDENTIFIED_DESC @22402
+
+COPY ~%MOD_FOLDER%/0/spl/WM_LIQ.SPL~  ~override/WM_LIQ.SPL~     // Wizard Spell: Corporeal Instability
+  SAY NAME1 @22501
+  SAY UNIDENTIFIED_DESC @22502
+
+COPY ~%MOD_FOLDER%/0/spl/wm_rnd2.spl~  ~override/wm_rnd2.spl~    // Wizard Spell: Random Spell II
+  SAY NAME1 @22601
+  SAY UNIDENTIFIED_DESC @22602
+
+COPY ~%MOD_FOLDER%/0/spl/wm_rnd3.spl~  ~override/wm_rnd3.spl~    // Wizard Spell: Random Spell III
+  SAY NAME1 @22701
+  SAY UNIDENTIFIED_DESC @22702
+
+COPY ~%MOD_FOLDER%/0/spl/wm_rnd4.spl~  ~override/wm_rnd4.spl~    // Wizard Spell: Random Spell IV
+  SAY NAME1 @22801
+  SAY UNIDENTIFIED_DESC @22802
+
+COPY ~%MOD_FOLDER%/0/spl/wm_wfire.spl~  ~override/wm_wfire.spl~    // Wizard Spell: Wildfire
+  SAY NAME1 @22901
+  SAY UNIDENTIFIED_DESC @22902
+
+COPY ~%MOD_FOLDER%/0/spl/wm_attr.spl~  ~override/wm_attr.spl~    // Wizard Spell: Layna's Irresistible Appeal
+  SAY NAME1 @23001
+  SAY UNIDENTIFIED_DESC @23002
+
+COPY ~%MOD_FOLDER%/0/spl/wm_armor.spl~  ~override/wm_armor.spl~    // Wizard Spell: Meece's Wild Armour
+  SAY NAME1 @23101
+  SAY UNIDENTIFIED_DESC @23102
+
+//--------------------------------------------------------------------------
+//               Items
+//--------------------------------------------------------------------------
+
+COPY ~%MOD_FOLDER%/0/itm/WM_BEAR.ITM~  ~override/WM_BEAR.ITM~    // "Teddy Bear of Protection"
+  SAY NAME1 @40401
+  SAY UNIDENTIFIED_DESC @40402
+  SAY NAME2 @40403
+  SAY DESC @40404
+
+//------------------------------------------------------
+//   Spellbook "Talking Item" with dialogue
+
+COPY ~%MOD_FOLDER%/0/itm/WM_SBOOK.itm~ ~override/WM_SBOOK.itm~
+  SAY NAME1 @40501
+  SAY NAME2 @40501
+  SAY UNIDENTIFIED_DESC @40502
+  SAY DESC @40503
+
+COMPILE ~%MOD_FOLDER%/0/dialog/wm_sbook.d~
+  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
+
+COPY_EXISTING ~ITEMDIAL.2da~ ~override/ITEMDIAL.2da~
+  APPEND_FILE ~%MOD_FOLDER%/0/dialog/ITEMDIAL_ADD.TXT~
+  REPLACE ~_READ_~ @40511
+
+
+//-----------------------------------------------------------
+// Rhialto the Marvelous...
+//-----------------------------------------------------------
+
+COMPILE ~%MOD_FOLDER%/0/dialog/wm_rhia.d~
+  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
+
+COMPILE ~%MOD_FOLDER%/0/baf/wm_rhia1.BAF~
+
+COPY ~%MOD_FOLDER%/0/cre/wm_rhia1.CRE~    ~override/wm_rhia1.CRE~    // Rhialto the Marvelous
+  SAY NAME1 @50101
+  SAY NAME2 @50102
+
+COPY ~%MOD_FOLDER%/0/cre/wm_rhia2.CRE~    ~override/wm_rhia2.CRE~    // Rhialto the <Spoiler>
+  SAY NAME1 @50101
+  SAY NAME2 @50102
+
+COPY ~%MOD_FOLDER%/0/spl/WM_RHIA1.SPL~    ~override/WM_RHIA1.SPL~    // Rhialto's special Vortex
+  SAY NAME1 @21101
+  SAY UNIDENTIFIED_DESC @21102
+  SAY 0x9e @50111
+
+COPY ~%MOD_FOLDER%/0/spl/WM_GLPH.SPL~    ~override/WM_GLPH.SPL~    // Rhialto's Hostile Glyph of WM
+  SAY NAME1 @20701
+  SAY UNIDENTIFIED_DESC @20702
+COPY ~%MOD_FOLDER%/0/spl/WM_GLPH.CRE~    ~override/WM_GLPH.CRE~
+  SAY NAME1 @20711
+  SAY NAME2 @20711
+
+
+//-----------------------------------------------------------------
+// BGT Compatibility (Retain Spellbook on Transfer from BG1 to BG2)
+//-----------------------------------------------------------------
+
+ACTION_IF FILE_EXISTS ~DATA/BG1ARE.BIF~ THEN BEGIN
+
+COPY_EXISTING ~ARAM00.BCS~ ~override~
+  REPLACE_BCS_BLOCK ~%MOD_FOLDER%/0/baf/owm_aram00.baf~ ~%MOD_FOLDER%/0/baf/nwm_aram00.baf~
+EXTEND_TOP ~ar0602.bcs~ ~%MOD_FOLDER%/0/baf/wm_ar0602.baf~
+
+END
+
+
+
+//**************************************************************************************************
+
+//******************************************************
+//** ------------------------------------------------ **
+//**  (1)   SPELLSHAPER KIT                      **
+//** ------------------------------------------------ **
+//******************************************************
+BEGIN @2
+REQUIRE_COMPONENT "Setup-WildMage.TP2" "0" @20
+
+//------------------------------------------------------
+//    Mod-start in Baldur.BCS
+//------------------------------------------------------
+EXTEND_BOTTOM ~baldur.bcs~ ~%MOD_FOLDER%/1/baf/BALDUR_ADD.BAF~
+EXTEND_BOTTOM ~baldur25.bcs~ ~%MOD_FOLDER%/1/baf/BALDUR_ADD.BAF~
+
+//------------------------------------------------------
+//   Spellbook now contains "Rhialto's Chaos Conduit"
+//------------------------------------------------------
+COMPILE ~%MOD_FOLDER%/1/dialog/wm_sbook.d~
+  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
+
+
+//------------------------------------------------------
+//     Projectiles
+//------------------------------------------------------
+ADD_PROJECTILE ~%MOD_FOLDER%/1/spl/wm_cf_05.pro~
+ADD_PROJECTILE ~%MOD_FOLDER%/1/spl/wm_cf_10.pro~
+ADD_PROJECTILE ~%MOD_FOLDER%/1/spl/wm_cf_15.pro~
+
+
+//------------------------------------------------------
+//        Spellshaper Class Abilities
+//------------------------------------------------------
+COMPILE ~%MOD_FOLDER%/1/dialog/wm_level.d~
+  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
+
+
+//------------------------------------------------------
+//   Copy Stuff to Override Folder
+//------------------------------------------------------
+COPY ~%MOD_FOLDER%/1/copy~ ~override~
+
+
+//--------------------------------------------------------------------------
+//               SPELLS
+//--------------------------------------------------------------------------
+
+//-----------------------------------------------------------
+// Levelup Stuff
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#thac.spl~  ~override/wm_#thac.spl~    // ~Thac0 reduced by 1~
+  SAY 0xce @10301
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#stab.spl~  ~override/wm_#stab.spl~    // ~Backstab Multiplier Increased by 1~
+  SAY 0xce @10302
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#dag2.spl~  ~override/wm_#dag2.spl~    // ~Dagger Profiency raised to 2 (Specialized)~
+  SAY 0xce @10303
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#dag3.spl~  ~override/wm_#dag3.spl~    // ~Dagger Profiency raised to 3 (Master)~
+  SAY 0xce @10304
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#amb1.spl~  ~override/wm_#amb1.spl~    // ~Gained Ambidextrousity 1~
+  SAY 0xce @10305
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#amb2.spl~  ~override/wm_#amb2.spl~    // ~Gained Ambidextrousity 2~
+  SAY 0xce @10306
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#dam.spl~  ~override/wm_#dam.spl~    // ~Gained +1 Damage Bonus (Vicious Hits)~
+  SAY 0xce @10307
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#toug.spl~  ~override/wm_#toug.spl~    // ~Gained 20% Bonus Hitpoints (Toughness)~
+  SAY 0xce @10308
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#fast.spl~  ~override/wm_#fast.spl~    // ~Gained 1/2 additional attack~
+  SAY 0xce @10309
+
+COPY ~%MOD_FOLDER%/1/spl/wm_#crit.spl~  ~override/wm_#crit.spl~    // ~Critical Hit Range increased by 1~
+  SAY 0xce @10310
+
+
+//-----------------------------------------------------------
+// Wild Magic Spells
+
+COPY ~%MOD_FOLDER%/1/spl/wm_chaos.spl~  ~override/wm_chaos.spl~    // "Chaos Conduit" (become Spellshaper)
+  SAY NAME1 @20101
+  SAY UNIDENTIFIED_DESC @20102
+COPY ~%MOD_FOLDER%/1/spl/wm_chao.spl~  ~override/wm_chao.spl~    // (Permanent Spellshaper Abilities)
+  SAY 0x1ee @20103
+  SAY 0x21e @20103
+COMPILE ~%MOD_FOLDER%/1/baf/wm_chao1.BAF~
+COMPILE ~%MOD_FOLDER%/1/baf/wm_chaos.BAF~
+
+
+COPY ~%MOD_FOLDER%/1/spl/WM_ACID.SPL~  ~override/WM_ACID.SPL~     // Acid Storm
+  SAY NAME1 @22301
+  SAY UNIDENTIFIED_DESC @22302
+
+//-----------------------------------------------------------
+// Abilities
+
+COPY ~%MOD_FOLDER%/1/spl/WM_WEAVE.SPL~  ~override/WM_WEAVE.SPL~    // Ability: "Weave Spell"
+  SAY NAME1 @30101
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav01.SPL~  ~override/wm_wav01.SPL~
+  SAY NAME1 @30111
+COPY ~%MOD_FOLDER%/1/spl/wm_wav21.SPL~  ~override/wm_wav21.SPL~
+  SAY NAME1 @30111
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav02.SPL~  ~override/wm_wav02.SPL~
+  SAY NAME1 @30112
+COPY ~%MOD_FOLDER%/1/spl/wm_wav12.SPL~  ~override/wm_wav12.SPL~
+  SAY NAME1 @30112
+COPY ~%MOD_FOLDER%/1/spl/wm_wav32.SPL~  ~override/wm_wav32.SPL~
+  SAY NAME1 @30112
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav03.SPL~  ~override/wm_wav03.SPL~
+  SAY NAME1 @30113
+COPY ~%MOD_FOLDER%/1/spl/wm_wav23.SPL~  ~override/wm_wav23.SPL~
+  SAY NAME1 @30113
+COPY ~%MOD_FOLDER%/1/spl/wm_wav43.SPL~  ~override/wm_wav43.SPL~
+  SAY NAME1 @30113
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav04.SPL~  ~override/wm_wav04.SPL~
+  SAY NAME1 @30114
+COPY ~%MOD_FOLDER%/1/spl/wm_wav34.SPL~  ~override/wm_wav34.SPL~
+  SAY NAME1 @30114
+COPY ~%MOD_FOLDER%/1/spl/wm_wav54.SPL~  ~override/wm_wav54.SPL~
+  SAY NAME1 @30114
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav05.SPL~  ~override/wm_wav05.SPL~
+  SAY NAME1 @30115
+COPY ~%MOD_FOLDER%/1/spl/wm_wav45.SPL~  ~override/wm_wav45.SPL~
+  SAY NAME1 @30115
+COPY ~%MOD_FOLDER%/1/spl/wm_wav65.SPL~  ~override/wm_wav65.SPL~
+  SAY NAME1 @30115
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav06.SPL~  ~override/wm_wav06.SPL~
+  SAY NAME1 @30116
+COPY ~%MOD_FOLDER%/1/spl/wm_wav56.SPL~  ~override/wm_wav56.SPL~
+  SAY NAME1 @30116
+COPY ~%MOD_FOLDER%/1/spl/wm_wav76.SPL~  ~override/wm_wav76.SPL~
+  SAY NAME1 @30116
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav07.SPL~  ~override/wm_wav07.SPL~
+  SAY NAME1 @30117
+COPY ~%MOD_FOLDER%/1/spl/wm_wav67.SPL~  ~override/wm_wav67.SPL~
+  SAY NAME1 @30117
+COPY ~%MOD_FOLDER%/1/spl/wm_wav87.SPL~  ~override/wm_wav87.SPL~
+  SAY NAME1 @30117
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav08.SPL~  ~override/wm_wav08.SPL~
+  SAY NAME1 @30118
+COPY ~%MOD_FOLDER%/1/spl/wm_wav78.SPL~  ~override/wm_wav78.SPL~
+  SAY NAME1 @30118
+COPY ~%MOD_FOLDER%/1/spl/wm_wav98.SPL~  ~override/wm_wav98.SPL~
+  SAY NAME1 @30118
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav09.SPL~  ~override/wm_wav09.SPL~
+  SAY NAME1 @30119
+COPY ~%MOD_FOLDER%/1/spl/wm_wav89.SPL~  ~override/wm_wav89.SPL~
+  SAY NAME1 @30119
+COPY ~%MOD_FOLDER%/1/spl/wm_wavA9.SPL~  ~override/wm_wavA9.SPL~
+  SAY NAME1 @30119
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wav0A.SPL~  ~override/wm_wav0A.SPL~
+  SAY NAME1 @30120
+COPY ~%MOD_FOLDER%/1/spl/wm_wav9A.SPL~  ~override/wm_wav9A.SPL~
+  SAY NAME1 @30120
+
+COPY ~%MOD_FOLDER%/1/spl/wm_wavBL.SPL~  ~override/wm_wavBL.SPL~
+  SAY NAME1 @30122
+  SAY 0x21e @10101
+
+//----------------------------
+
+COPY ~%MOD_FOLDER%/1/spl/wm_shear.SPL~  ~override/wm_shear.SPL~    // Ability: "Weaveshear"
+  SAY NAME1 @30201
+  SAY 0x2a6 @10101
+  SAY 0x486 @10101
+  SAY 0x666 @10101
+  SAY 0x846 @10101
+  SAY 0xa26 @10101
+  SAY 0xc06 @10101
+  SAY 0xde6 @10101
+  SAY 0xfc6 @10101
+  WRITE_SHORT 0x098 ~%wm_cf_05%~
+  WRITE_SHORT 0x0c0 ~%wm_cf_10%~
+  WRITE_SHORT 0x0e8 ~%wm_cf_10%~
+  WRITE_SHORT 0x110 ~%wm_cf_10%~
+  WRITE_SHORT 0x138 ~%wm_cf_10%~
+  WRITE_SHORT 0x160 ~%wm_cf_10%~
+  WRITE_SHORT 0x188 ~%wm_cf_15%~
+  WRITE_SHORT 0x1B0 ~%wm_cf_15%~
+
+//----------------------------
+
+COPY ~%MOD_FOLDER%/1/spl/wm_shap.spl~  ~override/wm_shap.spl~    // Ability: "Shape Spell"
+  SAY NAME1 @30301
+COPY ~%MOD_FOLDER%/1/spl/wm_shapd.spl~  ~override/wm_shapd.spl~
+  SAY NAME1 @30302
+
+
+
+//--------------------------------------------------------------------------
+//               Items
+//--------------------------------------------------------------------------
+
+//------------------------------------------------------
+//   Inventory Filler Items
+
+COPY ~%MOD_FOLDER%/1/itm/wm_chaos.itm~ ~override/wm_chaos.itm~    // "Hand"
+  SAY NAME1 @40101              // L1: -1 / L2-8: -2 / L9: -1
+  SAY NAME2 @40101              // Level 1-3
+  SAY UNIDENTIFIED_DESC @40102
+  SAY DESC @40102
+
+COPY ~%MOD_FOLDER%/1/itm/wm_chao1.itm~ ~override/wm_chao1.itm~    // "Hand"
+  SAY NAME1 @40101              // L1-8: -2 / L9: -1
+  SAY NAME2 @40101              // Level 4-20
+  SAY UNIDENTIFIED_DESC @40102
+  SAY DESC @40102
+
+COPY ~%MOD_FOLDER%/1/itm/wm_chao2.itm~ ~override/wm_chao2.itm~    // "Hand"
+  SAY NAME1 @40101              // L1-9: -2
+  SAY NAME2 @40101              // Level 21-44
+  SAY UNIDENTIFIED_DESC @40102
+  SAY DESC @40102
+
+COPY ~%MOD_FOLDER%/1/itm/wm_chao3.itm~ ~override/wm_chao3.itm~    // "Hand"
+  SAY NAME1 @40101              // L1-7: -2 / L8+9: -1
+  SAY NAME2 @40101              // Level 45-50
+  SAY UNIDENTIFIED_DESC @40102
+  SAY DESC @40102
+
+COPY ~%MOD_FOLDER%/1/itm/wm_chao4.itm~ ~override/wm_chao4.itm~    // "Hand"
+  SAY NAME1 @40101              // L1-7: -2 / L8+9: -1
+  SAY NAME2 @40101              // Level 45-50
+  SAY UNIDENTIFIED_DESC @40102
+  SAY DESC @40102
+
+//-----------------------------------------------------------
+
+COPY ~%MOD_FOLDER%/1/itm/WM_SKULL.ITM~  ~override/WM_SKULL.ITM~    // "Skull Bomb"
+  SAY NAME1 @40201
+  SAY NAME2 @40201
+  SAY UNIDENTIFIED_DESC @40202
+  SAY DESC @40202
+
+COPY ~%MOD_FOLDER%/1/itm/WM_CAT.ITM~  ~override/WM_CAT.ITM~    // "Dead Cat"
+  SAY NAME1 @40301
+  SAY NAME2 @40301
+  SAY UNIDENTIFIED_DESC @40302
+  SAY DESC @40302
+
+
+//**************************************************************************************************
+
+//******************************************************
+//** ------------------------------------------------ **
+//**  (2)   SPELLSHAPER KIT - Avatar Change      **
+//** ------------------------------------------------ **
+//******************************************************
+BEGIN @3
+REQUIRE_COMPONENT "Setup-WildMage.TP2" "0" @20
+REQUIRE_COMPONENT "Setup-WildMage.TP2" "1" @30
+
+COMPILE ~%MOD_FOLDER%/2/baf/wm_chao1.BAF~
+
+
+
+//**************************************************************************************************
+
+//******************************************************
+//** ------------------------------------------------ **
+//**  (3)   Misc Spell Modifications             **
+//** ------------------------------------------------ **
+//******************************************************
+
+BEGIN @4
+COPY ~%MOD_FOLDER%/3/copy~ ~override~
+
+
+//******************************************************
+//** ------------------------------------------------ **
+//**  (4)   Stationary BG1-Rhialto (pansy-mode)  **
+//** ------------------------------------------------ **
+//******************************************************
+
+BEGIN @5
+REQUIRE_COMPONENT "Setup-WildMage.TP2" "0" @20
+
+
+//-----------------------------------------------------------------------------------
+// Rewrite baldur.bcs to prevent Rhialto from appearing after resting outside in BG1
+//-----------------------------------------------------------------------------------
+
+COPY_EXISTING ~baldur.bcs~ ~override~
+DECOMPILE_BCS_TO_BAF
+REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
+~Global("wm_start","GLOBAL",0)
+Global("ENDOFBG1","GLOBAL",2)
+!Global("wm_bgt","GLOBAL",2)~
+COMPILE_BAF_TO_BCS
+
+COPY_EXISTING ~baldur25.bcs~ ~override~
+DECOMPILE_BCS_TO_BAF
+REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
+~Global("wm_start","GLOBAL",0)
+Global("ENDOFBG1","GLOBAL",2)
+!Global("wm_bgt","GLOBAL",2)~
+COMPILE_BAF_TO_BCS
+
+EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/4/baf/BALDUR_ADDBGT.BAF~
+EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/4/baf/BALDUR_ADDBGT.BAF~
+
+
+//----------------------------------------------------------------
+//    Killing Rhialto in BG1 on your own terms gains only 2000 XP
+//----------------------------------------------------------------
+COPY ~%MOD_FOLDER%/0/cre/wm_rhia1.CRE~    ~override/wm_rhia3.CRE~    // Rhialto the Marvelous
+  WRITE_LONG 0x14 2000
+  SAY NAME1 @50101
+  SAY NAME2 @50102
+
+//-------------------------------------------------------------------------------------
+// Create Rhialto outside Candlekeeps wall and give scroll with a hint to Gorion's body
+//-------------------------------------------------------------------------------------
+
+COPY ~%MOD_FOLDER%/4/itm/wm_scrl.ITM~ ~override/wm_scrl.ITM~
+  SAY NAME1 @69998
+  SAY NAME2 @69998
+  SAY UNIDENTIFIED_DESC @69999
+  SAY DESC @69999
+
+
+ACTION_IF FILE_EXISTS ~DATA/BG1ARE.BIF~ THEN BEGIN      // Outside Candlekeep BGT
+
+EXTEND_TOP ~ar6526.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
+COPY_EXISTING ~Gorion.cre~ ~override~
+ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+
+END
+
+
+ACTION_IF FILE_EXISTS ~OVERRIDE/FW2700.ARE~ THEN BEGIN      // Outside Candlekeep BG1-TUTU
+
+EXTEND_TOP ~_AR2700.BCS~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
+COPY_EXISTING ~_GORION.CRE~ ~override~
+ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+
+END
