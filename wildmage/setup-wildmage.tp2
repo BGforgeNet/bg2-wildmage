@@ -1,5 +1,9 @@
 BACKUP ~wildmage/backup~
 AUTHOR ~jo.ge@gmx.net~
+VERSION ~v2~
+MODDER
+NO_IF_EVAL_BUG
+AUTO_EVAL_STRINGS
 
 LANGUAGE ~English~
          ~english~
@@ -23,7 +27,7 @@ LANGUAGE ~Francais (d'Oghmatiques)~
 
 //New Wild Magic Spells
 BEGIN @1
-REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~
+REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ ~Only ToB or EE engine supported.~
 INCLUDE ~%MOD_FOLDER%/components/spells/main.tph~
 
 //**************************************************************************************************
@@ -34,7 +38,7 @@ INCLUDE ~%MOD_FOLDER%/components/spells/main.tph~
 //** ------------------------------------------------ **
 //******************************************************
 BEGIN @2
-REQUIRE_COMPONENT "Setup-WildMage.TP2" "0" @20
+REQUIRE_COMPONENT "setup-wildmage.tp2" "0" @20
 
 //------------------------------------------------------
 //    Mod-start in Baldur.BCS
