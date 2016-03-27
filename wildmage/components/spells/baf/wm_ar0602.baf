@@ -4,5 +4,6 @@ THEN
   RESPONSE #100
     SetGlobal("wm_bg1book","GLOBAL",2)
     ActionOverride("Picture1",CreateItem("wm_sbook",0,0,0))
+    ActionOverride("Picture1",CreateItem("wm_bear",0,0,0))
     Continue()
 END
