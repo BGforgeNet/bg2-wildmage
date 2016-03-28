@@ -7,23 +7,23 @@ AUTO_EVAL_STRINGS
 
 LANGUAGE ~English~
          ~english~
-         ~%MOD_FOLDER%/tra/english/text.tra~
+         ~wildmage/tra/english/text.tra~
 
 LANGUAGE ~Deutsch~
          ~german~
-         ~%MOD_FOLDER%/tra/german/text.tra~
+         ~wildmage/tra/german/text.tra~
 
 LANGUAGE ~Polski (Maciek F)~
          ~polish~
-         ~%MOD_FOLDER%/tra/polish/text.tra~
+         ~wildmage/tra/polish/text.tra~
 
 LANGUAGE ~Russian (aerie.ru)~
          ~russian~
-         ~%MOD_FOLDER%/tra/russian/text.tra~
+         ~wildmage/tra/russian/text.tra~
 
 LANGUAGE ~Francais (d'Oghmatiques)~
          ~french~
-         ~%MOD_FOLDER%/tra/french/text.tra~
+         ~wildmage/tra/french/text.tra~
 
 //New Wild Magic Spells
 BEGIN @1
