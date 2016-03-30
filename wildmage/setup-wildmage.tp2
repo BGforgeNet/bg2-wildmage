@@ -125,14 +125,14 @@ COMPILE ~%MOD_FOLDER%/1/baf/wm_chao1.baf~
 COMPILE ~%MOD_FOLDER%/1/baf/wm_chaos.baf~
 
 
-COPY ~%MOD_FOLDER%/1/spl/wm_ACID.spl~  ~override/wm_ACID.spl~     // Acid Storm
+COPY ~%MOD_FOLDER%/1/spl/wm_acid.spl~  ~override/wm_acid.spl~     // Acid Storm
   SAY NAME1 @22301
   SAY UNIDENTIFIED_DESC @22302
 
 //-----------------------------------------------------------
 // Abilities
 
-COPY ~%MOD_FOLDER%/1/spl/wm_WEAVE.spl~  ~override/wm_WEAVE.spl~    // Ability: "Weave Spell"
+COPY ~%MOD_FOLDER%/1/spl/wm_weave.spl~  ~override/wm_weave.spl~    // Ability: "Weave Spell"
   SAY NAME1 @30101
 
 COPY ~%MOD_FOLDER%/1/spl/wm_wav01.spl~  ~override/wm_wav01.spl~
@@ -193,15 +193,15 @@ COPY ~%MOD_FOLDER%/1/spl/wm_wav09.spl~  ~override/wm_wav09.spl~
   SAY NAME1 @30119
 COPY ~%MOD_FOLDER%/1/spl/wm_wav89.spl~  ~override/wm_wav89.spl~
   SAY NAME1 @30119
-COPY ~%MOD_FOLDER%/1/spl/wm_wavA9.spl~  ~override/wm_wavA9.spl~
+COPY ~%MOD_FOLDER%/1/spl/wm_wava9.spl~  ~override/wm_wava9.spl~
   SAY NAME1 @30119
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav0A.spl~  ~override/wm_wav0A.spl~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav0a.spl~  ~override/wm_wav0a.spl~
   SAY NAME1 @30120
-COPY ~%MOD_FOLDER%/1/spl/wm_wav9A.spl~  ~override/wm_wav9A.spl~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav9a.spl~  ~override/wm_wav9a.spl~
   SAY NAME1 @30120
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wavBL.spl~  ~override/wm_wavBL.spl~
+COPY ~%MOD_FOLDER%/1/spl/wm_wavbl.spl~  ~override/wm_wavbl.spl~
   SAY NAME1 @30122
   SAY 0x21e @10101
 
@@ -274,13 +274,13 @@ COPY ~%MOD_FOLDER%/1/itm/wm_chao4.itm~ ~override/wm_chao4.itm~    // "Hand"
 
 //-----------------------------------------------------------
 
-COPY ~%MOD_FOLDER%/1/itm/wm_SKULL.itm~  ~override/wm_skull.itm~    // "Skull Bomb"
+COPY ~%MOD_FOLDER%/1/itm/wm_skull.itm~  ~override/wm_skull.itm~    // "Skull Bomb"
   SAY NAME1 @40201
   SAY NAME2 @40201
   SAY UNIDENTIFIED_DESC @40202
   SAY DESC @40202
 
-COPY ~%MOD_FOLDER%/1/itm/wm_CAT.itm~  ~override/wm_cat.itm~    // "Dead Cat"
+COPY ~%MOD_FOLDER%/1/itm/wm_cat.itm~  ~override/wm_cat.itm~    // "Dead Cat"
   SAY NAME1 @40301
   SAY NAME2 @40301
   SAY UNIDENTIFIED_DESC @40302
@@ -332,7 +332,7 @@ COPY_EXISTING ~baldur.bcs~ ~override~
 DECOMPILE_BCS_TO_BAF
 REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
 ~Global("wm_start","GLOBAL",0)
-Global("ENDOFBG1","GLOBAL",2)
+Global("endofbg1","GLOBAL",2)
 !Global("wm_bgt","GLOBAL",2)~
 COMPILE_BAF_TO_BCS
 
@@ -340,7 +340,7 @@ COPY_EXISTING ~baldur25.bcs~ ~override~
 DECOMPILE_BCS_TO_BAF
 REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
 ~Global("wm_start","GLOBAL",0)
-Global("ENDOFBG1","GLOBAL",2)
+Global("endofbg1","GLOBAL",2)
 !Global("wm_bgt","GLOBAL",2)~
 COMPILE_BAF_TO_BCS
 
@@ -366,14 +366,14 @@ COPY ~%MOD_FOLDER%/4/itm/wm_scrl.itm~ ~override/wm_scrl.itm~
   SAY UNIDENTIFIED_DESC @69999
   SAY DESC @69999
 
-ACTION_IF FILE_EXISTS ~data/bg1are.bif~ THEN BEGIN      // Outside Candlekeep BGT
+ACTION_IF FILE_EXISTS ~data/bg1are.bif~ BEGIN      // Outside Candlekeep BGT
   EXTEND_TOP ~ar6526.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
   COPY_EXISTING ~gorion.cre~ ~override~
     ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
   BUT_ONLY
 END
 
-ACTION_IF FILE_EXISTS ~override/fw2700.are~ THEN BEGIN      // Outside Candlekeep BG1-TUTU
+ACTION_IF FILE_EXISTS ~override/fw2700.are~ BEGIN      // Outside Candlekeep BG1-TUTU
   EXTEND_TOP ~_AR2700.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
   COPY_EXISTING ~_gorion.cre~ ~override~
     ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
