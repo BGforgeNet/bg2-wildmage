@@ -75,48 +75,48 @@ COPY ~%comp_dir%/spl/wm_blad1.spl~  ~override/wm_blad1.spl~
   SAY 0x1cd6 @10101
   SAY 0x2036 @10101
 
-COPY ~%comp_dir%/spl/WM_MISS.SPL~  ~override/WM_MISS.SPL~    // Wizard Spell: Rhialto's Random Missiles
+COPY ~%comp_dir%/spl/wm_miss.spl~  ~override/wm_miss.spl~    // Wizard Spell: Rhialto's Random Missiles
   SAY NAME1 @20601
   SAY UNIDENTIFIED_DESC @20602
 
-COPY ~%comp_dir%/spl/WM_GLYPH.SPL~  ~override/WM_GLYPH.SPL~    // Wizard Spell: Glyph of Wild Magic
+COPY ~%comp_dir%/spl/wm_glyph.spl~  ~override/wm_glyph.spl~    // Wizard Spell: Glyph of Wild Magic
   SAY NAME1 @20701
   SAY UNIDENTIFIED_DESC @20702
-COPY ~%comp_dir%/spl/WM_GLYPH.CRE~  ~override/WM_GLYPH.CRE~
+COPY ~%comp_dir%/spl/wm_glyph.cre~  ~override/wm_glyph.cre~
   SAY NAME1 @20711
   SAY NAME2 @20711
-COMPILE ~%comp_dir%/baf/WM_GLYPH.BAF~
+COMPILE ~%comp_dir%/baf/wm_glyph.baf~
 
-COPY ~%comp_dir%/spl/WM_LIGHT.SPL~  ~override/WM_LIGHT.SPL~    // Wizard Spell: Gymlainac's Lightbend
+COPY ~%comp_dir%/spl/wm_light.spl~  ~override/wm_light.spl~    // Wizard Spell: Gymlainac's Lightbend
   SAY NAME1 @20801
   SAY UNIDENTIFIED_DESC @20802
 
-COPY ~%comp_dir%/spl/WM_WORD.SPL~  ~override/WM_WORD.SPL~    // Wizard Spell: Vile Word of Discord
+COPY ~%comp_dir%/spl/wm_word.spl~  ~override/wm_word.spl~    // Wizard Spell: Vile Word of Discord
   SAY NAME1 @20901
   SAY UNIDENTIFIED_DESC @20902
 
-COPY ~%comp_dir%/spl/WM_HEAL.SPL~  ~override/WM_HEAL.SPL~    // Wizard Spell: Cellular Regeneration
+COPY ~%comp_dir%/spl/wm_heal.spl~  ~override/wm_heal.spl~    // Wizard Spell: Cellular Regeneration
   SAY NAME1 @21001
   SAY UNIDENTIFIED_DESC @21002
 
-COPY ~%comp_dir%/spl/WM_VORTX.SPL~  ~override/WM_VORTX.SPL~    // Wizard Spell: Vortex
+COPY ~%comp_dir%/spl/wm_vortx.spl~  ~override/wm_vortx.spl~    // Wizard Spell: Vortex
   SAY NAME1 @21101
   SAY UNIDENTIFIED_DESC @21102
-COPY ~%comp_dir%/spl/WM_VORTX.CRE~  ~override/WM_VORTX.CRE~
+COPY ~%comp_dir%/spl/wm_vortx.cre~  ~override/wm_vortx.cre~
   SAY NAME1 @21101
   SAY NAME2 @21101
 
-COPY ~%comp_dir%/spl/WM_LUCK.SPL~  ~override/WM_LUCK.SPL~    // Wizard Spell: Paithan's Lucky Streak
+COPY ~%comp_dir%/spl/wm_luck.spl~  ~override/wm_luck.spl~    // Wizard Spell: Paithan's Lucky Streak
   SAY NAME1 @21201
   SAY UNIDENTIFIED_DESC @21202
 
-COPY ~%comp_dir%/spl/WM_UNLK.SPL~  ~override/WM_UNLK.SPL~    // Wizard Spell: Paithan's Fiasco
+COPY ~%comp_dir%/spl/wm_unlk.spl~  ~override/wm_unlk.spl~    // Wizard Spell: Paithan's Fiasco
   SAY NAME1 @21301
   SAY UNIDENTIFIED_DESC @21302
-COPY ~%comp_dir%/spl/WM_UNLK1.SPL~      ~override/WM_UNLK1.SPL~
+COPY ~%comp_dir%/spl/wm_unlk1.spl~      ~override/wm_unlk1.spl~
   SAY 0x4be @21311
 
-COPY ~%comp_dir%/spl/WM_STRIK.SPL~  ~override/WM_STRIK.SPL~    // Wizard Spell: Wild Strike
+COPY ~%comp_dir%/spl/wm_strik.spl~  ~override/wm_strik.spl~    // Wizard Spell: Wild Strike
   SAY NAME1 @21401
   SAY UNIDENTIFIED_DESC @21402
   SAY 0x2be @10101
@@ -131,7 +131,7 @@ COPY ~%comp_dir%/spl/WM_STRIK.SPL~  ~override/WM_STRIK.SPL~    // Wizard Spell: 
   SAY 0x154e @10101
   SAY 0x175e @10101
 
-COPY ~%comp_dir%/spl/WM_DISP.SPL~  ~override/WM_DISP.SPL~    // Wizard Spell: Hornung's Random Dispatcher
+COPY ~%comp_dir%/spl/wm_disp.spl~  ~override/wm_disp.spl~    // Wizard Spell: Hornung's Random Dispatcher
   SAY NAME1 @21501
   SAY UNIDENTIFIED_DESC @21502
   SAY 0x1be @21511
@@ -174,22 +174,22 @@ COPY ~%comp_dir%/spl/WM_DISP.SPL~  ~override/WM_DISP.SPL~    // Wizard Spell: Ho
   SAY 0x8ae @21548
   SAY 0x8de @21549
   SAY 0x90e @21550
-COMPILE ~%comp_dir%/baf/WM_DISP.BAF~
+COMPILE ~%comp_dir%/baf/wm_disp.baf~
 
-COPY ~%comp_dir%/spl/WM_COW.SPL~  ~override/WM_COW.SPL~    // Wizard Spell: Summon Cow
+COPY ~%comp_dir%/spl/wm_cow.spl~  ~override/wm_cow.spl~    // Wizard Spell: Summon Cow
   SAY NAME1 @21601
   SAY UNIDENTIFIED_DESC @21602
 
-COPY ~%comp_dir%/spl/WM_RECUP.spl~  ~override/WM_RECUP.spl~   // Wizard Spell: Mynoc's Recuperation
+COPY ~%comp_dir%/spl/wm_recup.spl~  ~override/wm_recup.spl~   // Wizard Spell: Mynoc's Recuperation
   SAY NAME1 @21701
   SAY UNIDENTIFIED_DESC @21702
-COPY ~%comp_dir%/spl/WM_RECU1.spl~  ~override/WM_RECU1.spl~
+COPY ~%comp_dir%/spl/wm_recu1.spl~  ~override/wm_recu1.spl~
   SAY 0x1be @21711
   SAY 0x1ee @21712
   SAY 0x21e @21713
   SAY 0x24e @21714
 
-COPY ~%comp_dir%/spl/WM_EYE.SPL~  ~override/WM_EYE.SPL~    // Wizard Spell: Eye of the Beholder
+COPY ~%comp_dir%/spl/wm_eye.spl~  ~override/wm_eye.spl~    // Wizard Spell: Eye of the Beholder
   SAY NAME1 @21801
   SAY UNIDENTIFIED_DESC @21802
   SAY 0x25e @21811
@@ -197,35 +197,35 @@ COPY ~%comp_dir%/spl/WM_EYE.SPL~  ~override/WM_EYE.SPL~    // Wizard Spell: Eye 
   SAY 0x58e @21811
   SAY 0x76e @21811
   SAY 0x97e @21811
-COPY ~%comp_dir%/spl/WM_EYE1.SPL~  ~override/WM_EYE1.SPL~
+COPY ~%comp_dir%/spl/wm_eye1.spl~  ~override/wm_eye1.spl~
   SAY NAME1 @21803
 
-COPY ~%comp_dir%/spl/WM_SHLD.spl~       ~override/WM_SHLD.spl~     // Wizard Spell: Entropy Shield
+COPY ~%comp_dir%/spl/wm_shld.spl~       ~override/wm_shld.spl~     // Wizard Spell: Entropy Shield
   SAY NAME1 @21901
   SAY UNIDENTIFIED_DESC @21902
 
-COPY ~%comp_dir%/spl/WM_SPHR.spl~       ~override/WM_SPHR.spl~     // Wizard Spell: Wild Sphere
+COPY ~%comp_dir%/spl/wm_sphr.spl~       ~override/wm_sphr.spl~     // Wizard Spell: Wild Sphere
   SAY NAME1 @22001
   SAY UNIDENTIFIED_DESC @22002
   SAY 0x42e @10101
   WRITE_SHORT 0x098 ~%wm_cf_60%~
 
-COPY ~%comp_dir%/spl/WM_REINC.SPL~  ~override/WM_REINC.SPL~     // Rhialto's Marvelous Reincarnation
+COPY ~%comp_dir%/spl/wm_reinc.spl~  ~override/wm_reinc.spl~     // Rhialto's Marvelous Reincarnation
   SAY NAME1 @22101
   SAY UNIDENTIFIED_DESC @22102
 
 //v1.4
 
-COPY ~%comp_dir%/spl/WM_CHAOB.SPL~  ~override/WM_CHAOB.SPL~     // Wizard Spell: Entropy Burst
+COPY ~%comp_dir%/spl/wm_chaob.spl~  ~override/wm_chaob.spl~     // Wizard Spell: Entropy Burst
   SAY NAME1 @22201
   SAY UNIDENTIFIED_DESC @22202
   WRITE_SHORT 0x098 ~%wm_chaob%~
 
-COPY ~%comp_dir%/spl/WM_HORDE.SPL~  ~override/WM_HORDE.SPL~     // Wizard Spell: Summon Wild Horde
+COPY ~%comp_dir%/spl/wm_horde.spl~  ~override/wm_horde.spl~     // Wizard Spell: Summon Wild Horde
   SAY NAME1 @22401
   SAY UNIDENTIFIED_DESC @22402
 
-COPY ~%comp_dir%/spl/WM_LIQ.SPL~  ~override/WM_LIQ.SPL~     // Wizard Spell: Corporeal Instability
+COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Corporeal Instability
   SAY NAME1 @22501
   SAY UNIDENTIFIED_DESC @22502
 
@@ -257,7 +257,7 @@ COPY ~%comp_dir%/spl/wm_armor.spl~  ~override/wm_armor.spl~    // Wizard Spell: 
 //               Items
 //--------------------------------------------------------------------------
 
-COPY ~%comp_dir%/itm/WM_BEAR.ITM~  ~override/WM_BEAR.ITM~    // "Teddy Bear of Protection"
+COPY ~%comp_dir%/itm/wm_bear.itm~  ~override/wm_bear.itm~    // "Teddy Bear of Protection"
   SAY NAME1 @40401
   SAY UNIDENTIFIED_DESC @40402
   SAY NAME2 @40403
@@ -266,7 +266,7 @@ COPY ~%comp_dir%/itm/WM_BEAR.ITM~  ~override/WM_BEAR.ITM~    // "Teddy Bear of P
 //------------------------------------------------------
 //   Spellbook "Talking Item" with dialogue
 
-COPY ~%comp_dir%/itm/WM_SBOOK.itm~ ~override/WM_SBOOK.itm~
+COPY ~%comp_dir%/itm/wm_sbook.itm~ ~override/wm_sbook.itm~
   SAY NAME1 @40501
   SAY NAME2 @40501
   SAY UNIDENTIFIED_DESC @40502
@@ -275,8 +275,8 @@ COPY ~%comp_dir%/itm/WM_SBOOK.itm~ ~override/WM_SBOOK.itm~
 COMPILE ~%comp_dir%/dialog/wm_sbook.d~
   USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
 
-COPY_EXISTING ~ITEMDIAL.2da~ ~override/ITEMDIAL.2da~
-  APPEND_FILE ~%comp_dir%/dialog/ITEMDIAL_ADD.TXT~
+COPY_EXISTING ~itemdial.2da~ ~override/itemdial.2da~
+  APPEND_FILE ~%comp_dir%/dialog/itemdial_add.txt~
   REPLACE ~_READ_~ @40511
 
 
@@ -287,37 +287,34 @@ COPY_EXISTING ~ITEMDIAL.2da~ ~override/ITEMDIAL.2da~
 COMPILE ~%comp_dir%/dialog/wm_rhia.d~
   USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
 
-COMPILE ~%comp_dir%/baf/wm_rhia1.BAF~
+COMPILE ~%comp_dir%/baf/wm_rhia1.baf~
 
-COPY ~%comp_dir%/cre/wm_rhia1.CRE~    ~override/wm_rhia1.CRE~    // Rhialto the Marvelous
+COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the Marvelous
   SAY NAME1 @50101
   SAY NAME2 @50102
 
-COPY ~%comp_dir%/cre/wm_rhia2.CRE~    ~override/wm_rhia2.CRE~    // Rhialto the <Spoiler>
+COPY ~%comp_dir%/cre/wm_rhia2.cre~    ~override/wm_rhia2.cre~    // Rhialto the <Spoiler>
   SAY NAME1 @50101
   SAY NAME2 @50102
 
-COPY ~%comp_dir%/spl/WM_RHIA1.SPL~    ~override/WM_RHIA1.SPL~    // Rhialto's special Vortex
+COPY ~%comp_dir%/spl/wm_rhia1.spl~    ~override/wm_rhia1.spl~    // Rhialto's special Vortex
   SAY NAME1 @21101
   SAY UNIDENTIFIED_DESC @21102
   SAY 0x9e @50111
 
-COPY ~%comp_dir%/spl/WM_GLPH.SPL~    ~override/WM_GLPH.SPL~    // Rhialto's Hostile Glyph of WM
+COPY ~%comp_dir%/spl/wm_glph.spl~    ~override/wm_glph.spl~    // Rhialto's Hostile Glyph of WM
   SAY NAME1 @20701
   SAY UNIDENTIFIED_DESC @20702
-COPY ~%comp_dir%/spl/WM_GLPH.CRE~    ~override/WM_GLPH.CRE~
+COPY ~%comp_dir%/spl/wm_glph.cre~    ~override/wm_glph.cre~
   SAY NAME1 @20711
   SAY NAME2 @20711
 
-
 //-----------------------------------------------------------------
-// BGT Compatibility (Retain Spellbook on Transfer from BG1 to BG2)
+// BGT Compatibility (Retain Spellbook and Teddy bear on transfer from BG1 to BG2)
 //-----------------------------------------------------------------
 
-ACTION_IF FILE_EXISTS ~DATA/BG1ARE.BIF~ THEN BEGIN
-
-COPY_EXISTING ~ARAM00.BCS~ ~override~
-  REPLACE_BCS_BLOCK ~%comp_dir%/baf/owm_aram00.baf~ ~%comp_dir%/baf/nwm_aram00.baf~
-EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/baf/wm_ar0602.baf~
-
+ACTION_IF FILE_EXISTS ~data/bg1are.bif~ THEN BEGIN
+  COPY_EXISTING ~aram00.bcs~ ~override~
+    REPLACE_BCS_BLOCK ~%comp_dir%/baf/owm_aram00.baf~ ~%comp_dir%/baf/nwm_aram00.baf~
+  EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/baf/wm_ar0602.baf~
 END

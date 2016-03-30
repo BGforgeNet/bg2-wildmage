@@ -1,7 +1,7 @@
 BACKUP ~wildmage/backup~
 AUTHOR ~jo.ge@gmx.net~
-VERSION ~v2~
-MODDER
+VERSION ~v2.beta~
+//MODDER
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 
@@ -25,8 +25,8 @@ LANGUAGE ~Francais (d'Oghmatiques)~
          ~french~
          ~wildmage/tra/french/text.tra~
 
-//New Wild Magic Spells
-BEGIN @1
+
+BEGIN @1 //New Wild Magic Spells
 REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ ~Only ToB or EE engine supported.~
 INCLUDE ~%MOD_FOLDER%/components/spells/main.tph~
 
@@ -41,10 +41,10 @@ BEGIN @2
 REQUIRE_COMPONENT "setup-wildmage.tp2" "0" @20
 
 //------------------------------------------------------
-//    Mod-start in Baldur.BCS
+//    Mod-start in Baldur.bcs
 //------------------------------------------------------
-EXTEND_BOTTOM ~baldur.bcs~ ~%MOD_FOLDER%/1/baf/BALDUR_ADD.BAF~
-EXTEND_BOTTOM ~baldur25.bcs~ ~%MOD_FOLDER%/1/baf/BALDUR_ADD.BAF~
+EXTEND_BOTTOM ~baldur.bcs~ ~%MOD_FOLDER%/1/baf/baldur_add.baf~
+EXTEND_BOTTOM ~baldur25.bcs~ ~%MOD_FOLDER%/1/baf/baldur_add.baf~
 
 //------------------------------------------------------
 //   Spellbook now contains "Rhialto's Chaos Conduit"
@@ -121,93 +121,93 @@ COPY ~%MOD_FOLDER%/1/spl/wm_chaos.spl~  ~override/wm_chaos.spl~    // "Chaos Con
 COPY ~%MOD_FOLDER%/1/spl/wm_chao.spl~  ~override/wm_chao.spl~    // (Permanent Spellshaper Abilities)
   SAY 0x1ee @20103
   SAY 0x21e @20103
-COMPILE ~%MOD_FOLDER%/1/baf/wm_chao1.BAF~
-COMPILE ~%MOD_FOLDER%/1/baf/wm_chaos.BAF~
+COMPILE ~%MOD_FOLDER%/1/baf/wm_chao1.baf~
+COMPILE ~%MOD_FOLDER%/1/baf/wm_chaos.baf~
 
 
-COPY ~%MOD_FOLDER%/1/spl/WM_ACID.SPL~  ~override/WM_ACID.SPL~     // Acid Storm
+COPY ~%MOD_FOLDER%/1/spl/wm_ACID.spl~  ~override/wm_ACID.spl~     // Acid Storm
   SAY NAME1 @22301
   SAY UNIDENTIFIED_DESC @22302
 
 //-----------------------------------------------------------
 // Abilities
 
-COPY ~%MOD_FOLDER%/1/spl/WM_WEAVE.SPL~  ~override/WM_WEAVE.SPL~    // Ability: "Weave Spell"
+COPY ~%MOD_FOLDER%/1/spl/wm_WEAVE.spl~  ~override/wm_WEAVE.spl~    // Ability: "Weave Spell"
   SAY NAME1 @30101
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav01.SPL~  ~override/wm_wav01.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav01.spl~  ~override/wm_wav01.spl~
   SAY NAME1 @30111
-COPY ~%MOD_FOLDER%/1/spl/wm_wav21.SPL~  ~override/wm_wav21.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav21.spl~  ~override/wm_wav21.spl~
   SAY NAME1 @30111
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav02.SPL~  ~override/wm_wav02.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav02.spl~  ~override/wm_wav02.spl~
   SAY NAME1 @30112
-COPY ~%MOD_FOLDER%/1/spl/wm_wav12.SPL~  ~override/wm_wav12.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav12.spl~  ~override/wm_wav12.spl~
   SAY NAME1 @30112
-COPY ~%MOD_FOLDER%/1/spl/wm_wav32.SPL~  ~override/wm_wav32.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav32.spl~  ~override/wm_wav32.spl~
   SAY NAME1 @30112
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav03.SPL~  ~override/wm_wav03.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav03.spl~  ~override/wm_wav03.spl~
   SAY NAME1 @30113
-COPY ~%MOD_FOLDER%/1/spl/wm_wav23.SPL~  ~override/wm_wav23.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav23.spl~  ~override/wm_wav23.spl~
   SAY NAME1 @30113
-COPY ~%MOD_FOLDER%/1/spl/wm_wav43.SPL~  ~override/wm_wav43.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav43.spl~  ~override/wm_wav43.spl~
   SAY NAME1 @30113
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav04.SPL~  ~override/wm_wav04.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav04.spl~  ~override/wm_wav04.spl~
   SAY NAME1 @30114
-COPY ~%MOD_FOLDER%/1/spl/wm_wav34.SPL~  ~override/wm_wav34.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav34.spl~  ~override/wm_wav34.spl~
   SAY NAME1 @30114
-COPY ~%MOD_FOLDER%/1/spl/wm_wav54.SPL~  ~override/wm_wav54.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav54.spl~  ~override/wm_wav54.spl~
   SAY NAME1 @30114
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav05.SPL~  ~override/wm_wav05.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav05.spl~  ~override/wm_wav05.spl~
   SAY NAME1 @30115
-COPY ~%MOD_FOLDER%/1/spl/wm_wav45.SPL~  ~override/wm_wav45.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav45.spl~  ~override/wm_wav45.spl~
   SAY NAME1 @30115
-COPY ~%MOD_FOLDER%/1/spl/wm_wav65.SPL~  ~override/wm_wav65.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav65.spl~  ~override/wm_wav65.spl~
   SAY NAME1 @30115
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav06.SPL~  ~override/wm_wav06.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav06.spl~  ~override/wm_wav06.spl~
   SAY NAME1 @30116
-COPY ~%MOD_FOLDER%/1/spl/wm_wav56.SPL~  ~override/wm_wav56.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav56.spl~  ~override/wm_wav56.spl~
   SAY NAME1 @30116
-COPY ~%MOD_FOLDER%/1/spl/wm_wav76.SPL~  ~override/wm_wav76.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav76.spl~  ~override/wm_wav76.spl~
   SAY NAME1 @30116
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav07.SPL~  ~override/wm_wav07.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav07.spl~  ~override/wm_wav07.spl~
   SAY NAME1 @30117
-COPY ~%MOD_FOLDER%/1/spl/wm_wav67.SPL~  ~override/wm_wav67.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav67.spl~  ~override/wm_wav67.spl~
   SAY NAME1 @30117
-COPY ~%MOD_FOLDER%/1/spl/wm_wav87.SPL~  ~override/wm_wav87.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav87.spl~  ~override/wm_wav87.spl~
   SAY NAME1 @30117
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav08.SPL~  ~override/wm_wav08.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav08.spl~  ~override/wm_wav08.spl~
   SAY NAME1 @30118
-COPY ~%MOD_FOLDER%/1/spl/wm_wav78.SPL~  ~override/wm_wav78.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav78.spl~  ~override/wm_wav78.spl~
   SAY NAME1 @30118
-COPY ~%MOD_FOLDER%/1/spl/wm_wav98.SPL~  ~override/wm_wav98.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav98.spl~  ~override/wm_wav98.spl~
   SAY NAME1 @30118
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav09.SPL~  ~override/wm_wav09.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav09.spl~  ~override/wm_wav09.spl~
   SAY NAME1 @30119
-COPY ~%MOD_FOLDER%/1/spl/wm_wav89.SPL~  ~override/wm_wav89.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav89.spl~  ~override/wm_wav89.spl~
   SAY NAME1 @30119
-COPY ~%MOD_FOLDER%/1/spl/wm_wavA9.SPL~  ~override/wm_wavA9.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wavA9.spl~  ~override/wm_wavA9.spl~
   SAY NAME1 @30119
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wav0A.SPL~  ~override/wm_wav0A.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav0A.spl~  ~override/wm_wav0A.spl~
   SAY NAME1 @30120
-COPY ~%MOD_FOLDER%/1/spl/wm_wav9A.SPL~  ~override/wm_wav9A.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wav9A.spl~  ~override/wm_wav9A.spl~
   SAY NAME1 @30120
 
-COPY ~%MOD_FOLDER%/1/spl/wm_wavBL.SPL~  ~override/wm_wavBL.SPL~
+COPY ~%MOD_FOLDER%/1/spl/wm_wavBL.spl~  ~override/wm_wavBL.spl~
   SAY NAME1 @30122
   SAY 0x21e @10101
 
 //----------------------------
 
-COPY ~%MOD_FOLDER%/1/spl/wm_shear.SPL~  ~override/wm_shear.SPL~    // Ability: "Weaveshear"
+COPY ~%MOD_FOLDER%/1/spl/wm_shear.spl~  ~override/wm_shear.spl~    // Ability: "Weaveshear"
   SAY NAME1 @30201
   SAY 0x2a6 @10101
   SAY 0x486 @10101
@@ -274,13 +274,13 @@ COPY ~%MOD_FOLDER%/1/itm/wm_chao4.itm~ ~override/wm_chao4.itm~    // "Hand"
 
 //-----------------------------------------------------------
 
-COPY ~%MOD_FOLDER%/1/itm/WM_SKULL.ITM~  ~override/WM_SKULL.ITM~    // "Skull Bomb"
+COPY ~%MOD_FOLDER%/1/itm/wm_SKULL.itm~  ~override/wm_skull.itm~    // "Skull Bomb"
   SAY NAME1 @40201
   SAY NAME2 @40201
   SAY UNIDENTIFIED_DESC @40202
   SAY DESC @40202
 
-COPY ~%MOD_FOLDER%/1/itm/WM_CAT.ITM~  ~override/WM_CAT.ITM~    // "Dead Cat"
+COPY ~%MOD_FOLDER%/1/itm/wm_CAT.itm~  ~override/wm_cat.itm~    // "Dead Cat"
   SAY NAME1 @40301
   SAY NAME2 @40301
   SAY UNIDENTIFIED_DESC @40302
@@ -295,10 +295,10 @@ COPY ~%MOD_FOLDER%/1/itm/WM_CAT.ITM~  ~override/WM_CAT.ITM~    // "Dead Cat"
 //** ------------------------------------------------ **
 //******************************************************
 BEGIN @3
-REQUIRE_COMPONENT "Setup-WildMage.TP2" "0" @20
-REQUIRE_COMPONENT "Setup-WildMage.TP2" "1" @30
+REQUIRE_COMPONENT "setup-wildmage.tp2" "0" @20
+REQUIRE_COMPONENT "setup-wildmage.tp2" "1" @30
 
-COMPILE ~%MOD_FOLDER%/2/baf/wm_chao1.BAF~
+COMPILE ~%MOD_FOLDER%/2/baf/wm_chao1.baf~
 
 
 
@@ -321,7 +321,7 @@ COPY ~%MOD_FOLDER%/3/copy~ ~override~
 //******************************************************
 
 BEGIN @5
-REQUIRE_COMPONENT "Setup-WildMage.TP2" "0" @20
+REQUIRE_COMPONENT "setup-wildmage.tp2" "0" @20
 
 
 //-----------------------------------------------------------------------------------
@@ -344,14 +344,14 @@ Global("ENDOFBG1","GLOBAL",2)
 !Global("wm_bgt","GLOBAL",2)~
 COMPILE_BAF_TO_BCS
 
-EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/4/baf/BALDUR_ADDBGT.BAF~
-EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/4/baf/BALDUR_ADDBGT.BAF~
+EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/4/baf/baldur_addbgt.baf~
+EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/4/baf/baldur_addbgt.baf~
 
 
 //----------------------------------------------------------------
 //    Killing Rhialto in BG1 on your own terms gains only 2000 XP
 //----------------------------------------------------------------
-COPY ~%MOD_FOLDER%/0/cre/wm_rhia1.CRE~    ~override/wm_rhia3.CRE~    // Rhialto the Marvelous
+COPY ~%MOD_FOLDER%/0/cre/wm_rhia1.cre~    ~override/wm_rhia3.cre~    // Rhialto the Marvelous
   WRITE_LONG 0x14 2000
   SAY NAME1 @50101
   SAY NAME2 @50102
@@ -360,26 +360,22 @@ COPY ~%MOD_FOLDER%/0/cre/wm_rhia1.CRE~    ~override/wm_rhia3.CRE~    // Rhialto 
 // Create Rhialto outside Candlekeeps wall and give scroll with a hint to Gorion's body
 //-------------------------------------------------------------------------------------
 
-COPY ~%MOD_FOLDER%/4/itm/wm_scrl.ITM~ ~override/wm_scrl.ITM~
+COPY ~%MOD_FOLDER%/4/itm/wm_scrl.itm~ ~override/wm_scrl.itm~
   SAY NAME1 @69998
   SAY NAME2 @69998
   SAY UNIDENTIFIED_DESC @69999
   SAY DESC @69999
 
-
-ACTION_IF FILE_EXISTS ~DATA/BG1ARE.BIF~ THEN BEGIN      // Outside Candlekeep BGT
-
-EXTEND_TOP ~ar6526.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
-COPY_EXISTING ~Gorion.cre~ ~override~
-ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
-
+ACTION_IF FILE_EXISTS ~data/bg1are.bif~ THEN BEGIN      // Outside Candlekeep BGT
+  EXTEND_TOP ~ar6526.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
+  COPY_EXISTING ~gorion.cre~ ~override~
+    ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+  BUT_ONLY
 END
 
-
-ACTION_IF FILE_EXISTS ~OVERRIDE/FW2700.ARE~ THEN BEGIN      // Outside Candlekeep BG1-TUTU
-
-EXTEND_TOP ~_AR2700.BCS~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
-COPY_EXISTING ~_GORION.CRE~ ~override~
-ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
-
+ACTION_IF FILE_EXISTS ~override/fw2700.are~ THEN BEGIN      // Outside Candlekeep BG1-TUTU
+  EXTEND_TOP ~_AR2700.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
+  COPY_EXISTING ~_gorion.cre~ ~override~
+    ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+  BUT_ONLY
 END
