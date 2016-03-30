@@ -13,7 +13,7 @@ LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~wildmage/tra/french/text.tra~
 
 BEGIN @1 //New Wild Magic Spells
 REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ ~Only ToB or EE engine supported.~
-INCLUDE ~%MOD_FOLDER%/components/spells/main.tph~
+INCLUDE ~%MOD_FOLDER%/components/wild_spells/main.tph~
 
 BEGIN @2 //Spellshaper kit
 REQUIRE_COMPONENT "wildmage.tp2" "0" @20
@@ -34,17 +34,8 @@ REQUIRE_COMPONENT "wildmage.tp2" "1" @30
 COMPILE ~%MOD_FOLDER%/2/baf/wm_chao1.baf~
 
 
-
-//**************************************************************************************************
-
-//******************************************************
-//** ------------------------------------------------ **
-//**  (3)   Misc Spell Modifications             **
-//** ------------------------------------------------ **
-//******************************************************
-
-BEGIN @4
-COPY ~%MOD_FOLDER%/3/copy~ ~override~
+BEGIN @4 //Misc Spell Modifications
+COPY ~%MOD_FOLDER%/components/misc_spells/copy~ ~override~
 
 
 //******************************************************
