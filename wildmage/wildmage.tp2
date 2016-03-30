@@ -11,95 +11,34 @@ LANGUAGE ~Polski (Maciek F)~ ~polish~ ~wildmage/tra/polish/text.tra~
 LANGUAGE ~Russian (aerie.ru)~ ~russian~ ~wildmage/tra/russian/text.tra~
 LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~wildmage/tra/french/text.tra~
 
-BEGIN @1 //New Wild Magic Spells
-REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ ~Only ToB or EE engine supported.~
+
+BEGIN @60 //Ironman
+SUBCOMPONENT @1 //New Wild Magic Spells
+REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62 //Only ToB or EE engine supported
+OUTER_SET pansy = 0
 INCLUDE ~%MOD_FOLDER%/components/wild_spells/main.tph~
 
-BEGIN @2 //Spellshaper kit
-REQUIRE_COMPONENT "wildmage.tp2" "0" @20
+BEGIN @61 //Haughty pansy
+SUBCOMPONENT @1
+REQUIRE_PREDICATE (ENGINE_IS ~tob bgee bg2ee eet iwdee~ AND GAME_IS ~tutu tutu_totsc bgt eet~) @62
+OUTER_SET pansy = 1
+INCLUDE ~%MOD_FOLDER%/components/wild_spells/main.tph~
+
+
+
+BEGIN @63 //Original avatar
+SUBCOMPONENT @2 //Spellshaper kit
+REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20 //You must have "New Wild Magic Spells" installed!
+OUTER_SET avatar = 0
 INCLUDE ~%MOD_FOLDER%/components/shaper_kit/main.tph~
 
+BEGIN @64 //Changed avatar
+SUBCOMPONENT @2
+REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20
+OUTER_SET avatar = 1
+INCLUDE ~%MOD_FOLDER%/components/shaper_kit/main.tph~
 
-//**************************************************************************************************
-
-//******************************************************
-//** ------------------------------------------------ **
-//**  (2)   SPELLSHAPER KIT - Avatar Change      **
-//** ------------------------------------------------ **
-//******************************************************
-BEGIN @3
-REQUIRE_COMPONENT "wildmage.tp2" "0" @20
-REQUIRE_COMPONENT "wildmage.tp2" "1" @30
-
-COMPILE ~%MOD_FOLDER%/2/baf/wm_chao1.baf~
 
 
 BEGIN @4 //Misc Spell Modifications
 COPY ~%MOD_FOLDER%/components/misc_spells/copy~ ~override~
-
-
-//******************************************************
-//** ------------------------------------------------ **
-//**  (4)   Stationary BG1-Rhialto (pansy-mode)  **
-//** ------------------------------------------------ **
-//******************************************************
-
-BEGIN @5
-REQUIRE_COMPONENT "wildmage.tp2" "0" @20
-
-
-//-----------------------------------------------------------------------------------
-// Rewrite baldur.bcs to prevent Rhialto from appearing after resting outside in BG1
-//-----------------------------------------------------------------------------------
-
-COPY_EXISTING ~baldur.bcs~ ~override~
-DECOMPILE_BCS_TO_BAF
-REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
-~Global("wm_start","GLOBAL",0)
-Global("endofbg1","GLOBAL",2)
-!Global("wm_bgt","GLOBAL",2)~
-COMPILE_BAF_TO_BCS
-
-COPY_EXISTING ~baldur25.bcs~ ~override~
-DECOMPILE_BCS_TO_BAF
-REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
-~Global("wm_start","GLOBAL",0)
-Global("endofbg1","GLOBAL",2)
-!Global("wm_bgt","GLOBAL",2)~
-COMPILE_BAF_TO_BCS
-
-EXTEND_TOP ~baldur.bcs~ ~%MOD_FOLDER%/4/baf/baldur_addbgt.baf~
-EXTEND_TOP ~baldur25.bcs~ ~%MOD_FOLDER%/4/baf/baldur_addbgt.baf~
-
-
-//----------------------------------------------------------------
-//    Killing Rhialto in BG1 on your own terms gains only 2000 XP
-//----------------------------------------------------------------
-COPY ~%MOD_FOLDER%/0/cre/wm_rhia1.cre~    ~override/wm_rhia3.cre~    // Rhialto the Marvelous
-  WRITE_LONG 0x14 2000
-  SAY NAME1 @50101
-  SAY NAME2 @50102
-
-//-------------------------------------------------------------------------------------
-// Create Rhialto outside Candlekeeps wall and give scroll with a hint to Gorion's body
-//-------------------------------------------------------------------------------------
-
-COPY ~%MOD_FOLDER%/4/itm/wm_scrl.itm~ ~override/wm_scrl.itm~
-  SAY NAME1 @69998
-  SAY NAME2 @69998
-  SAY UNIDENTIFIED_DESC @69999
-  SAY DESC @69999
-
-ACTION_IF FILE_EXISTS ~data/bg1are.bif~ BEGIN      // Outside Candlekeep BGT
-  EXTEND_TOP ~ar6526.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
-  COPY_EXISTING ~gorion.cre~ ~override~
-    ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
-  BUT_ONLY
-END
-
-ACTION_IF FILE_EXISTS ~override/fw2700.are~ BEGIN      // Outside Candlekeep BG1-TUTU
-  EXTEND_TOP ~_ar2700.bcs~ ~%MOD_FOLDER%/4/baf/wm_bgt.baf~
-  COPY_EXISTING ~_gorion.cre~ ~override~
-    ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
-  BUT_ONLY
-END

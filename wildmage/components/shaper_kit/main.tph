@@ -1,4 +1,4 @@
-OUTER_SPRINT comp_dir ~%MOD_FOLDER%/components/spells~ //component directory
+OUTER_SPRINT comp_dir ~%MOD_FOLDER%/components/shaper_kit~ //component directory
 
 //------------------------------------------------------
 //    Mod-start in Baldur.bcs
@@ -81,7 +81,13 @@ COPY ~%comp_dir%/spl/wm_chaos.spl~  ~override/wm_chaos.spl~    // "Chaos Conduit
 COPY ~%comp_dir%/spl/wm_chao.spl~  ~override/wm_chao.spl~    // (Permanent Spellshaper Abilities)
   SAY 0x1ee @20103
   SAY 0x21e @20103
-COMPILE ~%comp_dir%/baf/wm_chao1.baf~
+
+//Change avatar?
+ACTION_IF avatar == 0 BEGIN
+  COMPILE ~%comp_dir%/baf/noavatar/wm_chao1.baf~
+END ELSE BEGIN
+  COMPILE ~%comp_dir%/baf/avatar/wm_chao1.baf~
+END
 COMPILE ~%comp_dir%/baf/wm_chaos.baf~
 
 
