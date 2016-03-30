@@ -38,7 +38,7 @@ INCLUDE ~%MOD_FOLDER%/components/spells/main.tph~
 //** ------------------------------------------------ **
 //******************************************************
 BEGIN @2
-REQUIRE_COMPONENT "setup-wildmage.tp2" "0" @20
+REQUIRE_COMPONENT "wildmage.tp2" "0" @20
 
 //------------------------------------------------------
 //    Mod-start in Baldur.bcs
@@ -295,8 +295,8 @@ COPY ~%MOD_FOLDER%/1/itm/wm_cat.itm~  ~override/wm_cat.itm~    // "Dead Cat"
 //** ------------------------------------------------ **
 //******************************************************
 BEGIN @3
-REQUIRE_COMPONENT "setup-wildmage.tp2" "0" @20
-REQUIRE_COMPONENT "setup-wildmage.tp2" "1" @30
+REQUIRE_COMPONENT "wildmage.tp2" "0" @20
+REQUIRE_COMPONENT "wildmage.tp2" "1" @30
 
 COMPILE ~%MOD_FOLDER%/2/baf/wm_chao1.baf~
 
@@ -321,7 +321,7 @@ COPY ~%MOD_FOLDER%/3/copy~ ~override~
 //******************************************************
 
 BEGIN @5
-REQUIRE_COMPONENT "setup-wildmage.tp2" "0" @20
+REQUIRE_COMPONENT "wildmage.tp2" "0" @20
 
 
 //-----------------------------------------------------------------------------------
