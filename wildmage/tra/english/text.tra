@@ -19,6 +19,7 @@
 @62 = ~Only ToB and EE engines are supported~
 @63 = ~Original avatar~
 @64 = ~Changed avatar~
+@65 = ~Requires BGT/TuTu~
 //------------------------------------------------------------------------------------------------------
 //  MISC
 //------------------------------------------------------------------------------------------------------
@@ -162,8 +163,8 @@ The advantages of Random Spell are the casting time which is always 1, the range
 // ----------------------------
 // Weird Spell: Blade Shower
 // ----------------------------
-// WM_BLADE.SPL  / WM_BLAD1.SPL
-// WM_BLADB.BAM  / WM_BLADC.BAM
+// wm_blade.spl  / wm_bld1.spl
+// wm_bladb.bam  / wm_bladc.bam
 // ----------------------------
 @20501 = ~Blade Shower~ 
 @20502 = ~Blade Shower* (Conjuration) 
@@ -176,9 +177,11 @@ Saving Throw: Special
 
 The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.
 
-Each single dagger does 1d4 points of piercing damage. At level 5, the daggers are considered as +1 weapons for determining damage bonus and if a creature can be struck. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.
+Each single dagger does 1d4 points of piercing damage. At level 5, the daggers get +1 damage bonus. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.
 
-The daggers, being made of raw chaos stuff, bypass all physical and magical defenses and thus always strike the target. Nonetheless, the the caster must make an attack roll for each single dagger to determine a critical miss or hit. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
+The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.
+
+Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
 
 @20511 = ~"Blade Shower" has been added to your Special Abilities menu~
 

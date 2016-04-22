@@ -63,7 +63,7 @@ COPY ~%comp_dir%/spl/wm_blade.spl~  ~override/wm_blade.spl~    // Wizard Spell: 
   SAY 0x58e @20511
   SAY 0x76e @20511
   SAY 0x97e @20511
-COPY ~%comp_dir%/spl/wm_blad1.spl~  ~override/wm_blad1.spl~
+COPY ~%comp_dir%/spl/wm_bld1.spl~  ~override/wm_bld1.spl~
   SAY NAME1 @20501
   SAY 0x536 @10101
   SAY 0x896 @10101
@@ -74,6 +74,19 @@ COPY ~%comp_dir%/spl/wm_blad1.spl~  ~override/wm_blad1.spl~
   SAY 0x1976 @10101
   SAY 0x1cd6 @10101
   SAY 0x2036 @10101
+  GET_OFFSET_ARRAY ab_array SPL_V10_HEADERS
+  PHP_EACH ab_array AS int => ab_off BEGIN
+    GET_OFFSET_ARRAY2 fx_array ab_off SPL_V10_HEAD_EFFECTS
+    PHP_EACH fx_array AS int => fx_off BEGIN
+      READ_SHORT fx_off fx_opcode
+      PATCH_PRINT ~header %int%, opcode %fx_opcode%~
+      PATCH_IF fx_opcode = 12 BEGIN //damage
+        WRITE_BYTE (fx_off+3) 10 //power
+      END
+    END
+  END
+  WRITE_SHORT 0x18 (THIS BOR 0b1100000000000000) //ignore spell failure and wild surge, only need second byte
+
 
 COPY ~%comp_dir%/spl/wm_miss.spl~  ~override/wm_miss.spl~    // Wizard Spell: Rhialto's Random Missiles
   SAY NAME1 @20601

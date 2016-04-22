@@ -1,0 +1,1 @@
+Fix probabilities for Blade Shower: should be in 0-99 range.
