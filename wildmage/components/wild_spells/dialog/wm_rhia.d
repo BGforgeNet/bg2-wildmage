@@ -7,13 +7,13 @@ BEGIN WM_RHIA
 
 IF ~Global("wm_start","GLOBAL",1)~ 100
   SAY @100 = @101 = @102 = @103
-  IF ~~ THEN DO ~Enemy()~ EXIT
+  IF ~~ DO ~Enemy()~ EXIT
 END
 
 IF
   ~!Global("wm_start","GLOBAL",1)~ 110
   SAY @110 = @111 
-  IF ~~ THEN DO ~
+  IF ~~ DO ~
     DestroyItem("WM_SBOOK")
     DestroyItem("WM_BEAR")
     TakePartyItem("WM_SBOOK")
