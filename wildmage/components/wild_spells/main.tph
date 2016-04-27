@@ -79,7 +79,6 @@ COPY ~%comp_dir%/spl/wm_bld1.spl~  ~override/wm_bld1.spl~
     GET_OFFSET_ARRAY2 fx_array ab_off SPL_V10_HEAD_EFFECTS
     PHP_EACH fx_array AS int => fx_off BEGIN
       READ_SHORT fx_off fx_opcode
-      PATCH_PRINT ~header %int%, opcode %fx_opcode%~
       PATCH_IF fx_opcode = 12 BEGIN //damage
         WRITE_BYTE (fx_off+3) 10 //power
       END
