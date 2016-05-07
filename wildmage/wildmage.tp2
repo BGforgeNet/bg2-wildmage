@@ -1,6 +1,6 @@
 BACKUP ~wildmage/backup~
-AUTHOR ~jo.ge@gmx.net~
-VERSION ~v2.beta~
+AUTHOR ~https://github.com/burner1024/bg2-wildmage/issues~
+VERSION ~v2.beta1~
 //MODDER
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
