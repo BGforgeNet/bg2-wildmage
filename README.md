@@ -23,7 +23,7 @@ See [original readme](wildmage/docs/readme.txt) for details.
  - Allow Teddy bear to be transferred upon BG1>BG2 transition
  - Fix Rodent/Ratatosk shape: power, dispell/bypass, AC bonus, paw enchantment, description
  - Fix Random spell X description
- - Fix wm_rhia1.cre spell slots/levels
+ - Fix Rhialto's spell slots/levels
  - Fix Blade shower: no permanent daggers, bypass magic protections such as GoI, clarify description, disable wild surges/spell failure for created daggers
  - Under the hood: dos2unix, lowercase, split components into multiple files, use newer weidu syntax, shorten where possible, streamline scripts handling Rhialto appearance and items transfer, make MacOS/Linux friendly
 - 1.7: the original
