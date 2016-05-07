@@ -1,10 +1,71 @@
 OUTER_SPRINT comp_dir ~%MOD_FOLDER%/components/wild_spells~
 
-//------------------------------------------------------
-//    Rhialto appearance
-//------------------------------------------------------
-EXTEND_TOP ~baldur.bcs~ ~%comp_dir%/baf/baldur_add.baf~
-EXTEND_TOP ~baldur25.bcs~ ~%comp_dir%/baf/baldur_add.baf~
+//Rhialto appearance
+ACTION_IF pansy = 0 BEGIN //ironman
+  OUTER_SET rhia_xp = 19000  //written later to wm_rhia1.cre
+
+  EXTEND_TOP ~baldur.bcs~ ~%comp_dir%/baf/baldur.baf~ //have to use EXTEND_TOP because of PartyRested/SmallWait in baldur.bcs
+  EXTEND_TOP ~baldur25.bcs~ ~%comp_dir%/baf/baldur.baf~
+
+END ELSE BEGIN //stationary Rhialto: create outside Candlekeep's wall and give scroll with a hint to Gorion's body
+  OUTER_SET rhia_xp = 2000 //written later to wm_rhia1.cre
+
+  COPY ~%comp_dir%/itm/wm_scrl.itm~ ~override/wm_scrl.itm~
+    SAY NAME1 @69998
+    SAY NAME2 @69998
+    SAY UNIDENTIFIED_DESC @69999
+    SAY DESC @69999
+
+  ACTION_IF GAME_IS ~bgt eet~ BEGIN //trilogy
+    OUTER_SPRINT gorion_cre ~gorion~
+    OUTER_SPRINT out_candlekeep_area ~ar6526~
+  END ELSE BEGIN //tutu
+    OUTER_SPRINT gorion_cre ~_gorion~
+    OUTER_SPRINT out_candlekeep_area ~_ar2700~
+  END
+  EXTEND_BOTTOM ~%out_candlekeep_area%.bcs~ ~%comp_dir%/baf/candlekeep.baf~
+  COPY_EXISTING ~%gorion_cre%.cre~ ~override~
+    ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+  BUT_ONLY
+END //end pansy
+
+//Retain Spellbook and Teddy bear on transfer from BG1 to BG2
+ACTION_IF GAME_IS ~bgt eet~ BEGIN
+  EXTEND_TOP ~aram00.bcs~ ~%comp_dir%/baf/aram00.baf~ //set vars for ar0602.baf. Use _TOP to save precious equipment
+END
+EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/baf/ar0602.baf~ //covers both trilogy and imported characters. Use _TOP to save precious equipment
+
+//-----------------------------------------------------------
+// Rhialto the Marvelous...
+//-----------------------------------------------------------
+
+COMPILE ~%comp_dir%/dialog/wm_rhia.d~
+  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
+
+COMPILE EVAL ~%comp_dir%/baf/wm_rhia1.baf~
+
+COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the Marvelous
+  SAY NAME1 @50101
+  SAY NAME2 @50102
+  WRITE_LONG 0x14 rhia_xp //see pansy switch earlier
+
+COPY ~%comp_dir%/cre/wm_rhia2.cre~    ~override/wm_rhia2.cre~    // Rhialto the squirrel
+  SAY NAME1 @50101
+  SAY NAME2 @50102
+
+COPY ~%comp_dir%/spl/wm_rhia1.spl~    ~override/wm_rhia1.spl~    // Rhialto's special Vortex
+  SAY NAME1 @21101
+  SAY UNIDENTIFIED_DESC @21102
+  SAY 0x9e @50111
+
+COPY ~%comp_dir%/spl/wm_glph.spl~    ~override/wm_glph.spl~    // Rhialto's Hostile Glyph of WM
+  SAY NAME1 @20701
+  SAY UNIDENTIFIED_DESC @20702
+COPY ~%comp_dir%/spl/wm_glph.cre~    ~override/wm_glph.cre~
+  SAY NAME1 @20711
+  SAY NAME2 @20711
+
+
 
 //------------------------------------------------------
 //     Projectiles
@@ -290,99 +351,3 @@ COMPILE ~%comp_dir%/dialog/wm_sbook.d~
 COPY_EXISTING ~itemdial.2da~ ~override/itemdial.2da~
   APPEND_FILE ~%comp_dir%/dialog/itemdial_add.txt~
   REPLACE ~_READ_~ @40511
-
-
-//-----------------------------------------------------------
-// Rhialto the Marvelous...
-//-----------------------------------------------------------
-
-COMPILE ~%comp_dir%/dialog/wm_rhia.d~
-  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
-
-COMPILE ~%comp_dir%/baf/wm_rhia1.baf~
-
-COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the Marvelous
-  SAY NAME1 @50101
-  SAY NAME2 @50102
-
-COPY ~%comp_dir%/cre/wm_rhia2.cre~    ~override/wm_rhia2.cre~    // Rhialto the <Spoiler>
-  SAY NAME1 @50101
-  SAY NAME2 @50102
-
-COPY ~%comp_dir%/spl/wm_rhia1.spl~    ~override/wm_rhia1.spl~    // Rhialto's special Vortex
-  SAY NAME1 @21101
-  SAY UNIDENTIFIED_DESC @21102
-  SAY 0x9e @50111
-
-COPY ~%comp_dir%/spl/wm_glph.spl~    ~override/wm_glph.spl~    // Rhialto's Hostile Glyph of WM
-  SAY NAME1 @20701
-  SAY UNIDENTIFIED_DESC @20702
-COPY ~%comp_dir%/spl/wm_glph.cre~    ~override/wm_glph.cre~
-  SAY NAME1 @20711
-  SAY NAME2 @20711
-
-//-----------------------------------------------------------------
-// BGT Compatibility (Retain Spellbook and Teddy bear on transfer from BG1 to BG2)
-//-----------------------------------------------------------------
-
-ACTION_IF GAME_IS ~bgt eet~ BEGIN
-  COPY_EXISTING ~aram00.bcs~ ~override~
-    REPLACE_BCS_BLOCK ~%comp_dir%/baf/owm_aram00.baf~ ~%comp_dir%/baf/nwm_aram00.baf~
-  EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/baf/wm_ar0602.baf~
-END
-
-
-ACTION_IF pansy = 1 BEGIN //stationary Rhialto
-//-----------------------------------------------------------------------------------
-// Rewrite baldur.bcs to prevent Rhialto from appearing after resting outside in BG1
-//-----------------------------------------------------------------------------------
-
-COPY_EXISTING ~baldur.bcs~ ~override~
-DECOMPILE_BCS_TO_BAF
-REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
-~Global("wm_start","GLOBAL",0)
-Global("endofbg1","GLOBAL",2)
-!Global("wm_bgt","GLOBAL",2)~
-COMPILE_BAF_TO_BCS
-
-COPY_EXISTING ~baldur25.bcs~ ~override~
-DECOMPILE_BCS_TO_BAF
-REPLACE_TEXTUALLY ~Global("wm_start","GLOBAL",0)~
-~Global("wm_start","GLOBAL",0)
-Global("endofbg1","GLOBAL",2)
-!Global("wm_bgt","GLOBAL",2)~
-COMPILE_BAF_TO_BCS
-
-EXTEND_TOP ~baldur.bcs~ ~%comp_dir%/baf/baldur_addbgt.baf~
-EXTEND_TOP ~baldur25.bcs~ ~%comp_dir%/baf/baldur_addbgt.baf~
-
-
-//----------------------------------------------------------------
-//    Killing Rhialto in BG1 on your own terms gains only 2000 XP
-//----------------------------------------------------------------
-COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia3.cre~    // Rhialto the Marvelous
-  WRITE_LONG 0x14 2000
-  SAY NAME1 @50101
-  SAY NAME2 @50102
-
-//-------------------------------------------------------------------------------------
-// Create Rhialto outside Candlekeeps wall and give scroll with a hint to Gorion's body
-//-------------------------------------------------------------------------------------
-  COPY ~%comp_dir%/itm/wm_scrl.itm~ ~override/wm_scrl.itm~
-    SAY NAME1 @69998
-    SAY NAME2 @69998
-    SAY UNIDENTIFIED_DESC @69999
-    SAY DESC @69999
-
-  ACTION_IF GAME_IS ~bgt eet~ BEGIN //trilogy
-    OUTER_SPRINT gorion_cre ~gorion~
-    OUTER_SPRINT out_candlekeep_area ~ar6526~
-  END ELSE BEGIN //tutu
-    OUTER_SPRINT gorion_cre ~_gorion~
-    OUTER_SPRINT out_candlekeep_area ~_ar2700~
-  END
-  EXTEND_TOP ~%out_candlekeep_area%.bcs~ ~%comp_dir%/baf/wm_bgt.baf~
-  COPY_EXISTING ~%gorion_cre%.cre~ ~override~
-    ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
-  BUT_ONLY
-END //end pansy

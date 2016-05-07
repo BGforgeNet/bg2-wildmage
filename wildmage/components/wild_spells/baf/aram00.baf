@@ -1,0 +1,20 @@
+IF
+  PartyHasItem("wm_sbook")
+  Global("wm_bg1book","GLOBAL",0)
+THEN
+  RESPONSE #100
+    TakePartyItem("wm_sbook")
+    DestroyItem("wm_sbook")
+    SetGlobal("wm_bg1book","GLOBAL",1)
+    Continue()
+END
+IF
+  PartyHasItem("wm_bear")
+  Global("wm_bg1bear","GLOBAL",0)
+THEN
+  RESPONSE #100
+    TakePartyItem("wm_bear")
+    DestroyItem("wm_bear")
+    SetGlobal("wm_bg1bear","GLOBAL",1)
+    Continue()
+END

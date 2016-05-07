@@ -17,14 +17,14 @@
 // "assassin"      Has used "Assasination" (2 times) 
 
 IF            // First Talk, then fight
-   See(PLAYER1)
+   See(Player1)
    Global("doomed","LOCALS",0)
 THEN
    RESPONSE #100
       SetGlobal("doomed","LOCALS",1)
       FaceObject(PLAYER1)
       SmallWait(8)
-      Startdialog("WM_RHIA",Player1)
+      StartDialog("WM_RHIA",Player1)
 END
 
 
