@@ -4,6 +4,11 @@ This mod expands on Wild Magic and Wild mages. [Originally by JOG](http://mods.j
 
 **Work in progress**. Not worse than the original, though.
 
+- [Components](#components)
+- [Tips](#tips)
+- [Changelog](#changelog)
+- [License](#license)
+
 ### Components:
 
 - [New wild magic spells](wildmage/docs/spells.pdf)
