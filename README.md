@@ -16,12 +16,19 @@ This mod expands on Wild Magic and Wild mages. [Originally by JOG](http://mods.j
 
 See [original readme](wildmage/docs/readme.txt) for details.
 
+### Tips
+- Rhialto will always spawn. It doesn't matter which class is the main character.
+- How to kill him on low levels, (BG1 ironman):
+ - gather a larger party
+ - spread, run, shoot
+- In pansy mode, Rhialto is in the actual Candlekeep area, not in the area where Gorion is killed.
+
 ### Changelog
 - 2.beta1
  - Allow to be installed on EE (including IWD:EE)
  - Make MacOS/Linux friendly
  - Combine some components to simplify installation
- - Allow Teddy bear to be transferred upon BG1>BG2 transition
+ - Preserve teddy bear upon BG1>BG2 transition
  - Fix Rodent/Ratatosk shape: power, dispell/bypass, AC bonus, paw enchantment, description
  - Fix Random spell X description
  - Fix Rhialto's spell slots/levels

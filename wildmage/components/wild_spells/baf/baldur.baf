@@ -9,8 +9,8 @@ IF
   GlobalGT("Chapter","GLOBAL",0)
   PartyRested()
   AreaType(OUTDOOR)
-  Class(Player1,MAGE)
-  Kit(Player1,WILDMAGE)
+//  Class(Player1,MAGE)
+//  Kit(Player1,WILDMAGE)
 THEN
   RESPONSE #100
     ActionOverride(Player1,CreateCreature("wm_rhia1",[-1.-1],0))
