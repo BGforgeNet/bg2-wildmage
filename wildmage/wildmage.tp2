@@ -20,7 +20,8 @@ INCLUDE ~%MOD_FOLDER%/components/wild_spells/main.tph~
 
 BEGIN @61 //Haughty pansy
 SUBCOMPONENT @1
-REQUIRE_PREDICATE (ENGINE_IS ~tob bgee bg2ee eet iwdee~ AND GAME_IS ~tutu tutu_totsc bgt eet~) @65 //Requires BGT/TuTu
+REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62 //Only ToB or EE engine supported
+REQUIRE_PREDICATE GAME_INCLUDES ~bg1~ @65 //Requires BG1 content
 OUTER_SET pansy = 1
 INCLUDE ~%MOD_FOLDER%/components/wild_spells/main.tph~
 
