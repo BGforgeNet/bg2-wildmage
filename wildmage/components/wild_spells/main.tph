@@ -85,29 +85,14 @@ COPY ~%comp_dir%/copy~  ~override~
 //-----------------------------------------------------------
 // Wild Magic Spells
 
-//Rodent form
-COPY ~%comp_dir%/spl/wm_sqrl.spl~  ~override/wm_sqrl.spl~
+COPY ~%comp_dir%/spl/wm_sqrl.spl~  ~override/wm_sqrl.spl~ //Rodent form
   SAY NAME1 @20201
   SAY UNIDENTIFIED_DESC @20202
-  SAY 0x366 @20211
-  SAY 0x396 @20212
+  READ_LONG 0x6a fx_off
+  SAY (fx_off + 0x30 * 13 + 4) @20211
+  SAY (fx_off + 0x30 * 14 + 4) @20212
 
-ACTION_DEFINE_ASSOCIATIVE_ARRAY effects BEGIN
-  plysquir => wm_sqrl1
-  plyvis1 => wm_sqrl2
-  plyvis2 => wm_sqrl3
-  plysquwe => wm_sqrl4
-END
-ACTION_PHP_EACH effects AS old_eff => new_eff BEGIN
-  COPY_EXISTING ~%old_eff%.eff~ ~override/%new_eff%.eff~
-    WRITE_LONG 0x18 0 //power
-    WRITE_LONG 0x5c 3 //dispel/bypass
-  BUT_ONLY
-END
-ACTION_CLEAR_ARRAY effects
-
-//Ratatosk Shape
-COPY ~%comp_dir%/spl/wm_sqrl1.spl~  ~override/wm_sqrl1.spl~ //effects are the same as for rodent form
+COPY ~%comp_dir%/spl/wm_sqrl1.spl~  ~override/wm_sqrl1.spl~ //Ratatosk Shape
   SAY NAME1 @20301
   SAY UNIDENTIFIED_DESC @20302
 
