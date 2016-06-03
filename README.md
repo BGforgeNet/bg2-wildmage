@@ -7,7 +7,7 @@ This mod expands on Wild Magic and Wild mages. [Originally by JOG](http://mods.j
 - [Components](#components)
 - [Tips](#tips)
 - [Changelog](#changelog)
-- [License](#license)
+- [Licence](#licence)
 
 ### Components:
 
@@ -42,7 +42,7 @@ See [original readme](wildmage/docs/readme.txt) for details.
 - 1.7: the original
 
 
-### License
+### Licence
 The original work is abandonware. JOG doesn't appear to be available.
 
-Contributions on top of the original are [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+Contributions on top of the original are [CC0 v1.0](https://creativecommons.org/publicdomain/zero/1.0/).
