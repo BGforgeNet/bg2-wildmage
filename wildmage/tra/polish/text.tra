@@ -56,7 +56,7 @@
 // -----------------------------
 // WM_START.SPL  / WM_START.BAF
 // -----------------------------
-@20101 = ~Przewód Chaosu Rhialto~ 
+@20101 = ~Przewód Chaosu Rhialto~
 @20102 = ~Przewód Chaosu Rhialto* (Przemiany) 
 Poziom: 1
 Zasiêg: 0
@@ -79,7 +79,7 @@ Bez wzglêdu na to czy myœlisz o rzuceniu tego czaru czy nie, b¹dŸ pewien jednej 
 
 @20103 = ~Spellshaper~
 
-@20111 = ~Kiedy rzuci³eœ ten czar, czujesz ¿e twoje zrozumienie tworzenia magii zmieni³o siê. Spróbowa³eœ poj¹æ chaos otaczaj¹cy ciê, podporz¹dkowuj¹c go twej woli, czerpi¹c si³ê z nieobliczalnoœci, niesta³oœci i ci¹g³ego ruchu dzikiej magii. Jesteœ teraz w stanie okie³znaæ struktury magii, ukszta³towaæ j¹, "utkaæ" j¹ w cokolwiek sobie wyobrazisz.~ 
+@20111 = ~Kiedy rzuci³eœ ten czar, czujesz ¿e twoje zrozumienie tworzenia magii zmieni³o siê. Spróbowa³eœ poj¹æ chaos otaczaj¹cy ciê, podporz¹dkowuj¹c go twej woli, czerpi¹c si³ê z nieobliczalnoœci, niesta³oœci i ci¹g³ego ruchu dzikiej magii. Jesteœ teraz w stanie okie³znaæ struktury magii, ukszta³towaæ j¹, "utkaæ" j¹ w cokolwiek sobie wyobrazisz.~
 
 @20112 = ~Czujesz tak¿e, ¿e czar ten zmieni³ wiêcej ni¿ jedynie twoje zdolnoœci do rzucania czarów. Czujesz jakby czar uwolni³ g³êboko ukryt¹ czêœæ twojej œwiadomoœci. Jest w tobie wiêcej indywidualizmu, tolerancji, ciekawoœci, lecz tak¿e mniej dyscypliny i pilnoœci, pojawi³ siê brak zaufania do w³adzy. Jednak uczucie wydaje siê znajome, jakby zawsze tam by³o i teraz zosta³o ujawnione. To nie uczucie zmiany, lecz bardziej ostatecznego przebudzenia po d³ugim œnie.~
 
@@ -90,7 +90,7 @@ Bez wzglêdu na to czy myœlisz o rzuceniu tego czaru czy nie, b¹dŸ pewien jednej 
 // WM_SQRL.SPL
 // WM_SQRLB.BAM  / WM_SQRLC.BAM
 // ----------------------------
-@20201 = ~Przemiana w gryzonia~ 
+@20201 = ~Przemiana w gryzonia~
 @20202 = ~Przemiana w gryzonia* (Przemiany) 
 Poziom: 1
 Zasiêg: 0
@@ -115,7 +115,7 @@ Obecna wersja czaru NIE POWINNA wp³yn¹æ na osobowoœæ i mentalnoœæ rzucaj¹cego.~
 // WM_SQRLW.EFF   / WM_SQRLW.ITM
 // WM_SQRLB.BAM   / WM_SQRLC.BAM
 // -----------------------------
-@20301 = ~Przemiana w Ratatoska~ 
+@20301 = ~Przemiana w Ratatoska~
 @20302 = ~Przemiana w Ratatoska* (Przemiany) 
 Poziom: 1
 Zasiêg: 0
@@ -163,7 +163,7 @@ Zalet¹ Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasiêg, który za
 // WM_BLADE.SPL  / WM_BLAD1.SPL
 // WM_BLADB.BAM  / WM_BLADC.BAM
 // ----------------------------
-@20501 = ~Deszcz Ostrzy~ 
+@20501 = ~Deszcz Ostrzy~
 @20502 = ~Deszcz Ostrzy* (Przywo³ania)
 Poziom: 2
 Zasiêg: 40 jardów
@@ -190,7 +190,7 @@ Sztylety wykonane s¹ z czystego chaosu, omijaj¹ wszelkie fizyczne i magiczne prz
 // WM_MISSB.BAM / WM_MISSC.BAM
 // ----------------------------
        
-@20601 = ~Losowe Pociski Rhialto~ 
+@20601 = ~Losowe Pociski Rhialto~
 @20602 = ~Losowe Pociski Rhialto* (Inwokacje) 
 Poziom: 2
 Zasiêg: zasiêg widzenia rzucaj¹cego 
@@ -229,7 +229,7 @@ Na ka¿de 10 poziomów doœwiadczenia rzucaj¹cego, zak³ócenia pozostaj¹ przez dodat
 
 Oczywiœcie efekt czaru jest ca³kowicie losowy, ofiary mog¹ zostaæ wzmocnione przez dzikie fale lub ca³kowicie unicestwione. Im wiêcej istot na obszarze dzia³ania tym ciekawsze efekty da czar i tym wiêksze prawdopodobieñstwo ¿e glif zada wysokie obra¿enia.~
 
-@20711 = ~Zak³ócenie Struktury Magii~ 
+@20711 = ~Zak³ócenie Struktury Magii~
 
 
 

@@ -55,7 +55,7 @@
 // -----------------------------
 // WM_START.SPL  / WM_START.BAF
 // -----------------------------
-@20101 = ~Rhialtos Chaosstrom~ 
+@20101 = ~Rhialtos Chaosstrom~
 @20102 = ~Rhialtos Chaosstrom* (Veränderung) 
 Rang: 1
 Reichweite: 0
@@ -90,7 +90,7 @@ Egal ob Du darüber nachdenkst diesen Zauber zu sprechen oder nicht, eines ist ge
 // WM_SQRL.SPL
 // WM_SQRLB.BAM  / WM_SQRLC.BAM
 // ----------------------------
-@20201 = ~Nager Form~ 
+@20201 = ~Nager Form~
 @20202 = ~Nager Form* (Veränderung) 
 Rang: 1
 Reichweite: 0
@@ -115,7 +115,7 @@ Theoretisch sollte die aktuelle Version dieses Zaubers weder die Persönlichkeit 
 // WM_SQRLW.EFF   / WM_SQRLW.ITM
 // WM_SQRLB.BAM   / WM_SQRLC.BAM
 // -----------------------------
-@20301 = ~Ratatosk Form~ 
+@20301 = ~Ratatosk Form~
 @20302 = ~Ratatosk Form* (Veränderung) 
 Rang: 1
 Reichweite: 0
@@ -163,7 +163,7 @@ Die Vorteile von Zufälliger Zauber sind der Zeitaufwand der immer 1 ist, die Rei
 // WM_BLADE.SPL  / WM_BLAD1.SPL
 // WM_BLADB.BAM  / WM_BLADC.BAM
 // ----------------------------
-@20501 = ~Klingensturm~ 
+@20501 = ~Klingensturm~
 @20502 = ~Klingensturm* (Herbeirufung) 
 Rang: 2
 Reichweite: 40 Meter
@@ -190,7 +190,7 @@ Die Dolche, bestehend aus roher Chaosmasse, durchdringen jegliche physische oder
 // WM_MISSB.BAM / WM_MISSC.BAM
 // ----------------------------
        
-@20601 = ~Rhialtos Zufällige Geschosse~ 
+@20601 = ~Rhialtos Zufällige Geschosse~
 @20602 = ~Rhialtos Zufällige Geschosse* (Hervorrufung) 
 Rang: 2
 Reichweite: Sichtweite des Zaubernden
@@ -230,7 +230,7 @@ Für alle 10 Erfahrungsstufen des Zaubernden, bleiben die Magiestörungen eine Run
 
 Natürlich ist das Ergebnis dieses Zaubers vollkommen zufällig. Die Opfer können durch die unbändigen Wogen sowohl gestärkt als auch völlig vernichtet werden. Je größer die Anzahl der Wesen innerhalb des Wirkungsbereichs, desto chaotischer ist das Ergebnis, und desto höher ist die Wahrscheinlichkeit, daß die Glyphe  sehr viel Schaden verursacht.~
 
-@20711 = ~Magiestörung~ 
+@20711 = ~Magiestörung~
 
 
 

@@ -3,7 +3,7 @@
 //           Spellbook Dialogue 
 //         ----------------------
 //-----------------------------------------
-@00 = ~Otwierasz ksiêgê czarów Rhialto po raz pierwszy. Panuje w niej niesamowity nie³ad, pe³no przypadkowych notatek, nieczytelnych zapisków i dziecinnych rysunków; ca³a jest wysmarowana krwi¹, ¿ó³ci¹ i czymœ innym czego nie mo¿esz (i nawet nie chcesz) zidentyfikowaæ. Co zadziwiaj¹ce, niektóre zapisane czary s¹ wci¹¿ czytelne.~ 
+@00 = ~Otwierasz ksiêgê czarów Rhialto po raz pierwszy. Panuje w niej niesamowity nie³ad, pe³no przypadkowych notatek, nieczytelnych zapisków i dziecinnych rysunków; ca³a jest wysmarowana krwi¹, ¿ó³ci¹ i czymœ innym czego nie mo¿esz (i nawet nie chcesz) zidentyfikowaæ. Co zadziwiaj¹ce, niektóre zapisane czary s¹ wci¹¿ czytelne.~
 
 @01 = ~Ponownie decydujesz siê na rzut oka w ksiêgê czarów Rhialto. Ostro¿nie rozdzielasz dwie karty zlepione ze sob¹, tylko po to by odkryæ paskudny rysunek starego mêdrca z d³ug¹ brod¹ i szpiczastym kapeluszem, który wygl¹da jakby siê wpatrywa³ z po¿¹daniem na coœ co wygl¹da jak spertyfikowany kozio³.~
 @02 = ~Otwierasz ksiêgê na losowej stronie i zauwa¿asz notkê której przedtem najwyraŸniej tu nie by³o: "<CHARNAME>, trzymaj swoje brudne rêce z dala od mojej ksiêgi!"~
@@ -84,7 +84,7 @@
 @103 = ~Nie martw siê nie bêdzie bola³o za bardzo... Có¿, a przynajmniej nie potrwa d³ugo. Rhialto Cudowny jest doœwiadczonym chirurgiem, to zajmie tylko godzine lub dwie...~
 
 @110 = ~A wiêc spotykamy siê ponownie... Wyros³eœ na bardziej pewnego siebie od kiedy Rhialto Cudowny mia³ swój ma³y wypadek przy pracy. To znamienne ¿e ty, który spowodowa³eœ jego upadek przez swój bezczelny opór, przywracasz Rhialto spowrotem do ¿ycia.~
-@111 = ~Lecz by to zrobiæ musia³eœ przeczytaæ ksiêgê Rhialto. A ¿eby j¹ dostaæ musia³eœ wzi¹æ j¹ z jego trupa. Rhialto Cudowny nie lubi byæ dotykany!!!~ 
+@111 = ~Lecz by to zrobiæ musia³eœ przeczytaæ ksiêgê Rhialto. A ¿eby j¹ dostaæ musia³eœ wzi¹æ j¹ z jego trupa. Rhialto Cudowny nie lubi byæ dotykany!!!~
 
 
 
@@ -122,8 +122,8 @@
 @221 = ~Czujesz teraz dziwn¹ falê magicznej energii wzbieraj¹c¹ w tobie. Cokolwiek siê dzieje, w pewien sposób czujesz ¿e jeœli poddasz siê tej dziwnej mocy, bêdziesz zmieniony na zawsze.~
 @222 = ~Przyjmij t¹ now¹ moc.~
 @223 = ~Spróbuj j¹ st³umiæ.~
-@224 = ~Cokolwiek to by³o, by³eœ na tyle silny, ¿e zdo³a³eœ to st³umiæ.~ 
-@225 = ~Gwa³towna fala chaotycznej energii przygniata ciê.~ 
+@224 = ~Cokolwiek to by³o, by³eœ na tyle silny, ¿e zdo³a³eœ to st³umiæ.~
+@225 = ~Gwa³towna fala chaotycznej energii przygniata ciê.~
 @230 = ~Kiedy przyjmujesz falê magicznej energii, czujesz ¿e twoje zrozumienie struktur magii zmieni³o siê.~
 @231 = ~Spróbowa³eœ poj¹æ chaos otaczaj¹cy ciê, podporz¹dkowuj¹c go twej woli, czerpi¹c si³ê z nieobliczalnoœci, niesta³oœci i ci¹g³ego ruchu dzikiej magii.~
 @232 = ~Teraz czujesz bliskoœæ ze struktur¹ magii. Jesteœ teraz w stanie okie³znaæ j¹, ukszta³towaæ , "utkaæ" j¹ w cokolwiek sobie wyobrazisz.~

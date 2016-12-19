@@ -3,7 +3,7 @@
 //           Spellbook Dialogue 
 //         ----------------------
 //-----------------------------------------
-@00 = ~Du erschrickst als Du Rhialtos Zauberbuch das erste Mal öffnest. Es ist ein einziges Geschmier von Notizen, unleserlichem Geschreibsel und kindischen Zeichnungen, über und über beschmiert mit Blut, Galle und einigem anderen Zeug das du nicht identifizieren kannst (und auch nicht wirklich willst). Erstaunlicherweise kann man einige der Zaubereinträge immer noch lesen.~ 
+@00 = ~Du erschrickst als Du Rhialtos Zauberbuch das erste Mal öffnest. Es ist ein einziges Geschmier von Notizen, unleserlichem Geschreibsel und kindischen Zeichnungen, über und über beschmiert mit Blut, Galle und einigem anderen Zeug das du nicht identifizieren kannst (und auch nicht wirklich willst). Erstaunlicherweise kann man einige der Zaubereinträge immer noch lesen.~
 
 @01 = ~Erneut öffnest Du Rhialtos Zauberbuch. Du trennst vorsichtig zwei Seiten die zusammengeklebt waren, nur um eine Karikatur zu entdecken, die einen alten Magier mit langem Bart und spitzem Hut darstellt, der etwas anschmachtet was wie eine versteinerte Ziege aussieht.~
 
@@ -136,8 +136,8 @@
 @221 = ~Jetzt fühlst Du eine seltsame Welle magischer Energie in Dir aufsteigen. Was auch immer gerade passiert, irgendwie fühlst Du, daß, wenn Du dieser Macht nachgibst, sie dich für immer verändern würde.~
 @222 = ~Akzeptiere die neue Kraft die Dich durchströmt~
 @223 = ~Versuche sie zu unterdrücken~
-@224 = ~Was auch immer das war, Du warst stark genug es abzuwenden.~ 
-@225 = ~Eine überwältigende Welle chaotischer Energie durchströmt Dich.~ 
+@224 = ~Was auch immer das war, Du warst stark genug es abzuwenden.~
+@225 = ~Eine überwältigende Welle chaotischer Energie durchströmt Dich.~
 
 @230 = ~Du läßt dich von der Welle magischer Energie durchströmen, und fühlst wie sich dein Magieverständnis verändert.~
 @231 = ~Einst hast Du versucht das Chaos um dich herum zu erforschen und ihm Deinen Willen aufzuzwingen. Du hast die unberechenbaren Gezeitenströme der unbändigen Magie zu deinen Gunsten genutzt.~

@@ -96,7 +96,7 @@ Les [R]einstaller, les s[U]pprimer, dem[A]nder pour chacun ? "
 // -----------------------------
 // WM_START.SPL  / WM_START.BAF
 // -----------------------------
-@20101 = ~Conduit Chaotique de Rhialto~ 
+@20101 = ~Conduit Chaotique de Rhialto~
 @20102 = ~Conduit Chaotique de Rhialto* (Altération) 
 Niveau : 1
 Portée : le jeteur de sorts
@@ -130,7 +130,7 @@ Peu importe que vous ayez l'intention de lancer ce sort ou pas, une chose est ce
 // WM_SQRL.SPL
 // WM_SQRLB.BAM  / WM_SQRLC.BAM
 // ----------------------------
-@20201 = ~Forme de Rongeur~ 
+@20201 = ~Forme de Rongeur~
 @20202 = ~Forme de Rongeur* (Altération) 
 Niveau : 1
 Portée : le jeteur de sorts
@@ -155,7 +155,7 @@ Heureusement, la révision récente de ce sort ne change PAS la personnalité du la
 // WM_SQRLW.EFF   / WM_SQRLW.ITM
 // WM_SQRLB.BAM   / WM_SQRLC.BAM
 // -----------------------------
-@20301 = ~Forme de Ratatosk~ 
+@20301 = ~Forme de Ratatosk~
 @20302 = ~Forme de Ratatosk* (Altération) 
 Niveau : 1
 Portée : le jeteur de sorts
@@ -203,7 +203,7 @@ Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 
 // WM_BLADE.SPL  / WM_BLAD1.SPL
 // WM_BLADB.BAM  / WM_BLADC.BAM
 // ----------------------------
-@20501 = ~Douche de Lames~ 
+@20501 = ~Douche de Lames~
 @20502 = ~Douche de Lames* (Conjuration) 
 Niveau : 2
 Portée : 40 mètres
@@ -218,7 +218,7 @@ Chaque dague inflige 1d4 points de dégâts perçants. Au niveau 5, les dagues sont
 
 Les dagues, constituées de chaos pur, contournent toute défense physique ou magique et touchent toujours leurs cibles. Néanmoins, le lanceur de sorts doit lancer un jet d'attaque pour déterminer la possibilité d'un échec ou coup critique. Lors d'un échec critique, la cible ne subit aucun dégât. Lors d'un coup critique, la dague inflige le double de dégâts et la cible doit réussir un jet de sauvegarde contre les sorts ou subir un des effets suivants : Silence, Confusion, Horreur, Sommeil, Magie Entropique.~
 
-@20511 = ~"Douche de Lames" a été ajouté à votre menu de Capacités Spéciales~ 
+@20511 = ~"Douche de Lames" a été ajouté à votre menu de Capacités Spéciales~
 
 
 
@@ -230,7 +230,7 @@ Les dagues, constituées de chaos pur, contournent toute défense physique ou magi
 // WM_MISSB.BAM / WM_MISSC.BAM
 // ----------------------------
        
-@20601 = ~Projectiles Aléatoires de Rhialto~ 
+@20601 = ~Projectiles Aléatoires de Rhialto~
 @20602 = ~Projectiles Aléatoires de Rhialto* (Évocation) 
 Niveau : 2
 Portée : Champ de vision du lanceur de sorts  
@@ -269,7 +269,7 @@ La perturbation perdure un round supplémentaire tous les 10 niveaux de l'entropi
 
 Naturellement, le résultat du sort est complètement aléatoire. Les victimes peuvent être renforcées par les hiatus entropiques, ou elles peuvent être complètement annihilées. Plus il y a de créatures dans la zone d'effet, plus l'issue du sort en est chaotique, et plus grande est la probabilité que le glyphe provoque beaucoup de dégâts.~
 
-@20711 = ~Perturbation de la Toile~ 
+@20711 = ~Perturbation de la Toile~
 
 
 
@@ -428,7 +428,7 @@ Sur un résultat de 20, il reste encore 25% de chances que le sort continue de fa
 
 Tant que le sort n'expire pas suite à une "bonne fortune" (20 au D20, puis 6 ou plus au D20), le sort continue de faire effet indéfiniment.~
 
-@21311 = ~Fiasco~ 
+@21311 = ~Fiasco~
 
 
 
