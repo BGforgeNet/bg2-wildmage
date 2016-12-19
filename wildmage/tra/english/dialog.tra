@@ -3,7 +3,7 @@
 //           Spellbook Dialogue 
 //         ----------------------
 //-----------------------------------------
-@00 = ~You open Rhialto's spellbook for the first time. It's an insane mess of random notes, illegible scribble and childish drawings; all over smeared with blood, bile and some other stuff you can't (and don't even want to) recognize. Amazingly, some of the spell entries are still legible.~ 
+@00 = ~You open Rhialto's spellbook for the first time. It's an insane mess of random notes, illegible scribble and childish drawings; all over smeared with blood, bile and some other stuff you can't (and don't even want to) recognize. Amazingly, some of the spell entries are still legible.~
 
 @01 = ~Again you risk a look into Rhialto's spellbook. You carefully separate two sheets that were stuck together, just to discover a nasty drawing of an old sage with long beard and pointy hat, that seems to glare longingly at something that looks like a petrified goat.~
 @02 = ~You open the spellbook at a random page and notice some scribble you haven't seen before: "<CHARNAME>, keep your dirty hands off my spellbook!"~
@@ -84,7 +84,7 @@
 @103 = ~But it won't be too painful... Well, at least it won't take too long.  Rhialto the Marvelous is a very experienced surgeon, it will only take an hour or two...~
 
 @110 = ~So we meet again... You seem to have grown more self-confident since Rhialto the Marvelous had his little accident. It is just fitting that you, who caused his downfall by your insolent resistance, brought Rhialto back to life.~
-@111 = ~But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!~ 
+@111 = ~But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!~
 
 
 
@@ -122,8 +122,8 @@
 @221 = ~Now you feel a strange wave of magical power rising within you. Whatever is happening, somehow you feel that if you yield to it, you will be changed forever.~
 @222 = ~Embrace this new power.~
 @223 = ~Try to suppress it.~
-@224 = ~Whatever that was, you were strong enough to suppress it.~ 
-@225 = ~A surge of chaotic energy overwhelms you.~ 
+@224 = ~Whatever that was, you were strong enough to suppress it.~
+@225 = ~A surge of chaotic energy overwhelms you.~
 @230 = ~When you give in to the surge of magical power, you feel that your understanding of the magical Weave changes.~
 @231 = ~Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic.~
 @232 = ~Now you feel a close relation to the Weave. You now are able to tangle the Weave, reshape it, "weave" it into anything you can imagine.~

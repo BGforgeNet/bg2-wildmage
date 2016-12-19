@@ -57,7 +57,7 @@
 // -----------------------------
 // WM_START.SPL  / WM_START.BAF
 // -----------------------------
-@20101 = ~Rhialto's Chaos Conduit~ 
+@20101 = ~Rhialto's Chaos Conduit~
 @20102 = ~Rhialto's Chaos Conduit* (Alteration) 
 Level: 1
 Range: 0
@@ -80,7 +80,7 @@ No matter if you actually think about casting this spell or not, one thing you k
 
 @20103 = ~Spellshaper~
 
-@20111 = ~After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, "weave" it into anything you can imagine.~ 
+@20111 = ~After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, "weave" it into anything you can imagine.~
 
 @20112 = ~You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream.~
 
@@ -91,7 +91,7 @@ No matter if you actually think about casting this spell or not, one thing you k
 // WM_SQRL.SPL
 // WM_SQRLB.BAM  / WM_SQRLC.BAM
 // ----------------------------
-@20201 = ~Rodent Form~ 
+@20201 = ~Rodent Form~
 @20202 = ~Rodent Form* (Alteration) 
 Level: 1
 Range: 0
@@ -116,7 +116,7 @@ Hopefully, the current revision of this spell does NOT change the caster's perso
 // WM_SQRLW.EFF   / WM_SQRLW.ITM
 // WM_SQRLB.BAM   / WM_SQRLC.BAM
 // -----------------------------
-@20301 = ~Ratatosk Shape~ 
+@20301 = ~Ratatosk Shape~
 @20302 = ~Ratatosk Shape* (Alteration) 
 Level: 1
 Range: 0
@@ -166,7 +166,7 @@ The advantages of Random Spell are the casting time which is always 1, the range
 // wm_blade.spl  / wm_bld1.spl
 // wm_bladb.bam  / wm_bladc.bam
 // ----------------------------
-@20501 = ~Blade Shower~ 
+@20501 = ~Blade Shower~
 @20502 = ~Blade Shower* (Conjuration) 
 Level: 2
 Range: 40 yards
@@ -195,7 +195,7 @@ Furthermore, the caster rolls d20 for each single dagger to determine a critical
 // WM_MISSB.BAM / WM_MISSC.BAM
 // ----------------------------
        
-@20601 = ~Rhialto's Random Missiles~ 
+@20601 = ~Rhialto's Random Missiles~
 @20602 = ~Rhialto's Random Missiles* (Evocation) 
 Level: 2
 Range: Visual range of caster 
@@ -234,7 +234,7 @@ For every 10 experience levels of the caster, the disturbances remain in existen
 
 Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage.~
 
-@20711 = ~Weave Disturbance~ 
+@20711 = ~Weave Disturbance~
 
 
 
