@@ -16,6 +16,32 @@
 // "sphere"        Has cast "Wild Sphere" (1 time)
 // "assassin"      Has used "Assasination" (2 times) 
 
+/* other spells' vars, self explaining:
+slow
+fireshield
+spray
+missile2
+wiz_shield
+symbol_fear
+larloch
+fireball
+symbol_stun
+domination
+flame_arrow
+poly_other
+abi_dalzim
+efreeti
+sunfire
+prismatic
+finger
+flesh_to_stone
+desintegrate
+
+spell_turning
+vocalize
+true_sight
+*/
+
 IF            // First Talk, then fight
    See(Player1)
    Global("doomed","LOCALS",0)
@@ -115,35 +141,41 @@ IF
   LevelGT(LastSeenBy(Myself),9)      // Level 10+
   !HasBounceEffects(Myself)
   !HasImmunityEffects(Myself)
-  HaveSpell(WIZARD_SPELL_TURNING)
+  // HaveSpell(WIZARD_SPELL_TURNING)
+  Global("spell_turning","LOCALS",0)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Spell(Myself,WIZARD_SPELL_TURNING)
+    IncrementGlobal("spell_turning","LOCALS",1)
+    ForceSpell(Myself,WIZARD_SPELL_TURNING)
 END
 
 IF
   See(NearestEnemyOf(Myself))
   StateCheck(Myself,STATE_SILENCED)
-  HaveSpell(WIZARD_VOCALIZE)
+  // HaveSpell(WIZARD_VOCALIZE)
+  Global("vocalize","LOCALS",0)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Spell(Myself,WIZARD_VOCALIZE)
+    IncrementGlobal("vocalize","LOCALS",1)
+    ForceSpell(Myself,WIZARD_VOCALIZE)
 END
 
 IF
   Allegiance(Myself,ENEMY)
   Detect([PC])
   !See(LastSeenBy(Myself))
-  HaveSpell(WIZARD_TRUE_SIGHT)
+  // HaveSpell(WIZARD_TRUE_SIGHT)
+  Global("true_sight","LOCALS",0)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Spell(Myself,WIZARD_TRUE_SIGHT)
+    IncrementGlobal("true_sight","LOCALS",1)
+    ForceSpell(Myself,WIZARD_TRUE_SIGHT)
 END
 
 //------------------------------------
@@ -151,25 +183,29 @@ END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_SLOW)
+  Global("slow","LOCALS",0)
+  // HaveSpell(WIZARD_SLOW)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(LastSeenBy(Myself),WIZARD_SLOW)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("slow","LOCALS",1)
+    ForceSpell(LastSeenBy(Myself),WIZARD_SLOW)
 END
 
 IF            // Level 7+
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_FIRE_SHIELD_RED)
+  // HaveSpell(WIZARD_FIRE_SHIELD_RED)
+  Global("fireshield","LOCALS",0)
   LevelGT(LastSeenBy(Myself),6)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(Myself,WIZARD_FIRE_SHIELD_RED)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("fireshield","LOCALS",1)
+    ForceSpell(Myself,WIZARD_FIRE_SHIELD_RED)
 END
 
 IF
@@ -180,34 +216,34 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("glyph","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("glyph","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRES("WM_GLPH",LastSeenBy(Myself))
 END
 
 IF            // Vile Word of Discord  
-  GlobalGT("word","LOCALS",0)
+  Global("word","LOCALS",0)
   NumCreatureGT([ENEMY],1)      // Useless when there's only one enemy nearby...
   See(NearestEnemyOf(Myself))
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("word","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("word","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRes("WM_WORD",LastSeenBy(Myself))
 END
 
 IF            // Vile Word of Discord  
-  GlobalGT("word","LOCALS",0)
+  Global("word","LOCALS",0)
   See(NearestEnemyOf(Myself))      // But we can also cast it at neutrals...
   See([NEUTRAL])
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("word","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("word","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRes("WM_WORD",LastSeenBy(Myself))
 END
 
@@ -219,8 +255,8 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("strike","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("strike","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRes("WM_STRIK",LastSeenBy(Myself))
 END
 
@@ -234,8 +270,8 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("sphere","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("sphere","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRes("WM_SPHR",LastSeenBy(Myself))
 END
 
@@ -307,14 +343,16 @@ END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_COLOR_SPRAY)
+  // HaveSpell(WIZARD_COLOR_SPRAY)
+  Global("spray","LOCALS",0)
   Range(LastSeenBy(Myself),5)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(LastSeenBy(Myself),WIZARD_COLOR_SPRAY)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("spray","LOCALS",1)
+    ForceSpell(LastSeenBy(Myself),WIZARD_COLOR_SPRAY)
 END
 
 IF
@@ -325,21 +363,23 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("missile","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("missile","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRES("WM_MISS",LastSeenBy(Myself))
 END
 
 IF      
   See(TenthNearestEnemyOf(Myself))
-  HaveSpell(WIZARD_MAGIC_MISSILE)
+  // HaveSpell(WIZARD_MAGIC_MISSILE)
+  Global("missile2","LOCALS",0)
   LevelGT(LastSeenBy(Myself),2)      // Level 3+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(LastSeenBy(Myself),WIZARD_MAGIC_MISSILE)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("missile2","LOCALS",1)
+    ForceSpell(LastSeenBy(Myself),WIZARD_MAGIC_MISSILE)
 END
 
 IF
@@ -350,31 +390,35 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("missile","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("missile","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRES("WM_MISS",LastSeenBy(Myself))
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_SHIELD)
+  // HaveSpell(WIZARD_SHIELD)
+  Global("wiz_shield","LOCALS",0)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(Myself,WIZARD_SHIELD)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("wiz_shield","LOCALS",1)
+    ForceSpell(Myself,WIZARD_SHIELD)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_NPC_SYMBOL_FEAR)
+  // HaveSpell(WIZARD_NPC_SYMBOL_FEAR)
+  Global("symbol_fear","LOCALS",0)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(NearestEnemyOf(Myself),WIZARD_NPC_SYMBOL_FEAR)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("symbol_fear","LOCALS",1)
+    ForceSpell(NearestEnemyOf(Myself),WIZARD_NPC_SYMBOL_FEAR)
 END
 
 IF
@@ -385,81 +429,93 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("missile","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("missile","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRES("WM_MISS",LastSeenBy(Myself))
 END
 
 IF
   See(TenthNearestEnemyOf(Myself))
-  HaveSpell(WIZARD_LARLOCH_MINOR_DRAIN)
+  // HaveSpell(WIZARD_LARLOCH_MINOR_DRAIN)
+  Global("larloch","LOCALS",0)
   !Range(LastSeenBy(Myself),10)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(LastSeenBy(Myself),WIZARD_LARLOCH_MINOR_DRAIN)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("larloch","LOCALS",1)
+    ForceSpell(LastSeenBy(Myself),WIZARD_LARLOCH_MINOR_DRAIN)
 END
 
 IF
   See(TenthNearestEnemyOf(Myself))
   LevelGT(LastSeenBy(Myself),5)      // Level 6+
   !Range(LastSeenBy(Myself),15)
-  HaveSpell(WIZARD_FIREBALL)
+  // HaveSpell(WIZARD_FIREBALL)
+  Global("fireball","LOCALS",0)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(LastSeenBy(Myself),WIZARD_FIREBALL)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("fireball","LOCALS",1)
+    ForceSpell(LastSeenBy(Myself),WIZARD_FIREBALL)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_NPC_SYMBOL_STUN)
+  // HaveSpell(WIZARD_NPC_SYMBOL_STUN)
+  Global("symbol_stun","LOCALS",0)
   LevelGT(LastSeenBy(Myself),2)      // Level 3+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(LastSeenBy(Myself),WIZARD_NPC_SYMBOL_STUN)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("symbol_stun","LOCALS",1)
+    ForceSpell(LastSeenBy(Myself),WIZARD_NPC_SYMBOL_STUN)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_DOMINATION)
+  // HaveSpell(WIZARD_DOMINATION)
+  Global("domination","LOCALS",0)
   LevelGT(LastSeenBy(Myself),6)      // Level 7+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(NearestEnemyOf(Myself),WIZARD_DOMINATION)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("domination","LOCALS",1)
+    ForceSpell(NearestEnemyOf(Myself),WIZARD_DOMINATION)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_FLAME_ARROW)
+  // HaveSpell(WIZARD_FLAME_ARROW)
+  Global("flame_arrow","LOCALS",0)
   LevelGT(LastSeenBy(Myself),3)      // Level 4+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(LastSeenBy(Myself),WIZARD_FLAME_ARROW)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("flame_arrow","LOCALS",1)
+    ForceSpell(LastSeenBy(Myself),WIZARD_FLAME_ARROW)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_POLYMORPH_OTHER)
+  // HaveSpell(WIZARD_POLYMORPH_OTHER)
+  Global("poly_other","LOCALS",0)
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
-    SetGlobalTimer("delay","LOCALS",6)
-   Incrementglobal("doomed","LOCALS",1)
-   Spell(NearestEnemyOf(Myself),WIZARD_POLYMORPH_OTHER)
+   SetGlobalTimer("delay","LOCALS",6)
+   IncrementGlobal("doomed","LOCALS",1)
+   IncrementGlobal("poly_other","LOCALS",1)
+   ForceSpell(NearestEnemyOf(Myself),WIZARD_POLYMORPH_OTHER)
 END
 
 IF
@@ -470,8 +526,8 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("glyph","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("glyph","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRES("WM_GLPH",LastSeenBy(Myself))
 END
 
@@ -483,93 +539,107 @@ IF
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("strike","LOCALS",1)
-    Incrementglobal("doomed","LOCALS",1)
+    IncrementGlobal("strike","LOCALS",1)
+    IncrementGlobal("doomed","LOCALS",1)
     ForceSpellRes("WM_STRIK",LastSeenBy(Myself))
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_ABI_DALZIMS_HORRID_WILTING)
+  // HaveSpell(WIZARD_ABI_DALZIMS_HORRID_WILTING)
+  Global("abi_dalzim","LOCALS",0)
   LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(NearestEnemyOf(Myself),WIZARD_ABI_DALZIMS_HORRID_WILTING)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("abi_dalzim","LOCALS",1)
+    ForceSpell(NearestEnemyOf(Myself),WIZARD_ABI_DALZIMS_HORRID_WILTING)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_SUMMON_EFREET)
+  // HaveSpell(WIZARD_SUMMON_EFREET)
+  Global("efreeti","LOCALS",0)
   LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(Myself,WIZARD_SUMMON_EFREET)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("efreeti","LOCALS",1)
+    ForceSpell(Myself,WIZARD_SUMMON_EFREET)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_SUN_FIRE)
+  // HaveSpell(WIZARD_SUN_FIRE)
+  Global("sunfire","LOCALS",0)
   LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(NearestEnemyOf(Myself),WIZARD_SUN_FIRE)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("sunfire","LOCALS",1)
+    ForceSpell(NearestEnemyOf(Myself),WIZARD_SUN_FIRE)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_PRISMATIC_SPRAY)
+  // HaveSpell(WIZARD_PRISMATIC_SPRAY)
+  Global("prismatic","LOCALS",0)
   LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(Myself,WIZARD_PRISMATIC_SPRAY)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("prismatic","LOCALS",1)
+    ForceSpell(Myself,WIZARD_PRISMATIC_SPRAY)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_FINGER_OF_DEATH)
+  // HaveSpell(WIZARD_FINGER_OF_DEATH)
+  Global("finger","LOCALS",0)
   LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(Myself,WIZARD_FINGER_OF_DEATH)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("finger","LOCALS",1)
+    ForceSpell(Myself,WIZARD_FINGER_OF_DEATH)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_FLESH_TO_STONE)
+  // HaveSpell(WIZARD_FLESH_TO_STONE)
+  Global("flesh_to_stone","LOCALS",0)
   LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(NearestEnemyOf(Myself),WIZARD_FLESH_TO_STONE)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("flesh_to_stone","LOCALS",1)
+    ForceSpell(NearestEnemyOf(Myself),WIZARD_FLESH_TO_STONE)
 END
 
 IF
   See(NearestEnemyOf(Myself))
-  HaveSpell(WIZARD_DISINTEGRATE)
+  // HaveSpell(WIZARD_DISINTEGRATE)
+  Global("desintegrate","LOCALS",0)
   LevelGT(LastSeenBy(Myself),15)    // Level 16+
   !GlobalTimerNotExpired("delay","LOCALS")
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",6)
-    Incrementglobal("doomed","LOCALS",1)
-    Spell(NearestEnemyOf(Myself),WIZARD_DISINTEGRATE)
+    IncrementGlobal("doomed","LOCALS",1)
+    IncrementGlobal("desintegrate","LOCALS",1)
+    ForceSpell(NearestEnemyOf(Myself),WIZARD_DISINTEGRATE)
 END
 
 IF            // Assassination
@@ -580,7 +650,7 @@ IF            // Assassination
 THEN
   RESPONSE #100
     SetGlobalTimer("delay","LOCALS",10)
-    Incrementglobal("assassin","LOCALS",1)
+    IncrementGlobal("assassin","LOCALS",1)
     ForceSpellRES("SPCL916",Myself)
     Continue()
 END
