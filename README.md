@@ -6,7 +6,7 @@ This mod expands on Wild Magic and Wild Mages. [Originally by JOG](http://mods.j
 
 - Components
  - [New wild magic spells](#new-wild-magic-spells)
- - [Retain Rhialto's inventory]#(retain-rhialtos-inventory)
+ - [Retain Rhialto's inventory](#retain-rhialtos-inventory)
  - [Spellshaper kit](#spellshaper-kit)
  - [Misc spell changes](#misc-spell-changes)
 - [Tips](#tips)
@@ -44,7 +44,7 @@ There are two ways to become a Spellshaper:
 1. When the protagonist is a non-lawful Wild Mage, he'll have the chance to become a Spellshaper in the midst of combat, when he gets badly hurt.
 2. Lawful protagonists and other party members need to study Rhialto's spellbook. One of the spells - "Rhialto's Chaos Conduit" forces the same changes upon the caster, that happen spontaneously to a non-lawful protagonist.
 
-The Spellshaper is meant to be a kind of "rogueish" mage (or a "magey" rogue) as opposed to the standard "robe & pointy hat" fantasy wizard. The mage-avatar isn't fitting for this character (at least not for the Spellshaper I'm playing).
+The Spellshaper is meant to be a kind of "rogueish" mage (or a "magey" rogue) as opposed to the standard "robe & pointy hat" fantasy wizard. The mage-avatar isn't fitting for this character (at least not for the Spellshaper I'm playing). So, you have an option to change it:
 
 #### Original avatar
 The Spellshaper will look like a regular mage.
