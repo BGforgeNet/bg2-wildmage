@@ -1,37 +1,38 @@
 # Wild Mage additions mod for Baldur's Gate 2
 
-This mod expands on Wild Magic and Wild mages. [Originally by JOG](http://mods.jo-ge.net/bg/shaper.htm).
+This mod expands on Wild Magic and Wild Mages. [Originally by JOG](http://mods.jo-ge.net/bg/shaper.htm).
 
-**Work in progress**. Not worse than the original, though.
+**Work in progress**.
 
-- [Components](#components)
- - [New wild magic spells](#new wild magic spells)
- - [Spellshaper kit](#spellshaper kit)
- - [Misc spell changes](#misc spell changes)
+- Components
+ - [New wild magic spells](#new-wild-magic-spells)
+ - [Spellshaper kit](#spellshaper-kit)
+ - [Misc spell changes](#misc-spell-changes)
 - [Tips](#tips)
 - [Changelog](#changelog)
 - [Licence](#licence)
 
 ### New wild magic spells
-- Ironman
-- Haugthy pansy
+- [Ironman](#ironman)
+- [Haugthy pansy](#haugthy-pansy)
 
 This component features 27 new wild magic spells and an unique cast-once spell. See [SPELLS.PDF](wildmage/docs/spells.pdf) for detailed description.
 
 You will meet a wild mage and gain access to his spellbook, from which you will be able to learn one spell per level of experience. If there are no wild mages in your party then the mod ends at this point. You can sell the spellbook - only wild mages can use it.
 
+#### Ironman
 On Ironman, to meet the mage, rest outdoors. You can also rest in an inn and leave the inn right thereafter.
 
-On haugthy pansy (available in BG1 only), the mage will be waiting outside Candlekeep's wallls.
+#### Haughty pansy
+On haugthy pansy (available in BG1 only), the mage will be waiting outside Candlekeep's walls.
 
 ### Retain Rhialto's inventory
 
-Certain items are available to the player only if Rhialto is killed fast enough. This component removes this restriction.
+Certain items are available to the player only if Rhialto is killed fast enough. This component removes that restriction.
 
 ### Spellshaper kit
-
-- Original avatar
-- Changed avatar
+- [Original avatar](#original-avatar)
+- [Changed avatar](#changed-avatar)
 
 A Spellshaper can't rely as much on his magic as a wizard - his spellcasting abilities are comparable to those of a bard, and his spellweaving ability might backfire. He has a wide selection of spells (some of them not even accessible to a wizard or standard wild mage) but can't cast them very often. In exchange the Spellshaper has combat abilities comparable to a rogue, and more often than not solves "problems" by mundane means, saving his magic as a last-resort tool.
 
@@ -42,7 +43,13 @@ There are two ways to become a Spellshaper:
 1. When the protagonist is a non-lawful Wild Mage, he'll have the chance to become a Spellshaper in the midst of combat, when he gets badly hurt.
 2. Lawful protagonists and other party members need to study Rhialto's spellbook. One of the spells - "Rhialto's Chaos Conduit" forces the same changes upon the caster, that happen spontaneously to a non-lawful protagonist.
 
-The Spellshaper is meant to be a kind of "rogueish" mage (or a "magey" rogue) as opposed to the standard "robe & pointy hat" fantasy wizard. The mage-avatar isn't fitting for this character (at least not for the Spellshaper I'm playing). So, you have the option to change appearance: female Spellshapers use the Thief avatar, male Spellshapers use the Cleric avatar.
+The Spellshaper is meant to be a kind of "rogueish" mage (or a "magey" rogue) as opposed to the standard "robe & pointy hat" fantasy wizard. The mage-avatar isn't fitting for this character (at least not for the Spellshaper I'm playing).
+
+#### Original avatar
+The Spellshaper will look like a regular mage.
+#### Changed avatar
+- Female Spellshapers use the Thief avatar
+- Male Spellshapers use the Cleric avatar
 
 ### Misc spell changes
 
