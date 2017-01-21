@@ -6,6 +6,7 @@ This mod expands on Wild Magic and Wild Mages. [Originally by JOG](http://mods.j
 
 - Components
  - [New wild magic spells](#new-wild-magic-spells)
+ - [Retain Rhialto's inventory]#(retain-rhialtos-inventory)
  - [Spellshaper kit](#spellshaper-kit)
  - [Misc spell changes](#misc-spell-changes)
 - [Tips](#tips)
@@ -23,7 +24,7 @@ You will meet a wild mage and gain access to his spellbook, from which you will 
 #### Ironman
 On Ironman, to meet the mage, rest outdoors. You can also rest in an inn and leave the inn right thereafter.
 
-#### Haughty pansy
+#### Haugthy pansy
 On haugthy pansy (available in BG1 only), the mage will be waiting outside Candlekeep's walls.
 
 ### Retain Rhialto's inventory
