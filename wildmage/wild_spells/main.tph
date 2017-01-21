@@ -1,4 +1,4 @@
-OUTER_SPRINT comp_dir ~%MOD_FOLDER%/components/wild_spells~
+OUTER_SPRINT comp_dir ~%MOD_FOLDER%/wild_spells~
 
 //Rhialto appearance
 ACTION_IF pansy = 0 BEGIN //ironman
@@ -16,13 +16,20 @@ END ELSE BEGIN //stationary Rhialto: create outside Candlekeep's wall and give s
     SAY UNIDENTIFIED_DESC @69999
     SAY DESC @69999
 
-  ACTION_IF GAME_IS ~bgt eet~ BEGIN //trilogy
+  ACTION_IF GAME_IS ~bgee~ BEGIN
     OUTER_SPRINT gorion_cre ~gorion~
-    OUTER_SPRINT out_candlekeep_area ~ar6526~
-  END ELSE BEGIN //tutu
+    OUTER_SPRINT candlekeep_exterior_ch6_bcs ~ar2626~
+  END ELSE ACTION_IF GAME_IS ~eet~ BEGIN
+    OUTER_SPRINT gorion_cre ~gorion~
+    OUTER_SPRINT candlekeep_exterior_ch6_bcs ~bg2626~
+  END ELSE ACTION_IF GAME_IS ~bgt~ BEGIN
+    OUTER_SPRINT gorion_cre ~gorion~
+    OUTER_SPRINT out_candlekeep_area_bcs ~ar6526~
+  END ELSE ACTION_IF GAME_IS ~tutu tutu_totsc~ BEGIN
     OUTER_SPRINT gorion_cre ~_gorion~
-    OUTER_SPRINT out_candlekeep_area ~_ar2700~
+    OUTER_SPRINT candlekeep_exterior_ch6_area_bcs ~_ar2626~
   END
+
   EXTEND_BOTTOM ~%out_candlekeep_area%.bcs~ ~%comp_dir%/baf/candlekeep.baf~
   COPY_EXISTING ~%gorion_cre%.cre~ ~override~
     ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~

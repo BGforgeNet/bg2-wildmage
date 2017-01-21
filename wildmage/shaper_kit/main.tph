@@ -1,4 +1,4 @@
-OUTER_SPRINT comp_dir ~%MOD_FOLDER%/components/shaper_kit~ //component directory
+OUTER_SPRINT comp_dir ~%MOD_FOLDER%/shaper_kit~ //component directory
 
 //------------------------------------------------------
 //    Mod-start in Baldur.bcs

@@ -16,7 +16,7 @@
 // "sphere"        Has cast "Wild Sphere" (1 time)
 // "assassin"      Has used "Assasination" (2 times) 
 
-/* other spells' vars, self explaining:
+/* other spells' vars, self explaining - all cast once
 slow
 fireshield
 spray

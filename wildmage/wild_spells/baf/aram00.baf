@@ -1,0 +1,10 @@
+IF
+  Global("wm_bg1book","GLOBAL",0)
+  PartyHasItem("wm_sbook")
+THEN
+  RESPONSE #100
+    TakePartyItem("wm_sbook")
+    DestroyItem("wm_sbook")
+    SetGlobal("wm_bg1book","GLOBAL",1)
+    Continue()
+END

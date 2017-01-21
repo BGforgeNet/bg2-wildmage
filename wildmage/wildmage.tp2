@@ -1,6 +1,6 @@
 BACKUP ~wildmage/backup~
 AUTHOR ~https://github.com/burner1024/bg2-wildmage/issues~
-VERSION ~v2.beta1~
+VERSION ~v2.beta2~
 //MODDER
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
@@ -16,30 +16,33 @@ BEGIN @60 //Ironman
 SUBCOMPONENT @1 //New Wild Magic Spells
 REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62 //Only ToB or EE engine supported
 OUTER_SET pansy = 0
-INCLUDE ~%MOD_FOLDER%/components/wild_spells/main.tph~
+INCLUDE ~%MOD_FOLDER%/wild_spells/main.tph~
 
 BEGIN @61 //Haughty pansy
 SUBCOMPONENT @1
 REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62 //Only ToB or EE engine supported
 REQUIRE_PREDICATE GAME_INCLUDES ~bg1~ @65 //Requires BG1 content
 OUTER_SET pansy = 1
-INCLUDE ~%MOD_FOLDER%/components/wild_spells/main.tph~
+INCLUDE ~%MOD_FOLDER%/wild_spells/main.tph~
 
+
+BEGIN @66 //Retain Rhialto's items
+REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20 //You must have "New Wild Magic Spells" installed!
+INCLUDE ~%MOD_FOLDER%/rhialto_items/main.tph~
 
 
 BEGIN @63 //Original avatar
 SUBCOMPONENT @2 //Spellshaper kit
 REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20 //You must have "New Wild Magic Spells" installed!
 OUTER_SET avatar = 0
-INCLUDE ~%MOD_FOLDER%/components/shaper_kit/main.tph~
+INCLUDE ~%MOD_FOLDER%/shaper_kit/main.tph~
 
 BEGIN @64 //Changed avatar
 SUBCOMPONENT @2
 REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20
 OUTER_SET avatar = 1
-INCLUDE ~%MOD_FOLDER%/components/shaper_kit/main.tph~
-
+INCLUDE ~%MOD_FOLDER%/shaper_kit/main.tph~
 
 
 BEGIN @4 //Misc Spell Modifications
-COPY ~%MOD_FOLDER%/components/misc_spells/copy~ ~override~
+COPY ~%MOD_FOLDER%/misc_spells/copy~ ~override~

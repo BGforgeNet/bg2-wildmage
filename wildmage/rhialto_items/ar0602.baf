@@ -1,0 +1,22 @@
+//This covers BGT/EET
+IF
+  Global("wm_bg1bear","GLOBAL",1)
+THEN
+  RESPONSE #100
+    ActionOverride("Jailkeep Table",CreateItem("wm_bear",0,0,0))
+    SetGlobal("wm_bg1bear","GLOBAL",2)
+    Continue()
+END
+
+//And this should cover imported characters (from EE,TuTu)
+IF
+  Global("wm_bg1bear","GLOBAL",0)
+  PartyHasItem("wm_bear")
+THEN
+  RESPONSE #100
+    TakePartyItem("wm_bear")
+    DestroyItem("wm_bear")
+    ActionOverride("Jailkeep Table",CreateItem("wm_bear",0,0,0))
+    SetGlobal("wm_bg1bear","GLOBAL",2)
+    Continue()
+END

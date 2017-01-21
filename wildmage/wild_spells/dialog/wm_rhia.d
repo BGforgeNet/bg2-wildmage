@@ -20,5 +20,3 @@ IF
     ForceSpell(Myself,DRYAD_TELEPORT)
     ~ EXIT
 END
-
-
