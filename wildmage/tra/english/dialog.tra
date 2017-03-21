@@ -1,6 +1,6 @@
 //-----------------------------------------
 //         ----------------------
-//           Spellbook Dialogue 
+//           Spellbook Dialogue
 //         ----------------------
 //-----------------------------------------
 @0 = ~You open Rhialto's spellbook for the first time. It's an insane mess of random notes, illegible scribble and childish drawings; all over smeared with blood, bile and some other stuff you can't (and don't even want to) recognize. Amazingly, some of the spell entries are still legible.~
@@ -74,7 +74,7 @@
 
 //-----------------------------------------
 //         ----------------------
-//           Rhialto's Dialogue 
+//           Rhialto's Dialogue
 //         ----------------------
 //-----------------------------------------
 
@@ -90,7 +90,7 @@
 
 //-------------------------------------------
 //         ----------------------------
-//          Spellshaper Class Dialogue 
+//          Spellshaper Class Dialogue
 //         ----------------------------
 //-------------------------------------------
 // Gain Feats

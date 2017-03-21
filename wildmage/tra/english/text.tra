@@ -59,7 +59,7 @@
 // WM_START.SPL  / WM_START.BAF
 // -----------------------------
 @20101 = ~Rhialto's Chaos Conduit~
-@20102 = ~Rhialto's Chaos Conduit* (Alteration) 
+@20102 = ~Rhialto's Chaos Conduit* (Alteration)
 Level: 1
 Range: 0
 Duration: Instantaneous
@@ -71,7 +71,7 @@ You found this strange spell in Rhialto's spellbook. Rhialto spent decades with 
 
 Rhialto's Chaos Conduit establishes a link between the caster and the chaotic plane of Limbo, and then channels raw chaotic energy right into the caster. The purpose of this process is to open the caster's mind for a different kind of spellcasting.
 
-Although the spell's invocation is easy enough to make it available as a 1st level spell, its inner structure is incredible complex and would be appropriate for a spell of 9th, 10th or even higher level. The spell's chaotic nature might partly be responsible for this strange discrepancy. 
+Although the spell's invocation is easy enough to make it available as a 1st level spell, its inner structure is incredible complex and would be appropriate for a spell of 9th, 10th or even higher level. The spell's chaotic nature might partly be responsible for this strange discrepancy.
 
 The spell can be cast only once and its effect is irrevocable. The caster's spellcasting capabilities are permanently changed towards a more intuitive way, and the same happens to his personality.
 
@@ -93,15 +93,15 @@ No matter if you actually think about casting this spell or not, one thing you k
 // WM_SQRLB.BAM  / WM_SQRLC.BAM
 // ----------------------------
 @20201 = ~Rodent Form~
-@20202 = ~Rodent Form* (Alteration) 
+@20202 = ~Rodent Form* (Alteration)
 Level: 1
 Range: 0
 Duration: 1 turn
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: The caster
 Saving Throw: None
 
-This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points, and additional 2 points against missile weapons. Move speed is also slightly increased. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form. 
+This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points, and additional 2 points against missile weapons. Move speed is also slightly increased. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.
 
 Hopefully, the current revision of this spell does NOT change the caster's personality or mentality.~
 
@@ -118,11 +118,11 @@ Hopefully, the current revision of this spell does NOT change the caster's perso
 // WM_SQRLB.BAM   / WM_SQRLC.BAM
 // -----------------------------
 @20301 = ~Ratatosk Shape~
-@20302 = ~Ratatosk Shape* (Alteration) 
+@20302 = ~Ratatosk Shape* (Alteration)
 Level: 1
 Range: 0
 Duration: 1 turn
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: The caster
 Saving Throw: None
 
@@ -147,7 +147,7 @@ Unlike other polymorphing spells, the caster retains his spellcasting abilities 
 Level: 1
 Range: 40 yards
 Duration: Instantaneous
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: Special
 Saving Throw: Special
 
@@ -168,11 +168,11 @@ The advantages of Random Spell are the casting time which is always 1, the range
 // wm_bladb.bam  / wm_bladc.bam
 // ----------------------------
 @20501 = ~Blade Shower~
-@20502 = ~Blade Shower* (Conjuration) 
+@20502 = ~Blade Shower* (Conjuration)
 Level: 2
 Range: 40 yards
 Duration: 3 rounds/5 levels
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: 1-25 creatures
 Saving Throw: Special
 
@@ -191,21 +191,21 @@ Furthermore, the caster rolls d20 for each single dagger to determine a critical
 // --------------------------------------
 // Weird Spell: Rhialto's Random Missiles
 // --------------------------------------
-// WM_MISS.SPL 
+// WM_MISS.SPL
 // WM_MISS1.SPL / WM_MISS2.SPL
 // WM_MISSB.BAM / WM_MISSC.BAM
 // ----------------------------
-       
-@20601 = ~Rhialto's Random Missiles~
-@20602 = ~Rhialto's Random Missiles* (Evocation) 
-Level: 2
-Range: Visual range of caster 
-Duration: Instantaneous
-Casting Time: 1 
-Area of Effect: 1 creature
-Saving Throw: None 
 
-This spell is an improved, randomized version of the first-level spell Magic Missile. It creates a random number of missiles that dart forth from the wizard's fingertips and unerringly strike their target, which must be a creature of some sort. 
+@20601 = ~Rhialto's Random Missiles~
+@20602 = ~Rhialto's Random Missiles* (Evocation)
+Level: 2
+Range: Visual range of caster
+Duration: Instantaneous
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: None
+
+This spell is an improved, randomized version of the first-level spell Magic Missile. It creates a random number of missiles that dart forth from the wizard's fingertips and unerringly strike their target, which must be a creature of some sort.
 
 The actual number of missiles is dependent on the caster's level of experience: 1d4 at first level,  1d6 at fourth level,  1d8 at eighth level  and 1d10 at 12th level.
 
@@ -221,17 +221,17 @@ Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or mag
 // WM_GLYPB.BAM  / WM_GLYPC.BAM
 // -----------------------------------------
 @20701 = ~Glyph of Wild Magic~
-@20702 = ~Glyph of Wild Magic* (Evocation) 
+@20702 = ~Glyph of Wild Magic* (Evocation)
 Level: 4
 Range: 40 yards
 Duration: 1 round/10 levels
 Casting Time: 3
 Area of Effect: 30' radius
-Saving Throw: Special 
+Saving Throw: Special
 
 A glyph of wild magic is a powerful inscription magically drawn on the ground or any other surface. The glyph will remain there until someone comes too close, at which point it will explode and create one weave disturbance for each creature within a 30' radius. Each disturbance causes a multitude of wild surges, targeted at random creatures (including the caster, should he still be nearby).
 
-For every 10 experience levels of the caster, the disturbances remain in existence for 1 round, though it is possible to dispell them prematurely by causing a distortion with physical or magical means. 
+For every 10 experience levels of the caster, the disturbances remain in existence for 1 round, though it is possible to dispell them prematurely by causing a distortion with physical or magical means.
 
 Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage.~
 
@@ -242,7 +242,7 @@ Naturally, the spell's outcome is completely random. Victims can be strengthened
 // ----------------------------------
 // Weird Spell: Gymlainac's Lightbend
 // ----------------------------------
-// WM_LIGHT.SPL 
+// WM_LIGHT.SPL
 // WM_LGHTB.BAM  / WM_LGHTC.BAM
 // ----------------------------------
 @20801 = ~Gymlainac's Lightbend~
@@ -263,22 +263,22 @@ The spell bends light waves around the recipient, creating an effect similar to 
 // ---------------------------------
 // Weird Spell: Vile Word of Discord
 // ---------------------------------
-// WM_WORD.SPL  
+// WM_WORD.SPL
 // WM_WORD1.SPL / WM_WORD2.SPL
 // WM_WORDB.BAM / WM_WORDC.BAM
 // ----------------------------------
 @20901 = ~Vile Word of Discord~
-@20902 = ~Vile Word of Discord* (Enchantment/Charm) 
+@20902 = ~Vile Word of Discord* (Enchantment/Charm)
 Level: 3
 Range: Visual range of the caster
 Duration: 2 rounds
-Casting Time: 3 
-Area of Effect: 30' radius 
-Saving Throw: Special 
+Casting Time: 3
+Area of Effect: 30' radius
+Saving Throw: Special
 
 This spell, a combination of ventriloquism and confusion magics, is the very essence of discord, with the potential to destroy not only formations but also allegiances.
 
-The caster points out a single creature, which then appears to shout insults in a strange, sinister language. The surprise, the unexpected source and the magic hidden within those words hit all bystanders completely unprepared. 
+The caster points out a single creature, which then appears to shout insults in a strange, sinister language. The surprise, the unexpected source and the magic hidden within those words hit all bystanders completely unprepared.
 
 Everyone within a 30' sphere around the target must save vs. spells at -4 or suffer a randomly chosen effect: attack each other, flee in panic, stand around in confusion, ally with the caster or stumbling around uncontrolled. In addition, there's a 20% chance that some of the victims drop random equipment.
 
@@ -337,7 +337,7 @@ Saving Throw: Half
 
 A vortex is a swirling mass of magical energy, barely controllable by the caster. After casting the spell, a 7 foot tall, multicolored sphere appears. From this moment on, the caster must maintain concentration in order for the vortex to remain.
 
-Each round, the caster can move the vortex 60 feet. However, control of direction is not perfect. If the caster fails to concentrate just for a moment, the Vortex moves on on its own. 
+Each round, the caster can move the vortex 60 feet. However, control of direction is not perfect. If the caster fails to concentrate just for a moment, the Vortex moves on on its own.
 
 The vortex is composed of raw magical energy. Once per round, all creatures close to the vortex suffer 2d6 points of each: stunning, electricity and magic damage. Creatures struck are allowed a saving throw vs. spells to suffer only half damage.
 
@@ -366,7 +366,7 @@ This extremely potent spell gives the target a run of good luck. The recipient g
 At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 2 or higher, a new 1d8 bonus is rolled, and the spell continues for another round.
 
 On a roll of 1, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 16 or higher, the spell does not only continue, but the next round is also a "Good Luck" round, in which the recipient gets not only 8 points of luck bonus, but also the almost supernatural ability to avoid death, level drain, and anything that limits his movement.
- 
+
 As long as it doesn't expire due to "Bad Luck" (1 on D20, then 15 or lower on D20), the spell continues infinitely.~
 
 
@@ -391,7 +391,7 @@ Paithan's Fiasco is the reverse version of the level 5 spell Paithan's Lucky Str
 At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 19 or lower, a new 1d8 penalty is rolled, and the spell continues for another round.
 
 On a roll of 20, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 5 or lower, the spell does not only continue, but the next round is also a "Fiasco" round, in which the victim gets 8 points of bad luck penalty and suffers one of the following things: stumble and drop down to the ground for two rounds,  drop weapon due to a sudden spasm,  fail horrible at parrying and loose all attacks for this round,  hurt himself for 1d20 hitpoints  or getting blinded by splinters from his own weapon for three rounds.
- 
+
 As long as it doesn't expire due to "Good Luck" (20 on D20, then 6 or higher on D20), the spell continues infinitely.~
 
 @21311 = ~Fiasco~
@@ -405,7 +405,7 @@ As long as it doesn't expire due to "Good Luck" (20 on D20, then 6 or higher on 
 // WM_STRKB.BAM / WM_STRKC.BAM
 // ----------------------------------
 @21401 = ~Wildstrike~
-@21402 = ~Wildstrike* (Conjuration/Summoning) 
+@21402 = ~Wildstrike* (Conjuration/Summoning)
 Level: 6
 Range: 30 yards
 Duration: 1-15 rounds
@@ -427,17 +427,17 @@ The duration of the spell is 1 round plus two rounds for every five levels of th
 // WM_DISP.SPL  /  WM_DISP.BAF
 // -----------------------------------------------
 @21501 = ~Hornung's Random Dispatcher~
-@21502 = ~Hornung's Random Dispatcher* (Abjuration) 
+@21502 = ~Hornung's Random Dispatcher* (Abjuration)
 Level: 7
 Range: 30 yards
 Duration: Instantaneous
-Casting Time: 2 
+Casting Time: 2
 Area of Effect: One creature
 Saving Throw: Neg.
 
 With the utterance of a few words, this spell can hurl someone to a random plane and leave him there. The target is allowed a saving throw against spells. If successful, the spell fails. If unsuccessful, the victim and all items carried by him are sent to a random plane.
 
-The caster has no control over the destination of the target. The conditions at the destination may kill the target (for example, arriving in the elemental plane of fire), merely make his life difficult, or promise a new life in paradise (literally). 
+The caster has no control over the destination of the target. The conditions at the destination may kill the target (for example, arriving in the elemental plane of fire), merely make his life difficult, or promise a new life in paradise (literally).
 
 Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime.~
 
@@ -492,11 +492,11 @@ Anyway, when the spell is successful, the caster gets rid of the target, and it'
 // WM_COWB.BAM / WM_COWC.BAM
 // ----------------------------
 @21601 = ~Summon Cow~
-@21602 = ~Summon Cow* (Summoning) 
+@21602 = ~Summon Cow* (Summoning)
 Level: 7
-Range: Visual range of caster 
+Range: Visual range of caster
 Duration: Instantaneous
-Casting Time: 3 
+Casting Time: 3
 Area of Effect: 1 creature
 Saving Throw: Special
 
@@ -504,7 +504,7 @@ Upon casting this spell, a cow is summoned in the air 50-200 yards above the tar
 
 Once summoned, the animal will fall down upon the target. The impact as well as the crash to the ground cause crushing damage equal to 3d10 + 1d10 for every three levels of the caster, up to a maximum total of two times 10d10 at Level 21. There is no saving throw against the physical impact, though a very lucky or agile individual may drop to the ground without taking additional damage.
 
-If the targeted creature survives the impact, there's a chance of 10% +10% for every three experience levels of the caster, that the victim drops random equipment while falling. The maximum chance is 80% at Level 21; there is no saving throw. 
+If the targeted creature survives the impact, there's a chance of 10% +10% for every three experience levels of the caster, that the victim drops random equipment while falling. The maximum chance is 80% at Level 21; there is no saving throw.
 
 Finally, the whole situation is so confusing and frightening, that the target must save against spells or flee in panic for three rounds. The saving throw starts with a modifier of +2, which is decreased by 1 for every three levels of the caster, until it reaches -5 at 21th level.
 
@@ -526,7 +526,7 @@ It is also strongly advised against using this spell in the presence of rangers 
 Level: 8
 Range: 0
 Duration: Instantaneous
-Casting Time: 10 
+Casting Time: 10
 Area of Effect: The caster
 Saving Throw: None
 
@@ -584,7 +584,7 @@ Saving Throw: None
 
 This spell surrounds the caster in a protective field of raw magical energy. This field will absorb the energy of any wild surge and all but the most powerful spells.
 
-For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield. 
+For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield.
 
 In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect.~
 
@@ -592,13 +592,13 @@ In addition, the caster gains a +100 bonus to rolls on the wild surge table, for
 
 
 // ---------------------------------------
-// Finally: Wild Sphere  
+// Finally: Wild Sphere
 // ---------------------------------------
-// WM_SPHR.SPL  / WM_CAO_6.PRO 
+// WM_SPHR.SPL  / WM_CAO_6.PRO
 // WM_SPHRB.BAM / WM_SPHR.BAM
 // ---------------------------------------
 @22001 = ~Wild Sphere~
-@22002 = ~Wild Sphere* (Conjuration/Summoning) 
+@22002 = ~Wild Sphere* (Conjuration/Summoning)
 Level: 9
 Range: Visual range of the caster
 Duration: 6 turns
@@ -608,7 +608,7 @@ Saving Throw: Special
 
 This powerful spell creates a temporary rift in the Weave. The area of effect is a sphere with 30 foot radius; within chaos reigns.
 
-Any spell cast within the Wild Sphere automatically causes a wild surge. Effects from magical items that expend charges also cause wild surges when used in the area. Other magical items function normally. Even after a victim left the area of effect, it takes one round for his spell casting capabilities return to normal. 
+Any spell cast within the Wild Sphere automatically causes a wild surge. Effects from magical items that expend charges also cause wild surges when used in the area. Other magical items function normally. Even after a victim left the area of effect, it takes one round for his spell casting capabilities return to normal.
 
 In addition, everyone within the area of effect must make a save vs. spells at -5 every round, or cause a weave disturbance that fires multiple wild surges at random targets for one round, comparable to the 4th level spell Glyph of Wild Magic.
 
@@ -617,16 +617,16 @@ Vicims that also fail the save vs. spells without modifier, are subject to one o
 
 
 // ---------------------------------------
-//   Rhialto's Marvelous Reincarnation  
+//   Rhialto's Marvelous Reincarnation
 // ---------------------------------------
 // WM_REINC.SPL
 // ---------------------------------------
 @22101 = ~Rhialto's Marvelous Reincarnation~
-@22102 = ~Rhialto's Marvelous Reincarnation* (Alteration) 
+@22102 = ~Rhialto's Marvelous Reincarnation* (Alteration)
 Level: 10
 Range: Visual range of the caster
 Duration: Instantaneous
-Casting Time: 10 
+Casting Time: 10
 Area of Effect: One creature
 Saving Throw: None
 
@@ -641,7 +641,7 @@ Once the victim is chosen, the strands of time are rewoven, so that the victim d
 
 
 // ---------------------------------------
-//    Entropy Burst  
+//    Entropy Burst
 // ---------------------------------------
 // WM_CHAOB.SPL         WM_CHAOB.PRO
 // WM_CBD8.EFF		WM_CBD20.EFF
@@ -670,7 +670,7 @@ There is no saving throw vs. this spell and the effects are instantaneous and la
 
 
 // ---------------------------------------
-//    Acid Storm  
+//    Acid Storm
 // ---------------------------------------
 // WM_Acid.SPL
 // ---------------------------------------
@@ -686,10 +686,10 @@ This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points
 
 
 // ---------------------------------------
-//    Summon Wild Horde  
+//    Summon Wild Horde
 // ---------------------------------------
 // WM_HORDE.SPL		WM_HORD1.SPL
-// WM_HORDE.EFF		WM_HORDE.CRE	
+// WM_HORDE.EFF		WM_HORDE.CRE
 // WM_HORDE.BCS		WM_HORDB.BAM
 // WM_HORDC.BAM
 // ---------------------------------------
@@ -698,9 +698,9 @@ This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points
 Level: 2
 Range: 0
 Duration: 1 round/level
-Casting Time: 2 
-Area of Effect: Special 
-Saving Throw: Special 
+Casting Time: 2
+Area of Effect: Special
+Saving Throw: Special
 
 This summoning spell calls forth 1d20 aggressive rabbits that defend the caster with their lives.
 
@@ -708,18 +708,18 @@ The tiny animals don't really pose a threat besides distracting the caster's ene
 
 
 // ---------------------------------------
-//    Liquefy  
+//    Liquefy
 // ---------------------------------------
 // WM_LIQ.SPL		WM_LIQ.CRE
 // WM_LIQB.BAM          WM_LIQC.BAM
-// 
+//
 // ---------------------------------------
 @22501 = ~Corporeal Instability~
 @22502 = ~Corporeal Instability* (Alteration)
 Level: 4
 Range: Visual sight of caster
 Duration: 1 round/level
-Casting Time: 3 
+Casting Time: 3
 Area of Effect: One Creature
 Saving Throw: Neg.
 
@@ -740,7 +740,7 @@ When the spell is cast on a creature, it has to save vs. spells at -5 or be liqu
 Level: 3
 Range: 40 yards
 Duration: Instantaneous
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: Special
 Saving Throw: Special
 
@@ -764,7 +764,7 @@ The advantages of Random Spell are the casting time which is always 1, the range
 Level: 5
 Range: 40 yards
 Duration: Instantaneous
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: Special
 Saving Throw: Special
 
@@ -788,7 +788,7 @@ The advantages of Random Spell are the casting time which is always 1, the range
 Level: 7
 Range: 40 yards
 Duration: Instantaneous
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: Special
 Saving Throw: Special
 
@@ -812,7 +812,7 @@ The advantages of Random Spell are the casting time which is always 1, the range
 Level: 9
 Range: 0
 Duration: Special
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: Special
 Saving Throw: Special
 
@@ -824,14 +824,14 @@ Wildfire allows the caster to create the effect of any wizard spell of 8th level
 // -------------------------------
 // Mynoc's Irresistible Appeal
 // -------------------------------
-// WM_ATTR.SPL 
+// WM_ATTR.SPL
 // -----------------------------
 @23001 = ~Mynoc's Irresistible Appeal~
 @23002 = ~Mynoc's Irresistible Appeal* (Invocation/Evocation)
 Level: 1
 Range: Visual sight of caster
 Duration: Instantaneous
-Casting Time: 1 
+Casting Time: 1
 Area of Effect: 1 creature
 Saving Throw: none
 
@@ -852,7 +852,7 @@ There is no saving throw against this spell and it bypasses all magic resistance
 Level: 6
 Range: 0
 Duration: 5 rounds/level
-Casting Time: 4 
+Casting Time: 4
 Area of Effect: The Caster
 Saving Throw: none
 
@@ -873,7 +873,7 @@ The spell's duration is 5 rounds for every level of the caster, up to 2 hours at
 // Special ability: Weave Spell
 // ----------------------------
 // WM_WEAVE.SPL / WM_WAV_B.BAM
-// WM_WAVBL.SPL 
+// WM_WAVBL.SPL
 // WM_WAV0*.SPL / WM_WAV0*.BAM
 // WM_WAV*.2da (88 Files total)
 // ----------------------------
@@ -895,7 +895,7 @@ The spell's duration is 5 rounds for every level of the caster, up to 2 hours at
 // ----------------------------
 // Special ability: Weaveshear
 // ----------------------------
-// WM_SHEAR.SPL / WM_CAO_1.PRO 
+// WM_SHEAR.SPL / WM_CAO_1.PRO
 // WM_SHEAB.BAM
 // ----------------------------
 @30201 = ~Weaveshear~
@@ -935,13 +935,13 @@ Unlike the sorcerer, the spellshaper may learn spells from scrolls, and memorize
 
 Neglecting conventional spellcasting, and focussing on chaotic wild magic doesn't come without a price: A spellshaper can't memorize as many spells as a true mage, and his progress in getting access to new spell levels is much slower.
 
-Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character. 
+Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character.
 
-Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties. 
+Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties.
 
 One of the spellshaper's more eccentric character-traits is that he refuses any training in the use of missile weapons; for ranged combat, a spellshaper uses magic, and if magic fails he prefers melee.
 
-Advantages:		
+Advantages:
 -  Wild Magic (Casting level varies up to +- 5)
 -  THAC0 advancement close to rogue
 -  5 lore rating per level
@@ -949,8 +949,8 @@ Advantages:
 -  Weaveshear ability
 -  Shape Spell ability
 -  May learn combat-related "feats"
-		
-Disadvantages:	
+
+Disadvantages:
 -  Wild Magic (Casting level varies up to +- 5)
 -  5% Chance for Wild Surge
 -  Much slower spell progression
@@ -978,7 +978,7 @@ Not Usable By:
 
 
 // ----------------------
-// Weird Thingy: Dead Cat 
+// Weird Thingy: Dead Cat
 // ----------------------
 // WM_CAT.ITM
 // ----------------------
@@ -994,7 +994,7 @@ Not Usable By:
 @40402 = ~Although this cute teddy bear looks quite old, it's still in good condition.~
 @40403 = ~Teddy Bear of Protection +2, +4 vs. Demons~
 @40404 = ~Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'
-The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2. 
+The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.
 
 Although Halycron spent much time for his son's safety and education in the arts of magic, he neglected to teach him the necessary discipline and precautionary measures. At the age of six, Halycron's son accidentally summoned a demon while his parents weren't at home. When Halcroyn and his wive returned, the house was burned down, and the babysitter devoured by the demon. In midst of the ruins, they found their son cowering under an almost unscathed table, tightly holding his beloved teddy bear.
 
@@ -1010,7 +1010,7 @@ Not Usable By:
 
 
 // ---------------------------
-// The Spellbook 
+// The Spellbook
 // ---------------------------
 // WM_SBOOK.ITM / WM_SBOOK.BAM
 // WM_SBOOK.D
@@ -1019,20 +1019,20 @@ Not Usable By:
 // ---------------------------
 
 @40501 = ~Rhialto's Spellbook~
-@40502 = ~This spellbook once belonged to Rhialto "the Marvelous". You obtained it after his sudden demise. 
+@40502 = ~This spellbook once belonged to Rhialto "the Marvelous". You obtained it after his sudden demise.
 
-Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power. 
+Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.
 
 The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.
 
 STATISTICS:
- 
+
 Only Usable By:
  Wild Mage~
 
-@40503 = ~This spellbook once belonged to Rhialto "the Marvelous". You obtained it after his sudden demise. 
+@40503 = ~This spellbook once belonged to Rhialto "the Marvelous". You obtained it after his sudden demise.
 
-Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power. 
+Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.
 
 This book is as much a diary and a notebook as it is a spellbook. Although he clearly was a madman when you met him, Rhialto once must have been a genius; not only did he develop new spells, he also was obsessed with learning alternative ways of spellcasting, this is what led him to wild magic in the first place, and most likely caused his insanity in the end.
 
@@ -1043,17 +1043,17 @@ The overall selection of spells in this book is quite unusual, you could try to 
 STATISTICS:
 
 May be used once per day to cast one of the following spells:
- Armor 
+ Armor
  Chaos Shield
  Dispel Magic
  Friends
  Gymlainac's Lightbend
  Horror
  Invisibility
- Larloch's Minor Drain 
- Rhialto's Random Missiles     
- Wizard Eye 
- 
+ Larloch's Minor Drain
+ Rhialto's Random Missiles
+ Wizard Eye
+
 Only Usable By:
  Wild Mage~
 
@@ -1064,7 +1064,7 @@ Only Usable By:
 //------------------------------------------------------------------------------------------------------
 
 // ---------------------------
-// Rhialto the Marvelous 
+// Rhialto the Marvelous
 // ---------------------------
 // WM_RHIA1.CRE / WM_RHIA2.CRE
 // ---------------------------
@@ -1072,7 +1072,7 @@ Only Usable By:
 @50102 = ~Rhialto~
 
 // ------------------------------
-// Rhialto's fizzled Vortex-Spell 
+// Rhialto's fizzled Vortex-Spell
 // ------------------------------
 // WM_RHIA1.SPL
 // WM_VORTX.SPL / WM_VORT2.SPL
@@ -1088,6 +1088,6 @@ Only Usable By:
 @69998 = ~Letter~
 @69999 = ~My dear friend Gorion,
 
-be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway. 
+be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.
 
 E.~
