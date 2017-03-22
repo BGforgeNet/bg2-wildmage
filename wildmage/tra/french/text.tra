@@ -99,12 +99,12 @@ Les [R]einstaller, les s[U]pprimer, dem[A]nder pour chacun ? "
 // WM_START.SPL  / WM_START.BAF
 // -----------------------------
 @20101 = ~Conduit Chaotique de Rhialto~
-@20102 = ~Conduit Chaotique de Rhialto* (Altération) 
+@20102 = ~Conduit Chaotique de Rhialto* (Altération)
 Niveau : 1
 Portée : le jeteur de sorts
 Durée : instantanée
 Temps d'incantation : 2 rounds
-Zone d'effet : le jeteur de sorts 
+Zone d'effet : le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Vous avez trouvé ce sort étrange dans le livre de sorts de Rhialto. Rhialto passa des décennies dans ses recherches sur la magie entropique, et finit par créer ce sort qui lui permit d'apprendre une nouvelle façon d'incanter.
@@ -133,12 +133,12 @@ Peu importe que vous ayez l'intention de lancer ce sort ou pas, une chose est ce
 // WM_SQRLB.BAM  / WM_SQRLC.BAM
 // ----------------------------
 @20201 = ~Forme de Rongeur~
-@20202 = ~Forme de Rongeur* (Altération) 
+@20202 = ~Forme de Rongeur* (Altération)
 Niveau : 1
 Portée : le jeteur de sorts
 Durée : 1 tour
-Temps d'incantation : 1 
-Zone d'effet : Le jeteur de sorts 
+Temps d'incantation : 1
+Zone d'effet : Le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Ce sort transforme le lanceur de sorts en un adorable petit écureuil. Étant donné la taille minuscule du rongeur, le lanceur de sorts gagne un bonus de -2 à la Classe d'Armure contre les armes normales, et -4 contre les projectiles. Contrairement aux autres sorts de métamorphose, le jeteur de sorts garde sa capacité à lancer des sorts sous forme de rongeur.
@@ -158,12 +158,12 @@ Heureusement, la révision récente de ce sort ne change PAS la personnalité du la
 // WM_SQRLB.BAM   / WM_SQRLC.BAM
 // -----------------------------
 @20301 = ~Forme de Ratatosk~
-@20302 = ~Forme de Ratatosk* (Altération) 
+@20302 = ~Forme de Ratatosk* (Altération)
 Niveau : 1
 Portée : le jeteur de sorts
 Durée : 1 tour
-Temps d'incantation : 1 
-Zone d'effet : Le jeteur de sorts 
+Temps d'incantation : 1
+Zone d'effet : Le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Les Ratatosk sont une race extraplanaire de guerriers écureuils doués de sens, natifs d'Yggdrasil, le Frêne du Monde, le grand arbre divin dont les branches et les racines s'étendent dans tous les plans extérieurs.
@@ -187,7 +187,7 @@ Contrairement aux autres sorts de transformation, le jeteur de sorts garde sa ca
 Niveau : 1
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -206,11 +206,11 @@ Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 
 // WM_BLADB.BAM  / WM_BLADC.BAM
 // ----------------------------
 @20501 = ~Douche de Lames~
-@20502 = ~Douche de Lames* (Conjuration) 
+@20502 = ~Douche de Lames* (Conjuration)
 Niveau : 2
 Portée : 40 mètres
 Durée : 3 rounds/5 niveaux
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : 1-25 créatures
 Jet de sauvegarde : spécial
 
@@ -227,17 +227,17 @@ Les dagues, constituées de chaos pur, contournent toute défense physique ou magi
 // --------------------------------------
 // Sort étrange : Projectiles Aléatoires de Rhialto
 // --------------------------------------
-// WM_MISS.SPL 
+// WM_MISS.SPL
 // WM_MISS1.SPL / WM_MISS2.SPL
 // WM_MISSB.BAM / WM_MISSC.BAM
 // ----------------------------
-       
+
 @20601 = ~Projectiles Aléatoires de Rhialto~
-@20602 = ~Projectiles Aléatoires de Rhialto* (Évocation) 
+@20602 = ~Projectiles Aléatoires de Rhialto* (Évocation)
 Niveau : 2
-Portée : Champ de vision du lanceur de sorts  
+Portée : Champ de vision du lanceur de sorts
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
@@ -257,7 +257,7 @@ Chaque projectile inflige 1d4+1 points de dégâts d'acide, de froid, de feu, d'él
 // WM_GLYPB.BAM  / WM_GLYPC.BAM
 // -----------------------------------------
 @20701 = ~Glyphe de Magie Entropique~
-@20702 = ~Glyphe de Magie Entropique* (Évocation) 
+@20702 = ~Glyphe de Magie Entropique* (Évocation)
 Niveau : 4
 Portée : 40 mètres
 Durée : 1 round/10 niveaux
@@ -278,7 +278,7 @@ Naturellement, le résultat du sort est complètement aléatoire. Les victimes peuv
 // ----------------------------------
 // Sort étrange : Courbure de l'Espace de Gymlainac
 // ----------------------------------
-// WM_LIGHT.SPL 
+// WM_LIGHT.SPL
 // WM_LGHTB.BAM  / WM_LGHTC.BAM
 // ----------------------------------
 @20801 = ~Courbure de l'Espace de Gymlainac~
@@ -299,18 +299,18 @@ Le sort courbe la lumière autour du récipiendaire, créant un effet similaire au 
 // ---------------------------------
 // Sort étrange : Vil Mot de Discorde
 // ---------------------------------
-// WM_WORD.SPL  
+// WM_WORD.SPL
 // WM_WORD1.SPL / WM_WORD2.SPL
 // WM_WORDB.BAM / WM_WORDC.BAM
 // ----------------------------------
 @20901 = ~Vil Mot de Discorde~
-@20902 = ~Vil Mot de Discorde* (Enchantement/Charme) 
+@20902 = ~Vil Mot de Discorde* (Enchantement/Charme)
 Niveau : 3
-Portée : champ de vision du lanceur de sorts 
+Portée : champ de vision du lanceur de sorts
 Durée : 2 rounds
-Temps d'incantation : 3 
-Zone d'effet : rayon de 9 mètres 
-Jet de sauvegarde : spécial 
+Temps d'incantation : 3
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : spécial
 
 Ce sort, une combinaison de ventriloquie et de confusion magique, est l'essence même de la discorde, avec le potentiel de détruire non seulement des formations mais aussi des allégeances.
 
@@ -441,7 +441,7 @@ Tant que le sort n'expire pas suite à une "bonne fortune" (20 au D20, puis 6 ou 
 // WM_STRKB.BAM / WM_STRKC.BAM
 // ----------------------------------
 @21401 = ~Frappe Entropique~
-@21402 = ~Frappe Entropique* (Conjuration/Invocation) 
+@21402 = ~Frappe Entropique* (Conjuration/Invocation)
 Niveau : 6
 Portée : 30 mètres
 Durée : 1-15 rounds
@@ -463,11 +463,11 @@ La durée du sort est de 1 round, plus 2 rounds tous les 5 niveaux du lanceur de 
 // WM_DISP.SPL  /  WM_DISP.BAF
 // -----------------------------------------------
 @21501 = ~Envoi Aléatoire de Hornung~
-@21502 = ~Envoi Aléatoire de Hornung* (Abjuration) 
+@21502 = ~Envoi Aléatoire de Hornung* (Abjuration)
 Niveau : 7
 Portée : 30 mètres
 Durée : instantanée
-Temps d'incantation : 2 
+Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : annule
 
@@ -528,11 +528,11 @@ Dans tous les cas, quand le sort est réussi, le lanceur de sorts se débarrasse d
 // WM_COWB.BAM / WM_COWC.BAM
 // ----------------------------
 @21601 = ~Convocation de Vache~
-@21602 = ~Convocation de Vache* (Invocation) 
+@21602 = ~Convocation de Vache* (Invocation)
 Niveau : 7
-Portée : Portée visuelle du lanceur de sorts 
+Portée : Portée visuelle du lanceur de sorts
 Durée : instantanée
-Temps d'incantation : 3 
+Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
@@ -540,7 +540,7 @@ Lorsque ce sort est lancé, une vache est invoquée dans le ciel, 50 à 200 mètres 
 
 Une fois invoqué, l'animal tombe sur la cible. L'impact ainsi que le crash au sol cause 3d10 points de dégâts contondants plus 1d10 pour chaque tranche de 3 niveaux du lanceur de sorts, avec un maximum de 10d10 au niveau 21. Il n'y a aucun jet de sauvegarde contre l'impact physique, bien qu'un individu très chanceux ou très agile puisse se laisser tomber au sol sans dégâts supplémentaires.
 
-Si la créature ciblée survit à l'impact, il y a 10% de chance + 10% pour chaque tranche de 3 niveaux d'expérience du lanceur de sorts que la victime lâche un objet au hasard lors de sa chute. La probabilité maximale est de 80% au niveau 21 ; il n'y a aucun jet de sauvegarde. 
+Si la créature ciblée survit à l'impact, il y a 10% de chance + 10% pour chaque tranche de 3 niveaux d'expérience du lanceur de sorts que la victime lâche un objet au hasard lors de sa chute. La probabilité maximale est de 80% au niveau 21 ; il n'y a aucun jet de sauvegarde.
 
 Finalement, la situation dans son ensemble est si effrayante et prête tellement à confusion que la cible doit réussir un jet de sauvegarde contre les sorts sous peine de s'enfuir pour trois rounds, paniquée. Le jet de sauvegarde s'effectue avec un modificateur de +2, qui décroit de 1 pour chaque niveau de lanceur de sorts, jusqu'à atteindre -5 au niveau 21.
 
@@ -562,8 +562,8 @@ Il est aussi fortement déconseillé d'utiliser ce sort en présence de rôdeurs ou 
 Niveau : 8
 Portée : le jeteur de sorts
 Durée : instantanée
-Temps d'incantation : 10 
-Zone d'effet : Le jeteur de sorts 
+Temps d'incantation : 10
+Zone d'effet : Le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Quand ce sort est lancé, l'entropiste libère volontairement de l'énergie magique brute sous la forme d'un hiatus entropique. S'il réussit à contrôler le hiatus entropique, il peut utiliser l'énergie pour se remémorer 1d4 sorts précédemment lancés. Si aucun sort n'a encore été lancé, alors rien ne se se passe et le sort est perdu.
@@ -615,7 +615,7 @@ Niveau : 9
 Portée : le jeteur de sorts
 Durée : 2 tours
 Temps d'incantation : 9
-Zone d'effet : le jeteur de sorts 
+Zone d'effet : le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Ce sort entoure le lanceur de sorts d'un champ protecteur d'énergie magique brute. Le champ absorbe l'énergie de tout hiatus entropique et tous les sorts, exceptés les plus puissants.
@@ -628,13 +628,13 @@ De plus, le lanceur de sorts gagne un bonus de +100 pour les jets de la table de
 
 
 // ---------------------------------------
-// Et enfin : Sphère Entropique  
+// Et enfin : Sphère Entropique
 // ---------------------------------------
-// WM_SPHR.SPL  / WM_CAO_6.PRO 
+// WM_SPHR.SPL  / WM_CAO_6.PRO
 // WM_SPHRB.BAM / WM_SPHR.BAM
 // ---------------------------------------
 @22001 = ~Sphère Entropique~
-@22002 = ~Sphère Entropique* (Conjuration/Invocation) 
+@22002 = ~Sphère Entropique* (Conjuration/Invocation)
 Niveau : 9
 Portée : champ visuel du lanceur de sorts
 Durée : 6 tours
@@ -644,7 +644,7 @@ Jet de sauvegarde : spécial
 
 Ce sort puissant crée une brèche temporaire dans la Toile. La zone d'effet est une sphère de 9 mètres de rayon, dans laquelle règne le chaos.
 
-Tout sort lancé à l'intérieur de la Sphère Entropique cause automatiquement un hiatus entropique. Les effets provoqués par des objets magiques à charges causent aussi des hiatus entropiques lorsqu'ils sont utilisés dans cette zone. Les autres objets magiques fonctionnent normalement. Une fois qu'une victime a quitté la zone d'effet, il lui faut un round pour que ses capacités d'incantation reviennent à la normale. 
+Tout sort lancé à l'intérieur de la Sphère Entropique cause automatiquement un hiatus entropique. Les effets provoqués par des objets magiques à charges causent aussi des hiatus entropiques lorsqu'ils sont utilisés dans cette zone. Les autres objets magiques fonctionnent normalement. Une fois qu'une victime a quitté la zone d'effet, il lui faut un round pour que ses capacités d'incantation reviennent à la normale.
 
 De plus, chaque personne dans la zone d'effet doit réussir un jet de sauvegarde contre les sorts avec un malus de -5 à chaque round, ou causer une perturbation de la Toile qui déclenche plusieurs hiatus entropiques sur des cibles aléatoires pendant un round, tout comme le sort de niveau 4 Glyphe de Magie Entropique.
 
@@ -653,16 +653,16 @@ Les victimes qui ratent le jet de sauvegarde contre les sorts sans tenir compte 
 
 
 // ---------------------------------------
-//   Réincarnation Merveilleuse de Rhialto  
+//   Réincarnation Merveilleuse de Rhialto
 // ---------------------------------------
 // WM_REINC.SPL
 // ---------------------------------------
 @22101 = ~Réincarnation Merveilleuse de Rhialto~
-@22102 = ~Réincarnation Merveilleuse de Rhialto* (Altération) 
+@22102 = ~Réincarnation Merveilleuse de Rhialto* (Altération)
 Niveau : 10
 Portée : champ visuel du lanceur de sorts
 Durée : instantanée
-Temps d'incantation : 10 
+Temps d'incantation : 10
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
@@ -677,7 +677,7 @@ Une fois que la victime est choisie, les fils du temps sont retissés de sorte qu
 
 
 // ---------------------------------------
-//    Décharge d'Entropie  
+//    Décharge d'Entropie
 // ---------------------------------------
 // WM_CHAOB.SPL         WM_CHAOB.PRO
 // WM_CBD8.EFF		WM_CBD20.EFF
@@ -706,14 +706,14 @@ Il n'y a aucun jet de sauvegarde ; les effets sont instantanés et durent jusqu'à
 
 
 // ---------------------------------------
-//    Tempête d'acide  
+//    Tempête d'acide
 // ---------------------------------------
 // WM_Acid.SPL
 // ---------------------------------------
 @22301 = ~Tempête d'acide~
 @22302 = ~Tempête d'acide (Évocation)
 Niveau : 7
-Portée : Champ visuel du lanceur de sorts 
+Portée : Champ visuel du lanceur de sorts
 Durée : 1 tour
 Temps d'incantation : 7
 Zone d'effet : rayon de 6 mètres
@@ -723,10 +723,10 @@ Ce sort libère un nuage acide dans toute la zone d'effet, causant 1d4 points de 
 
 
 // ---------------------------------------
-//    Convocation de Horde Sauvage  
+//    Convocation de Horde Sauvage
 // ---------------------------------------
 // WM_HORDE.SPL		WM_HORD1.SPL
-// WM_HORDE.EFF		WM_HORDE.CRE	
+// WM_HORDE.EFF		WM_HORDE.CRE
 // WM_HORDE.BCS		WM_HORDB.BAM
 // WM_HORDC.BAM
 // ---------------------------------------
@@ -735,9 +735,9 @@ Ce sort libère un nuage acide dans toute la zone d'effet, causant 1d4 points de 
 Niveau : 2
 Portée : 0
 Durée : 1 round/niveau
-Temps d'incantation : 2 
+Temps d'incantation : 2
 Zone d'effet : spéciale
-Jet de sauvegarde : spécial 
+Jet de sauvegarde : spécial
 
 Ce sort de convocation convoque 1d20 lapins agressifs qui défendent le lanceur de sorts au péril de leur vie.
 
@@ -745,18 +745,18 @@ Ces petits animaux ne constituent pas vraiment une menace hormis le fait qu'ils 
 
 
 // ---------------------------------------
-//    Instabilité Corporelle 
+//    Instabilité Corporelle
 // ---------------------------------------
 // WM_LIQ.SPL		WM_LIQ.CRE
 // WM_LIQB.BAM          WM_LIQC.BAM
-// 
+//
 // ---------------------------------------
 @22501 = ~Instabilité Corporelle~
 @22502 = ~Instabilité Corporelle* (Altération)
 Niveau : 4
 Portée : champ visuel du lanceur de sorts
 Durée : 1 round/niveau
-Temps d'incantation : 3 
+Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : annule
 
@@ -777,7 +777,7 @@ Quand le sort est lancé sur une créature, celle-ci doit réussir un jet de sauveg
 Niveau : 3
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -799,7 +799,7 @@ Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 
 Niveau : 5
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet: spéciale
 Jet de sauvegarde : spécial
 
@@ -821,7 +821,7 @@ Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 
 Niveau : 7
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -843,7 +843,7 @@ Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 
 Niveau : 9
 Portée : le jeteur de sorts
 Durée : spéciale
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -855,14 +855,14 @@ Feu Entropique permet au lanceur de sorts de créer l'effet de n'importe quel sor
 // -------------------------------
 // Appel Irrésistible de Mynoc
 // -------------------------------
-// WM_ATTR.SPL 
+// WM_ATTR.SPL
 // -----------------------------
 @23001 = ~Appel Irrésistible de Mynoc~
 @23002 = ~Appel Irrésistible de Mynoc* (Invocation/Évocation)
 Niveau : 1
 Portée : Champ visuel du lanceur de sorts
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
@@ -883,13 +883,13 @@ Il n'y a aucun jet de sauvegarde contre ce sort et il contourne toutes les résis
 Niveau : 6
 Portée : le jeteur de sorts
 Durée : 5 rounds/niveau
-Temps d'incantation : 4 
-Zone d'effet : le jeteur de sorts 
+Temps d'incantation : 4
+Zone d'effet : le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Ce sort fut créé par l'entropiste gnome Meece Upknot comme un moyen pour se protéger en combat. Meece n'arrivait pas à décider qui de la robustesse ou de la discrétion était le meilleur moyen pour survivre à un combat, alors il créa un sort qui combine les deux.
 
-Le lanceur d'Armure Entropique est protégé par des fluctuations intenses de la toile magique autour de lui. Cette déformation modifie les lois des probabilités à un point tel qu'elles servent alors de protection contre tout type de dégâts. Tant que le sort fait effet, il y a une forte probabilité que toute attaque directe visant le lanceur de sorts ait un effet mois significatif que la normale ; ainsi tous les dégâts que le lanceur de sorts reçoit sont réduits de 20%. Cependant il y a aussi 50% de chance que l'attaque déforme le champ magique entourant le lanceur de sorts, causant un hiatus entropique. 
+Le lanceur d'Armure Entropique est protégé par des fluctuations intenses de la toile magique autour de lui. Cette déformation modifie les lois des probabilités à un point tel qu'elles servent alors de protection contre tout type de dégâts. Tant que le sort fait effet, il y a une forte probabilité que toute attaque directe visant le lanceur de sorts ait un effet mois significatif que la normale ; ainsi tous les dégâts que le lanceur de sorts reçoit sont réduits de 20%. Cependant il y a aussi 50% de chance que l'attaque déforme le champ magique entourant le lanceur de sorts, causant un hiatus entropique.
 
 Une fois que les dégâts causés par une attaque ont été réduits, le sort rend l'entropiste invisible pour prévenir tout dégât supplémentaire. Cette invisibilité dure 5 rounds, jusqu'à dissipation, ou jusqu'à ce que le lanceur de sorts attaque une créature.
 
@@ -904,7 +904,7 @@ Le sort dure 5 rounds pour chaque niveau du lanceur de sorts, avec un maximum de
 // Capacité spéciale : Tisser un sort
 // ----------------------------
 // WM_WEAVE.SPL / WM_WAV_B.BAM
-// WM_WAVBL.SPL 
+// WM_WAVBL.SPL
 // WM_WAV0*.SPL / WM_WAV0*.BAM
 // WM_WAV*.2da (88 Files total)
 // ----------------------------
@@ -926,7 +926,7 @@ Le sort dure 5 rounds pour chaque niveau du lanceur de sorts, avec un maximum de
 // ----------------------------
 // Capacité spéciale : Explosion Entropique
 // ----------------------------
-// WM_SHEAR.SPL / WM_CAO_1.PRO 
+// WM_SHEAR.SPL / WM_CAO_1.PRO
 // WM_SHEAB.BAM
 // ----------------------------
 @30201 = ~Explosion Entropique~
@@ -968,20 +968,20 @@ Négliger l'incantation conventionnelle et se concentrer sur la chaotique magie e
 
 Les gens de cette profession ont aussi tendance à être un peu excentriques : leur nature indisciplinée constitue ce qui les a conduits à choisir cette façon alternative d'incanter, et un contact constant avec la magie entropique chaotique affecte encore plus la personnalité d'un Tisseur de sorts. De manière similaire à un barde, un Tisseur de sorts a beaucoup de centres d'intérêts : il apprend un peu de tout ce qui croise son chemin, mais manque de constance pour maîtriser ce savoir de la même façon qu'un personnage discipliné.
 
-La plupart des Tisseurs de sorts ont la sagesse de ne pas compter uniquement sur leur dangereuse et imprévisible magie. Ils assurent leurs arrières en apprenant à se battre. Ce ne sont pas des guerriers, mais l'efficacité d'un Tisseur de sorts au corps au corps est proche de celle d'un voleur. En accumulant de l'expérience, le lanceur de sorts peut apprendre des capacités spéciales qui améliorent encore plus ses techniques de combat ; ces capacités incluant l'attaque sournoise, la maîtrise de la dague et la faculté unique de se battre avec deux armes sans pénalité. 
+La plupart des Tisseurs de sorts ont la sagesse de ne pas compter uniquement sur leur dangereuse et imprévisible magie. Ils assurent leurs arrières en apprenant à se battre. Ce ne sont pas des guerriers, mais l'efficacité d'un Tisseur de sorts au corps au corps est proche de celle d'un voleur. En accumulant de l'expérience, le lanceur de sorts peut apprendre des capacités spéciales qui améliorent encore plus ses techniques de combat ; ces capacités incluant l'attaque sournoise, la maîtrise de la dague et la faculté unique de se battre avec deux armes sans pénalité.
 
 Un des traits de caractère des plus excentriques des tisseurs de sorts est qu'ils refusent tout entraînement dans l'utilisation d'armes à projectiles ; pour le combat à distance, le Tisseur de sorts use de sa magie et si celle-ci échoue, il préfère le corps à corps.
 
-Avantages :		
+Avantages :
 -  Magie Entropique (Niveau de lanceur de sorts ± 5)
 -  Progression du TAC0 proche du roublard
 -  5 points de connaissance par niveau
--  Capacité de Tisser les sorts 
--  Capacité : Explosion Entropique 
+-  Capacité de Tisser les sorts
+-  Capacité : Explosion Entropique
 -  Capacité de Modeler les sorts
 -  Peut apprendre des "dons" relatifs au combat
-		
-Inconvénients :	
+
+Inconvénients :
 -  Magie Entropique (Niveau de lanceur de sorts ± 5)
 -  5% de chance d'occasionner un Hiatus Entropique
 -  Progression en sorts bien plus lente
@@ -1009,7 +1009,7 @@ Non utilisable par :
 
 
 // ----------------------
-// Truc bizarre : Chat Mort 
+// Truc bizarre : Chat Mort
 // ----------------------
 // WM_CAT.ITM
 // ----------------------
@@ -1041,7 +1041,7 @@ Non utilisable par :
 
 
 // ---------------------------
-// Le livre de sorts 
+// Le livre de sorts
 // ---------------------------
 // WM_SBOOK.ITM / WM_SBOOK.BAM
 // WM_SBOOK.D
@@ -1057,7 +1057,7 @@ Bien que ce livre soit en mauvais état - pages déchirées, gribouillages farfelus
 L'assortiment général des sorts dans ce livre est assez inhabituel, vous pourriez essayer d'apprendre à lancer certains d'entre eux.
 
 PARAMETRES :
- 
+
 Utilisable uniquement par :
  Entropiste~
 
@@ -1074,17 +1074,17 @@ L'assortiment général des sorts dans ce livre est assez inhabituel, vous pourrie
 PARAMETRES :
 
 Peut être utilisé une fois par jour pour lancer un des sorts suivants :
- Armure 
+ Armure
  Bouclier du Chaos
  Dissipation de la Magie
  Amitié
  Courbure de l'Espace de Gymlainac
  Horreur
  Invisibilité
- Absorption Mineure de Larloch 
- Projectiles Aléatoires de Rhialto     
- Oeil du Magicien 
- 
+ Absorption Mineure de Larloch
+ Projectiles Aléatoires de Rhialto
+ Oeil du Magicien
+
 Utilisable uniquement par :
  Entropiste~
 

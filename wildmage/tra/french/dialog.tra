@@ -1,6 +1,6 @@
 //-----------------------------------------
 //         -------------------------
-//           Dialogue du Livre de Sorts 
+//           Dialogue du Livre de Sorts
 //         -------------------------
 //-----------------------------------------
 @00 = ~Vous ouvrez le livre de sorts de Rhialto pour la première fois. C'est un capharnaüm de notes aléatoires, d'indéchiffrables gribouillages et de dessins enfantins, complètement tâchés de sang, de bile et d'autres trucs que vous n'arrivez pas à (et ne voulez surtout pas) reconnaître. Étonnamment, certaines entrées de sorts restent lisibles.~
@@ -75,7 +75,7 @@
 
 //-----------------------------------------
 //         -----------------------
-//           Dialogue de Rhialto 
+//           Dialogue de Rhialto
 //         -----------------------
 //-----------------------------------------
 
@@ -91,7 +91,7 @@
 
 //-------------------------------------------
 //         ----------------------------
-//          Dialogue de la classe de Tisseur de Sorts 
+//          Dialogue de la classe de Tisseur de Sorts
 //         ----------------------------
 //-------------------------------------------
 // Gain de Dons

@@ -1,6 +1,6 @@
 //-----------------------------------------
 //         ----------------------
-//           Spellbook Dialogue 
+//           Spellbook Dialogue
 //         ----------------------
 //-----------------------------------------
 @00 = ~Du erschrickst als Du Rhialtos Zauberbuch das erste Mal öffnest. Es ist ein einziges Geschmier von Notizen, unleserlichem Geschreibsel und kindischen Zeichnungen, über und über beschmiert mit Blut, Galle und einigem anderen Zeug das du nicht identifizieren kannst (und auch nicht wirklich willst). Erstaunlicherweise kann man einige der Zaubereinträge immer noch lesen.~
@@ -11,7 +11,7 @@
 
 @03 = ~Als Du Rhialtos Zauberbuch öffnest, löst sich eine Seite und fällt heraus.~
 
-@04 = ~Rhialtos Zauberbuch ist einfach nur widerlich. Er muss schon ziemlich krank im Kopf gewesen sein, wenn er dieses Zauberbuch tatsächlich benutzt hat, um sich Zauber einzuprägen... So langsam fragst Du dich, ob du nicht vielleicht selbst verrückt wirst, wenn du nicht aufhörst dieses Buch zu lesen.~  
+@04 = ~Rhialtos Zauberbuch ist einfach nur widerlich. Er muss schon ziemlich krank im Kopf gewesen sein, wenn er dieses Zauberbuch tatsächlich benutzt hat, um sich Zauber einzuprägen... So langsam fragst Du dich, ob du nicht vielleicht selbst verrückt wirst, wenn du nicht aufhörst dieses Buch zu lesen.~
 
 @05 = ~Wieder öffnest Du das heruntergekommenste Zauberbuch das du jemals gesehen hast. Naja, mittlerweile hast Du dich eigentlich daran gewöhnt.~
 
@@ -84,7 +84,7 @@
 
 //-----------------------------------------
 //         ----------------------
-//           Rhialto's Dialogue 
+//           Rhialto's Dialogue
 //         ----------------------
 //-----------------------------------------
 
@@ -104,7 +104,7 @@
 
 //-------------------------------------------
 //         ----------------------------
-//          Spellshaper Class Dialogue 
+//          Spellshaper Class Dialogue
 //         ----------------------------
 //-------------------------------------------
 // Gain Feats

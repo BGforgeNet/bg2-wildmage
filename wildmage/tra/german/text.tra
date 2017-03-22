@@ -58,7 +58,7 @@
 // WM_START.SPL  / WM_START.BAF
 // -----------------------------
 @20101 = ~Rhialtos Chaosstrom~
-@20102 = ~Rhialtos Chaosstrom* (Veränderung) 
+@20102 = ~Rhialtos Chaosstrom* (Veränderung)
 Rang: 1
 Reichweite: 0
 Wirkungsdauer: Augenblicklich
@@ -93,7 +93,7 @@ Egal ob Du darüber nachdenkst diesen Zauber zu sprechen oder nicht, eines ist ge
 // WM_SQRLB.BAM  / WM_SQRLC.BAM
 // ----------------------------
 @20201 = ~Nager Form~
-@20202 = ~Nager Form* (Veränderung) 
+@20202 = ~Nager Form* (Veränderung)
 Rang: 1
 Reichweite: 0
 Wirkungsdauer: 1 Phase
@@ -118,7 +118,7 @@ Theoretisch sollte die aktuelle Version dieses Zaubers weder die Persönlichkeit 
 // WM_SQRLB.BAM   / WM_SQRLC.BAM
 // -----------------------------
 @20301 = ~Ratatosk Form~
-@20302 = ~Ratatosk Form* (Veränderung) 
+@20302 = ~Ratatosk Form* (Veränderung)
 Rang: 1
 Reichweite: 0
 Wirkungsdauer: 1 Phase
@@ -166,7 +166,7 @@ Die Vorteile von Zufälliger Zauber sind der Zeitaufwand der immer 1 ist, die Rei
 // WM_BLADB.BAM  / WM_BLADC.BAM
 // ----------------------------
 @20501 = ~Klingensturm~
-@20502 = ~Klingensturm* (Herbeirufung) 
+@20502 = ~Klingensturm* (Herbeirufung)
 Rang: 2
 Reichweite: 40 Meter
 Wirkungsdauer: 3 Runden/5 Stufen
@@ -187,13 +187,13 @@ Die Dolche, bestehend aus roher Chaosmasse, durchdringen jegliche physische oder
 // --------------------------------------
 // Weird Spell: Rhialto's Random Missiles
 // --------------------------------------
-// WM_MISS.SPL 
+// WM_MISS.SPL
 // WM_MISS1.SPL / WM_MISS2.SPL
 // WM_MISSB.BAM / WM_MISSC.BAM
 // ----------------------------
-       
+
 @20601 = ~Rhialtos Zufällige Geschosse~
-@20602 = ~Rhialtos Zufällige Geschosse* (Hervorrufung) 
+@20602 = ~Rhialtos Zufällige Geschosse* (Hervorrufung)
 Rang: 2
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: Augenblicklich
@@ -217,7 +217,7 @@ Jedes Geschoss verursacht 1W4 Punkte Säure-, Kälte-, Feuer-, Blitz- oder Magiesc
 // WM_GLYPB.BAM  / WM_GLYPC.BAM
 // -----------------------------------------
 @20701 = ~Glyphe der Unbändigen Magie~
-@20702 = ~Glyphe der Unbändigen Magie* (Hervorrufung) 
+@20702 = ~Glyphe der Unbändigen Magie* (Hervorrufung)
 
 Rang: 4
 Reichweite: 40 Meter
@@ -239,7 +239,7 @@ Natürlich ist das Ergebnis dieses Zaubers vollkommen zufällig. Die Opfer können 
 // ----------------------------------
 // Weird Spell: Gymlainac's Lightbend
 // ----------------------------------
-// WM_LIGHT.SPL 
+// WM_LIGHT.SPL
 // WM_LGHTB.BAM  / WM_LGHTC.BAM
 // ----------------------------------
 @20801 = ~Gymlainacs Lichtbrechung~
@@ -259,12 +259,12 @@ Rund um den Empfänger dieses Zaubers werden die Lichtwellen gebogen, was einen E
 // ---------------------------------
 // Weird Spell: Vile Word of Discord
 // ---------------------------------
-// WM_WORD.SPL  
+// WM_WORD.SPL
 // WM_WORD1.SPL / WM_WORD2.SPL
 // WM_WORDB.BAM / WM_WORDC.BAM
 // ----------------------------------
 @20901 = ~Gemeines Wort der Zwietracht~
-@20902 = ~Gemeines Wort der Zwietracht* (Bezauberung/Verzauberung) 
+@20902 = ~Gemeines Wort der Zwietracht* (Bezauberung/Verzauberung)
 Rang: 3
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: 2 Runden
@@ -349,7 +349,7 @@ Die Wirkungsdauer ist 3 Runden bis zu Stufe 10 plus eine Runde für jede Stufe da
 // WM_LUCKB.BAM / WM_LUCKC.BAM
 // ----------------------------------
 @21201 = ~Paithans Glückssträhne~
-@21202 = ~Paithans Glückssträhne* (Bezauberung/Verzauberung) 
+@21202 = ~Paithans Glückssträhne* (Bezauberung/Verzauberung)
 Rang: 5
 Reichweite: Berührung
 Wirkungsdauer: Speziell
@@ -361,8 +361,8 @@ Der Empfänger dieses extrem mächtigen Zaubers kommt in den Genuß einer Glücksstr
 
 Am Ende jeder Runde wird ein W20 Wurf gemacht, um festzustellen ob der Zauber endet. Wird eine 2 oder höher geworfen, wird ein neuer 1W8 Bonus ermittelt, und der Zauber dauert eine weitere Runde an.
 
-Wird eine 1 geworfen, besteht noch immer eine 25% Chance daß der Zauber weiter geht: Ist das Resultat eines zweiten W20 Wurf 16 oder höher, dann geht der Zauber nicht nur weiter, die nächste Runde ist auch eine "Glückspilz" Runde, in der der Empfänger nicht nur 8 Punkte an Glücksbonus bekommt, sondern dank übernatürlichem Glück auch vor Tod, Lebenskraftentzug und jeglicher Behinderung der Bewegungsfreiheit geschützt ist. 
- 
+Wird eine 1 geworfen, besteht noch immer eine 25% Chance daß der Zauber weiter geht: Ist das Resultat eines zweiten W20 Wurf 16 oder höher, dann geht der Zauber nicht nur weiter, die nächste Runde ist auch eine "Glückspilz" Runde, in der der Empfänger nicht nur 8 Punkte an Glücksbonus bekommt, sondern dank übernatürlichem Glück auch vor Tod, Lebenskraftentzug und jeglicher Behinderung der Bewegungsfreiheit geschützt ist.
+
 Solange der Zauber nicht durch "Pech" (1 auf W20 dann 15 oder weniger auf W20) beendet wird, ist seine Wirkungsdauer unendlich.~
 
 
@@ -374,7 +374,7 @@ Solange der Zauber nicht durch "Pech" (1 auf W20 dann 15 oder weniger auf W20) b
 // WM_UNLKB.BAM / WM_UNLKC.BAM
 // ----------------------------------
 @21301 = ~Paithans Fiasko~
-@21302 = ~Paithans Fiasko* (Bezauberung/Verzauberung) 
+@21302 = ~Paithans Fiasko* (Bezauberung/Verzauberung)
 Rang: 6
 Reichweite: Berührung
 Wirkungsdauer: Speziell
@@ -401,7 +401,7 @@ Solange der Zauber nicht durch "Glück" (20 auf W20 dann 6 oder mehr auf W20) bee
 // WM_STRKB.BAM / WM_STRKC.BAM
 // ----------------------------------
 @21401 = ~Unbändiger Schlag~
-@21402 = ~Unbändiger Schlag* (Hervorrufung/Anrufung) 
+@21402 = ~Unbändiger Schlag* (Hervorrufung/Anrufung)
 Rang: 6
 Reichweite: 30 Meter
 Wirkungsdauer: 1-15 Runden
@@ -422,7 +422,7 @@ Die Wirkungsdauer ist 1 Runde plus zwei Runden pro 5 Erfahrungsstufen des Zauber
 // WM_DISP.SPL  /  WM_DISP.BAF
 // -----------------------------------------------
 @21501 = ~Hornungs zufälliger Entsender~
-@21502 = ~Hornungs zufälliger Entsender* (Veränderung) 
+@21502 = ~Hornungs zufälliger Entsender* (Veränderung)
 Rang: 7
 Reichweite: 30 Meter
 Wirkungsdauer: Augenblicklich
@@ -486,7 +486,7 @@ Wie auch immer, ist dieser Zauber erfolgreich, ist der Zaubernde das Opfer los, 
 // WM_COWB.BAM / WM_COWC.BAM
 // ----------------------------
 @21601 = ~Kuhruf~
-@21602 = ~Kuhruf* (Herbeirufung/Beschwörung) 
+@21602 = ~Kuhruf* (Herbeirufung/Beschwörung)
 Rang: 7
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: Augenblicklich
@@ -585,13 +585,13 @@ Zusätzlich zu dem Schutz vor Magie erhält der Zaubernde einen +100 Bonus auf all
 
 
 // ---------------------------------------
-// Finally: Wild Sphere  
+// Finally: Wild Sphere
 // ---------------------------------------
-// WM_SPHR.SPL  / WM_CAO_6.PRO 
+// WM_SPHR.SPL  / WM_CAO_6.PRO
 // WM_SPHRB.BAM / WM_SPHR.BAM
 // ---------------------------------------
 @22001 = ~Unbändige Sphäre~
-@22002 = ~Unbändige Sphäre* (Hervorrufung) 
+@22002 = ~Unbändige Sphäre* (Hervorrufung)
 Rang: 9
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: 6 Phasen
@@ -599,7 +599,7 @@ Zeitaufwand: 1 Runde
 Wirkungsbereich: 10 Meter Radius
 Rettungswurf: Speziell
 
-Dieser mächtige Zauber erzeugt einen temporären Riß im Magiegewebe. Der Wirkungsbereich ist eine Sphäre mit einem Radius von 10 Metern, innerhalb dieses Bereichs herrscht pures Chaos. 
+Dieser mächtige Zauber erzeugt einen temporären Riß im Magiegewebe. Der Wirkungsbereich ist eine Sphäre mit einem Radius von 10 Metern, innerhalb dieses Bereichs herrscht pures Chaos.
 
 Jeder Zauber der innerhalb der Unbändigen Sphere gewirkt wird erzeugt automatisch eine unbändige Woge. Dasselbe gilt für das Benutzen von magischen Gegenständen die Ladungen aufbrauchen. Andere magische Gegenstände funktionieren normal. Selbst wenn ein Opfer den Wirkungsbereich verläßt, dauert es eine Runde bis sich seine Magiefertigkeiten normalisiert haben.
 
@@ -610,12 +610,12 @@ Opfer die den Rettungswurf auch ohne Modifikationen nicht schaffen erleiden eine
 
 
 // ---------------------------------------
-//   Rhialto's Marvelous Reincarnation  
+//   Rhialto's Marvelous Reincarnation
 // ---------------------------------------
 // WM_REINC.SPL
 // ---------------------------------------
 @22101 = ~Rhialtos Fabelhafte Reinkarnation~
-@22102 = ~Rhialtos Fabelhafte Reinkarnation* (Veränderung) 
+@22102 = ~Rhialtos Fabelhafte Reinkarnation* (Veränderung)
 Rang: 10
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: Augenblicklich
@@ -634,7 +634,7 @@ Nachdem das Opfer gewählt wurde wird der Ablauf der Zeit verändert, so daß das O
 
 
 // ---------------------------------------
-//    Chaosbane  
+//    Chaosbane
 // ---------------------------------------
 // WM_CHAOB.SPL         WM_CHAOB.PRO
 // ---------------------------------------
@@ -647,7 +647,7 @@ Zeitaufwand: 1
 Wirkungsbereich: 10 Meter Radius
 Rettungswurf: Nein
 
-Dieser Zauber erzeugt einen unglaublich starken Ausbruch magischer Energie. Der Zaubernde erschaft eine Verbindung zwischen sich und den Urkräften des Chaos, und wird so zum Zentrum eines Ausbruchs von Chaosmaterie, die alles im Umkreis von 9 m um den Zaubernden trifft.  
+Dieser Zauber erzeugt einen unglaublich starken Ausbruch magischer Energie. Der Zaubernde erschaft eine Verbindung zwischen sich und den Urkräften des Chaos, und wird so zum Zentrum eines Ausbruchs von Chaosmaterie, die alles im Umkreis von 9 m um den Zaubernden trifft.
 
 Die Chaosmaterie ist völlig harmlos für chaotische Wesen, alle anderen werden für mehrere Sekunden vom Zaubernden weggedrängt. Wesen neutraler Gesinnung erleiben dabei 1W8 Punkte Magieschaden, während Rechtschaffene Wesen 1W20 Schadenspunkte erleiden. Auf Rechtschaffene Wesen hat der Zauber weitere Auswirkungen, die von der Stufe des Opfers abhängen:
 
@@ -661,7 +661,7 @@ Gegen den Zauber ist kein Rettungswurf zulässig. Die Auswirkungen treten sofort 
 
 
 // ---------------------------------------
-//    Acid Storm  
+//    Acid Storm
 // ---------------------------------------
 // WM_Acid.SPL
 // ---------------------------------------
@@ -677,21 +677,21 @@ Dieser Zauber erzeugt eine Säurewolke innerhalb des Wirkungsbereichs. Diese veru
 
 
 // ---------------------------------------
-//    Summon Wild Horde  
+//    Summon Wild Horde
 // ---------------------------------------
 // WM_HORDE.SPL		WM_HORD1.SPL
-// WM_HORDE.EFF		WM_HORDE.CRE	
+// WM_HORDE.EFF		WM_HORDE.CRE
 // WM_HORDE.BCS		WM_HORDB.BAM
 // WM_HORDC.BAM
 // ---------------------------------------
 @22401 = ~Unbändige Horde~
-@22402 = ~Unbändige Horde* (Herbeirufung/Beschwörung) 
+@22402 = ~Unbändige Horde* (Herbeirufung/Beschwörung)
 Rang: 2
 Reichweite: 0
 Wirkungsdauer: 1 Runde/Stufe
-Zeitaufwand: 2 
+Zeitaufwand: 2
 Wirkungsbereich: Speziell
-Rettungswurf: Speziell 
+Rettungswurf: Speziell
 
 Dieser Beschwörungszauber ruft 1W20 aggressive Hasen herbei, die den Zaubernden mit ihrem Leben verteidigen.
 
@@ -699,18 +699,18 @@ Abgesehen von ihrer ablenkenden Wirkung stellen die kleinen Tiere keine wirklich
 
 
 // ---------------------------------------
-//    Liquefy  
+//    Liquefy
 // ---------------------------------------
 // WM_LIQ.SPL		WM_LIQ.CRE
 // WM_LIQB.BAM          WM_LIQC.BAM
-// 
+//
 // ---------------------------------------
 @22501 = ~Körperliche Instabilität~
 @22502 = ~Körperliche Instabilität* (Veränderung)
 Rang: 4
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: 1 Runde/Stufe
-Zeitaufwand: 3 
+Zeitaufwand: 3
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Keine Wirkung
 
@@ -797,7 +797,7 @@ Die Vorteile von Zufälliger Zauber sind der Zeitaufwand der immer 1 ist, die Rei
 Rang: 9
 Reichweite: 0
 Wirkungsdauer: Speziell
-Zeitaufwand: 1 
+Zeitaufwand: 1
 Wirkungsbereich: Speziell
 Rettungswurf: Speziell
 
@@ -810,14 +810,14 @@ Unbändiges Feuer erlaubt es dem Zaubernden einen Beliebigen Magierzauber von 8. 
 // -------------------------------
 // Mynoc's Irresistible Appeal
 // -------------------------------
-// WM_ATTR.SPL 
+// WM_ATTR.SPL
 // -----------------------------
 @23001 = ~Mynocs Unwiderstehliche Anziehung~
 @23002 = ~Mynocs Unwiderstehliche Anziehung* (Invocation/Evocation)
 Rang: 1
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: Augenblicklich
-Zeitaufwand: 1 
+Zeitaufwand: 1
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Nein
 
@@ -838,7 +838,7 @@ Es gibt keinen Rettungswurf gegen diesen Zauber und er umgeht Magieresistenz. Wä
 Rang: 6
 Reichweite: 0
 Wirkungsdauer: 5 Runden/Stufe
-Zeitaufwand: 4 
+Zeitaufwand: 4
 Wirkungsbereich: Der Zaubernde
 Rettungswurf: Nein
 
@@ -860,7 +860,7 @@ Die Wirkungsdauer des Zaubers ist 5 Runden für jede Stufe des Zaubernden, bis hi
 // Special ability: Weave Spell
 // ----------------------------
 // WM_WEAVE.SPL / WM_WAV_B.BAM
-// WM_WAVBL.SPL 
+// WM_WAVBL.SPL
 // WM_WAV0*.SPL / WM_WAV0*.BAM
 // WM_WAV*.2da (65 Files total)
 // ----------------------------
@@ -882,7 +882,7 @@ Die Wirkungsdauer des Zaubers ist 5 Runden für jede Stufe des Zaubernden, bis hi
 // ----------------------------
 // Special ability: Weaveshear
 // ----------------------------
-// WM_SHEAR.SPL / WM_CAO_1.PRO 
+// WM_SHEAR.SPL / WM_CAO_1.PRO
 // WM_SHEAB.BAM
 // ----------------------------
 @30201 = ~Magiebruch~
@@ -915,7 +915,7 @@ Die Wirkungsdauer des Zaubers ist 5 Runden für jede Stufe des Zaubernden, bis hi
 Hasardeur / Sprücheweber:
 
 
-Ähnlich wie der Hexenmeister hat auch der Sprücheweber ein intuitives Talent für das Magische. Er prägt sich seine Zauber genauso ein wie ein Zauberkundiger, kennt aber einen alternativen Weg Zauber zu wirken: Das intuitive Verständnis für das Magiegewebe erlaubt einem Sprücheweber rohe magische Energie nach Belieben umzuformen. Ein Sprücheweber kann die Energien seiner eingeprägten Sprüche freisetzen und daraus einen neuen Zauber "weben", ohne sich diesen im Voraus einprägen zu müssen. Dieses Talent ist allerdings alles andere als unfehlbar - es anzuwenden erfordert einiges an Glück und Unbekümmertheit. Personen die sich darauf spezialisiert haben, auf diese weise Magie zu wirken sind nicht allzu beliebt bei konservativen Magiern. 
+Ähnlich wie der Hexenmeister hat auch der Sprücheweber ein intuitives Talent für das Magische. Er prägt sich seine Zauber genauso ein wie ein Zauberkundiger, kennt aber einen alternativen Weg Zauber zu wirken: Das intuitive Verständnis für das Magiegewebe erlaubt einem Sprücheweber rohe magische Energie nach Belieben umzuformen. Ein Sprücheweber kann die Energien seiner eingeprägten Sprüche freisetzen und daraus einen neuen Zauber "weben", ohne sich diesen im Voraus einprägen zu müssen. Dieses Talent ist allerdings alles andere als unfehlbar - es anzuwenden erfordert einiges an Glück und Unbekümmertheit. Personen die sich darauf spezialisiert haben, auf diese weise Magie zu wirken sind nicht allzu beliebt bei konservativen Magiern.
 
 Anders als der Hexenmeister kann der Sprücheweber neue Zauber von Schriftrollen lernen, und sie auf dieselbe Weise einprägen und wirken wie ein Zauberkundiger. Als geborene Opportunisten verzichten nur wenige Sprücheweber auf diese relativ verlässliche Methode Magie zu wirken. Konservatives Zaubern ist allerdings üblicherweise für die Art von Notfallzaubern reserviert, die unbedingt funktionieren müssen. Wann immer möglich greift ein Sprücheweber auf seine bequeme Methode zurück, Zauber je nach Bedarf zu wirken.
 
@@ -943,7 +943,7 @@ Nicht benutzbar von:
 
 
 // ----------------------
-// Weird Thingy: Dead Cat 
+// Weird Thingy: Dead Cat
 // ----------------------
 // WM_CAT.ITM
 // ----------------------
@@ -975,7 +975,7 @@ Nicht benutzbar von:
 
 
 // ---------------------------
-// The Spellbook 
+// The Spellbook
 // ---------------------------
 // WM_SBOOK.ITM / WM_SBOOK.BAM
 // WM_SBOOK.D
@@ -991,7 +991,7 @@ Obwohl das Buch in ausserordentlich schlechtem Zustand ist - Alles voller Flecke
 Die Auswahl an Zaubersprüchen in diesem Buch ist recht ungewöhnlich, vielleicht kannst Du einige dieser Zauber lernen.
 
 STATISTIK:
- 
+
 Nur benutzbar durch:
  Hasardeur~
 
@@ -1008,17 +1008,17 @@ Die Auswahl an Zaubersprüchen in diesem Buch ist recht ungewöhnlich, vielleicht 
 STATISTIK:
 
 Kann einmal pro Tag benutzt werden, um einen der folgenden Zauber zu wirken:
- Panzer 
+ Panzer
  Chaosschild
  Magie Bannen
  Freundschaft
  Gymlainacs Lichtbrechung
  Schrecken
  Unsichtbarkeit
- Larlochs Geringerer Lebenskraftentzug 
- Rhialtos Zufällige Geschosse     
+ Larlochs Geringerer Lebenskraftentzug
+ Rhialtos Zufällige Geschosse
  Zauberauge
- 
+
 Nur benutzbar durch:
  Hasardeur~
 
@@ -1029,7 +1029,7 @@ Nur benutzbar durch:
 //------------------------------------------------------------------------------------------------------
 
 // ---------------------------
-// Rhialto the Marvelous 
+// Rhialto the Marvelous
 // ---------------------------
 // WM_RHIA1.CRE / WM_RHIA2.CRE
 // ---------------------------
@@ -1037,7 +1037,7 @@ Nur benutzbar durch:
 @50102 = ~Rhialto~
 
 // ------------------------------
-// Rhialto's fizzled Vortex-Spell 
+// Rhialto's fizzled Vortex-Spell
 // ------------------------------
 // WM_RHIA1.SPL
 // WM_VORTX.SPL / WM_VORT2.SPL
