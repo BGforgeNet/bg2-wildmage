@@ -5,11 +5,11 @@ VERSION ~v2.beta2~
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 
-LANGUAGE ~English~ ~english~ ~wildmage/tra/english/text.tra~
-LANGUAGE ~Deutsch~ ~german~ ~wildmage/tra/german/text.tra~
-LANGUAGE ~Polski (Maciek F)~ ~polish~ ~wildmage/tra/polish/text.tra~
-LANGUAGE ~Russian (aerie.ru)~ ~russian~ ~wildmage/tra/russian/text.tra~
-LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~wildmage/tra/french/text.tra~
+LANGUAGE ~English~ ~english~ ~wildmage/tra/english/text.tra~ ~wildmage/tra/english/setup.tra~
+LANGUAGE ~Deutsch~ ~german~ ~wildmage/tra/german/text.tra~ ~wildmage/tra/german/setup.tra~
+LANGUAGE ~Polski (Maciek F)~ ~polish~ ~wildmage/tra/polish/text.tra~ ~wildmage/tra/polish/setup.tra~
+LANGUAGE ~Russian (aerie.ru)~ ~russian~ ~wildmage/tra/russian/text.tra~ ~wildmage/tra/russian/setup.tra~
+LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~wildmage/tra/french/text.tra~ ~wildmage/tra/french/setup.tra~ ~wildmage/tra/french/weidu.tra~
 
 
 BEGIN @60 //Ironman

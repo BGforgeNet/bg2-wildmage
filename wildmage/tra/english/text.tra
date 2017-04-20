@@ -1,26 +1,5 @@
-//------------------------------------------------------------------------------------------------------
-//  Installation
-//------------------------------------------------------------------------------------------------------
-@1  = ~New Wild Magic Spells~
-@10 = ~TOB is required to install this mod.~
+//coding: ascii
 
-@2 =  ~Spellshaper Kit~
-@20 = ~You must have "New Wild Magic Spells" installed!~
-
-@3 =  ~Spellshaper - Avatar Change~
-@30 = ~You must have "Spellshaper Kit" installed!~
-
-@4 =  ~Misc spell modifications~
-
-@5 =  ~Stationary BG1-Rhialto (haughty pansy mode)~
-
-@60 = ~Ironman~
-@61 = ~Haughty pansy~
-@62 = ~Only ToB and EE engines are supported~
-@63 = ~Original avatar~
-@64 = ~Changed avatar~
-@65 = ~Requires BG1 content~
-@66 = ~Retain Rhialto's items~
 //------------------------------------------------------------------------------------------------------
 //  MISC
 //------------------------------------------------------------------------------------------------------

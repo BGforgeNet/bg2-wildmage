@@ -1,26 +1,4 @@
-//------------------------------------------------------------------------------------------------------
-//  Installation
-//------------------------------------------------------------------------------------------------------
-@1  = ~Dodatek do Dzikiego Maga: Nowe Czary Dzikiej Magii~
-@10 = ~BG2:TB jest konieczne do zainstalowania i prawidlowego dzialania moda.~
-
-@2 =  ~Dodatek do Dzikiego Maga: Podklasa Spellshaper~
-@20 = ~Musisz miec zainstalowane "Nowe Czary Dzikiej Magii" !~
-
-@3 =  ~Dodatek do Dzikiego Maga: Spellshaper - Zmiana Avatara~
-@30 = ~Musisz miec zainstalowana "Podklase Spellshaper" installed!~
-
-@4 =  ~Niewielkie Zmiany w Czarach~
-
-@5 =  ~Niezmienny BG1-Rhialto~
-
-@60 = ~Ironman~
-@61 = ~Haughty pansy~
-@62 = ~Only ToB and EE engines are supported~
-@63 = ~Original avatar~
-@64 = ~Changed avatar~
-@65 = ~Requires BG1 content~
-@66 = ~Retain Rhialto's items~
+//coding: iso-8859-2
 //------------------------------------------------------------------------------------------------------
 //  MISC
 //------------------------------------------------------------------------------------------------------
