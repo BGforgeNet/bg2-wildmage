@@ -5,6 +5,22 @@ VERSION ~v2.beta2~
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 
+ALWAYS
+  ACTION_IF ENGINE_IS ~bgee bg2ee iwdee eet~ BEGIN
+    ACTION_DEFINE_ARRAY charsetsNoConvertArray BEGIN END
+    ACTION_DEFINE_ARRAY charsetsReloadArray BEGIN text END
+    LAF ~HANDLE_CHARSETS~
+      INT_VAR
+        infer_charsets = 1
+      STR_VAR
+        tra_path = ~%MOD_FOLDER%/tra~
+        iconv_path = ~%MOD_FOLDER%/tools/iconv~
+        noconvert_array = charsetsNoConvertArray
+        reload_array = charsetsReloadArray
+    END
+  END
+END
+
 LANGUAGE ~English~ ~english~ ~wildmage/tra/english/text.tra~ ~wildmage/tra/english/setup.tra~
 LANGUAGE ~Deutsch~ ~german~ ~wildmage/tra/german/text.tra~ ~wildmage/tra/german/setup.tra~
 LANGUAGE ~Polski (Maciek F)~ ~polish~ ~wildmage/tra/polish/text.tra~ ~wildmage/tra/polish/setup.tra~
