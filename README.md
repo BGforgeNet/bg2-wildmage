@@ -28,8 +28,7 @@ On Ironman, to meet the mage, rest outdoors. You can also rest in an inn and lea
 On haugthy pansy (available in BG1 only), the mage will be waiting outside Candlekeep's walls.
 
 ### Retain Rhialto's inventory
-
-Certain items are available to the player only if Rhialto is killed fast enough. This component removes that restriction.
+Certain items are available to the player only if Rhialto is killed fast enough. This component removes that restriction and lets you have all the loot.
 
 ### Spellshaper kit
 - [Original avatar](#original-avatar)
