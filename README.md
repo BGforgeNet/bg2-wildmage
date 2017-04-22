@@ -77,6 +77,9 @@ Like dozens of other wizards in the game, you now can target any nearby place yo
 - In pansy mode, Rhialto is in the actual Candlekeep area, not in the area where Gorion is killed.
 
 ### Changelog
+- 2.beta3
+ - Better EE compatibility with HANDLE_CHARSETS
+ - Updated some translations
 - 2.beta2
  - Fixed problem with Rhialto never polymorphing
  - Added separate component to preserve the bear
