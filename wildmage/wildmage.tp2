@@ -1,13 +1,13 @@
 BACKUP ~wildmage/backup~
 AUTHOR ~https://github.com/burner1024/bg2-wildmage/issues~
-VERSION ~v2.beta2~
+VERSION ~v2.beta3~
 //MODDER
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 
 ALWAYS
   ACTION_IF ENGINE_IS ~bgee bg2ee iwdee eet~ BEGIN
-    ACTION_DEFINE_ARRAY charsetsNoConvertArray BEGIN END
+    ACTION_DEFINE_ARRAY charsetsNoConvertArray BEGIN setup weidu END
     ACTION_DEFINE_ARRAY charsetsReloadArray BEGIN text END
     LAF ~HANDLE_CHARSETS~
       INT_VAR
@@ -21,11 +21,11 @@ ALWAYS
   END
 END
 
-LANGUAGE ~English~ ~english~ ~wildmage/tra/english/text.tra~ ~wildmage/tra/english/setup.tra~
-LANGUAGE ~Deutsch~ ~german~ ~wildmage/tra/german/text.tra~ ~wildmage/tra/german/setup.tra~
-LANGUAGE ~Polski (Maciek F)~ ~polish~ ~wildmage/tra/polish/text.tra~ ~wildmage/tra/polish/setup.tra~
-LANGUAGE ~Russian (aerie.ru)~ ~russian~ ~wildmage/tra/russian/text.tra~ ~wildmage/tra/russian/setup.tra~
-LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~wildmage/tra/french/text.tra~ ~wildmage/tra/french/setup.tra~ ~wildmage/tra/french/weidu.tra~
+LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/tra/english/text.tra~ ~%MOD_FOLDER%/tra/english/setup.tra~
+LANGUAGE ~Deutsch~ ~german~ ~%MOD_FOLDER%/tra/german/text.tra~ ~%MOD_FOLDER%/tra/german/setup.tra~
+LANGUAGE ~Polski (Maciek F)~ ~polish~ ~%MOD_FOLDER%/tra/polish/text.tra~ ~%MOD_FOLDER%/tra/polish/setup.tra~
+LANGUAGE ~Russian (aerie.ru)~ ~russian~ ~%MOD_FOLDER%/tra/russian/text.tra~ ~%MOD_FOLDER%/tra/russian/setup.tra~
+LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~%MOD_FOLDER%/tra/french/text.tra~ ~%MOD_FOLDER%/tra/french/setup.tra~ ~%MOD_FOLDER%/tra/french/weidu.tra~
 
 
 BEGIN @60 //Ironman
