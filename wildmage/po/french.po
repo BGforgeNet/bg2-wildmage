@@ -1906,7 +1906,7 @@ msgid "You must have \"New Wild Magic Spells\" installed!"
 msgstr ""
 
 #: wildmage/tra/english/setup.tra:60
-msgid "IronMan"
+msgid "Ironman"
 msgstr ""
 
 #: wildmage/tra/english/setup.tra:61
