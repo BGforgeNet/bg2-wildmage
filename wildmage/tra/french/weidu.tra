@@ -1,4 +1,4 @@
-//coding: cp1252
+//coding: ascii
 
 // WeiDU prompts
 @-1000= "Le mod %TP2_FILE_NAME% contient"
