@@ -1,24 +1,12 @@
-//coding: iso-8859-2
-//------------------------------------------------------------------------------------------------------
-//  Installation
-//------------------------------------------------------------------------------------------------------
-@1  = ~Hasardeur Erweiterung: Neue Zaubersprche~
-@10 = ~Dieser Mod ben”tigt TdB!~
-
-@2  = ~Hasardeur Erweiterung: Sprcheweber Kit~
-@20 = ~"Neue Zaubersprche" wird ben”tigt!~
-
-@3  = ~Hasardeur Erweiterung: Sprcheweber - Spielfigurwechsel~
-@30 = ~"Sprcheweber Kit" wird ben”tigt!~
-
-@4  = ~Allgemeine Zauberspruch Modifikationen~
-
-@5 =  ~Stillstehender BG1-Rhialto (für überstolze Weicheier)~
-
-@60 = ~Ironman~
-@61 = ~Haughty pansy~
-@62 = ~Only ToB and EE engines are supported~
-@63 = ~Original avatar~
-@64 = ~Changed avatar~
-@65 = ~Requires BG1 content~
-@66 = ~Retain Rhialto's items~
+// coding: iso-8859-2
+@1=~Rückschlag - Unbändige Magie~
+@2=~Sprücheweber~
+@4=~Allgemeine Zauberspruch Modifikationen~
+@20=~"Neue Zaubersprche" wird ben”tigt!~
+@60=~IronMan~
+@61=~Haughty pansy~
+@62=~Only ToB and EE engines are supported~
+@63=~Original avatar~
+@64=~Changed avatar~
+@65=~Requires BG1 content~
+@66=~Retain Rhialto's items~
