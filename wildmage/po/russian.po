@@ -1,0 +1,2082 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-1-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: tra2po v.1.0.2\n"
+
+#: wildmage/tra/english/setup.tra:2
+msgid "Wild Mage Additions: Spellshaper Kit"
+msgstr "Расширенная Дикая Магия: Новый кит - Творец Заклинаний"
+
+#: wildmage/tra/english/setup.tra:3
+msgid "Wild Mage Additions: Spellshaper - Avatar Change"
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:4
+msgid "Misc spell modifications"
+msgstr "Различные изменения заклинаний"
+
+#: wildmage/tra/english/setup.tra:5
+msgid "Stationary BG1-Rhialto (haughty pansy mode)"
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:10
+msgid "TOB is required to install this mod."
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:20
+msgid "You must have \"New Wild Magic Spells\" installed!"
+msgstr "Требуется установить компонент \"Новые Заклинания Дикой Магии\"!"
+
+#: wildmage/tra/english/setup.tra:30
+msgid "You must have \"Spellshaper Kit\" installed!"
+msgstr ""
+
+#: wildmage/tra/english/dialog.tra:0
+msgid "You open Rhialto's spellbook for the first time. It's an insane mess of random notes, illegible scribble and childish drawings; all over smeared with blood, bile and some other stuff you can't (and don't even want to) recognize. Amazingly, some of the spell entries are still legible."
+msgstr "Вы впервые открываете книгу заклятий Риалто. Это безумная мешанина случайных заметок, неразборчивых каракуль и глупых рисунков; все измазано кровью, желчью и еще какими-то веществами, которые вы не можете (и не очень хотите) распознать. Удивительно, как некоторые из заклинаний еще можно прочитать."
+
+#: wildmage/tra/english/dialog.tra:1
+msgid "Again you risk a look into Rhialto's spellbook. You carefully separate two sheets that were stuck together, just to discover a nasty drawing of an old sage with long beard and pointy hat, that seems to glare longingly at something that looks like a petrified goat."
+msgstr "И вновь вы рискуете заглянуть в книгу заклинаний Риалто. Вы аккуратно отделяете две слипшиеся страницы, и обнаруживаете мерзкий рисунок, изображающий старого мудреца с длинной бородой и в заостренной шляпе, который, кажется, пристально и вожделенно смотрит на что-то, напоминающее окаменевшую козу."
+
+#: wildmage/tra/english/dialog.tra:2
+msgid "You open the spellbook at a random page and notice some scribble you haven't seen before: \"<CHARNAME>, keep your dirty hands off my spellbook!\""
+msgstr "Вы наугад открываете книгу заклятий и замечаете надпись, которую ранее не видели: \"<CHARNAME>, держи свои грязные руки подальше от моей книги заклинаний!\""
+
+#: wildmage/tra/english/dialog.tra:3
+msgid "When you open Rhialto's spellbook, one of the pages comes loose and falls out."
+msgstr "Когда вы открываете книгу заклинаний Риалто, одна из страниц выскальзывает и падает."
+
+#: wildmage/tra/english/dialog.tra:4
+msgid "Rhialto's spellbook is still a mess, and his mind must have been quite the same; you wonder if the same madness could affect you, when you continue to read his writings."
+msgstr "Книга заклинаний Риалто все еще в полном беспорядке, его ум скорее всего был в таком же состоянии; вы размышляете не затронет ли это безумие и вас, если вы продолжите читать его записи."
+
+#: wildmage/tra/english/dialog.tra:5
+msgid "Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile you're getting used to it."
+msgstr "В который раз вы открываете книгу заклинаний Риалто, она все так же представляет из себя полный беспорядок, но вы уже начинаете привыкать к этому."
+
+#: wildmage/tra/english/dialog.tra:6
+msgid "You continue to study Rhialto's spellbook."
+msgstr "Вы продолжаете изучать книгу заклинаний Риалто."
+
+#: wildmage/tra/english/dialog.tra:7
+msgid "Rhialto may have been insane, but his knowledge was great indeed."
+msgstr "Хоть Риалто и был сумасшедшим, но его знания были воистину великими."
+
+#: wildmage/tra/english/dialog.tra:8
+msgid "Although you're sure that you've learned every spell from this this spellbook, you still feel the strong urge to risk another look."
+msgstr "Несмотря на то, что вы уверены, что уже выучили каждое заклинание из этой книги, вы все еще чувствуете сильную потребность заглянуть еще раз."
+
+#: wildmage/tra/english/dialog.tra:9
+msgid "When you open Rhialto's spellbook again, it crumbles to dust."
+msgstr "Когда вы снова открываете книгу заклинаний Риалто она рассыпается в пепел."
+
+#: wildmage/tra/english/dialog.tra:10
+msgid "Study the spellbook for a while, and see if you can learn something new."
+msgstr "Позаниматься с книгой заклинаний некоторое время и посмотреть получится ли у вас выучить что-нибудь новое."
+
+#: wildmage/tra/english/dialog.tra:11
+msgid "Close the book."
+msgstr "Закрыть книгу."
+
+#: wildmage/tra/english/dialog.tra:12
+msgid "When you examine this strange spell closer, it proves to be utterly useless. No point in learning it."
+msgstr "Когда вы рассматриваете странное заклинание поближе, оно оказывается совершенно бесполезным. Учить его нет смысла."
+
+#: wildmage/tra/english/dialog.tra:13
+msgid "You spend some time, browsing trough the book..."
+msgstr "Вы проводите некоторое время просматривая книгу..."
+
+#: wildmage/tra/english/dialog.tra:14
+msgid "You found something of interest."
+msgstr "Вам удается найти кое-что интересное."
+
+#: wildmage/tra/english/dialog.tra:15
+msgid "You find nothing new."
+msgstr "Вы не находите ничего нового."
+
+#: wildmage/tra/english/dialog.tra:16
+msgid "You try to learn the spell, but it's too difficult, you need more experience in the art before you can learn it."
+msgstr "Вы пытаетесь выучить заклинание, но оно слишком сложное, вам нужно больше опыта в искусстве, прежде чем вы сможете его выучить."
+
+#: wildmage/tra/english/dialog.tra:17
+msgid "You succeed in learning the spell."
+msgstr "Вы преуспели в изучении заклинания."
+
+#: wildmage/tra/english/dialog.tra:18
+msgid "As much as you try to concentrate, you read a line and forget it in the same moment; as if someone powerful wipes it from your memory. Obviously someone doesn't want you to know this spell."
+msgstr "Как бы вы не старались сконцентрироваться, как только вы читаете строчку, вы сразу же ее забываете; как будто кто-то могущественный стирает ее с вашей памяти. Судя по всему кто-то не желает, чтобы вы знали это заклинание."
+
+#: wildmage/tra/english/dialog.tra:19
+msgid "You close the book."
+msgstr "Вы закрываете книгу."
+
+#: wildmage/tra/english/dialog.tra:20
+msgid "Try to learn the spell \"Random Spell I\"."
+msgstr "Попытаться выучить заклинание \"Случайное заклинание I\"."
+
+#: wildmage/tra/english/dialog.tra:21
+msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
+msgstr "Попытаться выучить заклинание \"Хаотический источник Риалто\"."
+
+#: wildmage/tra/english/dialog.tra:22
+msgid "Try to learn the spell \"Rodent Form\"."
+msgstr "Попытаться выучить заклинание \"Форма грызуна\"."
+
+#: wildmage/tra/english/dialog.tra:23
+msgid "Try to learn the spell \"Blade Shower\"."
+msgstr "Попытаться выучить заклинание \"Шторм лезвий\"."
+
+#: wildmage/tra/english/dialog.tra:24
+msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
+msgstr "Попытаться выучить заклинание \"Случайные снаряды Риалто\"."
+
+#: wildmage/tra/english/dialog.tra:25
+msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
+msgstr "Попытаться выучить заклинание \"Светоискривление Гимлейнака\"."
+
+#: wildmage/tra/english/dialog.tra:26
+msgid "Try to learn the spell \"Vile Word of Discord\"."
+msgstr "Попытаться выучить заклинание \"Подлое Слово раздора\"."
+
+#: wildmage/tra/english/dialog.tra:27
+msgid "Try to learn the spell \"Cellular Regeneration\"."
+msgstr "Попытаться выучить заклинание \"Клеточная регенерация\"."
+
+#: wildmage/tra/english/dialog.tra:28
+msgid "Try to learn the spell \"Glyph of Wild Magic\"."
+msgstr "Попытаться выучить заклинание \"Символ дикой магии\"."
+
+#: wildmage/tra/english/dialog.tra:29
+msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
+msgstr "Попытаться выучить заклинание \"Полоса везения Пайзана\"."
+
+#: wildmage/tra/english/dialog.tra:30
+msgid "Try to learn the spell \"Vortex\"."
+msgstr "Попытаться выучить заклинание \"Вихрь\"."
+
+#: wildmage/tra/english/dialog.tra:31
+msgid "Try to learn the spell \"Paithan's Fiasco\"."
+msgstr "Попытаться выучить заклинание \"Фиаско Пайзана\"."
+
+#: wildmage/tra/english/dialog.tra:32
+msgid "Try to learn the spell \"Wildstrike\"."
+msgstr "Попытаться выучить заклинание \"Дикий удар\"."
+
+#: wildmage/tra/english/dialog.tra:33
+msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
+msgstr "Попытаться выучить заклинание \"Случайный отправитель Хорнунга\"."
+
+#: wildmage/tra/english/dialog.tra:34
+msgid "Try to learn the spell \"Summon Cow\"."
+msgstr "Попытаться выучить заклинание \"Призвать корову\"."
+
+#: wildmage/tra/english/dialog.tra:35
+msgid "Try to learn the spell \"Eye of the Beholder\"."
+msgstr "Попытаться выучить заклинание \"Око созерцателя\"."
+
+#: wildmage/tra/english/dialog.tra:36
+msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
+msgstr "Попытаться выучить заклинание \"Дикое Возмещение Майнока\"."
+
+#: wildmage/tra/english/dialog.tra:37
+msgid "Try to learn the spell \"Entropy Shield\"."
+msgstr "Попытаться выучить заклинание \"Щит энтропии\"."
+
+#: wildmage/tra/english/dialog.tra:38
+msgid "Try to learn the spell \"Wild Sphere\"."
+msgstr "Попытаться выучить заклинание \"Дикая сфера\"."
+
+#: wildmage/tra/english/dialog.tra:39
+msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
+msgstr "Попытаться выучить заклинание \"Изумительная реинкарнация Риалто\"."
+
+#: wildmage/tra/english/dialog.tra:40
+msgid "Try to learn the spell \"Rhialto's Avatar\"."
+msgstr "Попытаться выучить заклинание \"Аватара Риалто\"."
+
+#: wildmage/tra/english/dialog.tra:41
+msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
+msgstr "Попытаться выучить заклинание \"Неотразимое воззвание Майнока\"."
+
+#: wildmage/tra/english/dialog.tra:42
+msgid "Try to learn the spell \"Summon Wild Horde\"."
+msgstr "Попытаться выучить заклинание \"Вызов Дикой Орды\"."
+
+#: wildmage/tra/english/dialog.tra:43
+msgid "Try to learn the spell \"Random Spell II\"."
+msgstr "Попытаться выучить заклинание \"Случайное заклинание II\"."
+
+#: wildmage/tra/english/dialog.tra:44
+msgid "Try to learn the spell \"Corporeal Instability\"."
+msgstr "Попытаться выучить заклинание \"Телесная нестабильность\"."
+
+#: wildmage/tra/english/dialog.tra:45
+msgid "Try to learn the spell \"Random Spell III\"."
+msgstr "Попытаться выучить заклинание \"Случайное заклинание III\"."
+
+#: wildmage/tra/english/dialog.tra:46
+msgid "Try to learn the spell \"Meece's Wild Armour\"."
+msgstr "Попытаться выучить заклинание \"Дикая броня Миса\"."
+
+#: wildmage/tra/english/dialog.tra:47
+msgid "Try to learn the spell \"Random Spell IV\"."
+msgstr "Попытаться выучить заклинание \"Случайное заклинание IV\"."
+
+#: wildmage/tra/english/dialog.tra:48
+msgid "Try to learn the spell \"Entropy Burst\"."
+msgstr "Попытаться выучить заклинание \"Энтропический взрыв\"."
+
+#: wildmage/tra/english/dialog.tra:49
+msgid "Try to learn the spell \"Wildfire\"."
+msgstr "Попытаться выучить заклинание \"Дикий Порыв\"."
+
+#: wildmage/tra/english/dialog.tra:100
+msgid "Well, well, well... What do we have here?  Greetings, young one, No doubt you're honored to meet Rhialto the Marvelous."
+msgstr "Так, так, так... Кто это у нас здесь?  Приветствую, молодежь. Без сомнения тебе выпала честь повстречать самого Риалто Изумительного."
+
+#: wildmage/tra/english/dialog.tra:101
+msgid "Ah yes, you are perfect. Be honored, young one, for your existence now has a purpose: Rhialto the Marvelous needs your spleen."
+msgstr "О, да, ты идеально подходишь. Возрадуйся, ибо твое существование теперь обрело цель: Риалто Изумительный нуждается в твоей селезенке."
+
+#: wildmage/tra/english/dialog.tra:102
+msgid "It will be the final component for the greatest spell that was worked since, well, since ever!!!  Of course, it needs to be extracted while you're still alive, otherwise it would be worthless as an ingredient."
+msgstr "Она станет завершающим компонентом величайшего заклинания которое действовало с времен... ну-у... когда-либо!!!  Без сомнения, она должна быть извлечена пока твое сердце еще бьется, иначе она ничего не будет стоить в качестве ингридиента."
+
+#: wildmage/tra/english/dialog.tra:103
+msgid "But it won't be too painful... Well, at least it won't take too long.  Rhialto the Marvelous is a very experienced surgeon, it will only take an hour or two..."
+msgstr "Но это будет не больно... По крайней мере, это не займет много времени. Риалто Изумительный чрезвычайно опытный хирург, это займет всего часик или два..."
+
+#: wildmage/tra/english/dialog.tra:110
+msgid "So we meet again... You seem to have grown more self-confident since Rhialto the Marvelous had his little accident. It is just fitting that you, who caused his downfall by your insolent resistance, brought Rhialto back to life."
+msgstr "Итак, мы снова встретились… Похоже, твоя уверенность в своих силах значительно выросла с тех пор, как с Риалто Изумительным произошел тот несчастный случай. И разве это не перст судьбы: именно тебе, чье дерзкое сопротивление послужило причиной его падения, суждено было вернуть Риалто к жизни?"
+
+#: wildmage/tra/english/dialog.tra:111
+msgid "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!"
+msgstr "Но чтобы сделать это, тебе нужно было прочитать книгу заклинаний Риалто. Риалто Изумительный ооочень не любит когда кто-то трогает его вещи!!!"
+
+#: wildmage/tra/english/dialog.tra:200
+msgid "Select a Special Ability\n"
+msgstr "Выберите особую способность"
+
+#: wildmage/tra/english/dialog.tra:201
+msgid "Ambidexterity (1st Rank)"
+msgstr "Навык \"два оружия\" (1 ранг)"
+
+#: wildmage/tra/english/dialog.tra:202
+msgid "Ambidexterity (2nd Rank)"
+msgstr "Навык \"два оружия\" (2 ранг)"
+
+#: wildmage/tra/english/dialog.tra:203
+msgid "Backstabbing (x2)"
+msgstr "Удар в спину (x2)"
+
+#: wildmage/tra/english/dialog.tra:204
+msgid "Backstabbing Adept (x3)"
+msgstr "Удар в спину - Знаток (x3)"
+
+#: wildmage/tra/english/dialog.tra:205
+msgid "Backstabbing Expert (x4)"
+msgstr "Удар в спину - Специалист (x4)"
+
+#: wildmage/tra/english/dialog.tra:206
+msgid "Backstabbing Master (x5)"
+msgstr "Удар в спину - Мастер(x5)"
+
+#: wildmage/tra/english/dialog.tra:207
+msgid "Combat Speed"
+msgstr "Скорость в бою"
+
+#: wildmage/tra/english/dialog.tra:208
+msgid "Dagger Specialization"
+msgstr "Кинжалы - Специализация"
+
+#: wildmage/tra/english/dialog.tra:209
+msgid "Dagger Mastery"
+msgstr "Кинжалы - Мастерство"
+
+#: wildmage/tra/english/dialog.tra:210
+msgid "Improved Criticals"
+msgstr "Улучшение критических ударов"
+
+#: wildmage/tra/english/dialog.tra:211
+msgid "Toughness"
+msgstr "Прочность"
+
+#: wildmage/tra/english/dialog.tra:212
+msgid "Vicious hits"
+msgstr "Порочные удары"
+
+#: wildmage/tra/english/dialog.tra:213
+msgid "Rogue High Level Ability: \"Assassination\""
+msgstr "Высокоуровневая способность вора: \"Убийство\""
+
+#: wildmage/tra/english/dialog.tra:214
+msgid "Rogue High Level Ability: \"Avoid Death\""
+msgstr "Высокоуровневая способность вора: \"Избежать смерти\""
+
+#: wildmage/tra/english/dialog.tra:215
+msgid "Rogue High Level Ability: \"Evasion\""
+msgstr "Высокоуровневая способность вора: \"Уклонение\""
+
+#: wildmage/tra/english/dialog.tra:216 wildmage/tra/english/text.tra:30101
+msgid "Weave Spell"
+msgstr "Сплести заклинание"
+
+#: wildmage/tra/english/dialog.tra:217 wildmage/tra/english/text.tra:30201
+msgid "Weaveshear"
+msgstr "Рассекатель Плетения"
+
+#: wildmage/tra/english/dialog.tra:220
+msgid "You don't know exactly what just happened, but in the heat of battle you somehow managed to cast a spell spontaneously."
+msgstr "Ты не до конца сознаешь, что только что произошло, но в пылу битвы тебе каким-то образом удалось самопроизвольно наложить заклятье."
+
+#: wildmage/tra/english/dialog.tra:221
+msgid "Now you feel a strange wave of magical power rising within you. Whatever is happening, somehow you feel that if you yield to it, you will be changed forever."
+msgstr "Теперь ты чувствуешь как странная волна магической мощи растет внутри тебя. Что бы это нибыло, каким-то образом ты понимаешь что если ты поддашься этому то изменишься навсегда."
+
+#: wildmage/tra/english/dialog.tra:222
+msgid "Embrace this new power."
+msgstr "Принять эту новую силу."
+
+#: wildmage/tra/english/dialog.tra:223
+msgid "Try to suppress it."
+msgstr "Попытаться подавить ее."
+
+#: wildmage/tra/english/dialog.tra:224
+msgid "Whatever that was, you were strong enough to suppress it."
+msgstr "Что бы это нибыло тебе хватило сил пресечь это."
+
+#: wildmage/tra/english/dialog.tra:225
+msgid "A surge of chaotic energy overwhelms you."
+msgstr "Тебя переполняет волна хаотической энергии."
+
+#: wildmage/tra/english/dialog.tra:230
+msgid "When you give in to the surge of magical power, you feel that your understanding of the magical Weave changes."
+msgstr "Когда ты поддаешься волне магической силы, ты чувствуешь что твое понимание Плетения изменилось."
+
+#: wildmage/tra/english/dialog.tra:231
+msgid "Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic."
+msgstr "Ты пытаешься изучать хаос вокруг себя, изгибать его согласно своей воле, черпая силу из изменчивых приливов дикой магии."
+
+#: wildmage/tra/english/dialog.tra:232
+msgid "Now you feel a close relation to the Weave. You now are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr "Теперь ты чувствуешь близкую связь с Плетением. Ты можешь сматывать Плетение, придавать ему новую форму, \"сплетать\" из него все что только пожелаешь."
+
+#: wildmage/tra/english/text.tra:10101
+msgid "Wild Magic"
+msgstr "Дикая магия"
+
+#: wildmage/tra/english/text.tra:10201
+msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
+msgstr "Дикая магия исполнила ваши мечты. (Будь то к добру или злу...)"
+
+#: wildmage/tra/english/text.tra:10301
+msgid "THAC0 Reduced by 1"
+msgstr "THAC0 уменьшился на 1"
+
+#: wildmage/tra/english/text.tra:10302
+msgid "Backstab Multiplier Increased by 1"
+msgstr "Множитель коварного удара увеличился на 1"
+
+#: wildmage/tra/english/text.tra:10303
+msgid "Dagger Proficiency raised to 2 (Specialized)"
+msgstr "Навык кинжалов поднят до 2 (Специализация)"
+
+#: wildmage/tra/english/text.tra:10304
+msgid "Dagger Proficiency raised to 3 (Master)"
+msgstr "Навык кинжалов поднят до 3 (Мастерство)"
+
+#: wildmage/tra/english/text.tra:10305
+msgid "Gained Ambidexterity (1st Rank)"
+msgstr "Получен навык \"два оружия\" (1 ранг)"
+
+#: wildmage/tra/english/text.tra:10306
+msgid "Raised Ambidexterity to 2nd Rank"
+msgstr "Навык \"два оружия\" увеличен до 2-го ранга"
+
+#: wildmage/tra/english/text.tra:10307
+msgid "Gained +1 Melee Damage Bonus"
+msgstr "Получен бонус урона +1 в ближнем бою"
+
+#: wildmage/tra/english/text.tra:10308
+msgid "Gained 20% Hitpoint Bonus"
+msgstr "Получены 20% бонусных хитпойнтов"
+
+#: wildmage/tra/english/text.tra:10309
+msgid "Attacks per round raised by 1"
+msgstr "Количество атак за раунд увеличено на 1"
+
+#: wildmage/tra/english/text.tra:10310
+msgid "Critical Hit Range increased by 1"
+msgstr "Диапазон критического удара увеличен на 1"
+
+#: wildmage/tra/english/text.tra:20101
+msgid "Rhialto's Chaos Conduit"
+msgstr "Хаотический источник Риалто"
+
+#: wildmage/tra/english/text.tra:20102
+msgid ""
+"Rhialto's Chaos Conduit* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2 rounds\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"You found this strange spell in Rhialto's spellbook. Rhialto spent decades with his research on wild magic, and in the end created this spell that allowed him to learn a new way of spellcasting.\n"
+"\n"
+"Rhialto's Chaos Conduit establishes a link between the caster and the chaotic plane of Limbo, and then channels raw chaotic energy right into the caster. The purpose of this process is to open the caster's mind for a different kind of spellcasting.\n"
+"\n"
+"Although the spell's invocation is easy enough to make it available as a 1st level spell, its inner structure is incredible complex and would be appropriate for a spell of 9th, 10th or even higher level. The spell's chaotic nature might partly be responsible for this strange discrepancy.\n"
+"\n"
+"The spell can be cast only once and its effect is irrevocable. The caster's spellcasting capabilities are permanently changed towards a more intuitive way, and the same happens to his personality.\n"
+"\n"
+"These changes don't come from the spell itself, though. Rhialto's Chaos Conduit only frees and amplifies tendencies and interests that are already there. Persons that aren't interested in the gifts this spell has to offer, would be immune against its effects. However, such persons wouldn't even think of casting a spell like this in the first place.\n"
+"\n"
+"No matter if you actually think about casting this spell or not, one thing you know for sure: if you dare to cast the spell, it will change you forever."
+msgstr ""
+"Хаотический источник Риалто* (Изменение)\n"
+"Уровень: 1\n"
+"Дистанция: 0\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 2 раундов\n"
+"Зона действия: Заклинатель\n"
+"Спасбросок: Нет\n"
+"\n"
+"Вы обнаружили это странное заклинание в книге Риалто. Риалто провел много десятилетий изучая дикую магию, и в конце он создал заклинание которое позволило ему выучить новый способ наложения заклятий.\n"
+"\n"
+"Хаотический источник Риалто устанавливает связь между заклинателем и планом хаоса Лимбо, после чего проводит канал необработанной энергии хаоса прямо к заклинателю. Цель этого процесса - открыть разум заклинателя для иного способа наложения заклинаний.\n"
+"\n"
+"Хоть реализация заклинания достаточно проста, чтобы сделать его доступным еще на 1-м уровне, его внутренняя структура невообразимо сложна и соответствовала бы заклинанию 9, 10 или даже более высокого уровня. Возможно, хаотическая природа заклинания частично является причиной такого несоответствия.\n"
+"\n"
+"Заклинание может быть наложено только единожды и его последствия окончательны. Способности заклинателя к наложению заклятий навсегда меняются в сторону интуитивных, то же происходит и с его личностью.\n"
+"\n"
+"Однако эти изменения происходят не из-за заклинания как такового. Хаотический источник Риалто только освобождает и расширяет склонности и интересы, которые уже есть. Личности незаинтересованные в даре, который может предложить это заклинание, будут невосприимчивы к его эффектам. Однако такие личности вообще не стали бы даже думать о том, чтобы наложить подобное заклинание.\n"
+"\n"
+"Не важно думаешь ли ты в действительности о том чтобы наложить это заклинание или нет, одно ты знаешь наверняка: если ты осмелишься наложить заклинание оно изменит тебя навсегда."
+
+#: wildmage/tra/english/text.tra:20103
+msgid "Spellshaper"
+msgstr "Творец Заклинаний"
+
+#: wildmage/tra/english/text.tra:20111
+msgid "After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr "После прочтения этого странного заклинания вы ощущаете, что ваше понимание магического плетения изменилось. Вы пытаетесь изучать хаос вокруг вас, изгибать его согласно своей воле, черпая силу из изменчивых приливов дикой магии. Теперь вы чувствуете связь с Плетением. Вы можете сматывать Плетение, придавать ему новую форму, \"сплетать\" из него все что только пожелаете."
+
+#: wildmage/tra/english/text.tra:20112
+msgid "You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream."
+msgstr "Вы также ощущаете, что заклинание изменило не только вашу способность накладывать заклинания. Каким-то образом вы чувствуете, что оно освободило часть вашей души, которая до этого была сокрыта глубоко внутри вас. Теперь вы более индивидуальны, устойчивы, любознательны, однако несколько менее дисциплинированы и старательны, также как и более недоверчивы к власти. Однако вы чувствуете что это правильно, как будто именно так и должно было быть всегда. Тем не менее, вы не ощущаете, как будто вы изменились, скорее, наконец, пробудились от долгого-долгого сна."
+
+#: wildmage/tra/english/text.tra:20201
+msgid "Rodent Form"
+msgstr "Форма грызуна"
+
+#: wildmage/tra/english/text.tra:20202
+msgid ""
+"Rodent Form* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points against normal weapons, and 4 points against missile weapons. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.\n"
+"\n"
+"Hopefully, the current revision of this spell does NOT change the caster's personality or mentality."
+msgstr ""
+"Форма грызуна* (Изменение)\n"
+"Уровень: 1\n"
+"Дистанция: 0\n"
+"Длительность: 1 ход\n"
+"Время чтения: 1\n"
+"Зона действия: Заклинатель\n"
+"Спасбросок: Нет\n"
+"\n"
+"Это заклинание трансформирует заклинателя в милую маленькую белочку. Благодаря крохотным размерам грызуна, заклинатель получает бонус к АС 2 очка против нормального оружия, и 4 очка против метательного. В отличие от других полиморфных заклятий, заклинатель сохраняет свои способности к наложению заклинаний, пока находится в форме грызуна.\n"
+"\n"
+"К счастью данная версия этого заклинаний НЕ меняет личность и ум заклинателя."
+
+#: wildmage/tra/english/text.tra:20211
+msgid "One of my spells has changed!"
+msgstr "Одно из моих заклинаний изменилось!"
+
+#: wildmage/tra/english/text.tra:20212
+msgid "Learned new spell: Ratatosk Shape"
+msgstr "Выучено новое заклинание: Форма рататоска"
+
+#: wildmage/tra/english/text.tra:20301
+msgid "Ratatosk Shape"
+msgstr "Форма рататоска"
+
+#: wildmage/tra/english/text.tra:20302
+msgid ""
+"Ratatosk Shape* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.\n"
+"\n"
+"Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points against normal weapons, and 5 points against missile weapons. The caster's dexterity is also raised by four points for the duration of the spell. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.\n"
+"\n"
+"The caster also gets some of the Ratatosk's fighting abilities for the duration of the spell: One additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.\n"
+"\n"
+"Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active."
+msgstr ""
+"Форма рататоска* (Изменение)\n"
+"Уровень: 1\n"
+"Дистанция: 0\n"
+"Длительность: 1 ход\n"
+"Время чтения: 1\n"
+"Зона действия: Заклинатель\n"
+"Спасбросок: Нет\n"
+"\n"
+"Рататоски – экстрапланарная раса разумных бойцовских белок, обитатели Иггдрасиля, Мирового ясеня, великого божественного дерева, чьи корни и ветви связывают воедино все внешние планы.\n"
+"\n"
+"Накладывая это заклинание, маг превращается в одного из этих малышей. Благодаря крохотным размерам рататоска, заклинатель получает бонус к АС 3 очка против нормального оружия, и 5 очков против метательного. Ловкость заклинателя также увеличивается на четыре пункта на время действия заклинания. Все бонусы к АС полученные от увеличения ловкости складываются с бонусами полученными от размера.\n"
+"\n"
+"Заклинатель также обретает некоторые из боевых способностей рататоска на время действия заклинания: Одну добавочную атаку за раунд, и лапы которые расцениваются как оружие +5 во всех отнощениях кроме прибавки к повреждениям. Лапы наносят 1d4+1 пункта рубящего урона.\n"
+"\n"
+"В отличие от других полиморфных заклинаний, заклинатель сохраняет все свои способности к наложению заклинаний, пока действует заклинание."
+
+#: wildmage/tra/english/text.tra:20401
+msgid "Random Spell I"
+msgstr "Случайное заклинание I"
+
+#: wildmage/tra/english/text.tra:20402
+msgid ""
+"Random Spell I* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Случайное заклинание I* (Воплощение/Проявление)\n"
+"Уровень: 1\n"
+"Дистанция: 40 ярдов\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 1\n"
+"Зона действия: Особая\n"
+"Спасбросок: Особый\n"
+"\n"
+"Опасное заклинание, использующее магию хаоса чтобы сплести заклинание большей силы, чем дикий маг способен получить другими способами. При прочтении Случайное Заклинание создает эффект эквивалентный случайному заклинанию второго или третьего уровня.\n"
+"\n"
+"В качестве цели, заклинатель должен выбрать существо в радиусе 40 ярдов. Заклинание будет направленно на жертву, если только оно не относится к действующим исключительно на заклинателя.\n"
+"\n"
+"К преимуществам Случайного заклинания относятся скорость чтения, которая всегда равна 1, дальность 40 ярдов, и то что заклинателю не нужно иметь возможность читать копируемое заклинание или даже иметь его в своей книге заклинаний. Плохо же то, что маг не имеет ни малейшего понятия о том какое заклинание будет произнесено, неизвестно даже навредит ли оно цели или поможет."
+
+#: wildmage/tra/english/text.tra:20501
+msgid "Blade Shower"
+msgstr "Шторм лезвий"
+
+#: wildmage/tra/english/text.tra:20502
+msgid ""
+"Blade Shower* (Conjuration)\n"
+"Level: 2\n"
+"Range: 40 yards\n"
+"Duration: 3 rounds/5 levels\n"
+"Casting Time: 1\n"
+"Area of Effect: 1-25 creatures\n"
+"Saving Throw: Special\n"
+"\n"
+"The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.\n"
+"\n"
+"Each single dagger does 1d4 points of piercing damage. At level 5, the daggers are considered as +1 weapons for determining damage bonus and if a creature can be struck. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.\n"
+"\n"
+"The daggers, being made of raw chaos stuff, bypass all physical and magical defenses and thus always strike the target. Nonetheless, the the caster must make an attack roll for each single dagger to determine a critical miss or hit. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic."
+msgstr ""
+"Шторм лезвий* (Вызывание)\n"
+"Уровень: 2\n"
+"Дистанция: 40 ярдов\n"
+"Длительность: 3 раунда/5 уровней\n"
+"Время чтения: 1\n"
+"Зона действия: 1-25 существ\n"
+"Спасбросок: Особый\n"
+"\n"
+"Заклинание создает несколько кинжалов, которые парят в воздухе, пока не выстрелят в цель. Появляется 1-5 кинжалов, плюс набор из 5 кинжалов за каждые 5 уровней заклинателя, до максимума 25 кинжалов на 25 уровне. Каждый набор кинжалов выстреливает за раз по 1-5 целям указанным заклинателем. Кинжалы состоят из невидимой материи хаоса, и исчезают после того как заклинание закончится; за каждый созданный набор кинжалов, длительность заклинания увеличивается на 3 раунда.\n"
+"\n"
+"Каждый кинжал наносит 1d4 колющего урона. На 5 уровне кинжалы считаются оружием +1 для определения бонуса урона и возможности поразить существо. Этот бонус увеличивается за каждые 5 уровней заклинателя: +2 на 10 уровне, +3 на 15 уровне, до максимума +5 на 25 уровне.\n"
+"\n"
+"Кинжалы, будучи созданными из чистого хаоса, проходят любую физическую и магическую защиту, и всегда поражают цель. Тем не менее, заклинатель должен сделать бросок (для каждого кинжала) для определения критического промаха или попадания. В случае критического промаха цель не получает никаких повреждений. При критическом попадании кинжалы наносят двойной урон, а цель должна сделать бросок против заклинаний, или подвергнуться от одному из следующих эффектов на 5 раундов: Молчание, Ошеломление, Ужас, Сон, Дикая Магия."
+
+#: wildmage/tra/english/text.tra:20511
+msgid "\"Blade Shower\" has been added to your Special Abilities menu"
+msgstr "\"Шторм лезвий\" был добавлен в ваше меню спецспособностей"
+
+#: wildmage/tra/english/text.tra:20601
+msgid "Rhialto's Random Missiles"
+msgstr "Случайные снаряды Риалто"
+
+#: wildmage/tra/english/text.tra:20602
+msgid ""
+"Rhialto's Random Missiles* (Evocation)\n"
+"Level: 2\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell is an improved, randomized version of the first-level spell Magic Missile. It creates a random number of missiles that dart forth from the wizard's fingertips and unerringly strike their target, which must be a creature of some sort.\n"
+"\n"
+"The actual number of missiles is dependent on the caster's level of experience: 1d4 at first level,  1d6 at fourth level,  1d8 at eighth level  and 1d10 at 12th level.\n"
+"\n"
+"Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or magical damage. The chaotic nature of the missiles gives them a 25% chance to bypass any natural or magical resistances the target might have."
+msgstr ""
+"Случайные снаряды Риалто* (Проявление)\n"
+"Уровень: 2\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 1\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нет\n"
+"\n"
+"Это улучшенная, немного хаотичная версия заклинания первого уровня Магический снаряд. Оно создает случайное число магических снарядов, которые выстреливают из пальцев заклинателя и безошибочно поражают цель, которой должно быть какое-либо существо.\n"
+"\n"
+"Число снарядов зависит от уровня заклинателя: 1d4 на 1ом уровне, 1d6 на 4ом уровне, 1d8 на 8ом и 1d10 на 12 уровне.\n"
+"\n"
+"Каждый снаряд наносит 1d4+1 очков урона кислотой, огнем, холодом, электричеством или магией. Хаотичная природа снарядов дает им 25% шанс игнорировать любую защиту, которая может быть у цели."
+
+#: wildmage/tra/english/text.tra:20701
+msgid "Glyph of Wild Magic"
+msgstr "Символ дикой магии"
+
+#: wildmage/tra/english/text.tra:20702
+msgid ""
+"Glyph of Wild Magic* (Evocation)\n"
+"Level: 4\n"
+"Range: 40 yards\n"
+"Duration: 1 round/10 levels\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"A glyph of wild magic is a powerful inscription magically drawn on the ground or any other surface. The glyph will remain there until someone comes too close, at which point it will explode and create one weave disturbance for each creature within a 30' radius. Each disturbance causes a multitude of wild surges, targeted at random creatures (including the caster, should he still be nearby).\n"
+"\n"
+"For every 10 experience levels of the caster, the disturbances remain in existence for 1 round, though it is possible to dispell them prematurely by causing a distortion with physical or magical means.\n"
+"\n"
+"Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage."
+msgstr ""
+"Символ дикой магии* (Проявление)\n"
+"Уровень: 4\n"
+"Дистанция: 40 ярдов\n"
+"Длительность: 1 раунд/10 уровней\n"
+"Время чтения: 3\n"
+"Зона действия: 30-футовый радиус\n"
+"Спасбросок: Особый\n"
+"\n"
+"Символ дикой магии - мощная магическая надпись, которую заклинатель может нанести на землю или любую другую поверхность. Символ останется там пока кто-нибудь не приблизится к нему, после чего символ взрывается, вызывая возмущение в Плетении на каждое существо в радиусе 30'. Каждое возмущение вызывает множественные дикие волны, направленные на всех существ в радиусе поражения заклинания (включая заклинателя).\n"
+"\n"
+"За каждые 10 уровней опыта мага, возмущение существует в течение 1 дополнительного раунда, тем не менее, их можно развеять, нанеся физический или магический урон.\n"
+"\n"
+"Как правило, заклинание появляются совершенно спонтанно. Жертвы могут быть усиленны дикой волной, или полностью уничтожены. Чем больше существ находится в зоне поражения заклинания, тем хаотичней эффект, и больше вероятность что символ нанесет большие повреждения."
+
+#: wildmage/tra/english/text.tra:20711
+msgid "Weave Disturbance"
+msgstr "Нарушение Плетения"
+
+#: wildmage/tra/english/text.tra:20801
+msgid "Gymlainac's Lightbend"
+msgstr "Светоискривление Гимлейнака"
+
+#: wildmage/tra/english/text.tra:20802
+msgid ""
+"Gymlainac's Lightbend* (Alteration)\n"
+"Level: 3\n"
+"Range: Touch\n"
+"Duration: 5 rounds + 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell was developed by the wild mage Gymlainac, in an effort to create a wild magic version of Invisibility.\n"
+"\n"
+"The spell bends light waves around the recipient, creating an effect similar to the second-level spell Blur and a Cloak of Displacement. The recipient's form is both blurred and sways (regardless of movement), making her much more difficult to hit. When the spell is cast, the recipient gains a bonus of 2d4 to armor class and 1d4 to saving throws. Since the effect of this spell is no illusion but an actual change of the space around the recipient, it can't be dispelled by True Seeing or similar spells."
+msgstr ""
+"Светоискривление Гимлейнака* (Изменение)\n"
+"Уровень: 3\n"
+"Дистанция: Прикосновение\n"
+"Длительность: 5 раундов + 1 раунд/уровень\n"
+"Время чтения: 3\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нет\n"
+"\n"
+"Это заклинание было открыто Диким Магом Гимлейнаком, во время его попыток создать заклинание Невидимости при помощи дикой магии.\n"
+"\n"
+"Заклинание искривляет свет вокруг обьекта заклинания, создавая эффект сходный с заклинанием 2-го уровня Размытие и Плаща смещения. Форма обьекта заклинания размывается и колеблется (вне зависимости от перемещения), в результате чего по нему становится сложнее попасть. Во время действия заклинания, обьект получает 2d4 бонуса брони и 1d4 бонус к спасброскам. Так как эффект заклинания не иллюзия, а фактическое изменение пространства вокруг обьекта, он не может быть развеян при помощи Истинного Видения или подобных заклинаний."
+
+#: wildmage/tra/english/text.tra:20901
+msgid "Vile Word of Discord"
+msgstr "Подлое Слово раздора"
+
+#: wildmage/tra/english/text.tra:20902
+msgid ""
+"Vile Word of Discord* (Enchantment/Charm)\n"
+"Level: 3\n"
+"Range: Visual range of the caster\n"
+"Duration: 2 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This spell, a combination of ventriloquism and confusion magics, is the very essence of discord, with the potential to destroy not only formations but also allegiances.\n"
+"\n"
+"The caster points out a single creature, which then appears to shout insults in a strange, sinister language. The surprise, the unexpected source and the magic hidden within those words hit all bystanders completely unprepared.\n"
+"\n"
+"Everyone within a 30' sphere around the target must save vs. spells at -4 or suffer a randomly chosen effect: attack each other, flee in panic, stand around in confusion, ally with the caster or stumbling around uncontrolled. In addition, there's a 20% chance that some of the victims drop random equipment.\n"
+"\n"
+"The spell affects the caster's allies as well as his enemies; only the caster and the creature which was targeted in the first place are immune to the effect.\n"
+"\n"
+"Usually, this spell can't be backtraced to the caster: the only person, the victims might be angry at, is the spell's original target. Ongoing fights between the affected creatures might continue even after the spell ends."
+msgstr ""
+"Подлое Слово раздора* (Чародейство/Очарование)\n"
+"Уровень: 3\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: 2 раундов\n"
+"Время чтения: 3\n"
+"Зона действия: 30-футовый радиус\n"
+"Спасбросок: Особый\n"
+"\n"
+"Это заклинание сочетает в себе магию чревовещания и замешательства, оно представляет собой саму сущность раздора, и может поразить не только группировки, но и преданных друзей.\n"
+"\n"
+"Заклинатель указывает на цель, после чего та начинает кричать оскорбления на странном, зловещем языке. Неожиданность, неизвестный источник этих слов и скрытая в них магия  поражает всех неподготовленных очевидцев.\n"
+"\n"
+"Все в радиусе 30 футов должны сделать спасбросок против заклинаний со штрафом -4 или подвергнуться случайному эффекту: начнут атаковать друг друга, в страхе убегут, замрут, обьединятся с заклинателем или будут бездумно бродить вокруг. К тому же есть 20% шанс, что кто-нибудь из жертв выбросит случайный предмет.\n"
+"\n"
+"Заклинание действует на союзников заклинателя, так же как и на врагов; не подвержены эффекту только сам заклинатель и цель, на которую изначально было направленно заклинание.\n"
+"\n"
+"Обычно, заклинание не имеет отдачи на прочитавшего: жертвы заклинания могут разозлиться только на того, кто изначально был целью мага. Бой между жертвами заклинания может продолжаться и после окончания срока его действия."
+
+#: wildmage/tra/english/text.tra:21001
+msgid "Cellular Regeneration"
+msgstr "Клеточная регенерация"
+
+#: wildmage/tra/english/text.tra:21002
+msgid ""
+"Cellular Regeneration* (Necromancy)\n"
+"Level: 4\n"
+"Range: Touch\n"
+"Duration: 6 rounds\n"
+"Casting Time: 4\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"By reshaping a strand of the Weave until it resembles the patterns created by a priest's healing spell, the wild mage can accomplish what was thought to be impossible: an arcane spell that cures wounds.\n"
+"\n"
+"Cellular Regeneration increases the growth rate of the body's various tissues, causing them to mend together faster. Once the recipient is touched, the spell begins to work, restoring damage according to the table below:\n"
+"\n"
+"Round  Healing\n"
+"------------------\n"
+"1           1\n"
+"2           1d4\n"
+"3           1d4 + level/5 (up to 1d4+5)\n"
+"4           1d4 + level/5 (up to 1d4+5)\n"
+"5           1d4\n"
+"6           1\n"
+"\n"
+"The regeneration process is so stressing for the body, that the recipient stays unconscious for the duration of the spell, and looses one point of constitution for one hour thereafter."
+msgstr ""
+"Клеточная регенерация* (Некромантия)\n"
+"Уровень: 4\n"
+"Дистанция: Прикосновение\n"
+"Длительность: 6 раундов\n"
+"Время чтения: 4\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нет\n"
+"\n"
+"Изменяя структуру Плетения, делая ее похожей на структуру жреческих заклинаний лечения, дикий маг может добиться того, что считалось невозможным: создать не божественное заклятье, лечащее раны.\n"
+"\n"
+"Клеточная регенерация увеличивает темпы рост новых клеток в организме, заставляя быстрее срастаться кости, сухожилья, мышцы... Когда маг касается существа, заклинание начинает работать, восстанавливая пункты здоровья в соответствии со следующей таблицей:\n"
+"\n"
+"Раунд  Пункты здоровья:\n"
+"------------------\n"
+"1 - 1\n"
+"2 - 1d4\n"
+"3 - 1d4 + каждые 5 уровней (до максимума 1d4+5)\n"
+"4 - 1d4 + каждые 5 уровней (до максимума 1d4+5)\n"
+"5 - 1d4\n"
+"6 - 1\n"
+"\n"
+"Такой процесс ускоренной регенерации весьма болезнен. Из-за этого тот, кто находится под действием этого заклинания теряет сознание на весь период его действия, а так же лишается 1 пункта телосложения на час."
+
+#: wildmage/tra/english/text.tra:21101
+msgid "Vortex"
+msgstr "Вихрь"
+
+#: wildmage/tra/english/text.tra:21102
+msgid ""
+"Vortex* (Evocation)\n"
+"Level: 5\n"
+"Range: 30 yards\n"
+"Duration: 3-15 rounds\n"
+"Casting Time: 5\n"
+"Area of effect: 7-foot-diameter sphere\n"
+"Saving Throw: Half\n"
+"\n"
+"A vortex is a swirling mass of magical energy, barely controllable by the caster. After casting the spell, a 7 foot tall, multicolored sphere appears. From this moment on, the caster must maintain concentration in order for the vortex to remain.\n"
+"\n"
+"Each round, the caster can move the vortex 60 feet. However, control of direction is not perfect. If the caster fails to concentrate just for a moment, the Vortex moves on on its own.\n"
+"\n"
+"The vortex is composed of raw magical energy. Once per round, all creatures close to the vortex suffer 2d6 points of each: stunning, electricity and magic damage. Creatures struck are allowed a saving throw vs. spells to suffer only half damage.\n"
+"\n"
+"The duration of the spell is 3 rounds at level 10, plus one round for each additional level - up to 15 rounds at level 34. The caster is held immobile for the whole duration of the spell; he can't cancel it, even when he completely lost control over the vortex."
+msgstr ""
+"Вихрь* (Проявление)\n"
+"Уровень: 5\n"
+"Дистанция: 30 ярдов\n"
+"Длительность: 3-15 раундов\n"
+"Время чтения: 5\n"
+"Зона действия: сфера диаметром 7 футов\n"
+"Спасбросок: 1/2\n"
+"\n"
+"Вихрь – циркулирующая масса магической энергии, едва контролируемая заклинателем. После прочтения этого заклинания, появляется разноцветная сфера диаметром 7 футов. С этого момента заклинатель должен непрерывно концентрироваться на вихре, чтобы не потерять над ним контроль.\n"
+"\n"
+"Каждый раунд, заклинатель может переместить вихрь на расстояние до 60 футов. Тем не менее, контроль над заклинанием не совершенен. Если заклинатель хоть на мгновение потеряет сосредоточенность, вихрь начнет перемещаться произвольно.\n"
+"\n"
+"Вихрь состоит из чистой магической энергии. Один раз за раунд все существа вблизи вихря получают 2d6 очков урона от оглушения, электричества и магии. Существа, удачно прокинувшие спасбросок от заклинаний, получают только половину урона.\n"
+"\n"
+"Время действия заклинания 3 раунда на 10 уровне, и увеличивается с ростом уровне до максимума в 15 раундов на 34 уровне. Заклинатель не может двигаться в течении всего действия заклинания, даже если он полностью потеряет контроль на вихрем."
+
+#: wildmage/tra/english/text.tra:21201
+msgid "Paithan's Lucky Streak"
+msgstr "Полоса везения Пайзана"
+
+#: wildmage/tra/english/text.tra:21202
+msgid ""
+"Paithan's Lucky Streak* (Enchantment/Charm)\n"
+"Level: 5\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This extremely potent spell gives the target a run of good luck. The recipient gains 1d8 points of luck, receiving this amount as bonus to any of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is added to any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 2 or higher, a new 1d8 bonus is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 1, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 16 or higher, the spell does not only continue, but the next round is also a \"Good Luck\" round, in which the recipient gets not only 8 points of luck bonus, but also the almost supernatural ability to avoid death, level drain, and anything that limits his movement.\n"
+"\n"
+"As long as it doesn't expire due to \"Bad Luck\" (1 on D20, then 15 or lower on D20), the spell continues infinitely."
+msgstr ""
+"Полоса везения Пайзана* (Чародейство/Очарование)\n"
+"Уровень: 5\n"
+"Дистанция: Прикосновение\n"
+"Длительность: Особая\n"
+"Время чтения: 5\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нет\n"
+"\n"
+"Это чрезвычайно мощное заклинание значительно увеличивает запас удачи того, на кого нацелено. Цель получает бонус 1d8 очков удачи ко всем своим броскам. Включая спасброски, броски на попадание, воровские способности и т.д. К тому же, цель получает двойной бонус ко всем броскам, связанным с дикой магией.\n"
+"\n"
+"В конце каждого раунда делается бросок d20 чтобы определить закончилось ли действие заклинания. При броске 2 или выше цель заново получает бонус 1d8 и заклинание действует еще раунд.\n"
+"\n"
+"При броске 1 все равно остается 25% шанс, что действие заклинания не закончится. Если после второго броска d20 выпадает 16 или выше, заклинание не только продолжает действовать, но и делает следующий раунд «Удачным»: цель получает бонус удачи 8,а так же возможность избежать смерти, откачивания уровней и защиту от любых эффектов, ограничивающих движение.\n"
+"\n"
+"Заклинание продолжает действовать до «Критической неудачи» (т.е. бросок 1 из D20, и потом 15 или меньше из D20)."
+
+#: wildmage/tra/english/text.tra:21301
+msgid "Paithan's Fiasco"
+msgstr "Фиаско Пайзана"
+
+#: wildmage/tra/english/text.tra:21302
+msgid ""
+"Paithan's Fiasco* (Enchantment/Charm)\n"
+"Level: 6\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"Paithan's Fiasco is the reverse version of the level 5 spell Paithan's Lucky Streak. The target, usually an enemy, suffers a run of bad luck. The victim is affected by 1d8 points of bad luck, taking this amount as a penalty to all of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is subtracted from any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 19 or lower, a new 1d8 penalty is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 20, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 5 or lower, the spell does not only continue, but the next round is also a \"Fiasco\" round, in which the victim gets 8 points of bad luck penalty and suffers one of the following things: stumble and drop down to the ground for two rounds,  drop weapon due to a sudden spasm,  fail horrible at parrying and loose all attacks for this round,  hurt himself for 1d20 hitpoints  or getting blinded by splinters from his own weapon for three rounds.\n"
+"\n"
+"As long as it doesn't expire due to \"Good Luck\" (20 on D20, then 6 or higher on D20), the spell continues infinitely."
+msgstr ""
+"Фиаско Пайзана* (Чародейство/Очарование)\n"
+"Уровень: 6\n"
+"Дистанция: Прикосновение\n"
+"Длительность: Особая\n"
+"Время чтения: 5\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нет\n"
+"\n"
+"Фиаско Пайзана – заклинание обратное заклинанию 5 уровня «Полоса везения Пайзана». Цель, обычно враг, получает ухудшение к удаче. Цель получает штраф 1d8 очков удачи ко всем своим броскам. Включая спасброски, броски на попадание, воровские способности и т.д. К тому же, цель получает двойной штраф ко всем броскам, связанным с дикой магией.\n"
+"\n"
+"В конце каждого раунда делается бросок d20 чтобы определить закончилось ли действие заклинания. При броске 19 или меньше цель заново получает штраф 1d8, и заклинание действует еще раунд.\n"
+"\n"
+"При броске 20 все равно остается 25% шанс, что действие заклинания не закончится. Если после второго броска d20 выпадает 5 или меньше, заклинание не только продолжает действовать, но и делает следующий раунд «Ужасно неудачным»: цель получает штраф к удачи 8, а также пострадает от одного из следующих эффектов: остановится и упадет на землю, выронит оружие из-за случайных спазмов, критически ошибется при парировании и потеряет все атаки в этот раунд, ранит себя на 1d20 хитпоинтов или ослепнет на три раунда.\n"
+"\n"
+"Заклинание продолжает действовать до «Критической удачи» (т.е. бросок 20 из D20, и потом 6 или больше из D20)."
+
+#: wildmage/tra/english/text.tra:21311
+msgid "Fiasco"
+msgstr "Фиаско"
+
+#: wildmage/tra/english/text.tra:21401
+msgid "Wildstrike"
+msgstr "Дикий удар"
+
+#: wildmage/tra/english/text.tra:21402
+msgid ""
+"Wildstrike* (Conjuration/Summoning)\n"
+"Level: 6\n"
+"Range: 30 yards\n"
+"Duration: 1-15 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"This spell is used primarily against hostile spellcasters. It distorts all attempts at spellcasting, converting spell energy into wild surges. The victim of a wildstrike is allowed a saving throw, to which a -1 modifier is applied for every 10 levels of the caster. If successful, the spell has no effect. If the saving throw is failed, the target is enclosed within a field of wild magic.\n"
+"\n"
+"Each attempt to casts spells or uses a charge from a magical item, automatically creates a wild surge. When determining the effects of this surge, 5 is subtracted from the die roll for every five levels of the wild mage who cast the wildstrike, making the effects of the wild surge more likely to affect the victim.\n"
+"\n"
+"The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35."
+msgstr ""
+"Дикий удар* (Вызывание/Призывание)\n"
+"Уровень: 6\n"
+"Дистанция: 30 ярдов\n"
+"Длительность: 1-15 раундов\n"
+"Время чтения: 3\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нейтрализация\n"
+"\n"
+"Это заклинание предназначено для использования против других заклинателей. Оно разрушает все читаемые заклинания, превращая магическую энергию в дикие волны. Цель может сделать спасбросок со штрафом -1 за каждые 10 уровней заклинателя. В случае удачи заклинание не имеет эффекта. В случае неудачи противник оказывается запертым в поле дикой магии.\n"
+"\n"
+"Любые попытки читать заклинания или использовать заряды из магических предметов автоматически вызывают дикие волны. При определении эффекта дикой волны, цель делает бросок против смерти со штрафом -5 за каждые 5 уровней мага прочитавшего заклинание дикого удара.\n"
+"\n"
+"Время действия заклинания 1 раунд плюс 2 за каждые 5 уровней заклинателя вплоть до максимума в 15 раундов на 35 уровне."
+
+#: wildmage/tra/english/text.tra:21501
+msgid "Hornung's Random Dispatcher"
+msgstr "Случайный отправитель Хорнунга"
+
+#: wildmage/tra/english/text.tra:21502
+msgid ""
+"Hornung's Random Dispatcher* (Abjuration)\n"
+"Level: 7\n"
+"Range: 30 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"With the utterance of a few words, this spell can hurl someone to a random plane and leave him there. The target is allowed a saving throw against spells. If successful, the spell fails. If unsuccessful, the victim and all items carried by him are sent to a random plane.\n"
+"\n"
+"The caster has no control over the destination of the target. The conditions at the destination may kill the target (for example, arriving in the elemental plane of fire), merely make his life difficult, or promise a new life in paradise (literally).\n"
+"\n"
+"Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime."
+msgstr ""
+"Случайный отправитель Хорнунга* (Ограждение)\n"
+"Уровень: 7\n"
+"Дистанция: 30 ярдов\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 2\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нейтрализация\n"
+"\n"
+"При помощи всего нескольких магических слов, заклинатель может зашвырнуть жертву на случайный план существования и оставить там. Жертва может пробросить спасбросок против заклинаний. В случае успеха заклинание не имеет эффекта, при неудаче – цель со всеми своими вещами отправляется неизвестно куда.\n"
+"\n"
+"Заклинатель не может выбрать, куда будет выброшена жертва заклинания. Цель может мгновенно погибнуть (например, оказавшись на элементальном плане огня), оказаться в крайне тяжелых условиях существования, а может оказаться в раю (буквально).\n"
+"\n"
+"В любом случае, заклинатель избавляется от цели, и крайне маловероятно, что они когда-либо вновь встретятся, в этой жизни."
+
+#: wildmage/tra/english/text.tra:21511
+msgid "was sent to the Abyss"
+msgstr "оказывается в Бездне"
+
+#: wildmage/tra/english/text.tra:21512
+msgid "was sent to Acheron"
+msgstr "оказывается в Ахероне"
+
+#: wildmage/tra/english/text.tra:21513
+msgid "was sent to the prime world known as Oerth"
+msgstr "оказывается на первичном плане, известном как Оэрт"
+
+#: wildmage/tra/english/text.tra:21514
+msgid "was sent to the prime world known as Athas"
+msgstr "оказывается на первичном плане, известном как Ахас"
+
+#: wildmage/tra/english/text.tra:21515
+msgid "was sent to Arcadia"
+msgstr "оказывается в Аркадии"
+
+#: wildmage/tra/english/text.tra:21516
+msgid "was sent to the Astral Plane"
+msgstr "оказывается на Астральном Плане"
+
+#: wildmage/tra/english/text.tra:21517
+msgid "was sent to the Beastlands"
+msgstr "оказывается в Земле Зверей"
+
+#: wildmage/tra/english/text.tra:21518
+msgid "was sent to the Outlands"
+msgstr "оказывается во Внешних Землях"
+
+#: wildmage/tra/english/text.tra:21519
+msgid "was sent to the Elemental Plane of Air"
+msgstr "оказывается на Элементальном Плане Воздуха"
+
+#: wildmage/tra/english/text.tra:21520
+msgid "was sent to the Elemental Plane of Fire"
+msgstr "оказывается на Элементальном Плане Огня"
+
+#: wildmage/tra/english/text.tra:21521
+msgid "was sent to the Elemental Plane of Earth"
+msgstr "оказывается на Элементальном Плане Земли"
+
+#: wildmage/tra/english/text.tra:21522
+msgid "was sent to the Elemental Plane of Water"
+msgstr "оказывается на Элементальном Плане Воды"
+
+#: wildmage/tra/english/text.tra:21523
+msgid "was sent to Elysium"
+msgstr "оказывается в Элизиуме"
+
+#: wildmage/tra/english/text.tra:21524
+msgid "was sent to the Ethereal Plane"
+msgstr "оказывается на Эфирном Плане"
+
+#: wildmage/tra/english/text.tra:21525
+msgid "was sent to Gehenna"
+msgstr "оказывается в Геенне"
+
+#: wildmage/tra/english/text.tra:21526
+msgid "was sent to Gladsheim"
+msgstr "оказывается в Гладсхейме"
+
+#: wildmage/tra/english/text.tra:21527
+msgid "was sent to the Gray Waste"
+msgstr "оказывается в Серых Пустошах"
+
+#: wildmage/tra/english/text.tra:21528
+msgid "was sent to Limbo"
+msgstr "оказывается в Лимбо"
+
+#: wildmage/tra/english/text.tra:21529
+msgid "was sent to the Negative Material Plane"
+msgstr "оказывается на Негативном Материальном Плане"
+
+#: wildmage/tra/english/text.tra:21530
+msgid "was sent to the Quasi-Plane of Vacuum"
+msgstr "оказывается на Квазистихийном Плане Пустоты"
+
+#: wildmage/tra/english/text.tra:21531
+msgid "was sent to the Quasi-Plane of Ash"
+msgstr "оказывается на Квазистихийном Плане Пепла"
+
+#: wildmage/tra/english/text.tra:21532
+msgid "was sent to the Quasi-Plane of Dust"
+msgstr "оказывается на Квазистихийном Плане Пыли"
+
+#: wildmage/tra/english/text.tra:21533
+msgid "was sent to the Quasi-Plane of Salt"
+msgstr "оказывается на Квазистихийном Плане Соли"
+
+#: wildmage/tra/english/text.tra:21534
+msgid "was sent to the Nine Hells"
+msgstr "оказывается в Девяти Адах"
+
+#: wildmage/tra/english/text.tra:21535
+msgid "was sent to Nirvana"
+msgstr "оказывается в Нирване"
+
+#: wildmage/tra/english/text.tra:21536
+msgid "was sent to Olympus"
+msgstr "оказывается на Олимпе"
+
+#: wildmage/tra/english/text.tra:21537
+msgid "was sent to Pandemonium"
+msgstr "оказывается в Пандемониуме"
+
+#: wildmage/tra/english/text.tra:21538
+msgid "was sent to the Para-Elemental Plane of Smoke"
+msgstr "оказывается в Парастихийном Плане Дыма"
+
+#: wildmage/tra/english/text.tra:21539
+msgid "was sent to the Para-Elemental Plane of Magma"
+msgstr "оказывается в Парастихийном Плане Магмы"
+
+#: wildmage/tra/english/text.tra:21540
+msgid "was sent to the Para-Elemental Plane of Ooze"
+msgstr "оказывается в Парастихийном Плане Газа"
+
+#: wildmage/tra/english/text.tra:21541
+msgid "was sent to the Para-Elemental Plane of Ice"
+msgstr "оказывается в Парастихийном Плане Льда"
+
+#: wildmage/tra/english/text.tra:21542
+msgid "was sent to the Positive Material Plane"
+msgstr "оказывается в Позитивном Материальном Плане"
+
+#: wildmage/tra/english/text.tra:21543
+msgid "was sent to the Quasi-Plane of Lightning"
+msgstr "оказывается на Квазистихийном Плане Молний"
+
+#: wildmage/tra/english/text.tra:21544
+msgid "was sent to the Quasi-Plane of Radiance"
+msgstr "оказывается на Квазистихийном Плане Сияния"
+
+#: wildmage/tra/english/text.tra:21545
+msgid "was sent to the Quasi-Plane of Minerals"
+msgstr "оказывается на Квазистихийном Плане Минералов"
+
+#: wildmage/tra/english/text.tra:21546
+msgid "was sent to the Quasi-Plane of Steam"
+msgstr "оказывается на Квазистихийном Плане Пара"
+
+#: wildmage/tra/english/text.tra:21547
+msgid "was sent to the Icewind Dale"
+msgstr "оказывается в Долине Ледяных Ветров"
+
+#: wildmage/tra/english/text.tra:21548
+msgid "was sent to the Seven Heavens"
+msgstr "оказывается на Седьмом Небе"
+
+#: wildmage/tra/english/text.tra:21549
+msgid "was sent to the Tarterus"
+msgstr "оказывается в Тартаре"
+
+#: wildmage/tra/english/text.tra:21550
+msgid "was sent to the Twin Paradises"
+msgstr "оказывается в Двойном Раю"
+
+#: wildmage/tra/english/text.tra:21601
+msgid "Summon Cow"
+msgstr "Призвать корову"
+
+#: wildmage/tra/english/text.tra:21602
+msgid ""
+"Summon Cow* (Summoning)\n"
+"Level: 7\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: Special\n"
+"\n"
+"Upon casting this spell, a cow is summoned in the air 50-200 yards above the targeted creature. The exact height is dependent on the caster's level, and determines the damage done to the target.\n"
+"\n"
+"Once summoned, the animal will fall down upon the target. The impact as well as the crash to the ground cause crushing damage equal to 3d10 + 1d10 for every three levels of the caster, up to a maximum total of two times 10d10 at Level 21. There is no saving throw against the physical impact, though a very lucky or agile individual may drop to the ground without taking additional damage.\n"
+"\n"
+"If the targeted creature survives the impact, there's a chance of 10% +10% for every three experience levels of the caster, that the victim drops random equipment while falling. The maximum chance is 80% at Level 21; there is no saving throw.\n"
+"\n"
+"Finally, the whole situation is so confusing and frightening, that the target must save against spells or flee in panic for three rounds. The saving throw starts with a modifier of +2, which is decreased by 1 for every three levels of the caster, until it reaches -5 at 21th level.\n"
+"\n"
+"Warning:\n"
+"Basically, this spell is just a purposeful release of a specific wild surge. As such, there is a chance for unwanted side effects.\n"
+"\n"
+"It is also strongly advised against using this spell in the presence of rangers or druids."
+msgstr ""
+"Призвать корову* (Призывание)\n"
+"Уровень: 7\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 3\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Особый\n"
+"\n"
+"После прочтения этого заклинания в воздухе, над целью, на высоте 50-200 ярдов появляется корова. Конкретная высота зависит от уровня заклинателя и определяет наносимые повреждения.\n"
+"\n"
+"После появления, животное начинает падать на жертву заклинания. Столкновение причиняет 3d10 дробящего урона + 1d10 за каждые три уровня заклинателя, до максимума в 10d10 на 21. От столкновения нет спасброска, но если цель обладает достаточной ловкостью, то может избежать дополнительных повреждений.\n"
+"\n"
+"Если цель выживет после столкновения, существует шанс 10% +10% за каждые три уровня заклинателя, что жертва выронит случайный предмет. Максимальный шанс 80% на 21 уровне и против этого эффекта нет спасброска.\n"
+"\n"
+"И в конце концов, вся ситуация настолько нелепа и пугающая, что цель должна сделать спасбросок против заклинания или убежать в панике. Спасбросок делается с бонусом +2, который уменьшается на 1 за каждые 3 уровня заклинателя до -5 на 21.\n"
+"\n"
+"Предупреждение:\n"
+"Фактически, это заклинание является контролируемым вызовом одного из эффектов дикой волны. Как результат, могут появиться неприятные побочные эффекты.\n"
+"\n"
+"Так же крайне не рекомендуется использовать это заклинание в присутствии рейнджеров и друидов."
+
+#: wildmage/tra/english/text.tra:21701
+msgid "Mynoc's Wild Recuperation"
+msgstr "Дикое Возмещение Майнока"
+
+#: wildmage/tra/english/text.tra:21702
+msgid ""
+"Mynoc's Wild Recuperation* (Evocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"When casting this spell, the wild mage willingly releases raw magical energy in form of a wild surge. If he manages to control the wild surge, he can use the energy to bring back into memory 1d4 spells that have been previously cast. If no spells have been cast yet, then nothing happens, and the spell is wasted.\n"
+"\n"
+"For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less."
+msgstr ""
+"Дикое Возмещение Майнока* (Проявление)\n"
+"Уровень: 8\n"
+"Дистанция: 0\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 10\n"
+"Зона действия: Заклинатель\n"
+"Спасбросок: Нет\n"
+"\n"
+"Прочитав это заклинание, Дикий Маг осознанно высвобождает чистую энергию дикой волны. Если магу удастся совладать с потоком магической энергии, он может воссоздать в памяти от 1 до 4 заклинаний, которые он прочитал до этого. В случае если до этого не было прочитано ни одного заклинания - ничего не происходит.\n"
+"\n"
+"Для определения эффекта дикой волны маг получает бонус +40; т.е. очень высока вероятность получения желаемого эффекта. Могут быть восстановлены только заклинания 7 уровня и ниже."
+
+#: wildmage/tra/english/text.tra:21711
+msgid "1 spell restored to memory"
+msgstr "1 заклинание восстановлено в памяти"
+
+#: wildmage/tra/english/text.tra:21712
+msgid "2 spells restored to memory"
+msgstr "2 заклинания восстановлено в памяти"
+
+#: wildmage/tra/english/text.tra:21713
+msgid "3 spells restored to memory"
+msgstr "3 заклинания восстановлено в памяти"
+
+#: wildmage/tra/english/text.tra:21714
+msgid "4 spells restored to memory"
+msgstr "4 заклинания восстановлено в памяти"
+
+#: wildmage/tra/english/text.tra:21801
+msgid "Eye of the Beholder"
+msgstr "Око созерцателя"
+
+#: wildmage/tra/english/text.tra:21802
+msgid ""
+"Eye of the Beholder* (Evocation)\n"
+"Level: 8\n"
+"Range: Visual range of caster\n"
+"Duration: 1 round/5 levels\n"
+"Casting Time: 5\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"When this spell is cast, one of the wild mage's eyeballs pops out, and is transformed into a Beholder's eye stalk.\n"
+"\n"
+"Once per round, the wild mage may use this eyestalk to gaze at a target, causing one of 10 possible effects to shoot forth from the eye. The exact result (including saving throws, range, duration, etc.) are determined at random from among the 10 functions of a beholder's eye stalks: Charm Person, Fear, Disintegrate, Slow, Petrification, Cause Serious Wounds, Hold Person, Lightning Bolt, Paralyze or Death Ray.\n"
+"\n"
+"Usually, the caster's eye returns to its original shape and place after the spell has expired."
+msgstr ""
+"Око созерцателя* (Проявление)\n"
+"Уровень: 8\n"
+"Дистанция: Поле зрения закоинателя\n"
+"Длительность: 1 раунд/5 уровней\n"
+"Время чтения: 5\n"
+"Зона действия: Особая\n"
+"Спасбросок: Особый\n"
+"\n"
+"После прочтения этого заклинания, одно глазное яблоко дикого мага выскакивает из глазницы и превращается в Око созерцателя.\n"
+"\n"
+"Один раза за раунд, маг может использовать Око, чтобы атаковать противника, применив один из 10 эффектов доступных Созерцателям. Конкретный результат (включая спасброски, дальность и пр.) выбираются случайным образом из следующих эффектов: Очарование персонажа, Страх, Распыление, Замедление, Окаменение, Нанесение серьезных ран, Удержание персонажа, Молния, Паралич или Смерть.\n"
+"\n"
+"Как правило, после окончания срока действия заклинания, глаз принимает нормальную форму и возвращается на положенное ему место."
+
+#: wildmage/tra/english/text.tra:21803
+msgid "Beholder's Gaze"
+msgstr "Взгляд созерцателя"
+
+#: wildmage/tra/english/text.tra:21811
+msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
+msgstr "\"Взгляд созерцателя\" был добавлен в ваше меню спецспособностей"
+
+#: wildmage/tra/english/text.tra:21901
+msgid "Entropy Shield"
+msgstr "Щит энтропии"
+
+#: wildmage/tra/english/text.tra:21902
+msgid ""
+"Entropy Shield* (Abjuration)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: 2 turns\n"
+"Casting Time: 9\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell surrounds the caster in a protective field of raw magical energy. This field will absorb the energy of any wild surge and all but the most powerful spells.\n"
+"\n"
+"For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield.\n"
+"\n"
+"In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect."
+msgstr ""
+"Щит энтропии* (Ограждение)\n"
+"Уровень: 9\n"
+"Дистанция: 0\n"
+"Длительность: 2 ходs\n"
+"Время чтения: 9\n"
+"Зона действия: Заклинатель\n"
+"Спасбросок: Нет\n"
+"\n"
+"Это заклинание окружает прочитавшего его защитным полем чистой магической энергии. Поле поглощает энергию всех диких волн и заклинаний, за исключением самых могущественных.\n"
+"\n"
+"На время действия заклинания, маг получает иммунитет ко всем заклинаниям 7го уровня и ниже, включая заклинание Рубиновый Луч, которое было создано специально для уничтожения магических защит. Только Пронзить Заклинание и Магический Удар способны разрушить Щит Энтропии.\n"
+"\n"
+"Также заклинателе получает бонус +100 на все броски, по определению эффекта дикой магии, в результате чего все заклинания будут работать как им положено. Это относится и к Безрассудному Двеомеру Нахала – пока действует Щит Энтропии, заклинатель всегда получает нужный эффект."
+
+#: wildmage/tra/english/text.tra:22001
+msgid "Wild Sphere"
+msgstr "Дикая сфера"
+
+#: wildmage/tra/english/text.tra:22002
+msgid ""
+"Wild Sphere* (Conjuration/Summoning)\n"
+"Level: 9\n"
+"Range: Visual range of the caster\n"
+"Duration: 6 turns\n"
+"Casting Time: 1 round\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This powerful spell creates a temporary rift in the Weave. The area of effect is a sphere with 30 foot radius; within chaos reigns.\n"
+"\n"
+"Any spell cast within the Wild Sphere automatically causes a wild surge. Effects from magical items that expend charges also cause wild surges when used in the area. Other magical items function normally. Even after a victim left the area of effect, it takes one round for his spell casting capabilities return to normal.\n"
+"\n"
+"In addition, everyone within the area of effect must make a save vs. spells at -5 every round, or cause a weave disturbance that fires multiple wild surges at random targets for one round, comparable to the 4th level spell Glyph of Wild Magic.\n"
+"\n"
+"Vicims that also fail the save vs. spells without modifier, are subject to one of the following random effects: randomly teleported, polymorphed into a squirrel, confused, paralyzed, healed by 1d8 hit points, take 1d8 hit points of damage, rendered unconscious or hasted."
+msgstr ""
+"Дикая сфера* (Вызывание/Призывание)\n"
+"Уровень: 9\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: 6 ходs\n"
+"Время чтения: 1 раунд\n"
+"Зона действия: 30-футовый радиус\n"
+"Спасбросок: Особый\n"
+"\n"
+"Это мощное заклинание создает временную трещину в плетении. В зоне поражения, сфере радиусом 30 футов, царствует абсолютный хаос.\n"
+"\n"
+"Любое заклинание, произнесенное внутри Дикой Сферы, автоматически вызывает дикую волну. Эффекты магических предметов, использующих заряды, так же вызовут дикую волну, хотя остальные магические предметы функционируют как обычно. Даже после того как жертва покинет зону действия заклинания, должен пройти 1 раунд прежде восстановит способность нормально произносить заклинания.\n"
+"\n"
+"К тому же, все находящиеся в зоне действия заклинания должны каждый раунд делать спасбросок против заклинаний со штрафом -5, в случае провала которого возникают возмущения в плетении создающие дикие волны в случайных направлениях, аналогично заклинанию 4го уровня – Символ Дикой Магии.\n"
+"\n"
+"Так же, жертва, провалившая спасбросок без модификатора, страдает от одного из следующих эффектов: случайная телепортация, превращение в белку, замешательство, паралич, исцеление на 1d8 пунктов, ранение 1d8 пунктов, потерять сознание или ускориться."
+
+#: wildmage/tra/english/text.tra:22101
+msgid "Rhialto's Marvelous Reincarnation"
+msgstr "Изумительная реинкарнация Риалто"
+
+#: wildmage/tra/english/text.tra:22102
+msgid ""
+"Rhialto's Marvelous Reincarnation* (Alteration)\n"
+"Level: 10\n"
+"Range: Visual range of the caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"This sinister spell is the legacy of the wild mage that called himself Rhialto the Marvelous.\n"
+"\n"
+"Casting this spell causes fluctuations in the laws of probability, and weakens the fabric of time. These effects last only for a moment, but this is long enough to create an alternate reality.\n"
+"\n"
+"The purpose of this spell is to bring a dead back to life by changing an event in the past and letting another creature (one that still lives in the present) die instead. There is no divine intervention involved: the reincarnated creature isn't raised from the dead, on successful casting of this spell, the fatal event never happened and the spell's beneficiary never has died.\n"
+"\n"
+"Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood."
+msgstr ""
+"Изумительная реинкарнация Риалто* (Изменение)\n"
+"Уровень: 10\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 10\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нет\n"
+"\n"
+"Это заклинание – наследие Дикого Мага, называвшего себя Риалто «Изумительный».\n"
+"\n"
+"Это заклинание вызывает изменение в законах вероятности, и ослабляет поток времени. Эффект длится всего мгновение, но этого достаточно, чтобы создать альтернативную реальность.\n"
+"\n"
+"Цель данного заклинания – вернуть мертвого к жизни, изменяя прошлое таким образом, что погибает другое существо, которое на момент произнесения заклинания еще живо. Не происходит никакого божественного вмешательства: мертвый на самом деле не воскресает, просто в случае удачного прочтения заклинания, события, приведшие к смерти, не происходят.\n"
+"\n"
+"После того как выбрана цель заклинания, происходит изменение потока времени и история переписывается, так что цель погибает тем же способом что и существо, которое должно вернуться к жизни. Оживленное существо появляется на том же месте где находилась жертва заклинания."
+
+#: wildmage/tra/english/text.tra:22201
+msgid "Entropy Burst"
+msgstr "Энтропический взрыв"
+
+#: wildmage/tra/english/text.tra:22202
+msgid ""
+"Entropy Burst (Invocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: None\n"
+"\n"
+"Invoking the Entropy Burst spell creates magic of tremendous power. The caster acts as a bridge between the material plane and the primal forces of chaos, causing a burst of chaos-stuff centered on the caster and reaching up to a 30' radius.\n"
+"\n"
+"The effect of this spell is completely harmless for chaotic creatures, everyone else is pushed away from the caster for several seconds; creatures of neutral alignment take 1d8 points of magical damage, while lawful creatures take 1d20 points of damage. In addition, one of the following effects applies to a lawful target, according to its level:\n"
+"\n"
+"Hit Dice or levels  --  Effects of Entropy Burst\n"
+"Less than 4  --  Death\n"
+"4 to 7  --  Stunned for 1 turn\n"
+"8 to 11  --  Slowed for 1 turn with 75% chance of spell failure\n"
+"12 and up  --  Deafened for 1 turn with 50% chance of spell failure\n"
+"\n"
+"There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled."
+msgstr ""
+"Энтропический взрыв (Воплощение)\n"
+"Уровень: 8\n"
+"Дистанция: 0\n"
+"Длительность: Особая\n"
+"Время чтения: 1\n"
+"Зона действия: 30-футовый радиус\n"
+"Спасбросок: Нет\n"
+"\n"
+"Этропический Взрыв - заклинание огромной силы. Заклинатель действует как мост между материальным планом и первозданными силами хаоса, вызывая всплеск хаотичной энергии с центром на заклинателе и радиусом 30 футов.\n"
+"\n"
+"Заклинание абсолютно безвредно для хаотичных существ, остальные же отбрасываются от заклинателя на несколько секунд; существа нейтрального мировоззрения получают 1d8 пунктов магического урона, в то время как законопослушные 1d20. Так же, законопослушные существа страдают от одного из следующих эффектов, в зависимости от своего уровня:\n"
+"\n"
+"Уровень -- Эффект\n"
+"Ниже 4 -- Смерть\n"
+"от 4 до 7 – ошеломление на 1 ход\n"
+"от 8 до 11 – замедление на 1 ход и 75% неудачи заклинаний\n"
+"12 и выше – оглушение на 1 ход и 50% неудачи заклинаний\n"
+"\n"
+"От эффектов заклинания нет спасброска, и они действуют пока не окончится срок заклинания или до того как их рассеют."
+
+#: wildmage/tra/english/text.tra:22301
+msgid "Acid Storm"
+msgstr "Кислотный шторм"
+
+#: wildmage/tra/english/text.tra:22302
+msgid ""
+"Acid Storm (Evocation)\n"
+"Level: 7\n"
+"Range: Sight of Caster\n"
+"Duration: 1 turn\n"
+"Casting Time: 7\n"
+"Area of Effect: 20-foot radius\n"
+"Saving Throw: Half\n"
+"This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points of damage each round for the first three rounds, 1-6 hit points for the next three rounds, and 1-8 hit points for the next four rounds. Moving out of the area of effect does not stop the damage - the acid adheres to the skin, and the victims continue to suffer damage as long as the spell duration lasts. Affected creatures may make a saving throw vs. spell every round after they have been hit by the cloud - if successful, they only take half-damage (for that round only)."
+msgstr ""
+"Кислотный шторм (Проявление)\n"
+"Уровень: 7\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: 1 ход\n"
+"Время чтения: 7\n"
+"Зона действия: 20-футовый радиус\n"
+"Спасбросок: 1/2\n"
+"\n"
+"Это заклинание высвобождает кислотное облако на указанной территории, причиняющее 1-4 пункта повреждений каждый раунд в течении первых трех раундов, 1-6 пунктов повреждений в течении следующих трех раундов и 1-8 пунктов повреждений следующие четыре раунда. Выход из зоны действия не препятствует получению повреждений - кислота вьедается в кожу и жертва продолжает получать урон, пока действует заклинание. Попавшие под действие существа могут попытаться кинуть спасбросок против заклинаний каждый раунд после того как они получили урон от заклинания - в случае успеха, они получают только половину урона (только в течении этого раунда)."
+
+#: wildmage/tra/english/text.tra:22401
+msgid "Summon Wild Horde"
+msgstr "Вызов Дикой Орды"
+
+#: wildmage/tra/english/text.tra:22402
+msgid ""
+"Summon Wild Horde* (Conjuration/Summoning)\n"
+"Level: 2\n"
+"Range: 0\n"
+"Duration: 1 round/level\n"
+"Casting Time: 2\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This summoning spell calls forth 1d20 aggressive rabbits that defend the caster with their lives.\n"
+"\n"
+"The tiny animals don't really pose a threat besides distracting the caster's enemies. When one of the rodents dies, however, there is a 25% chance that it will explode in a fireball, doing 2d4 points of fire damage to everyone within a 20 foot radius (save vs. spell for half)."
+msgstr ""
+"Вызов Дикой Орды* (Вызывание/Призывание)\n"
+"Уровень: 2\n"
+"Дистанция: 0\n"
+"Длительность: 1 раунд/уровень\n"
+"Время чтения: 2\n"
+"Зона действия: Особая\n"
+"Спасбросок: Особый\n"
+"\n"
+"Это призывающее заклинание вызывает 1d10 агрессивных кроликов, которые защищают заклинателя ценой своей жизни.\n"
+"\n"
+"Крохотные животные не представляют реальной угрозы, только отвлекая врагов заклинателя. Тем не менее, когда один из грызунов умирает, есть шанс 25% что он взорвется Огненным шаром, причиняя 2d4 пункта огненного повреждения каждому в радиусе 20 футов (спасбросок от заклинаний - половина урона)."
+
+#: wildmage/tra/english/text.tra:22501
+msgid "Corporeal Instability"
+msgstr "Телесная нестабильность"
+
+#: wildmage/tra/english/text.tra:22502
+msgid ""
+"Corporeal Instability* (Alteration)\n"
+"Level: 4\n"
+"Range: Visual sight of caster\n"
+"Duration: 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: One Creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"Corporeal Instability temporarily distorts the various bonds that hold the victim's body together.\n"
+"\n"
+"When the spell is cast on a creature, it has to save vs. spells at -5 or be liquefied. When failing the saving throw, the victim takes 1d20 points of system-shock damage as his body destabilizes into an amorphous, ever-shifting mass. The victim is unable to take any action for 1 round per level of the caster, but is also immune to anything save magical damage."
+msgstr ""
+"Телесная нестабильность* (Изменение)\n"
+"Уровень: 4\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: 1 раунд/уровень\n"
+"Время чтения: 3\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нейтрализация\n"
+"\n"
+"Телесная нестабильность временно искажает различные связи, которые сдерживают вместе тело жертвы.\n"
+"\n"
+"Когда заклинание наложено на существо, оно должно выкинуть спасбросок против заклинаний -5, или быть разжиженным. При провале спасброска жертва получает 1d20 пунктов поражающего систему урона от дестабилизации теля в аморфную, постоянно меняющуюся массу. Жертва не может предпринимать каких-либо действий в течении 1 раунда за каждый уровень заклинателя, но она также невосприимчива к любому магическому урону."
+
+#: wildmage/tra/english/text.tra:22601
+msgid "Random Spell II"
+msgstr "Случайное заклинание II"
+
+#: wildmage/tra/english/text.tra:22602
+msgid ""
+"Random Spell II* (Invocation/Evocation)\n"
+"Level: 3\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This is a more powerful version of the 1st level spell Random Spell I. Random spell II, when cast, creates an effect equal to a randomly selected spell of 4th or 5th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Случайное заклинание II* (Воплощение/Проявление)\n"
+"Уровень: 3\n"
+"Дистанция: 40 ярдов\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 1\n"
+"Зона действия: Особая\n"
+"Спасбросок: Особый\n"
+"\n"
+"Это более мощная версия заклинания 1-го уровня Случайное заклинание I. Случайное заклинание II, при прочтении создает эффект эквивалентный случайному заклинанию 4-го или 5-го уровня.\n"
+"\n"
+"В качестве цели, заклинатель должен выбрать существо в радиусе 40 ярдов. Заклинание будет направленно на жертву, если только оно не относится к действующим только на заклинателя.\n"
+"\n"
+"К преимуществам Случайного заклинания относятся скорость чтения, которая всегда равна 1, дальность 40 ярдов, и то что заклинателю не нужно иметь возможность читать копируемое заклинание или даже иметь его в своей книге заклинаний. Плохо же то, что маг не имеет ни малейшего понятия о том какое заклинание будет произнесено, неизвестно даже навредит ли оно цели или поможет."
+
+#: wildmage/tra/english/text.tra:22701
+msgid "Random Spell III"
+msgstr "Случайное заклинание III"
+
+#: wildmage/tra/english/text.tra:22702
+msgid ""
+"Random Spell III* (Invocation/Evocation)\n"
+"Level: 5\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"Similar to the 1st and 3rd level spells, Random Spell III creates an effect equal to a randomly selected spell of 6th or 7th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Случайное заклинание III* (Воплощение/Проявление)\n"
+"Уровень: 5\n"
+"Дистанция: 40 ярдов\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 1\n"
+"Зона действия: Особая\n"
+"Спасбросок: Особый\n"
+"\n"
+"Подобно заклинаниям 1-го и 3-го уровней, Случайное заклинание III при прочтении создает эффект эквивалентный случайному заклинанию 6-го или 7-го уровня.\n"
+"\n"
+"В качестве цели, заклинатель должен выбрать существо в радиусе 40 ярдов. Заклинание будет направленно на жертву, если только оно не относится к действующим только на заклинателя.\n"
+"\n"
+"К преимуществам Случайного заклинания относятся скорость чтения, которая всегда равна 1, дальность 40 ярдов, и то что заклинателю не нужно иметь возможность читать копируемое заклинание или даже иметь его в своей книге заклинаний. Плохо же то, что маг не имеет ни малейшего понятия о том какое заклинание будет произнесено, неизвестно даже навредит ли оно цели или поможет."
+
+#: wildmage/tra/english/text.tra:22801
+msgid "Random Spell IV"
+msgstr "Случайное заклинание IV"
+
+#: wildmage/tra/english/text.tra:22802
+msgid ""
+"Random Spell IV* (Invocation/Evocation)\n"
+"Level: 7\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"The most powerful version of Random Spell creates an effect equal to a randomly selected spell of 8th or 9th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Случайное заклинание IV* (Воплощение/Проявление)\n"
+"Уровень: 7\n"
+"Дистанция: 40 ярдов\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 1\n"
+"Зона действия: Особая\n"
+"Спасбросок: Особый\n"
+"\n"
+"Самая мозная версия Случайного заклинания создает эффект эквивалентный случайному заклинанию 8-го или 9-го уровня.\n"
+"\n"
+"В качестве цели, заклинатель должен выбрать существо в радиусе 40 ярдов. Заклинание будет направленно на жертву, если только оно не относится к действующим только на заклинателя.\n"
+"\n"
+"К преимуществам Случайного заклинания относятся скорость чтения, которая всегда равна 1, дальность 40 ярдов, и то что заклинателю не нужно иметь возможность читать копируемое заклинание или даже иметь его в своей книге заклинаний. Плохо же то, что маг не имеет ни малейшего понятия о том какое заклинание будет произнесено, неизвестно даже навредит ли оно цели или поможет."
+
+#: wildmage/tra/english/text.tra:22901
+msgid "Wildfire"
+msgstr "Дикий Порыв"
+
+#: wildmage/tra/english/text.tra:22902
+msgid ""
+"Wildfire* (Invocation/Evocation)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"By means of this spell, the wild mage is able to channel raw magical energy through himself, shaping it into any form or effect he desires.\n"
+"\n"
+"Wildfire allows the caster to create the effect of any wizard spell of 8th level or lower. He need only have general knowledge of the spell and its effects; the spell does not need to be in his own spellbooks."
+msgstr ""
+"Дикий Порыв* (Воплощение/Проявление)\n"
+"Уровень: 9\n"
+"Дистанция: 0\n"
+"Длительность: Особая\n"
+"Время чтения: 1\n"
+"Зона действия: Особая\n"
+"Спасбросок: Особый\n"
+"\n"
+"Посредством этого заклинания дикий маг получает возможность проводить через себя канал необработанной магической энергии, придавая ей любую желаемую форму или эффект.\n"
+"\n"
+"Дикий порыв позволяет заклинателю создать эффект любого заклинания мага 8 и более низких уровней. Ему необходимо иметь только общее представление о заклинании и его эффектах; заклинанию вовсе не обязательно находится в его книге."
+
+#: wildmage/tra/english/text.tra:23001
+msgid "Mynoc's Irresistible Appeal"
+msgstr "Неотразимое воззвание Майнока"
+
+#: wildmage/tra/english/text.tra:23002
+msgid ""
+"Mynoc's Irresistible Appeal* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: Visual sight of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: none\n"
+"\n"
+"Other than its name suggests, this spell has nothing to do with making the caster more attractive. When Mynoc's Irresistible Appeal is cast, a rope consisting of raw magical energy appears; this rope loops itself around the targeted creature and then shortens, drawing the target toward the caster.\n"
+"\n"
+"There is no saving throw against this spell and it bypasses all magic resistances the targeted creature might have. While this spell is mainly used to get friends out of trouble (or learn to know new ones), some wild mages are known to be crazy enough to cast this spell on enemies to force them into melee-combat."
+msgstr ""
+"Неотразимое воззвание Майнока* (Воплощение/Проявление)\n"
+"Уровень: 1\n"
+"Дистанция: Поле зрения заклинателя\n"
+"Длительность: Мгновенно\n"
+"Время чтения: 1\n"
+"Зона действия: 1 существо\n"
+"Спасбросок: Нет\n"
+"\n"
+"Несмотря на название, это заклинание никоим образом не делает мага привлекательнее. После его прочтения возникает веревка, состоящая из чистой магической энергии, которая опутывает жертву заклинания, после чего начинает сокращаться, притягивая жертву к заклинателю.\n"
+"\n"
+"От заклинания нет спасброска и оно полностью игнорирует любое сопротивление магии. И хотя это заклинание, как правило, используется, чтобы вытащить союзников из передряги (или найти новых), некоторые Дикие Маги достаточно безумны, чтобы использовать его против врагов и вынудить их перейти в ближний бой."
+
+#: wildmage/tra/english/text.tra:23101
+msgid "Meece's Wildarmor"
+msgstr "Дикая броня Миса"
+
+#: wildmage/tra/english/text.tra:23102
+msgid ""
+"Meece's Wildarmor* (Illusion/Phantasm)\n"
+"Level: 6\n"
+"Range: 0\n"
+"Duration: 5 rounds/level\n"
+"Casting Time: 4\n"
+"Area of Effect: The Caster\n"
+"Saving Throw: none\n"
+"\n"
+"This spell was created by the gnomish wild mage Meece Upknot as a means of combat protection. Meece couldn't decide whether stoutness or hiding is the best way to survive a fight, so he made a spell that combines both.\n"
+"\n"
+"The caster of the Wildarmor spell is protected by intense fluctuations in the magical weave around him. This distortion bends the laws of probability to a point where it serves as protection against all forms of damage. For the duration of the spell there is a high probability that any direct attack done to the caster has as smaller effect than it should have; thus all damage intended for the caster is reduced by 20%. However, there is also a 50% chance that the attack distorts the magic field surrounding the caster, causing a wild surge.\n"
+"\n"
+"After the damage done by an attack was reduced, the spell renders the caster invisible to avert further damage. This invisibility lasts for 5 rounds, until dispelled, or until the caster attacks any creature.\n"
+"\n"
+"The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level."
+msgstr ""
+"Дикая броня Миса* (Иллюзия/Фантом)\n"
+"Уровень: 6\n"
+"Дистанция: 0\n"
+"Длительность: 5 раундов/уровень\n"
+"Время чтения: 4\n"
+"Зона действия: Заклинатель\n"
+"Спасбросок: Нет\n"
+"\n"
+"Это заклинание было создано гномом, диким магом Мисом Апкнотом, как средство магической защиты. Мис никак не мог решить, что лучше помогает выжить в бою - прочность или незаметность, поэтому он создал заклинание, сочетающее эти два эффекта.\n"
+"\n"
+"Прочитавший это заклинание окружает себя колебаниями в магическом плетении, с целью изменить законы вероятности и защитить мага от всех возможных форм урона. На протяжении всего срока действия заклинания существует высокая вероятность, что любая прямая атака на мага нанесет меньший урон, чем должна; таким образом, все повреждения наносимые заклинателю уменьшаются на 20%. Так же существует вероятность 50%, что атака нарушит поле, защищающее мага, что приведет к появлению дикой волны.\n"
+"\n"
+"После того как заклинателю был нанесен урон, срабатывает второй эффект, накладывающий на мага невидимость. Невидимость действует 5 раундов, пока не будет развеяна или пока маг не совершит действий отменяющих невидимость.\n"
+"\n"
+"Заклинание действует 5 раундов за каждый уровень заклинателя, до максимума в 2 часа на 20ом уровне."
+
+#: wildmage/tra/english/text.tra:30111
+msgid "1st level"
+msgstr "1-го уровня"
+
+#: wildmage/tra/english/text.tra:30112
+msgid "2nd level"
+msgstr "2-го уровня"
+
+#: wildmage/tra/english/text.tra:30113
+msgid "3rd level"
+msgstr "3-го уровня"
+
+#: wildmage/tra/english/text.tra:30114
+msgid "4th level"
+msgstr "4-го уровня"
+
+#: wildmage/tra/english/text.tra:30115
+msgid "5th level"
+msgstr "5-го уровня"
+
+#: wildmage/tra/english/text.tra:30116
+msgid "6th level"
+msgstr "6-го уровня"
+
+#: wildmage/tra/english/text.tra:30117
+msgid "7th level"
+msgstr "7-го уровня"
+
+#: wildmage/tra/english/text.tra:30118
+msgid "8th level"
+msgstr "8-го уровня"
+
+#: wildmage/tra/english/text.tra:30119
+msgid "9th level"
+msgstr "9-го уровня"
+
+#: wildmage/tra/english/text.tra:30120
+msgid "10th level"
+msgstr "10-го уровня"
+
+#: wildmage/tra/english/text.tra:30121
+msgid "You don't have any suitable spells memorized."
+msgstr "У вас в памяти нет подходящих заклинаний."
+
+#: wildmage/tra/english/text.tra:30122
+msgid "Wild Magic Backlash"
+msgstr "Откат дикой магии"
+
+#: wildmage/tra/english/text.tra:30301
+msgid "Shape Spell"
+msgstr "Сотворить заклинание"
+
+#: wildmage/tra/english/text.tra:30302
+msgid "Shaped Spell"
+msgstr "Сотворить заклинание"
+
+#: wildmage/tra/english/text.tra:40101
+msgid "Hand"
+msgstr "Ладонь"
+
+#: wildmage/tra/english/text.tra:40102
+msgid ""
+"As a Spellshaper you have the ability to release the raw magical energy of memorized spells and \"weave\" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.\n"
+"\n"
+"\n"
+"SPELLSHAPER:\n"
+"\n"
+"The spellshaper is a practitioner of wild magic who casts his spells by virtue of raw magical talent or gift, as opposed to a wild mage's academic, systematic approach.\n"
+"\n"
+"Spellshapers share the sorcerer's intuitive understanding for arcane magic. They memorize spells like a wizard, yet have a second resource at their disposal: A Spellshaper has the ability to \"weave\" raw magic energy into spell effects of his desire, without need of preparing those spells ahead of time. This talent is anything but unfailing, and using it on a regular basis requires as much luck as recklessness. Persons who use such a talent aren't very popular among conservative spellcasters.\n"
+"\n"
+"Unlike the sorcerer, the spellshaper may learn spells from scrolls, and memorize and cast them like a wizard. Being opportunists at heart, rarely a spellshaper renounces this relative reliable way of working magic. It's usually reserved for those protective and last-resort spells that really need to work, though. The spellshaper's talent to cast spells spontaneously is so convenient that he prefers to use it whenever possible.\n"
+"\n"
+"Neglecting conventional spellcasting, and focussing on chaotic wild magic doesn't come without a price: A spellshaper can't memorize as many spells as a true mage, and his progress in getting access to new spell levels is much slower.\n"
+"\n"
+"Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character.\n"
+"\n"
+"Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties.\n"
+"\n"
+"One of the spellshaper's more eccentric character-traits is that he refuses any training in the use of missile weapons; for ranged combat, a spellshaper uses magic, and if magic fails he prefers melee.\n"
+"\n"
+"Advantages:\n"
+"-  Wild Magic (Casting level up to +/- 5)\n"
+"-  THAC0 advancement close to rogue\n"
+"-  5 lore rating per level\n"
+"-  Weave Spell ability\n"
+"-  Weaveshear ability\n"
+"-  Shape Spell ability\n"
+"-  May learn combat-related 'feats'\n"
+"\n"
+"Disadvantages:\n"
+"-  Wild Magic (Casting level up to +/- 5)\n"
+"-  5% Chance for Wild Surge\n"
+"-  Much slower spell progression\n"
+"-  Less wizard spell slots\n"
+"-  Can't raise the number of spell slots\n"
+"-  -5 to hit and -2 damage with missiles\n"
+"-  May wear only one ring\n"
+"-  Alignment must be chaotic\n"
+msgstr ""
+"В качестве Творца заклинаний у вас есть возможность освобождать грубую магическую энергию запомненных заклинаний и \"вплетать\" ее в новые магические эффекты. Форма, которую может принять магическая сила ограничена только вашим воображением. Ношение кольца на этой руке не только препятствует вашему ремеслу, оно также нарушает поток магии, эффективно деформируя ваши способности плетения заклинаний.\n"
+"\n"
+"\n"
+"ТВОРЕЦ ЗАКЛИНАНИЙ:\n"
+"\n"
+"Творец заклинаний – это адепт дикой магии, который колдует, используя свой природный дар или талант к магии, в противоположность диким магам, практикующим академический, системный подход к колдовству.\n"
+"\n"
+"Творцам заклинаний, так же как и чародеям, свойственно интуитивное понимание волшебной магии. Им, так же как волшебникам, приходится запоминать заклинания, но у них про запас есть еще один туз в рукаве: без предварительного запоминания творец заклинаний может вызвать желаемый магический эффект просто «сплетая» «сырую» магическую энергию. Правда, последствия использования этого таланта могут быть непредсказуемы, так что постоянно к нему прибегают только безрассудные глупцы, слепо верящие в свою удачу. Среди поборников традиций они не пользуются большой популярностью.\n"
+"\n"
+"В отличие от чародеев, творец заклинаний может изучать новые заклинания по свиткам, запоминать и читать их так же, как волшебники. Поскольку разбрасываться такими возможностями противоречит характеру творцов заклинаний, они редко отказываются от этого надежного способа использования магии. Обычно они таким образом приберегают на самый крайний случай защитные или какие-то иные заклинания, которые должны сработать со стопроцентной гарантией. В остальное время их талант к чтению заклинаний без предварительной подготовки оказывается настолько удобен, что творцы заклинаний используют его при каждом удобном случае.\n"
+"\n"
+"За пренебрежение традиционным искусством чтения заклинаний и колдовство при помощи хаотичной дикой магии приходится платить свою цену: по сравнению с настоящим магом творец заклинаний запоминает меньшее их количество, а процесс получения им заклинаний следующего уровня значительно замедлен.\n"
+"\n"
+"Как правило, эти любители дикой магии отличаются изрядной эксцентричностью: своими неординарными способностями к практической магии они обязаны, прежде всего тому, что им неведомо понятие дисциплины, а постоянный контакт с хаосом дикой магии делает их и вовсе неуправляемыми. Подобно бардам творцы заклинаний интересуются всем на свете: благодаря своим способностям, творцы заклинаний знают кое-что практически обо всем, с чем им приходилось сталкиваться в жизни, однако им не хватает дисциплины для того, чтобы заняться чем-то всерьез, поэтому их познаниям не хватает глубины.\n"
+"\n"
+"Большинству творцов заклинаний хватает ума не полагаться целиком на свой опасный и непредсказуемый магический талант. Для того чтобы увеличить свои шансы на выживание они изучают приемы ближнего боя. Нельзя сказать, что они умеют сражаться, как настоящие воины, но их способности во владении таким оружием аналогичны способностям вора. С увеличением опыта творец заклинаний может изучить особые способности, которые еще больше развивают его технику боя: например, удар в спину (backstabbing), мастерское владение кинжалом (mastery in the dagger proficiency) и уникальное умение сражаться двумя видами оружия одновременно без вычета штрафных очков.\n"
+"\n"
+"Больше всего об эксцентричности творцов заклинаний свидетельствует их принципиальное нежелание тренироваться в использовании любого оружия дальнего боя. В подобных случаях они используют только магию, а если она не помогает, переводят схватку в рукопашную.\n"
+"\n"
+"Преимущества:\n"
+"-  Дикая магия (Уровень заклинателя ± 5)\n"
+"-  THAC0 прогрессирует почти как у воров\n"
+"-  5 к знаниям за уровень\n"
+"-  Способность \"Сплести заклинание\"\n"
+"-  Способность \"Рассекатель Плетения\"\n"
+"-  Способность \"Сотворить заклинание\"\n"
+"-  Может изучать связанные с боем особенности (фиты)\n"
+"\n"
+"Недостатки:\n"
+"-  Дикая магия (Уровень заклинателя ± 5)\n"
+"-  5%-й шанс Дикой Волны\n"
+"-  Значительно более медленная прогрессия заклинаний\n"
+"-  Меньше магических слотов для заклинаний\n"
+"-  Не может увеличить количество слотов для заклинаний (одеждой, предметами, т.д.)\n"
+"-  Шанс попасть стрелковым оружием -5, и -2 к урону\n"
+"-  Может носить только одно кольцо\n"
+"-  Мировоззрение должно быть хаотическое\n"
+"\n"
+
+#: wildmage/tra/english/text.tra:40201
+msgid "Skull Bomb"
+msgstr "Бомба-череп"
+
+#: wildmage/tra/english/text.tra:40202
+msgid ""
+"This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...\n"
+"\n"
+"STATISTICS:\n"
+"Casts the spell \"Skull Trap\" at caster-level 12\n"
+"\n"
+"Not Usable By:\n"
+" Non-chaotic alignments\n"
+" Wizard Slayer"
+msgstr ""
+"Этот странный череп возник у вас в инвентаре однажды ночью. Он настолько заряжен магической энергией, что почти взрывается. Вы готовы побиться об заклад, что это результат чьего-то провалившегося заклинания \"Ловушка черепа\". Вместо того чтобы летать на намеченной цели этот череп материализовался в вашем кармане. Вы понятия не имеете, как он до сих пор не взорвался, но к счастью этого не произошло. Лучше как можно скорее швырнуть его в какого-то неприятеля...\n"
+"\n"
+"ПОКАЗАТЕЛИ:\n"
+"Накладывает заклинание \"Ловушка Черепа\" с уровнем заклинателя 12\n"
+"\n"
+"Не может использоваться:\n"
+" Не хаотическими личностями\n"
+" Убийцей волшебников"
+
+#: wildmage/tra/english/text.tra:40301
+msgid "Dead Cat"
+msgstr "Дохлая кошка"
+
+#: wildmage/tra/english/text.tra:40302
+msgid "This appears to be a dead cat. It is extremely well preserved and looks as if it is sleeping."
+msgstr "Кажется это дохлая кошка. Она отлично сохранилась и выглядит так как будто спит."
+
+#: wildmage/tra/english/text.tra:40401
+msgid "Teddy Bear"
+msgstr "Плюшевый медвежонок"
+
+#: wildmage/tra/english/text.tra:40402
+msgid "Although this cute teddy bear looks quite old, it's still in good condition."
+msgstr "Несмотря на то, что этот милый плюшевый медвежонок выглядит довольно старым он все еще в хорошем состоянии."
+
+#: wildmage/tra/english/text.tra:40403
+msgid "Teddy Bear of Protection +2, +4 vs. Demons"
+msgstr "Плюшевый медвежонок Защиты +2, +4 против демонов"
+
+#: wildmage/tra/english/text.tra:40404
+msgid ""
+"Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'\n"
+"The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.\n"
+"\n"
+"Although Halycron spent much time for his son's safety and education in the arts of magic, he neglected to teach him the necessary discipline and precautionary measures. At the age of six, Halycron's son accidentally summoned a demon while his parents weren't at home. When Halcroyn and his wive returned, the house was burned down, and the babysitter devoured by the demon. In midst of the ruins, they found their son cowering under an almost unscathed table, tightly holding his beloved teddy bear.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Armor Class:  +2 bonus (+4 vs. Demons)\n"
+"Saving Throws:  +2 bonus (+4 vs. Demons)\n"
+"\n"
+"Not Usable By:\n"
+" Wizard Slayer"
+msgstr ""
+"Плюшевый медвежонок Защиты +2, +4 против демонов:  'Смельчак Пуки'\n"
+"Плюшевый медвежонок Защиты был создан архимагом Хелайкроном Мейролом для своего малолетнего сына.\n"
+"\n"
+"Кто бы ни держал его, предмет дает защиту подобную кольцу защиты +2.\n"
+"\n"
+"Хотя Хелайкрон посвятил большое количество времени безопасности и обучению своего сына искусству магии, он пренебрег обучением его необходимости дисциплины и предупредительных мер. В возрасте шести лет, сын Хелайкрона случайно вызвал демона, когда его родителей небыло дома. Когда Хелайкрон вернулся, весь дом был сожжен дотла, а няня сьедена демоном. Посреди руин они нашли сына, который сьежился под практически непострадавшим столом, сжимая в руках своего любимого плюшевого медвежонка.\n"
+"\n"
+"\n"
+"ПОКАЗАТЕЛИ:\n"
+"\n"
+"Класс брони: бонус +2 (+4 против демонов)\n"
+"Спасброски:  бонус +2 (+4 против демонов)\n"
+"\n"
+"Не может использоваться:\n"
+" Убийцей волшебников"
+
+#: wildmage/tra/english/text.tra:40501
+msgid "Rhialto's Spellbook"
+msgstr "Книга заклинаний Риалто"
+
+#: wildmage/tra/english/text.tra:40502
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+"Эта книга заклинаний когда-то принадлежала Риалто \"Изумительному\". Вы получили ее после его внезапной кончины.\n"
+"\n"
+"Хотя книга и в плохом состоянии - порванные страницы, безумная писанина и пятна повсюду, она по-прежнему излучает большое количество магической силы.\n"
+"\n"
+"Общая подборка заклинаний в этой книге довольно необычна, вы можете попытаться научиться, как накладывать некоторые из этих заклинаний.\n"
+"\n"
+"\n"
+"ПОКАЗАТЕЛИ:\n"
+"\n"
+"Не может использоваться:\n"
+" Убийцей волшебников"
+
+#: wildmage/tra/english/text.tra:40503
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"This book is as much a diary and a notebook as it is a spellbook. Although he clearly was a madman when you met him, Rhialto once must have been a genius; not only did he develop new spells, he also was obsessed with learning alternative ways of spellcasting, this is what led him to wild magic in the first place, and most likely caused his insanity in the end.\n"
+"\n"
+"Some of the pages are covered with mystic runes that may be used to invoke the spells inscribed on these pages - a convenient way to cast those spells instantly without having to memorize them. Only a small selection of the spells is prepared like this, though; seems like Rhialto found other ways to cast spells on demand.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"May be used once per day to cast one of the following spells:\n"
+" Armor\n"
+" Chaos Shield\n"
+" Dispel Magic\n"
+" Friends\n"
+" Gymlainac's Lightbend\n"
+" Horror\n"
+" Invisibility\n"
+" Larloch's Minor Drain\n"
+" Rhialto's Random Missiles\n"
+" Wizard Eye\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+"Эта книга заклинаний когда-то принадлежала Риалто \"Изумительному\". Вы получили ее после его внезапной кончины.\n"
+"\n"
+"Хотя книга и в плохом состоянии - порванные страницы, безумная писанина и пятна повсюду, она по-прежнему излучает большое количество магической силы.\n"
+"\n"
+"Эта книга в такой же степени дневник и записная книжка, как и книга заклинаний. Хотя он определенно и был психом в момент вашей встречи, но все же Риалто был гением; он не только разработал новые заклинания, но и был одержим изучением альтернативных способов волшбы, что, во-первых, привело его к дикой магии, и скорее всего, стало причиной его безумия, в конце концов.\n"
+"\n"
+"Некоторые страницы покрыты мистическими рунами, которые могли использоваться для активирования заклинаний вписанных на этих страницах - удобный способ накладывать эти заклинания мгновенно без необходимости их запоминания. Однако подобным способом подготовлена только небольшая подборка заклинаний; судя по всему Риалто нашел иные способы накладывать заклинания по требованию.\n"
+"\n"
+"Общая подборка заклинаний в этой книге довольно необычна, вы можете попытаться научиться, как накладывать некоторые из этих заклинаний.\n"
+"\n"
+"\n"
+"ПОКАЗАТЕЛИ:\n"
+"\n"
+"Может быть использована раз в день для наложения одного из следующих заклинаний:\n"
+" Броня\n"
+" Щит хаоса\n"
+" Рассеять магию\n"
+" Друзья\n"
+" Светоискривление Гимлейнака\n"
+" Ужас\n"
+" Невидимость\n"
+" Малое иссушение Ларлока\n"
+" Случайные снаряды Риалто\n"
+" Глаз мага\n"
+"\n"
+"Может использоваться только:\n"
+" Диким магом"
+
+#: wildmage/tra/english/text.tra:40511
+msgid "Read"
+msgstr "Прочитать"
+
+#: wildmage/tra/english/text.tra:50101
+msgid "Rhialto the Marvelous"
+msgstr "Риалто Изумительный"
+
+#: wildmage/tra/english/text.tra:50102
+msgid "Rhialto"
+msgstr "Риалто"
+
+#: wildmage/tra/english/text.tra:50111
+msgid "Wild Surge: Caster changed into a squirrel"
+msgstr "Дикая Волна: Заклинатель превратился в белку"
+
+#: wildmage/tra/english/text.tra:69998
+msgid "Letter"
+msgstr "Письмо"
+
+#: wildmage/tra/english/text.tra:69999
+msgid ""
+"My dear friend Gorion,\n"
+"\n"
+"be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.\n"
+"\n"
+"E."
+msgstr ""
+"Мой дорогой друг Горайон,\n"
+"\n"
+"Будь осторожен во время поездки, в окрестностях стен Кэндлкипа ошивается какой-то дикий маг. Его намерения мне неизвестны; не мешкай, как только покинешь обитель.\n"
+"\n"
+"Э."

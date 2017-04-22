@@ -1,0 +1,2076 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-1-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: tra2po v.1.0.2\n"
+
+#: wildmage/tra/english/setup.tra:2
+msgid "Wild Mage Additions: Spellshaper Kit"
+msgstr "Dodatek do Dzikiego Maga: Podklasa Spellshaper"
+
+#: wildmage/tra/english/setup.tra:3
+msgid "Wild Mage Additions: Spellshaper - Avatar Change"
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:4
+msgid "Misc spell modifications"
+msgstr "Niewielkie Zmiany w Czarach"
+
+#: wildmage/tra/english/setup.tra:5
+msgid "Stationary BG1-Rhialto (haughty pansy mode)"
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:10
+msgid "TOB is required to install this mod."
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:20
+msgid "You must have \"New Wild Magic Spells\" installed!"
+msgstr "Musisz miec zainstalowane \"Nowe Czary Dzikiej Magii\" !"
+
+#: wildmage/tra/english/setup.tra:30
+msgid "You must have \"Spellshaper Kit\" installed!"
+msgstr ""
+
+#: wildmage/tra/english/dialog.tra:0
+msgid "You open Rhialto's spellbook for the first time. It's an insane mess of random notes, illegible scribble and childish drawings; all over smeared with blood, bile and some other stuff you can't (and don't even want to) recognize. Amazingly, some of the spell entries are still legible."
+msgstr "Otwierasz księgę czarów Rhialto po raz pierwszy. Panuje w niej niesamowity nieład, pełno przypadkowych notatek, nieczytelnych zapisków i dziecinnych rysunków; cała jest wysmarowana krwiš, żółciš i czym innym czego nie możesz (i nawet nie chcesz) zidentyfikować. Co zadziwiajšce, niektóre zapisane czary sš wcišż czytelne."
+
+#: wildmage/tra/english/dialog.tra:1
+msgid "Again you risk a look into Rhialto's spellbook. You carefully separate two sheets that were stuck together, just to discover a nasty drawing of an old sage with long beard and pointy hat, that seems to glare longingly at something that looks like a petrified goat."
+msgstr "Ponownie decydujesz się na rzut oka w księgę czarów Rhialto. Ostrożnie rozdzielasz dwie karty zlepione ze sobš, tylko po to by odkryć paskudny rysunek starego mędrca z długš brodš i szpiczastym kapeluszem, który wyglšda jakby się wpatrywał z pożšdaniem na co co wyglšda jak spertyfikowany kozioł."
+
+#: wildmage/tra/english/dialog.tra:2
+msgid "You open the spellbook at a random page and notice some scribble you haven't seen before: \"<CHARNAME>, keep your dirty hands off my spellbook!\""
+msgstr "Otwierasz księgę na losowej stronie i zauważasz notkę której przedtem najwyraniej tu nie było: \"<CHARNAME>, trzymaj swoje brudne ręce z dala od mojej księgi!\""
+
+#: wildmage/tra/english/dialog.tra:3
+msgid "When you open Rhialto's spellbook, one of the pages comes loose and falls out."
+msgstr "Kiedy otwierasz księgę czarów Rhialto jedna ze stron odkleja się i wypada."
+
+#: wildmage/tra/english/dialog.tra:4
+msgid "Rhialto's spellbook is still a mess, and his mind must have been quite the same; you wonder if the same madness could affect you, when you continue to read his writings."
+msgstr "Księga Rhialto wcišż jest w strasznym nieładzie i jego umysł musiał być podobny; Zastnawiasz się czy takie samo szaleństwo może dotknšć i ciebie, jeżeli nie przestaniesz czytać jego zapisków."
+
+#: wildmage/tra/english/dialog.tra:5
+msgid "Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile you're getting used to it."
+msgstr "Znów otwierasz księgę czarów Rhialto, wcišż jest w wielkim nieładzie, ale z biegiem czasu zdšżyłe się do tego przyzwyczaić."
+
+#: wildmage/tra/english/dialog.tra:6
+msgid "You continue to study Rhialto's spellbook."
+msgstr "Studiujesz dalej księgę czarów Rhialto."
+
+#: wildmage/tra/english/dialog.tra:7
+msgid "Rhialto may have been insane, but his knowledge was great indeed."
+msgstr "Może i Rhialto był szalony, lecz jego wiedza była rzeczywicie ogromna"
+
+#: wildmage/tra/english/dialog.tra:8
+msgid "Although you're sure that you've learned every spell from this this spellbook, you still feel the strong urge to risk another look."
+msgstr "Mimo iż jeste pewien że nauczyłe się już każdego czaru z księgi, wcišż czujesz potrzebę spojrzenia na jej karty raz jeszcze."
+
+#: wildmage/tra/english/dialog.tra:9
+msgid "When you open Rhialto's spellbook again, it crumbles to dust."
+msgstr "Kiedy otwierasz księgę czarów Rhialto, rozpada się na drobny pył."
+
+#: wildmage/tra/english/dialog.tra:10
+msgid "Study the spellbook for a while, and see if you can learn something new."
+msgstr "Studiujesz księgę przez chwile i widzisz że być może możesz się nauczyć czego nowego."
+
+#: wildmage/tra/english/dialog.tra:11
+msgid "Close the book."
+msgstr "Zamknij księgę."
+
+#: wildmage/tra/english/dialog.tra:12
+msgid "When you examine this strange spell closer, it proves to be utterly useless. No point in learning it."
+msgstr "Kiedy badasz ten dziwny czar dokładniej, okazuje się kompletnie bezużyteczny. Nie ma sensu się go uczyć."
+
+#: wildmage/tra/english/dialog.tra:13
+msgid "You spend some time, browsing trough the book..."
+msgstr "Spędzasz trochę czasu przeglšdajšc księgę..."
+
+#: wildmage/tra/english/dialog.tra:14
+msgid "You found something of interest."
+msgstr "Znajdujesz co interesujšcego."
+
+#: wildmage/tra/english/dialog.tra:15
+msgid "You find nothing new."
+msgstr "Nie znajdujesz nic nowego."
+
+#: wildmage/tra/english/dialog.tra:16
+msgid "You try to learn the spell, but it's too difficult, you need more experience in the art before you can learn it."
+msgstr "Próbujesz się nauczyć czaru, lecz jest zbyt trudny do opanowania, potrzebujesz więcej dowiadczenia w Sztuce zanim będziesz się go w stanie nauczyć."
+
+#: wildmage/tra/english/dialog.tra:17
+msgid "You succeed in learning the spell."
+msgstr "Zdołałe się nauczyć czaru."
+
+#: wildmage/tra/english/dialog.tra:18
+msgid "As much as you try to concentrate, you read a line and forget it in the same moment; as if someone powerful wipes it from your memory. Obviously someone doesn't want you to know this spell."
+msgstr "Starasz sie skoncentrować, lecz jak bardzo być nie był skupiony po przeczytaniu jednej linii natychmiast jš zapominasz; zupełnie jakby kto potężny wymazywał to z Twojej pamięci. Wydaje się oczywiste że kto nie chce by poznał ten czar."
+
+#: wildmage/tra/english/dialog.tra:19
+msgid "You close the book."
+msgstr "Zamknij księgę."
+
+#: wildmage/tra/english/dialog.tra:20
+msgid "Try to learn the spell \"Random Spell I\"."
+msgstr "Spróbuj nauczyć się czaru \"Losowy Czar I\"."
+
+#: wildmage/tra/english/dialog.tra:21
+msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
+msgstr "Spróbuj nauczyć się czaru \"Przewód Chaosu Rhialto\"."
+
+#: wildmage/tra/english/dialog.tra:22
+msgid "Try to learn the spell \"Rodent Form\"."
+msgstr "Spróbuj nauczyć się czaru \"Przemiana w gryzonia\"."
+
+#: wildmage/tra/english/dialog.tra:23
+msgid "Try to learn the spell \"Blade Shower\"."
+msgstr "Spróbuj nauczyć się czaru \"Deszcz Ostrzy\"."
+
+#: wildmage/tra/english/dialog.tra:24
+msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
+msgstr "Spróbuj nauczyć się czaru \"Losowe Pociski Rhialto\"."
+
+#: wildmage/tra/english/dialog.tra:25
+msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
+msgstr "Spróbuj nauczyć się czaru \"Zagięcie wiatła Gymlainaca\"."
+
+#: wildmage/tra/english/dialog.tra:26
+msgid "Try to learn the spell \"Vile Word of Discord\"."
+msgstr "Spróbuj nauczyć się czaru \"Nikczemne Słowo Niezgody\"."
+
+#: wildmage/tra/english/dialog.tra:27
+msgid "Try to learn the spell \"Cellular Regeneration\"."
+msgstr "Spróbuj nauczyć się czaru \"Komórkowa Regeneracja\"."
+
+#: wildmage/tra/english/dialog.tra:28
+msgid "Try to learn the spell \"Glyph of Wild Magic\"."
+msgstr "Spróbuj nauczyć się czaru \"Glif z Dzikiej Magii\"."
+
+#: wildmage/tra/english/dialog.tra:29
+msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
+msgstr "Spróbuj nauczyć się czaru \"Promień Szczęcia Paithana\"."
+
+#: wildmage/tra/english/dialog.tra:30
+msgid "Try to learn the spell \"Vortex\"."
+msgstr "Spróbuj nauczyć się czaru \"Wir\"."
+
+#: wildmage/tra/english/dialog.tra:31
+msgid "Try to learn the spell \"Paithan's Fiasco\"."
+msgstr "Spróbuj nauczyć się czaru \"Fiasko Paithana\"."
+
+#: wildmage/tra/english/dialog.tra:32
+msgid "Try to learn the spell \"Wildstrike\"."
+msgstr "Spróbuj nauczyć się czaru \"Dzikie Czarowanie\"."
+
+#: wildmage/tra/english/dialog.tra:33
+msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
+msgstr "Spróbuj nauczyć się czaru \"Losowe Odesłanie Hornunga\"."
+
+#: wildmage/tra/english/dialog.tra:34
+msgid "Try to learn the spell \"Summon Cow\"."
+msgstr "Spróbuj nauczyć się czaru \"Przywołanie Krowy\"."
+
+#: wildmage/tra/english/dialog.tra:35
+msgid "Try to learn the spell \"Eye of the Beholder\"."
+msgstr "Spróbuj nauczyć się czaru \"Oko Obserwatora\"."
+
+#: wildmage/tra/english/dialog.tra:36
+msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
+msgstr "Spróbuj nauczyć się czaru \"Dzikie Przypomnienie Mynoca\"."
+
+#: wildmage/tra/english/dialog.tra:37
+msgid "Try to learn the spell \"Entropy Shield\"."
+msgstr "Spróbuj nauczyć się czaru \"Tarcza Entropii\"."
+
+#: wildmage/tra/english/dialog.tra:38
+msgid "Try to learn the spell \"Wild Sphere\"."
+msgstr "Spróbuj nauczyć się czaru \"Dzika Sfera\"."
+
+#: wildmage/tra/english/dialog.tra:39
+msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
+msgstr "Spróbuj nauczyć się czaru \"Reinkarnacja Rhialto Cudownego\"."
+
+#: wildmage/tra/english/dialog.tra:40
+msgid "Try to learn the spell \"Rhialto's Avatar\"."
+msgstr "Spróbuj nauczyć się czaru \"Avatar Rhialto\"."
+
+#: wildmage/tra/english/dialog.tra:41
+msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
+msgstr "Spróbuj nauczyć się czaru \"Nieodparty Urok Mynoca\"."
+
+#: wildmage/tra/english/dialog.tra:42
+msgid "Try to learn the spell \"Summon Wild Horde\"."
+msgstr "Spróbuj nauczyć się czaru \"Przywołanie Dzikiej Hordy\"."
+
+#: wildmage/tra/english/dialog.tra:43
+msgid "Try to learn the spell \"Random Spell II\"."
+msgstr "Spróbuj nauczyć się czaru \"Losowy Czar II\"."
+
+#: wildmage/tra/english/dialog.tra:44
+msgid "Try to learn the spell \"Corporeal Instability\"."
+msgstr "Spróbuj nauczyć się czaru \"Cielesna Niestabilnoć\"."
+
+#: wildmage/tra/english/dialog.tra:45
+msgid "Try to learn the spell \"Random Spell III\"."
+msgstr "Spróbuj nauczyć się czaru \"Losowy Czar III\"."
+
+#: wildmage/tra/english/dialog.tra:46
+msgid "Try to learn the spell \"Meece's Wild Armour\"."
+msgstr "Spróbuj nauczyć się czaru \"Dziki Pancerz Meece\"."
+
+#: wildmage/tra/english/dialog.tra:47
+msgid "Try to learn the spell \"Random Spell IV\"."
+msgstr "Spróbuj nauczyć się czaru \"Losowy Czar IV\"."
+
+#: wildmage/tra/english/dialog.tra:48
+msgid "Try to learn the spell \"Entropy Burst\"."
+msgstr "Spróbuj nauczyć się czaru \"Wybuch Entropii\"."
+
+#: wildmage/tra/english/dialog.tra:49
+msgid "Try to learn the spell \"Wildfire\"."
+msgstr "Spróbuj nauczyć się czaru \"Dziki Czar\"."
+
+#: wildmage/tra/english/dialog.tra:100
+msgid "Well, well, well... What do we have here?  Greetings, young one, No doubt you're honored to meet Rhialto the Marvelous."
+msgstr "No, no, no... Co my tu mamy? Witaj młodzieńcze, bez wštpienia masz zaszczyt spotkać Rhialto Cudownego."
+
+#: wildmage/tra/english/dialog.tra:101
+msgid "Ah yes, you are perfect. Be honored, young one, for your existence now has a purpose: Rhialto the Marvelous needs your spleen."
+msgstr "Ach tak, będziesz doskonały. Bšd zaszczycony, młodzieńcze, gdyż twa egzystencja nagle zyskała sens: Rhualto Cudowny potrzebuje twojej ledziony."
+
+#: wildmage/tra/english/dialog.tra:102
+msgid "It will be the final component for the greatest spell that was worked since, well, since ever!!!  Of course, it needs to be extracted while you're still alive, otherwise it would be worthless as an ingredient."
+msgstr "To będzie ostateczny składnik do największego czaru jaki został opracowany od czasu, cóż, od zawsze!!!  Oczywicie musi być pozyskana gdy jeszcze żyjesz, w przeciwnym wypadku była by bezużyteczna jako składnik."
+
+#: wildmage/tra/english/dialog.tra:103
+msgid "But it won't be too painful... Well, at least it won't take too long.  Rhialto the Marvelous is a very experienced surgeon, it will only take an hour or two..."
+msgstr "Nie martw się nie będzie bolało za bardzo... Cóż, a przynajmniej nie potrwa długo. Rhialto Cudowny jest dowiadczonym chirurgiem, to zajmie tylko godzine lub dwie..."
+
+#: wildmage/tra/english/dialog.tra:110
+msgid "So we meet again... You seem to have grown more self-confident since Rhialto the Marvelous had his little accident. It is just fitting that you, who caused his downfall by your insolent resistance, brought Rhialto back to life."
+msgstr "A więc spotykamy się ponownie... Wyrosłe na bardziej pewnego siebie od kiedy Rhialto Cudowny miał swój mały wypadek przy pracy. To znamienne że ty, który spowodowałe jego upadek przez swój bezczelny opór, przywracasz Rhialto spowrotem do życia."
+
+#: wildmage/tra/english/dialog.tra:111
+msgid "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!"
+msgstr "Lecz by to zrobić musiałe przeczytać księgę Rhialto. A żeby jš dostać musiałe wzišć jš z jego trupa. Rhialto Cudowny nie lubi być dotykany!!!"
+
+#: wildmage/tra/english/dialog.tra:200
+msgid "Select a Special Ability\n"
+msgstr "Wybierz Umiejętnoć Specjalnš\n"
+
+#: wildmage/tra/english/dialog.tra:201
+msgid "Ambidexterity (1st Rank)"
+msgstr "Dwuręcznoć (1 stopień)"
+
+#: wildmage/tra/english/dialog.tra:202
+msgid "Ambidexterity (2nd Rank)"
+msgstr "Dwuręcznoć (2 stopień)"
+
+#: wildmage/tra/english/dialog.tra:203
+msgid "Backstabbing (x2)"
+msgstr "Sztyletowanie (x2)"
+
+#: wildmage/tra/english/dialog.tra:204
+msgid "Backstabbing Adept (x3)"
+msgstr "Sztyletowanie: Adept (x3)"
+
+#: wildmage/tra/english/dialog.tra:205
+msgid "Backstabbing Expert (x4)"
+msgstr "Sztyletowanie: Ekspert (x4)"
+
+#: wildmage/tra/english/dialog.tra:206
+msgid "Backstabbing Master (x5)"
+msgstr "Sztyletowanie: Mistrz (x5)"
+
+#: wildmage/tra/english/dialog.tra:207
+msgid "Combat Speed"
+msgstr "Bojowa Prędkoć"
+
+#: wildmage/tra/english/dialog.tra:208
+msgid "Dagger Specialization"
+msgstr "Specjalizacja w Sztyletach"
+
+#: wildmage/tra/english/dialog.tra:209
+msgid "Dagger Mastery"
+msgstr "Mistrzostwo w Sztyletach"
+
+#: wildmage/tra/english/dialog.tra:210
+msgid "Improved Criticals"
+msgstr "Ulepszone Trafienia krytyczne"
+
+#: wildmage/tra/english/dialog.tra:211
+msgid "Toughness"
+msgstr "Wytrzymałoć"
+
+#: wildmage/tra/english/dialog.tra:212
+msgid "Vicious hits"
+msgstr "Okrutne Ciosy"
+
+#: wildmage/tra/english/dialog.tra:213
+msgid "Rogue High Level Ability: \"Assassination\""
+msgstr "Wysokopoziomowa Umiejętnoć Łotrzyka: \"Zabójstwo\""
+
+#: wildmage/tra/english/dialog.tra:214
+msgid "Rogue High Level Ability: \"Avoid Death\""
+msgstr "Wysokopoziomowa Umiejętnoć Łotrzyka: \"Uniknięcie mierci\""
+
+#: wildmage/tra/english/dialog.tra:215
+msgid "Rogue High Level Ability: \"Evasion\""
+msgstr "Wysokopoziomowa Umiejętnoć Łotrzyka:  \"Unik\""
+
+#: wildmage/tra/english/dialog.tra:216 wildmage/tra/english/text.tra:30101
+msgid "Weave Spell"
+msgstr "Tkanie Czaru"
+
+#: wildmage/tra/english/dialog.tra:217 wildmage/tra/english/text.tra:30201
+msgid "Weaveshear"
+msgstr "Rozerwanie Struktur"
+
+#: wildmage/tra/english/dialog.tra:220
+msgid "You don't know exactly what just happened, but in the heat of battle you somehow managed to cast a spell spontaneously."
+msgstr "Nie wiesz jak to się dokładnie stało, ale w ferworze walki jakim sposobem spontanicznie udało ci się rzucić czar."
+
+#: wildmage/tra/english/dialog.tra:221
+msgid "Now you feel a strange wave of magical power rising within you. Whatever is happening, somehow you feel that if you yield to it, you will be changed forever."
+msgstr "Czujesz teraz dziwnš falę magicznej energii wzbierajšcš w tobie. Cokolwiek się dzieje, w pewien sposób czujesz że jeli poddasz się tej dziwnej mocy, będziesz zmieniony na zawsze."
+
+#: wildmage/tra/english/dialog.tra:222
+msgid "Embrace this new power."
+msgstr "Przyjmij tš nowš moc."
+
+#: wildmage/tra/english/dialog.tra:223
+msgid "Try to suppress it."
+msgstr "Spróbuj jš stłumić."
+
+#: wildmage/tra/english/dialog.tra:224
+msgid "Whatever that was, you were strong enough to suppress it."
+msgstr "Cokolwiek to było, byłe na tyle silny, że zdołałe to stłumić."
+
+#: wildmage/tra/english/dialog.tra:225
+msgid "A surge of chaotic energy overwhelms you."
+msgstr "Gwałtowna fala chaotycznej energii przygniata cię."
+
+#: wildmage/tra/english/dialog.tra:230
+msgid "When you give in to the surge of magical power, you feel that your understanding of the magical Weave changes."
+msgstr "Kiedy przyjmujesz falę magicznej energii, czujesz że twoje zrozumienie struktur magii zmieniło się."
+
+#: wildmage/tra/english/dialog.tra:231
+msgid "Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic."
+msgstr "Spróbowałe pojšć chaos otaczajšcy cię, podporzšdkowujšc go twej woli, czerpišc siłę z nieobliczalnoci, niestałoci i cišgłego ruchu dzikiej magii."
+
+#: wildmage/tra/english/dialog.tra:232
+msgid "Now you feel a close relation to the Weave. You now are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr "Teraz czujesz bliskoć ze strukturš magii. Jeste teraz w stanie okiełznać jš, ukształtować , \"utkać\" jš w cokolwiek sobie wyobrazisz."
+
+#: wildmage/tra/english/text.tra:10101
+msgid "Wild Magic"
+msgstr "Dzika Magia"
+
+#: wildmage/tra/english/text.tra:10201
+msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
+msgstr "Dzika Magia sprawiła że twoje sny stały się rzeczywistociš. (Cokolwiek by to oznaczało...)"
+
+#: wildmage/tra/english/text.tra:10301
+msgid "THAC0 Reduced by 1"
+msgstr "TRAK0 obniżone o 1"
+
+#: wildmage/tra/english/text.tra:10302
+msgid "Backstab Multiplier Increased by 1"
+msgstr "Modyfikator Obrażeń od Ciosu w Plecy Zwiększony o 1"
+
+#: wildmage/tra/english/text.tra:10303
+msgid "Dagger Proficiency raised to 2 (Specialized)"
+msgstr "Poziom biegłoci w Sztyletach zwiększony do 2 (Specjalizacja)"
+
+#: wildmage/tra/english/text.tra:10304
+msgid "Dagger Proficiency raised to 3 (Master)"
+msgstr "Poziom biegłoci w Sztyletach zwiększony do 3 (Mistrz)"
+
+#: wildmage/tra/english/text.tra:10305
+msgid "Gained Ambidexterity (1st Rank)"
+msgstr "Uzyskujesz Dwuręcznoć (1 stopień)"
+
+#: wildmage/tra/english/text.tra:10306
+msgid "Raised Ambidexterity to 2nd Rank"
+msgstr "Uzyskujesz Dwuręcznoć (2 stopień)"
+
+#: wildmage/tra/english/text.tra:10307
+msgid "Gained +1 Melee Damage Bonus"
+msgstr "Uzyskujesz +1 do obrażeń w walce wręcz"
+
+#: wildmage/tra/english/text.tra:10308
+msgid "Gained 20% Hitpoint Bonus"
+msgstr "Uzyskujesz bonus 20% do Punktów Życia"
+
+#: wildmage/tra/english/text.tra:10309
+msgid "Attacks per round raised by 1"
+msgstr "Uzyskujesz dodatkowy atak na rundę"
+
+#: wildmage/tra/english/text.tra:10310
+msgid "Critical Hit Range increased by 1"
+msgstr "Zakres zagrożenia ciosem krytycznym zwiększony o 1"
+
+#: wildmage/tra/english/text.tra:20101
+msgid "Rhialto's Chaos Conduit"
+msgstr "Przewód Chaosu Rhialto"
+
+#: wildmage/tra/english/text.tra:20102
+msgid ""
+"Rhialto's Chaos Conduit* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2 rounds\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"You found this strange spell in Rhialto's spellbook. Rhialto spent decades with his research on wild magic, and in the end created this spell that allowed him to learn a new way of spellcasting.\n"
+"\n"
+"Rhialto's Chaos Conduit establishes a link between the caster and the chaotic plane of Limbo, and then channels raw chaotic energy right into the caster. The purpose of this process is to open the caster's mind for a different kind of spellcasting.\n"
+"\n"
+"Although the spell's invocation is easy enough to make it available as a 1st level spell, its inner structure is incredible complex and would be appropriate for a spell of 9th, 10th or even higher level. The spell's chaotic nature might partly be responsible for this strange discrepancy.\n"
+"\n"
+"The spell can be cast only once and its effect is irrevocable. The caster's spellcasting capabilities are permanently changed towards a more intuitive way, and the same happens to his personality.\n"
+"\n"
+"These changes don't come from the spell itself, though. Rhialto's Chaos Conduit only frees and amplifies tendencies and interests that are already there. Persons that aren't interested in the gifts this spell has to offer, would be immune against its effects. However, such persons wouldn't even think of casting a spell like this in the first place.\n"
+"\n"
+"No matter if you actually think about casting this spell or not, one thing you know for sure: if you dare to cast the spell, it will change you forever."
+msgstr ""
+"Przewód Chaosu Rhialto* (Przemiany)\n"
+"Poziom: 1\n"
+"Zasięg: 0\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucania: 2 rundy\n"
+"Obszar działania: rzucajšcy\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Znalazłe ten dziwny czar w księdze czarów Rhialto. Spędził on dekady na badaniach nad dzikš magiš, i na końcu stworzył ten czar, który pozwolił mu opanować nowy sposób rzucania czarów.\n"
+"\n"
+"Przewód Chaosu Rhialto nawišzuje wię między rzucajšcym a strefš chaosu Limbo, następnie ukierunkowuje surowš, chaotycznš energię wprost na maga. Przeznaczeniem tego zabiegu jest otwarcie umysłu rzucajšcego na inny sposób rzucania czarów.\n"
+"\n"
+"Mimo iż recytacja jest wystarczajšco łatwa by mogła być dostępna jako czar 1 poziomu, jego wewnętrzna struktura jest nieprawdopodobnie skomplikowana i byłaby odpowiednia dla czarów 9, 10 lub nawet wyższych poziomów. Chaotyczna natura czaru może być częciowo odpowiedzialna za tš dziwnš rozbieżnoć.\n"
+"\n"
+"Czar może zostać rzucony tylko raz, a jego efekt jest nieodwracalny. Zdolnoci rzucania czaru maga zmieniajš się na stałe w stronę bardziej intuicyjnš, to samo dzieje się z jego osobowociš.\n"
+"\n"
+"Te zmiany nie sš jednakże efektem samego czaru. Przewód Chaosu Rhialto jedynie uwalnia i wzmacnia tendencje i cele, które już w magu sš. Osoba która nie jest zainteresowana darem jaki daje ten czar będzie odporna na jego efekt. Jednakże taka osoba po pierwsze nie mylała by nawet o rzucaniu czaru takiego jak ten.\n"
+"\n"
+"Bez względu na to czy mylisz o rzuceniu tego czaru czy nie, bšd pewien jednej rzeczy: Jeli omielisz się go rzucić, zmieni cię on na zawsze."
+
+#: wildmage/tra/english/text.tra:20103
+msgid "Spellshaper"
+msgstr "Spellshaper"
+
+#: wildmage/tra/english/text.tra:20111
+msgid "After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr "Kiedy rzuciłe ten czar, czujesz że twoje zrozumienie tworzenia magii zmieniło się. Spróbowałe pojšć chaos otaczajšcy cię, podporzšdkowujšc go twej woli, czerpišc siłę z nieobliczalnoci, niestałoci i cišgłego ruchu dzikiej magii. Jeste teraz w stanie okiełznać struktury magii, ukształtować jš, \"utkać\" jš w cokolwiek sobie wyobrazisz."
+
+#: wildmage/tra/english/text.tra:20112
+msgid "You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream."
+msgstr "Czujesz także, że czar ten zmienił więcej niż jedynie twoje zdolnoci do rzucania czarów. Czujesz jakby czar uwolnił głęboko ukrytš częć twojej wiadomoci. Jest w tobie więcej indywidualizmu, tolerancji, ciekawoci, lecz także mniej dyscypliny i pilnoci, pojawił się brak zaufania do władzy. Jednak uczucie wydaje się znajome, jakby zawsze tam było i teraz zostało ujawnione. To nie uczucie zmiany, lecz bardziej ostatecznego przebudzenia po długim nie."
+
+#: wildmage/tra/english/text.tra:20201
+msgid "Rodent Form"
+msgstr "Przemiana w gryzonia"
+
+#: wildmage/tra/english/text.tra:20202
+msgid ""
+"Rodent Form* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points against normal weapons, and 4 points against missile weapons. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.\n"
+"\n"
+"Hopefully, the current revision of this spell does NOT change the caster's personality or mentality."
+msgstr ""
+"Przemiana w gryzonia* (Przemiany)\n"
+"Poziom: 1\n"
+"Zasięg: 0\n"
+"Czas działania: 1 tura\n"
+"Czas rzucania: 1\n"
+"Obszar działania: rzucajšcy\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Czar ten przemienia rzucajšcego w słodkš małš wiewiórkę. Ze względu na mały rozmiar gryzonia otrzymuje premie do Klasy Pancerza +2 w walce wręcz i +4 przeciw pociskom. W przeciwieństwie do innych polimorficznych czarów rzucajšcy zachowuje swoje umiejętnoci rzucania czarów w formie gryzonia.\n"
+"\n"
+"Obecna wersja czaru NIE POWINNA wpłynšć na osobowoć i mentalnoć rzucajšcego."
+
+#: wildmage/tra/english/text.tra:20211
+msgid "One of my spells has changed!"
+msgstr "Jeden z moich czarów się zmienił!"
+
+#: wildmage/tra/english/text.tra:20212
+msgid "Learned new spell: Ratatosk Shape"
+msgstr "Nauczyłe się nowego czaru: Przemiana w Ratatoska"
+
+#: wildmage/tra/english/text.tra:20301
+msgid "Ratatosk Shape"
+msgstr "Przemiana w Ratatoska"
+
+#: wildmage/tra/english/text.tra:20302
+msgid ""
+"Ratatosk Shape* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.\n"
+"\n"
+"Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points against normal weapons, and 5 points against missile weapons. The caster's dexterity is also raised by four points for the duration of the spell. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.\n"
+"\n"
+"The caster also gets some of the Ratatosk's fighting abilities for the duration of the spell: One additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.\n"
+"\n"
+"Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active."
+msgstr ""
+"Przemiana w Ratatoska* (Przemiany)\n"
+"Poziom: 1\n"
+"Zasięg: 0\n"
+"Czas działania: 1 tura\n"
+"Czas rzucania: 1\n"
+"Obszar działania: rzucajšcy\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Ratatoski sš jednš z ras rozumnych wiewiórek-wojowników charakterystycznych dla Yggdrasil, Jesionu wiata, wielkiego boskiego drzewa, którego gałęzie i korzenie spowijajš całe zewnętrzne kręgi.\n"
+"\n"
+"Po rzuceniu czaru, mag przechodzi transformacje w jednego z tych malutkich stworzonek. Ze względu na mały rozmiar gryzonia otrzymuje premie do Klasy Pancerza +3 w walce wręcz i +5 przeciw pociskom. Zręcznoć rzucajšcego zwiększa się o 4 punkty na czas trwania czaru. Ewentualne bonusy do klasy pancerza ze względu na wysokš zręcznoć sš dodawane do tych pochodzšcych od rozmiaru.\n"
+"\n"
+"Rzucajšcy otrzymuje także niektóre umiejętnoci bojowe Ratatoska na czas trwania czaru: Dodatkowy atak na rundę, pazurki traktowane jako broń +5 pod każdym względem za wyjštkiem obrażeń. Pazurki zadajš 1k4+1 obrażeń siecznych.\n"
+"\n"
+"W przeciwieństwie do innych polimorficznych czarów rzucajšcy zachowuje swoje umiejętnoci rzucania czarów w formie Ratatoska"
+
+#: wildmage/tra/english/text.tra:20401
+msgid "Random Spell I"
+msgstr "Losowy Czar I"
+
+#: wildmage/tra/english/text.tra:20402
+msgid ""
+"Random Spell I* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Losowy Czar I* (Inwokacje/Wywołania)\n"
+"Poziom: 1\n"
+"Zasięg: 40 jardów\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucania: 1\n"
+"Obszar działania: specjalny\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Ten ryzykowny czar korzysta z chaosu magii w celu uformowania magicznej energiiw czar potężniejszy niż dziki mag mógłby normalnie rzucić. Losowy Czar I ma efekt losowo wybranego czaru z czarów 2 i 3 poziomu.\n"
+"\n"
+"Rzucajšcy wybiera jednš istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucajšcego czar.\n"
+"\n"
+"Zaletš Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadš jest fakt iż rzucajšcy nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy."
+
+#: wildmage/tra/english/text.tra:20501
+msgid "Blade Shower"
+msgstr "Deszcz Ostrzy"
+
+#: wildmage/tra/english/text.tra:20502
+msgid ""
+"Blade Shower* (Conjuration)\n"
+"Level: 2\n"
+"Range: 40 yards\n"
+"Duration: 3 rounds/5 levels\n"
+"Casting Time: 1\n"
+"Area of Effect: 1-25 creatures\n"
+"Saving Throw: Special\n"
+"\n"
+"The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.\n"
+"\n"
+"Each single dagger does 1d4 points of piercing damage. At level 5, the daggers are considered as +1 weapons for determining damage bonus and if a creature can be struck. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.\n"
+"\n"
+"The daggers, being made of raw chaos stuff, bypass all physical and magical defenses and thus always strike the target. Nonetheless, the the caster must make an attack roll for each single dagger to determine a critical miss or hit. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic."
+msgstr ""
+"Deszcz Ostrzy* (Przywołania)\n"
+"Poziom: 2\n"
+"Zasięg: 40 jardów\n"
+"Czas działania: 3 rundy/5 poziomów\n"
+"Czas rzucania: 1\n"
+"Obszar działania: 1-25 istot\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Czar tworzy zestaw magicznych sztyletów które unoszš się w powietrzu dopóki nie zostanš wystrzelone do celu. Od 1 do 5 poziomu tworzony jest jeden sztylet na poziom, następnie dodatkowy zestaw 5 sztyletów na każde 5 poziomów rzucajšcego, do maksymalnie 25 sztyletów na 25 poziomie. Każdy zestaw jest wystrzeliwany naraz do 1-5 celów wybranych przez rzucajšcego czar. Sztylety sš wykonane z materii chaosu i znikajš po upływie czasu działania czaru, na każdy zestaw czarów czas działania jest wysłużony o 3 rundy.\n"
+"\n"
+"Każdy sztylet zadaje 1k4 kłutych obrażeń. Na 5 poziomie sztylety sš traktowane jako broń +1 pod względem obrażeń i tego czy istota może zostać trafiona. Ten bonus zwiększa się o 1 co każde 5 poziomów rzucajšcego: +2 na 10 poziomie, +3 na 15, do maksymalnie +5 na 25 poziomie.\n"
+"\n"
+"Sztylety wykonane sš z czystego chaosu, omijajš wszelkie fizyczne i magiczne przeszkody i zawsze trafiajš w cel. Jednakże rzucajšcy musi wykonać rzut na atak dla każdego sztyletu by okrelić krytyczne chybienie lub trafienie. W przypadku krytycznego chybienia sztylet nie zadaje żadnych obrażeń. W przypadku trafienia krytycznego sztylet zadaje podwójne obrażenia i cel musi wykonać rzut obronny przeciw czarom, lub przez 5 rund będzie ofiarš następujšcych efektów: Uciszenie, Zamęt, Strach, Sen, Dzika Magia."
+
+#: wildmage/tra/english/text.tra:20511
+msgid "\"Blade Shower\" has been added to your Special Abilities menu"
+msgstr "\"Deszcz Ostrzy\" został dodany do twoich umiejętnoci specjalnych"
+
+#: wildmage/tra/english/text.tra:20601
+msgid "Rhialto's Random Missiles"
+msgstr "Losowe Pociski Rhialto"
+
+#: wildmage/tra/english/text.tra:20602
+msgid ""
+"Rhialto's Random Missiles* (Evocation)\n"
+"Level: 2\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell is an improved, randomized version of the first-level spell Magic Missile. It creates a random number of missiles that dart forth from the wizard's fingertips and unerringly strike their target, which must be a creature of some sort.\n"
+"\n"
+"The actual number of missiles is dependent on the caster's level of experience: 1d4 at first level,  1d6 at fourth level,  1d8 at eighth level  and 1d10 at 12th level.\n"
+"\n"
+"Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or magical damage. The chaotic nature of the missiles gives them a 25% chance to bypass any natural or magical resistances the target might have."
+msgstr ""
+"Losowe Pociski Rhialto* (Inwokacje)\n"
+"Poziom: 2\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucania: 1\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Czar ten jest ulepszonš i chaotycznš wersjš czaru 1 poziomu Magiczny Pocisk. Tworzy on losowš liczbę pocisków które wystrzeliwujš z palców czarodzieja i bezbłędnie trafiajš w cel, który może być jakškolwiek istotš.\n"
+"\n"
+"Dokładna liczba pocisków jest zależna od poziomu rzucajšcego czar: 1k4 na 1 poziomie, 1k6 na poziomie 4, 1k8 na 8 poziomie i 1k10 na 12 poziomie\n"
+"\n"
+"Każdy pociska zadaje 1k4+1 obrażeń od (losowo) kwasu, zimna, ognia, elektrycznoci lub magii. Chaotyczna natura pocisków daje im 25% szanse na ominięcie jakiejkolwiek naturalnej lub magicznej odpornoci celu."
+
+#: wildmage/tra/english/text.tra:20701
+msgid "Glyph of Wild Magic"
+msgstr "Glif z Dzikiej Magii"
+
+#: wildmage/tra/english/text.tra:20702
+msgid ""
+"Glyph of Wild Magic* (Evocation)\n"
+"Level: 4\n"
+"Range: 40 yards\n"
+"Duration: 1 round/10 levels\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"A glyph of wild magic is a powerful inscription magically drawn on the ground or any other surface. The glyph will remain there until someone comes too close, at which point it will explode and create one weave disturbance for each creature within a 30' radius. Each disturbance causes a multitude of wild surges, targeted at random creatures (including the caster, should he still be nearby).\n"
+"\n"
+"For every 10 experience levels of the caster, the disturbances remain in existence for 1 round, though it is possible to dispell them prematurely by causing a distortion with physical or magical means.\n"
+"\n"
+"Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage."
+msgstr ""
+"Glif z Dzikiej Magii* (Inwokacje)\n"
+"Poziom: 4\n"
+"Zasięg: 40 jardów\n"
+"Czas działania: 1 rund/10 poziomów\n"
+"Czas rzucania: 3\n"
+"Obszar działania: promień 30 stóp\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Glif z dzikiem magii jest potężnš inskrypcjš magicznie nakrelonš na ziemi lub innej powierzchni. Glif pozostanie tam dopóki kto nie podejdzie za blisko. Wtedy eksploduje i spowoduje fale zakłócajšcš strukturę magii każdej istocie w promieniu 30 stóp. Każde zakłócenie powoduje mnóstwo fal dzikiej magii skupionych na losowych istotach (wliczajšc w to rzucajšcego czar jeli jest w pobliżu).\n"
+"\n"
+"Na każde 10 poziomów dowiadczenia rzucajšcego, zakłócenia pozostajš przez dodatkowš rundę, jednak jest możliwe rozproszenie ich przedwczenie przez zniekształcenie, w sposób fizyczny lub mentalny.\n"
+"\n"
+"Oczywicie efekt czaru jest całkowicie losowy, ofiary mogš zostać wzmocnione przez dzikie fale lub całkowicie unicestwione. Im więcej istot na obszarze działania tym ciekawsze efekty da czar i tym większe prawdopodobieństwo że glif zada wysokie obrażenia."
+
+#: wildmage/tra/english/text.tra:20711
+msgid "Weave Disturbance"
+msgstr "Zakłócenie Struktury Magii"
+
+#: wildmage/tra/english/text.tra:20801
+msgid "Gymlainac's Lightbend"
+msgstr "Zagięcie wiatła Gymlainaca"
+
+#: wildmage/tra/english/text.tra:20802
+msgid ""
+"Gymlainac's Lightbend* (Alteration)\n"
+"Level: 3\n"
+"Range: Touch\n"
+"Duration: 5 rounds + 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell was developed by the wild mage Gymlainac, in an effort to create a wild magic version of Invisibility.\n"
+"\n"
+"The spell bends light waves around the recipient, creating an effect similar to the second-level spell Blur and a Cloak of Displacement. The recipient's form is both blurred and sways (regardless of movement), making her much more difficult to hit. When the spell is cast, the recipient gains a bonus of 2d4 to armor class and 1d4 to saving throws. Since the effect of this spell is no illusion but an actual change of the space around the recipient, it can't be dispelled by True Seeing or similar spells."
+msgstr ""
+"Zagięcie wiatła Gymlainaca* (Przemiany)\n"
+"Poziom: 3\n"
+"Zasięg: Dotyk\n"
+"Czas działania: 5 rund + 1 runda/poziom\n"
+"Czas rzucani: 3\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Czar został opracowany przez dzikiego maga imieniem Gymlainac, w celu stworzenia dzikiej wersji czaru Niewidzialnoć.\n"
+"\n"
+"Czar zagina wiatło dookoła celu, tworzšc efekt podobny do czaru 2 poziomu Rozmycie i działania Płaszcza Przemieszczenia. Kontury postaci stajš się zniekształcone i chwiejne, czynišc jš trudniejszš do trafienia. Kiedy czar zostaje rzucony cel otrzymuje bonus +2k4 do Klasy Pancerza i 1k4 do rzutów obronnych. Czar ten nie jest iluzjš, lecz faktycznie powoduje zakrzywienie przestrzeni wokół celu, nie może więc zostać rozproszony przez czary takie jak Prawdziwe Widzenie."
+
+#: wildmage/tra/english/text.tra:20901
+msgid "Vile Word of Discord"
+msgstr "Nikczemne Słowo Niezgody"
+
+#: wildmage/tra/english/text.tra:20902
+msgid ""
+"Vile Word of Discord* (Enchantment/Charm)\n"
+"Level: 3\n"
+"Range: Visual range of the caster\n"
+"Duration: 2 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This spell, a combination of ventriloquism and confusion magics, is the very essence of discord, with the potential to destroy not only formations but also allegiances.\n"
+"\n"
+"The caster points out a single creature, which then appears to shout insults in a strange, sinister language. The surprise, the unexpected source and the magic hidden within those words hit all bystanders completely unprepared.\n"
+"\n"
+"Everyone within a 30' sphere around the target must save vs. spells at -4 or suffer a randomly chosen effect: attack each other, flee in panic, stand around in confusion, ally with the caster or stumbling around uncontrolled. In addition, there's a 20% chance that some of the victims drop random equipment.\n"
+"\n"
+"The spell affects the caster's allies as well as his enemies; only the caster and the creature which was targeted in the first place are immune to the effect.\n"
+"\n"
+"Usually, this spell can't be backtraced to the caster: the only person, the victims might be angry at, is the spell's original target. Ongoing fights between the affected creatures might continue even after the spell ends."
+msgstr ""
+"Nikczemne Słowo Niezgody* (Zaczarowania/Zauroczenia)\n"
+"Poziom: 3\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: 2 rundy\n"
+"Czas rzucani: 3\n"
+"Obszar działania: promień 30 stóp\n"
+"Rzut obronny: specialny\n"
+"\n"
+"Czar ten jest kombinacjš brzuchomówstwa i magii zauroczeń, jest esencjš niezgody i posiada potencjał nie tylko niszczenia formacji wroga lecz także posłuszeństwa.\n"
+"\n"
+"Rzucajšcy wskazuje 1 istotę, która następnie wyglšda jakby krzyczała przekleństwa w dziwnym, plugawym języku. Zaskoczenie, nieoczekiwane ródło przekleństw i magia ukryta w słowach wywierajš wrażenie na nieprzygotowanych wiadkach.\n"
+"\n"
+"Wszyscy w promieniu 30 stóp wokół celu muszš wykonać rzut obronny przeciw czarom z modyfikatorem -4 lub wystšpiš u nich jeden z losowo wybranych efektów: zaatakujš się nawzajem, ucieknš w panice, będš stać osłupieni, sprzymierzš się z czarujšcym, lub będš się zataczać bez kontroli nad własnym ciałem. Dodatkowo istnieje 20% szansa że ofiara upuci losowy przedmiot z ekwipunku.\n"
+"\n"
+"Czar działa zarówno na sprzymierzeńców czarujšcego jak i na wrogów, jedynie mag i poczštkowy cel czaru sš odporni na efekty.\n"
+"\n"
+"Zazwyczaj nie da się ustalić kto rzucił czar: jedynš osobš na którš ofiary mogš być złe jest pierwszy cel czaru krzyczšcy przekleństwa. Ewentualna walka może trwać także po zakończeniu działania czaru."
+
+#: wildmage/tra/english/text.tra:21001
+msgid "Cellular Regeneration"
+msgstr "Komórkowa Regeneracja"
+
+#: wildmage/tra/english/text.tra:21002
+msgid ""
+"Cellular Regeneration* (Necromancy)\n"
+"Level: 4\n"
+"Range: Touch\n"
+"Duration: 6 rounds\n"
+"Casting Time: 4\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"By reshaping a strand of the Weave until it resembles the patterns created by a priest's healing spell, the wild mage can accomplish what was thought to be impossible: an arcane spell that cures wounds.\n"
+"\n"
+"Cellular Regeneration increases the growth rate of the body's various tissues, causing them to mend together faster. Once the recipient is touched, the spell begins to work, restoring damage according to the table below:\n"
+"\n"
+"Round  Healing\n"
+"------------------\n"
+"1           1\n"
+"2           1d4\n"
+"3           1d4 + level/5 (up to 1d4+5)\n"
+"4           1d4 + level/5 (up to 1d4+5)\n"
+"5           1d4\n"
+"6           1\n"
+"\n"
+"The regeneration process is so stressing for the body, that the recipient stays unconscious for the duration of the spell, and looses one point of constitution for one hour thereafter."
+msgstr ""
+"Komórkowa Regeneracja* (Necromancja)\n"
+"Poziom: 4\n"
+"Zasięg: Dotyk\n"
+"Czas działania: 6 rundy\n"
+"Czas rzucani: 4\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Przez kształtowanie struktury magii dopóki nie przyjmie ona kształtu na wzór kapłańskiego czaru leczenia, dziki mag może dokonać tego co było uważane za niemożliwe: stworzyć czar leczšcy rany.\n"
+"\n"
+"Komórkowa Regeneracja zwiększa tempo przyrostu różnych tkanek ciała, sprawiajšc że łšczš się ze sobš znacznie szybciej. Z chwilš gdy cel zostaje dotknięty czar zaczyna działać, przywracajšc Punkty Życia według tabeli poniżej:\n"
+"\n"
+"Runda   Uleczone PŻ\n"
+"------------------\n"
+"1           1\n"
+"2           1k4\n"
+"3           1k4 + poziom/5 (do 1k4+5)\n"
+"4           1k4 + poziom/5 (do 1k4+5)\n"
+"5           1k4\n"
+"6           1\n"
+"\n"
+"Proces regeneracji jest tak wyczerpujšcy dla ciała, że cel pozostaje nieprzytomny na czas działania czaru i na godzinę traci 1 punkt Kondycji."
+
+#: wildmage/tra/english/text.tra:21101
+msgid "Vortex"
+msgstr "Wir"
+
+#: wildmage/tra/english/text.tra:21102
+msgid ""
+"Vortex* (Evocation)\n"
+"Level: 5\n"
+"Range: 30 yards\n"
+"Duration: 3-15 rounds\n"
+"Casting Time: 5\n"
+"Area of effect: 7-foot-diameter sphere\n"
+"Saving Throw: Half\n"
+"\n"
+"A vortex is a swirling mass of magical energy, barely controllable by the caster. After casting the spell, a 7 foot tall, multicolored sphere appears. From this moment on, the caster must maintain concentration in order for the vortex to remain.\n"
+"\n"
+"Each round, the caster can move the vortex 60 feet. However, control of direction is not perfect. If the caster fails to concentrate just for a moment, the Vortex moves on on its own.\n"
+"\n"
+"The vortex is composed of raw magical energy. Once per round, all creatures close to the vortex suffer 2d6 points of each: stunning, electricity and magic damage. Creatures struck are allowed a saving throw vs. spells to suffer only half damage.\n"
+"\n"
+"The duration of the spell is 3 rounds at level 10, plus one round for each additional level - up to 15 rounds at level 34. The caster is held immobile for the whole duration of the spell; he can't cancel it, even when he completely lost control over the vortex."
+msgstr ""
+"Wir* (Inwokacje)\n"
+"Poziom: 5\n"
+"Zasięg: 30 jardów\n"
+"Czas działania: 3-15 rund\n"
+"Czas rzucani: 5\n"
+"Obszar działania: Kula o promieniu 7 stóp\n"
+"Rzut obronny: 1/2\n"
+"\n"
+"Wir to kłębišca się masa energii magicznej, raczej niemożliwa do kontrolowania przez rzucajšcego. Po rzuceniu czaru pojawia się wysoka na 7 stóp wielokolorowa kula. Od  tego momentu rzucajšcy musi się koncentrować by utrzymać wir przy istnieniu.\n"
+"\n"
+"Podczas każdej rundy mag może przemiecić wir o 60 stóp. Jednak kontrola nad kierunkiem ruchu nie jest idealna. Jeli mag nie skoncentruje się wystarczajšco, wir sam zadecyduje gdzie się przemiecić.\n"
+"\n"
+"Wir jest stworzony z czystej energii magicznej. Raz na rundę wszystkie istoty w pobliżu wiru otrzymujš po 2k6 obrażeń od (łšcznie): ogłuszenia, elektrycznoci i magii. Powalone istoty mogš wykonać rzut obronny przeciw czarom i cierpiš jedynie połowę obrażeń.\n"
+"\n"
+"Czas trwania czaru wynosi 3 rundy na poziomie 10  i dodatkowo jednš rundę co drugi dodatkowy poziom, aż do maksymalnie 15 rund na poziomie 34. Mag nie może się w trakcie trwania czaru poruszać, nie może także przerwać czaru, nawet jeli całkowicie utracił kontolę nad wirem."
+
+#: wildmage/tra/english/text.tra:21201
+msgid "Paithan's Lucky Streak"
+msgstr "Promień Szczęcia Paithana"
+
+#: wildmage/tra/english/text.tra:21202
+msgid ""
+"Paithan's Lucky Streak* (Enchantment/Charm)\n"
+"Level: 5\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This extremely potent spell gives the target a run of good luck. The recipient gains 1d8 points of luck, receiving this amount as bonus to any of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is added to any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 2 or higher, a new 1d8 bonus is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 1, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 16 or higher, the spell does not only continue, but the next round is also a \"Good Luck\" round, in which the recipient gets not only 8 points of luck bonus, but also the almost supernatural ability to avoid death, level drain, and anything that limits his movement.\n"
+"\n"
+"As long as it doesn't expire due to \"Bad Luck\" (1 on D20, then 15 or lower on D20), the spell continues infinitely."
+msgstr ""
+"Promień Szczęcia Paithana* (Zaczarowania/Zauroczenia)\n"
+"Poziom: 5\n"
+"Zasięg: Dotyk\n"
+"Czas działania: specialny\n"
+"Czas rzucani: 5\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Ten niezwykle silny czar zapewnia celowi przypływ szczęcia. Wskazana istota otrzymuje bonus 1k8 punktów szczęcia do każdej wykonywanej czynnoci. Wlicza się w to rzuty obronne, rzuty na trafienie, umiejętnoci złodziejskie itd. Dodatkowo podwojona suma punktów dodawana jest do każdego rzutu kostkš w tabeli dzikiej magii.\n"
+"\n"
+"Na koniec każdej rundy wykonywany jest rzut kostkš k20 decydujšcy o tym czy czar zakończy swoje działanie. W przypadku wyniku 2 lub większego wykonywany jest ponowny rzut kostkš 1k8 okrelajšcy liczbę dodawanych punktów szczęcia i czar trwa przez następnš rundę.\n"
+"\n"
+"W przypadku gdy wypadnie 1 wcišż istnieje 25% prawdopodobieństwo że czar będzie trwać dalej: Jeli wynik kolejnego rzutu k20 wyniesie 16 lub więcej, czar nie tylko trwa dalej, lecz dodatkowo następna runda jest \"Szczęliwa\" co oznacza że cel dostaje +8 punktów szczęcia oraz nadnaturalnš zdolnoć uniknięcia mierci, wyssania poziomu i swobody ruchów.\n"
+"\n"
+"O ile czar nie przestanie działać w wyniku \"Pechu\" (1 przy rzucie k20 a następnie 15 lub mniej przy kolejnym rzucie k20) czar może trwać nieskończenie długo."
+
+#: wildmage/tra/english/text.tra:21301
+msgid "Paithan's Fiasco"
+msgstr "Fiasko Paithana"
+
+#: wildmage/tra/english/text.tra:21302
+msgid ""
+"Paithan's Fiasco* (Enchantment/Charm)\n"
+"Level: 6\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"Paithan's Fiasco is the reverse version of the level 5 spell Paithan's Lucky Streak. The target, usually an enemy, suffers a run of bad luck. The victim is affected by 1d8 points of bad luck, taking this amount as a penalty to all of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is subtracted from any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 19 or lower, a new 1d8 penalty is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 20, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 5 or lower, the spell does not only continue, but the next round is also a \"Fiasco\" round, in which the victim gets 8 points of bad luck penalty and suffers one of the following things: stumble and drop down to the ground for two rounds,  drop weapon due to a sudden spasm,  fail horrible at parrying and loose all attacks for this round,  hurt himself for 1d20 hitpoints  or getting blinded by splinters from his own weapon for three rounds.\n"
+"\n"
+"As long as it doesn't expire due to \"Good Luck\" (20 on D20, then 6 or higher on D20), the spell continues infinitely."
+msgstr ""
+"Fiasko Paithana* (Zaczarowania/Zauroczenia)\n"
+"Poziom: 6\n"
+"Zasięg: Dotyk\n"
+"Czas działania: specialny\n"
+"Czas rzucani: 5\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Fiasko Paithana to odwrócona wersja czaru 5 poziomu Promień Szczęcia Paithana. Cel, zazwyczaj wróg, przeżywa pasmo niepowodzeń. Ofierze celu zostaje obniżone szczęcie o 1k8 punktów do każdej wykonywanej czynnoci. Wlicza się w to rzuty obronne, rzuty na trafienie, umiejętnoci złodziejskie itd. Dodatkowo podwojona suma punktów odejmowana jest od każdego rzutu kostkš w tabeli dzikiej magii.\n"
+"\n"
+"Na koniec każdej rundy wykonywany jest rzut kostkš k20 decydujšcy o tym czy czar zakończy swoje działanie. W przypadku wyniku 19 lub mniejszego wykonywany jest ponowny rzut kostkš 1k8 okrelajšcy liczbę odejmowanych punktów szczęcia i czar trwa przez następnš rundę.\n"
+"\n"
+"W przypadku wyniku 20, wcišż jest 25% szansa że czar będzie trwać dalej: Jeli rezultat kolejnego rzutu k20 będzie wynosił 5 lub mniej, czar nie tylko kontynuuje swoje działanie, lecz dodatkowo następna runda jest rundš \"Fiaska\", ofiara otrzymuje ujemny modyfikator 8 punktów do szczęcia, oraz występujš u niej następujšce efekty: potyka się i upada na 2 rundy, upuszcza broń w wyniku gwałtownego ataku kaszlu, nie jest w stanie parować ciosów i traci wszystkie ataki na tš rundę, zadaje sobie sama 1k20 punktów obrażeń lub olepia się drzazgš z własnej broni na trzy rundy.\n"
+"\n"
+"O ile czar nie przestanie działać w wyniku \"Szczęcia\" (20 przy rzucie k20 a następnie 6 lub więcej przy kolejnym rzucie k20) czar może trwać nieskończenie długo."
+
+#: wildmage/tra/english/text.tra:21311
+msgid "Fiasco"
+msgstr "Fiasko"
+
+#: wildmage/tra/english/text.tra:21401
+msgid "Wildstrike"
+msgstr "Dzikie Czarowanie"
+
+#: wildmage/tra/english/text.tra:21402
+msgid ""
+"Wildstrike* (Conjuration/Summoning)\n"
+"Level: 6\n"
+"Range: 30 yards\n"
+"Duration: 1-15 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"This spell is used primarily against hostile spellcasters. It distorts all attempts at spellcasting, converting spell energy into wild surges. The victim of a wildstrike is allowed a saving throw, to which a -1 modifier is applied for every 10 levels of the caster. If successful, the spell has no effect. If the saving throw is failed, the target is enclosed within a field of wild magic.\n"
+"\n"
+"Each attempt to casts spells or uses a charge from a magical item, automatically creates a wild surge. When determining the effects of this surge, 5 is subtracted from the die roll for every five levels of the wild mage who cast the wildstrike, making the effects of the wild surge more likely to affect the victim.\n"
+"\n"
+"The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35."
+msgstr ""
+"Dzikie Czarowanie* (Przywołania/Sprowadzenia)\n"
+"Poziom: 6\n"
+"Zasięg: 30 jardów\n"
+"Czas działania: 1-15 rund\n"
+"Czas rzucani: 3\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Neg.\n"
+"\n"
+"Czar ten jest używany zazwyczaj przeciwko wrogim magom. Niweczy on wszelkie próby rzucenia czaru, przemieniajšc energię czaru w dzikš falę. Ofiara Dzikiego Czarowania może wykonać rzut obronny z modyfikatorem -1 na każdy poziom rzucajšcego Dzikkie Czarowanie. Jeli rzut obronny okaże się skuteczny, czar nie ma efektu, jeli się nie uda cel zostaje otoczony polem dzikiej magii.\n"
+"\n"
+"Każda próba rzucenia czaru lub użycia magicznego przedmiotu automatycznie wywołuje dzikš falę. Przy okrelaniu efektu dzikiej fali z tabeli, odejmowane jest 5 punktów od wyrzuconej wartoci na każde 5 poziomów dzikiego maga który rzucił Dzikie Czarowanie sprawiajšc że efekty dzikiej fali częciej będš dotyczyć ofiary.\n"
+"\n"
+"Czas trwania czaru wynosi 1 rundę, plus dodatkowe 2 rundy za każde pięć poziomów czarujšcego, aż do maksymalnie 15 rund na poziomie 35."
+
+#: wildmage/tra/english/text.tra:21501
+msgid "Hornung's Random Dispatcher"
+msgstr "Losowe Odesłanie Hornunga"
+
+#: wildmage/tra/english/text.tra:21502
+msgid ""
+"Hornung's Random Dispatcher* (Abjuration)\n"
+"Level: 7\n"
+"Range: 30 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"With the utterance of a few words, this spell can hurl someone to a random plane and leave him there. The target is allowed a saving throw against spells. If successful, the spell fails. If unsuccessful, the victim and all items carried by him are sent to a random plane.\n"
+"\n"
+"The caster has no control over the destination of the target. The conditions at the destination may kill the target (for example, arriving in the elemental plane of fire), merely make his life difficult, or promise a new life in paradise (literally).\n"
+"\n"
+"Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime."
+msgstr ""
+"Losowe Odesłanie Hornunga* (Odrzucanie)\n"
+"Poziom: 7\n"
+"Zasięg: 30 jardów\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucani: 2\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Neg.\n"
+"\n"
+"Czar ten przez wymówienie kilku słów może przenieć kogo do losowej sfery i zostawić go tam. Cel może wykonać rzut obronny, który w przypadku powodzenia całkowicie niweluje działanie czaru. W przeciwnym wypadku ofiara i wszystkie przedmioty, które przy sobie ma, zostajš wysłane do losowej sfery.\n"
+"\n"
+"Rzucajšcy nie ma kontroli nad tym gdzie odesłana zostanie ofiara. Warunki panujšce w miejscu gdzie cel się znajdzie mogš go zabić (na przykład, jeli pojawi się w Sferze Żywiołu Ognia), sprawić że jego życie będzie trudne, lub też cel może znaleć się w raju (dosłownie).\n"
+"\n"
+"Jakkolwiek by się nie stało, jeli czar się powiedzie, mag pozbywa się celu i jest raczej mało prawdopodobne że spotkajš się ponownie w tym życiu."
+
+#: wildmage/tra/english/text.tra:21511
+msgid "was sent to the Abyss"
+msgstr "został wysłany do Otchłani"
+
+#: wildmage/tra/english/text.tra:21512
+msgid "was sent to Acheron"
+msgstr "został wysłany do Acheronu"
+
+#: wildmage/tra/english/text.tra:21513
+msgid "was sent to the prime world known as Oerth"
+msgstr "został wysłany do pierwszej sfery materialnej: Oerth"
+
+#: wildmage/tra/english/text.tra:21514
+msgid "was sent to the prime world known as Athas"
+msgstr "został wysłany do pierwszej sfery materialnej: Athas"
+
+#: wildmage/tra/english/text.tra:21515
+msgid "was sent to Arcadia"
+msgstr "został wysłany do Arkadii"
+
+#: wildmage/tra/english/text.tra:21516
+msgid "was sent to the Astral Plane"
+msgstr "został wysłany do Sfery Astralnej"
+
+#: wildmage/tra/english/text.tra:21517
+msgid "was sent to the Beastlands"
+msgstr "został wysłany do Krainy Zwierzšt"
+
+#: wildmage/tra/english/text.tra:21518
+msgid "was sent to the Outlands"
+msgstr "został wysłany do Krain Zewnętrznych"
+
+#: wildmage/tra/english/text.tra:21519
+msgid "was sent to the Elemental Plane of Air"
+msgstr "został wysłany do Sfery Żywiołu Powietrza"
+
+#: wildmage/tra/english/text.tra:21520
+msgid "was sent to the Elemental Plane of Fire"
+msgstr "został wysłany do Sfery Żywiołu Ognia"
+
+#: wildmage/tra/english/text.tra:21521
+msgid "was sent to the Elemental Plane of Earth"
+msgstr "został wysłany do Sfery Żywiołu Ziemi"
+
+#: wildmage/tra/english/text.tra:21522
+msgid "was sent to the Elemental Plane of Water"
+msgstr "został wysłany do Sfery Żywiołu Wody"
+
+#: wildmage/tra/english/text.tra:21523
+msgid "was sent to Elysium"
+msgstr "został wysłany do Elisjum"
+
+#: wildmage/tra/english/text.tra:21524
+msgid "was sent to the Ethereal Plane"
+msgstr "został wysłany do Planu Eterycznego"
+
+#: wildmage/tra/english/text.tra:21525
+msgid "was sent to Gehenna"
+msgstr "został wysłany do Gehenny"
+
+#: wildmage/tra/english/text.tra:21526
+msgid "was sent to Gladsheim"
+msgstr "został wysłany do Ysgard"
+
+#: wildmage/tra/english/text.tra:21527
+msgid "was sent to the Gray Waste"
+msgstr "został wysłany do Szarych Pustkowii"
+
+#: wildmage/tra/english/text.tra:21528
+msgid "was sent to Limbo"
+msgstr "został wysłany do Limbo"
+
+#: wildmage/tra/english/text.tra:21529
+msgid "was sent to the Negative Material Plane"
+msgstr "został wysłany do Sfery Energii Negatywnej"
+
+#: wildmage/tra/english/text.tra:21530
+msgid "was sent to the Quasi-Plane of Vacuum"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Pary"
+
+#: wildmage/tra/english/text.tra:21531
+msgid "was sent to the Quasi-Plane of Ash"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Popiołu"
+
+#: wildmage/tra/english/text.tra:21532
+msgid "was sent to the Quasi-Plane of Dust"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Pyłu"
+
+#: wildmage/tra/english/text.tra:21533
+msgid "was sent to the Quasi-Plane of Salt"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Soli"
+
+#: wildmage/tra/english/text.tra:21534
+msgid "was sent to the Nine Hells"
+msgstr "został wysłany do Baatoru"
+
+#: wildmage/tra/english/text.tra:21535
+msgid "was sent to Nirvana"
+msgstr "został wysłany do Nirvany"
+
+#: wildmage/tra/english/text.tra:21536
+msgid "was sent to Olympus"
+msgstr "został wysłany na Niebiański Szczyt"
+
+#: wildmage/tra/english/text.tra:21537
+msgid "was sent to Pandemonium"
+msgstr "został wysłany do Pandemonium"
+
+#: wildmage/tra/english/text.tra:21538
+msgid "was sent to the Para-Elemental Plane of Smoke"
+msgstr "został wysłany do Sfery Parażywiołu Dymu"
+
+#: wildmage/tra/english/text.tra:21539
+msgid "was sent to the Para-Elemental Plane of Magma"
+msgstr "został wysłany do Sfery Parażywiołu Magmy"
+
+#: wildmage/tra/english/text.tra:21540
+msgid "was sent to the Para-Elemental Plane of Ooze"
+msgstr "został wysłany do Sfery Parażywiołu Szlamu"
+
+#: wildmage/tra/english/text.tra:21541
+msgid "was sent to the Para-Elemental Plane of Ice"
+msgstr "został wysłany do Sfery Parażywiołu Lodu"
+
+#: wildmage/tra/english/text.tra:21542
+msgid "was sent to the Positive Material Plane"
+msgstr "został wysłany do Sfery Energii Pozytywnej"
+
+#: wildmage/tra/english/text.tra:21543
+msgid "was sent to the Quasi-Plane of Lightning"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Błyskawic"
+
+#: wildmage/tra/english/text.tra:21544
+msgid "was sent to the Quasi-Plane of Radiance"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Błysku"
+
+#: wildmage/tra/english/text.tra:21545
+msgid "was sent to the Quasi-Plane of Minerals"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Minerałów"
+
+#: wildmage/tra/english/text.tra:21546
+msgid "was sent to the Quasi-Plane of Steam"
+msgstr "został wysłany do Sfery Quasi-Żywiołu Próżni"
+
+#: wildmage/tra/english/text.tra:21547
+msgid "was sent to the Icewind Dale"
+msgstr "został wysłany do Icewind Dale"
+
+#: wildmage/tra/english/text.tra:21548
+msgid "was sent to the Seven Heavens"
+msgstr "został wysłany do Aboreii"
+
+#: wildmage/tra/english/text.tra:21549
+msgid "was sent to the Tarterus"
+msgstr "został wysłany do Tataru"
+
+#: wildmage/tra/english/text.tra:21550
+msgid "was sent to the Twin Paradises"
+msgstr "został wysłany do Dwutopii"
+
+#: wildmage/tra/english/text.tra:21601
+msgid "Summon Cow"
+msgstr "Przywołanie Krowy"
+
+#: wildmage/tra/english/text.tra:21602
+msgid ""
+"Summon Cow* (Summoning)\n"
+"Level: 7\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: Special\n"
+"\n"
+"Upon casting this spell, a cow is summoned in the air 50-200 yards above the targeted creature. The exact height is dependent on the caster's level, and determines the damage done to the target.\n"
+"\n"
+"Once summoned, the animal will fall down upon the target. The impact as well as the crash to the ground cause crushing damage equal to 3d10 + 1d10 for every three levels of the caster, up to a maximum total of two times 10d10 at Level 21. There is no saving throw against the physical impact, though a very lucky or agile individual may drop to the ground without taking additional damage.\n"
+"\n"
+"If the targeted creature survives the impact, there's a chance of 10% +10% for every three experience levels of the caster, that the victim drops random equipment while falling. The maximum chance is 80% at Level 21; there is no saving throw.\n"
+"\n"
+"Finally, the whole situation is so confusing and frightening, that the target must save against spells or flee in panic for three rounds. The saving throw starts with a modifier of +2, which is decreased by 1 for every three levels of the caster, until it reaches -5 at 21th level.\n"
+"\n"
+"Warning:\n"
+"Basically, this spell is just a purposeful release of a specific wild surge. As such, there is a chance for unwanted side effects.\n"
+"\n"
+"It is also strongly advised against using this spell in the presence of rangers or druids."
+msgstr ""
+"Przywołanie Krowy* (Sprowadzenie)\n"
+"Poziom: 7\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: Natychmiastowy\n"
+"Czas rzucani: 3\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Czar jak sama nazwa wskazuje przywołuje krowę. 50-200 jardów nad celem czaru. Dokładna wysokoć zależy od poziomu rzucajšcego czar i decyduje o obrażeniach jakie otrzyma cel.\n"
+"\n"
+"Po przywołani zwierzę spadnie na ofiarę. Siła uderzenia w ziemie powoduje miażdżšce obrażenia, równe 3k10 + 1k10 na każde 3 poziomy maga, do maksimum 10k10 na poziomie 21. Nie ma rzutu obronnego chronišcego przed obrażeniami, jednak bardzo szczęliwe, lub zręczne osoby mogš upać na ziemię bez otrzymania dodatkowych obrażeń.\n"
+"\n"
+"Jeli cel przeżyje uderzenie, istnieje 10% szansa (+dodatkowe 10% na każde 3 poziomy rzucajšcego) że upuci losowš rzecz z ekwipunku. Maksymalna szansa wynosi 80% na 21 poziomie i nie ma rzutu obronnego.\n"
+"\n"
+"Dodatkowo, cała sytuacja jest żenujšca i straszna, cel musi wykonać rzut obronny przeciw czarom, lub ucieknie w panice na 3 rundy. Rzut obronny wykonywany jest z modyfikatorem +2 który jest obniżany o 1 na każde 3 poziomy rzucajšcego, dopóki nie osišgnie -5 na 21 poziomie.\n"
+"\n"
+"Uwaga:\n"
+"Czar ten jest w istocie celowym wywołaniem specyficznego efektu dzikiej fali. Jako taki może spowodować niechciane skutki uboczne.\n"
+"\n"
+"Jednoczenie jest zalecane aby nie używać tego czaru w obecnoci łowców i druidów."
+
+#: wildmage/tra/english/text.tra:21701
+msgid "Mynoc's Wild Recuperation"
+msgstr "Dzikie Przypomnienie Mynoca"
+
+#: wildmage/tra/english/text.tra:21702
+msgid ""
+"Mynoc's Wild Recuperation* (Evocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"When casting this spell, the wild mage willingly releases raw magical energy in form of a wild surge. If he manages to control the wild surge, he can use the energy to bring back into memory 1d4 spells that have been previously cast. If no spells have been cast yet, then nothing happens, and the spell is wasted.\n"
+"\n"
+"For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less."
+msgstr ""
+"Dzikie Przypomnienie Mynoca* (Inwokacje)\n"
+"Poziom: 8\n"
+"Zasięg: 0\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucani: 10\n"
+"Obszar działania: rzucajšcy\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Rzucajšc ten czar dziki mag celowo uwalnia czystš energię magicznš zawartš w dzikiej fali. Jeli zdoła przejšć kontrolę nad falš, używa energii do przywrócenia 1k4 już rzuconych czarów w pamięci. Jeli wczeniej nie rzucił żadnego czaru, nic się nie dzieje i czar jest zmarnowany.\n"
+"\n"
+"Przy okrelaniu efektu dzikiej fali mag zyskuje bonus +40 do rzutów kostkš w tabeli dzikiej magii, sprawiajšc że istnieje spora szansa że czar będzie miał w przypadku niepowodzenia chociaż trochę wspomagajšcy efekt. Dzikie Przypomnienie Mynoca może przywrócić tylko czary 7 lub niższych poziomów."
+
+#: wildmage/tra/english/text.tra:21711
+msgid "1 spell restored to memory"
+msgstr "1 przypomniany czar"
+
+#: wildmage/tra/english/text.tra:21712
+msgid "2 spells restored to memory"
+msgstr "2 przypomniane czary"
+
+#: wildmage/tra/english/text.tra:21713
+msgid "3 spells restored to memory"
+msgstr "3 przypomniane czary"
+
+#: wildmage/tra/english/text.tra:21714
+msgid "4 spells restored to memory"
+msgstr "4 przypomniane czary"
+
+#: wildmage/tra/english/text.tra:21801
+msgid "Eye of the Beholder"
+msgstr "Oko Obserwatora"
+
+#: wildmage/tra/english/text.tra:21802
+msgid ""
+"Eye of the Beholder* (Evocation)\n"
+"Level: 8\n"
+"Range: Visual range of caster\n"
+"Duration: 1 round/5 levels\n"
+"Casting Time: 5\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"When this spell is cast, one of the wild mage's eyeballs pops out, and is transformed into a Beholder's eye stalk.\n"
+"\n"
+"Once per round, the wild mage may use this eyestalk to gaze at a target, causing one of 10 possible effects to shoot forth from the eye. The exact result (including saving throws, range, duration, etc.) are determined at random from among the 10 functions of a beholder's eye stalks: Charm Person, Fear, Disintegrate, Slow, Petrification, Cause Serious Wounds, Hold Person, Lightning Bolt, Paralyze or Death Ray.\n"
+"\n"
+"Usually, the caster's eye returns to its original shape and place after the spell has expired."
+msgstr ""
+"Oko Obserwatora* (Inwokacje)\n"
+"Poziom: 8\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: 1 rund/5 poziomów\n"
+"Czas rzucani: 5\n"
+"Obszar działania: specjalny\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Kiedy czar zostanie rzucony, oko dzikiego maga wyskakuje z oczodołów i zostaje przekształcone w czółkę Obserwatora z okiem na samym czubku.\n"
+"\n"
+"Raz na rundę dziki mag może użyć swojego Oka i wysłać promień w wybranym przez siebie kierunku, powodujšc jeden z 10 losowych efektów. Dokładne efekty (wliczajšc w to rzuty obronne, zasięg, czas trwania itd. ) sš zależne od rodzaju promienia którym strzelił mag, efekty mogš być następujšce: Zauroczenie osoby, Strach, Dezintegracja, Spowolnienie, Pertyfikacja, Zadawanie Poważnych Ran, Unieruchomienie Osoby, Błyskawica, Paraliż, Promień mierci.\n"
+"\n"
+"Zazwyczaj oko maga wraca do poprzedniego kształtu i miejsca po upłynięciu czasu działania czaru."
+
+#: wildmage/tra/english/text.tra:21803
+msgid "Beholder's Gaze"
+msgstr "Promień Obserwatora"
+
+#: wildmage/tra/english/text.tra:21811
+msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
+msgstr "\"Promień Obserwatora\" został dodany do twoich Umiejętnoci Specjalnych"
+
+#: wildmage/tra/english/text.tra:21901
+msgid "Entropy Shield"
+msgstr "Tarcza Entropii"
+
+#: wildmage/tra/english/text.tra:21902
+msgid ""
+"Entropy Shield* (Abjuration)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: 2 turns\n"
+"Casting Time: 9\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell surrounds the caster in a protective field of raw magical energy. This field will absorb the energy of any wild surge and all but the most powerful spells.\n"
+"\n"
+"For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield.\n"
+"\n"
+"In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect."
+msgstr ""
+"Tarcza Entropii* (Odrzucanie)\n"
+"Poziom: 9\n"
+"Zasięg: 0\n"
+"Czas działania: 2 tury\n"
+"Czas rzucani: 9\n"
+"Obszar działania: rzucajšcy\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Czar otacza rzucajšcego ochronnym polem surowej energii magicznej. Pole to absorbuje energię dzikich fal i każdego czaru, oprócz tych najpotężniejszych.\n"
+"\n"
+"Na czas trwania czaru rzucajšcy zyskuje niewrażliwoć na wszystkie czary poziomu 7 lub niższych, wliczajšc w to czary takie jak Rubinowy Promień Odwrócenia i inne majšce na celu rozproszenie magicznych osłon. Jedynie Przebicie Tarczy i Uderzenie Czaru majš wystarczajšcš moc do rozproszenia Tarczy Entropii.\n"
+"\n"
+"Dodatkowo, rzucajšcy zyskuje bonus +100 do rzutów kostkš w tabeli dzikiej magii, zapewniajšc sobie tym samym że każdy czar zostanie rzucony normalnie, wliczajšc w to Lekkomylne Zaklęcie Nahala - tak długo jak Tarcza Entropii jest aktywna rzucajšcemu zawsze powiedzie się wywołanie pożšdanego efektu."
+
+#: wildmage/tra/english/text.tra:22001
+msgid "Wild Sphere"
+msgstr "Dzika Sfera"
+
+#: wildmage/tra/english/text.tra:22002
+msgid ""
+"Wild Sphere* (Conjuration/Summoning)\n"
+"Level: 9\n"
+"Range: Visual range of the caster\n"
+"Duration: 6 turns\n"
+"Casting Time: 1 round\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This powerful spell creates a temporary rift in the Weave. The area of effect is a sphere with 30 foot radius; within chaos reigns.\n"
+"\n"
+"Any spell cast within the Wild Sphere automatically causes a wild surge. Effects from magical items that expend charges also cause wild surges when used in the area. Other magical items function normally. Even after a victim left the area of effect, it takes one round for his spell casting capabilities return to normal.\n"
+"\n"
+"In addition, everyone within the area of effect must make a save vs. spells at -5 every round, or cause a weave disturbance that fires multiple wild surges at random targets for one round, comparable to the 4th level spell Glyph of Wild Magic.\n"
+"\n"
+"Vicims that also fail the save vs. spells without modifier, are subject to one of the following random effects: randomly teleported, polymorphed into a squirrel, confused, paralyzed, healed by 1d8 hit points, take 1d8 hit points of damage, rendered unconscious or hasted."
+msgstr ""
+"Dzika Sfera* (Przywołania/Sprowadzenia)\n"
+"Poziom: 9\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: 6 tur\n"
+"Czas rzucani: 1 runda\n"
+"Obszar działania: promień 30 stóp\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Ten potężny czar tworzy tymczasowš szczelinę w strukturze magii o promieniu 30 stóp w rodku której niepodzielnie panuje chaos.\n"
+"\n"
+"Każdy czar rzucony w obszarze Dzikiej Sfery wywołuje dzikš falę. Użycie magicznych przedmiotów zużywajšcych ładunki także powoduje dzikš falę, inne magiczne przedmioty (na przykład działajšce stale) funkcjonujš normalnie. Jeli ofiara opuci obszar działania czaru jeszcze przez rundę będzie pod jego wpływem, po upływie tego czasu jej zdolnoci rzucania czarów wracajš do normy.\n"
+"\n"
+"Dodatkowo każdy w obszarze działania czaru musi wykonać rzut obronny przeciw czarom z modyfikatorem -5 lub spowoduje zakłócenie struktury magii, które wystrzeli liczne dzikie fale w losowych kierunkach przez jednš rundę, efekt jest porównywalny z tym spowodowanym przez 4-poziomowy czar Glif z Dzikiej Magii.\n"
+"\n"
+"Osoby którym nie powiedzie się rzut obronny przeciwko czarom bez modyfikatora, zostajš poddane następujšcym losowo wybranym efektom: teleportowane w losowe miejsce, zamienione w wiewiórkę, ulegajš zamętowi, paraliżowi, majš uleczone 1k8 PŻ, dostajš 1k8 punktów obrażeń, tracš przytomnoć lub zostajš przyspieszone."
+
+#: wildmage/tra/english/text.tra:22101
+msgid "Rhialto's Marvelous Reincarnation"
+msgstr "Reinkarnacja Rhialto Cudownego"
+
+#: wildmage/tra/english/text.tra:22102
+msgid ""
+"Rhialto's Marvelous Reincarnation* (Alteration)\n"
+"Level: 10\n"
+"Range: Visual range of the caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"This sinister spell is the legacy of the wild mage that called himself Rhialto the Marvelous.\n"
+"\n"
+"Casting this spell causes fluctuations in the laws of probability, and weakens the fabric of time. These effects last only for a moment, but this is long enough to create an alternate reality.\n"
+"\n"
+"The purpose of this spell is to bring a dead back to life by changing an event in the past and letting another creature (one that still lives in the present) die instead. There is no divine intervention involved: the reincarnated creature isn't raised from the dead, on successful casting of this spell, the fatal event never happened and the spell's beneficiary never has died.\n"
+"\n"
+"Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood."
+msgstr ""
+"Reinkarnacja Rhialto Cudownego* (Przemiany)\n"
+"Poziom: 10\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucani: 10\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Ten plugawy czar to spucizna po dzikim magu który sam siebie nazwał Rhialto Cudownym.\n"
+"\n"
+"Rzucenie tego czaru powoduje fluktuacje w prawach prawdopodobieństwa i osłabia okowy czasu. Efekty te trwajš jedynie przez moment, lecz wystarczajšco długo by stworzyć alternatywnš rzeczywistoć.\n"
+"\n"
+"Przeznaczeniem tego czaru jest przywrócenie martwej osoby do życia poprzez zmianę wydarzeń w przeszłoci i sprawienie by umarł za niš kto inny (kto kto obecnie żyje). Nie ma tu miejsca żadna boska interwencja: przywrócona do życia osoba nie jest wskrzeszona - po rzuceniu tego czaru, jej mierć nigdy nie miała miejsca.\n"
+"\n"
+"Rzucajšcy wskazuje ofiarę, która po rzuceniu czaru znika, zajmuje miejsce osoby przywracanej do życia i umiera w tym samym momencie, miejscu i w ten sam sposób co ona. W miejscu ofiary pojawia się przywrócony do życia cel."
+
+#: wildmage/tra/english/text.tra:22201
+msgid "Entropy Burst"
+msgstr "Wybuch Entropii"
+
+#: wildmage/tra/english/text.tra:22202
+msgid ""
+"Entropy Burst (Invocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: None\n"
+"\n"
+"Invoking the Entropy Burst spell creates magic of tremendous power. The caster acts as a bridge between the material plane and the primal forces of chaos, causing a burst of chaos-stuff centered on the caster and reaching up to a 30' radius.\n"
+"\n"
+"The effect of this spell is completely harmless for chaotic creatures, everyone else is pushed away from the caster for several seconds; creatures of neutral alignment take 1d8 points of magical damage, while lawful creatures take 1d20 points of damage. In addition, one of the following effects applies to a lawful target, according to its level:\n"
+"\n"
+"Hit Dice or levels  --  Effects of Entropy Burst\n"
+"Less than 4  --  Death\n"
+"4 to 7  --  Stunned for 1 turn\n"
+"8 to 11  --  Slowed for 1 turn with 75% chance of spell failure\n"
+"12 and up  --  Deafened for 1 turn with 50% chance of spell failure\n"
+"\n"
+"There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled."
+msgstr ""
+"Wybuch Entropii (Inwokacje)\n"
+"Poziom: 8\n"
+"Zasięg: 0\n"
+"Czas działania: specjalny\n"
+"Czas rzucani: 1\n"
+"Obszar działania: promień 30 stóp\n"
+"Rzut obronny: Brak\n"
+"\n"
+"Wybuch Entropii wywołuje magię o straszliwej mocy. Rzucajšcy służy jako pomost między sferš materialnš a siłami chaosu, powodujšc wybuch chaotycznej energii o promieniu 30 stóp w centrum którego jest rzucajšcy czar.\n"
+"\n"
+"Efekt czaru jest całkowicie nieszkodliwy dla istot o chaotycznej naturze, każdy inny jest odrzucany od czarodzieja na kilka sekund; istoty o neutralnym charakterze otrzymujš 1k8 obrażeń, podczas gdy istoty praworzšdne 1k20. Dodatkowo istoty praworzšdne ulegajš następujšcym efektom, w zależnoci od poziomu:\n"
+"\n"
+"Kostki lub poziomy  --  Efekty Wybuchu Entropii\n"
+"mniej niż 4  \t\t--  mierć\n"
+"4 do 7  \t\t\t--  Unieruchomienie na 1 turę\n"
+"8 do 11  \t\t\t--  Spowolnienie na 1 turę i 75% na nieudane rzucenie czaru\n"
+"12 i więcej  \t\t--  Ogłuszenie na 1 turę i 50% na nieudane rzucenie czaru\n"
+"\n"
+"Nie ma rzutu obronnego przeciw temu czarowi, efekty sš natychmiastowe i trwajš dopóki nie minie ich czas lub nie zostanš rozproszone."
+
+#: wildmage/tra/english/text.tra:22301
+msgid "Acid Storm"
+msgstr "Nawałnica Kwasu"
+
+#: wildmage/tra/english/text.tra:22302
+msgid ""
+"Acid Storm (Evocation)\n"
+"Level: 7\n"
+"Range: Sight of Caster\n"
+"Duration: 1 turn\n"
+"Casting Time: 7\n"
+"Area of Effect: 20-foot radius\n"
+"Saving Throw: Half\n"
+"This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points of damage each round for the first three rounds, 1-6 hit points for the next three rounds, and 1-8 hit points for the next four rounds. Moving out of the area of effect does not stop the damage - the acid adheres to the skin, and the victims continue to suffer damage as long as the spell duration lasts. Affected creatures may make a saving throw vs. spell every round after they have been hit by the cloud - if successful, they only take half-damage (for that round only)."
+msgstr ""
+"Nawałnica Kwasu (Wywołania)\n"
+"Poziom: 7\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: 1 tura\n"
+"Czas rzucani: 7\n"
+"Obszar działania: promień 20 stóp\n"
+"Rzut obronny: 1/2\n"
+"Czar uwalnia chmurę kwasu na obszarze swojego działania, która zadaje 1-4 punktów obrażeń co rundę przez pierwsze 3 rundy, 1-6 punktów obrażeń przez następne 3 rundy i 1-8 punktów obrażeń przez następne 4 rundy. Wyjcie z obszaru nie zatrzymuje obrażeń - kwas znajduje się na skórze ofiary i cierpi ona tak długo jak trwa czar. Ofiary mogš co rundę wykonać rzut obronny przeciw czarom i otrzymajš połowę obrażeń (przez tš rundę)."
+
+#: wildmage/tra/english/text.tra:22401
+msgid "Summon Wild Horde"
+msgstr "Przywołanie Dzikiej Hordy"
+
+#: wildmage/tra/english/text.tra:22402
+msgid ""
+"Summon Wild Horde* (Conjuration/Summoning)\n"
+"Level: 2\n"
+"Range: 0\n"
+"Duration: 1 round/level\n"
+"Casting Time: 2\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This summoning spell calls forth 1d20 aggressive rabbits that defend the caster with their lives.\n"
+"\n"
+"The tiny animals don't really pose a threat besides distracting the caster's enemies. When one of the rodents dies, however, there is a 25% chance that it will explode in a fireball, doing 2d4 points of fire damage to everyone within a 20 foot radius (save vs. spell for half)."
+msgstr ""
+"Przywołanie Dzikiej Hordy* (Przywołania/Sprowadzenia)\n"
+"Poziom: 2\n"
+"Zasięg: 0\n"
+"Czas działania: 1 runda/poziom\n"
+"Czas rzucani: 2\n"
+"Obszar działania: specjalny\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Czar przywołuje 1k20 agresywnych królików, które będš walczyć do końca w obronie maga.\n"
+"\n"
+"Małe zwierzštka nie stanowiš raczej zagrożenia i raczej tylko rozpraszajš przeciwników rzucajšcych czary. Jednakże kiedy jeden z gryzoni umiera, istnieje 25% szansy że eksploduje kulš ognia, zadajšc 2k4 obrażeń wszystkim w promieniu 20 stóp (połowę przy udanym rzucie obronnym przeciw czarom)."
+
+#: wildmage/tra/english/text.tra:22501
+msgid "Corporeal Instability"
+msgstr "Cielesna Niestabilnoć"
+
+#: wildmage/tra/english/text.tra:22502
+msgid ""
+"Corporeal Instability* (Alteration)\n"
+"Level: 4\n"
+"Range: Visual sight of caster\n"
+"Duration: 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: One Creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"Corporeal Instability temporarily distorts the various bonds that hold the victim's body together.\n"
+"\n"
+"When the spell is cast on a creature, it has to save vs. spells at -5 or be liquefied. When failing the saving throw, the victim takes 1d20 points of system-shock damage as his body destabilizes into an amorphous, ever-shifting mass. The victim is unable to take any action for 1 round per level of the caster, but is also immune to anything save magical damage."
+msgstr ""
+"Cielesna Niestabilnoć* (Przemiany)\n"
+"Poziom: 4\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: 1 runda/poziom\n"
+"Czas rzucani: 3\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Neg.\n"
+"\n"
+"Cielesna Niestabilnoć niweluje łšczenia trzymajšce ciało ofiary w jednym kawałku.\n"
+"\n"
+"Kiedy czar jest rzucony, ofiara musi wykonać rzut obronny przeciw czarom z modyfikatorem -5 lub zostanie upłynniona. W takim przypadku otrzymuje 1k20 punktów obrażeń z powodu szoku systemu nerwowego, gdyż jego ciało zamienia się w amorficznš masę. Ofiara nie może wykonać żadnego ruchu przez 1 rundę na poziom rzucajšcego, lecz jest także odporna na każde obrażenia oprócz magicznych."
+
+#: wildmage/tra/english/text.tra:22601
+msgid "Random Spell II"
+msgstr "Losowy Czar II"
+
+#: wildmage/tra/english/text.tra:22602
+msgid ""
+"Random Spell II* (Invocation/Evocation)\n"
+"Level: 3\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This is a more powerful version of the 1st level spell Random Spell I. Random spell II, when cast, creates an effect equal to a randomly selected spell of 4th or 5th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Losowy Czar II* (Inwokacje/Wywołania)\n"
+"Poziom: 3\n"
+"Zasięg: 40 jardów\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucani: 1\n"
+"Obszar działania: specjalny\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"To potężniejsza wersja czaru 1 poziomu Losowy Czar I. Losowy Czar II tworzy po rzuceniu efekt losowo wybrany sporód czarów 4 i 5 poziomu.\n"
+"\n"
+"Rzucajšcy wybiera jednš istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucajšcego czar.\n"
+"\n"
+"Zaletš Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadš jest fakt iż rzucajšcy nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy."
+
+#: wildmage/tra/english/text.tra:22701
+msgid "Random Spell III"
+msgstr "Losowy Czar III"
+
+#: wildmage/tra/english/text.tra:22702
+msgid ""
+"Random Spell III* (Invocation/Evocation)\n"
+"Level: 5\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"Similar to the 1st and 3rd level spells, Random Spell III creates an effect equal to a randomly selected spell of 6th or 7th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Losowy Czar III* (Inwokacje/Wywołania)\n"
+"Poziom: 5\n"
+"Zasięg: 40 jardów\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucani: 1\n"
+"Obszar działania: specjalny\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Podobnie jak losowy czar z 1 i 3 poziomu, Losowy Czar III tworzy po rzuceniu efekt lofowo wybrany sporód czarów 6 i 7 poziomu.\n"
+"\n"
+"Rzucajšcy wybiera jednš istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucajšcego czar.\n"
+"\n"
+"Zaletš Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadš jest fakt iż rzucajšcy nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy."
+
+#: wildmage/tra/english/text.tra:22801
+msgid "Random Spell IV"
+msgstr "Losowy Czar IV"
+
+#: wildmage/tra/english/text.tra:22802
+msgid ""
+"Random Spell IV* (Invocation/Evocation)\n"
+"Level: 7\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"The most powerful version of Random Spell creates an effect equal to a randomly selected spell of 8th or 9th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Losowy Czar IV* (Inwokacje/Wywołania)\n"
+"Poziom: 7\n"
+"Zasięg: 40 jardów\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucani: 1\n"
+"Obszar działania: specjalny\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Jest to najsilniejsza wersja Losowego Czaru, tworzy losowy efekt czaru 9 poziomu.\n"
+"\n"
+"Rzucajšcy wybiera jednš istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucajšcego czar.\n"
+"\n"
+"Zaletš Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadš jest fakt iż rzucajšcy nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy."
+
+#: wildmage/tra/english/text.tra:22901
+msgid "Wildfire"
+msgstr "Dziki Czar"
+
+#: wildmage/tra/english/text.tra:22902
+msgid ""
+"Wildfire* (Invocation/Evocation)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"By means of this spell, the wild mage is able to channel raw magical energy through himself, shaping it into any form or effect he desires.\n"
+"\n"
+"Wildfire allows the caster to create the effect of any wizard spell of 8th level or lower. He need only have general knowledge of the spell and its effects; the spell does not need to be in his own spellbooks."
+msgstr ""
+"Dziki Czar* (Inwokacje/Wywołania)\n"
+"Poziom: 9\n"
+"Zasięg: 0\n"
+"Czas działania: specjalny\n"
+"Czas rzucani: 1\n"
+"Obszar działania: specjalny\n"
+"Rzut obronny: specjalny\n"
+"\n"
+"Poprzez ten czar dziki mag jest w stanie skanalizować surowš magicznš energię przez siebie, kształtujšc jš w cokolwiek tylko zechce.\n"
+"\n"
+"Dziki Czar pozwala rzucajšcemu utworzyć efekt jakiegokolwiek czaru poziomu 8 lub niższego. Musi on jedynie posiadać ogólnš wiedze na temat jego efektów; czar nie musi być w jego księdze czarów."
+
+#: wildmage/tra/english/text.tra:23001
+msgid "Mynoc's Irresistible Appeal"
+msgstr "Nieodparty Urok Mynoca"
+
+#: wildmage/tra/english/text.tra:23002
+msgid ""
+"Mynoc's Irresistible Appeal* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: Visual sight of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: none\n"
+"\n"
+"Other than its name suggests, this spell has nothing to do with making the caster more attractive. When Mynoc's Irresistible Appeal is cast, a rope consisting of raw magical energy appears; this rope loops itself around the targeted creature and then shortens, drawing the target toward the caster.\n"
+"\n"
+"There is no saving throw against this spell and it bypasses all magic resistances the targeted creature might have. While this spell is mainly used to get friends out of trouble (or learn to know new ones), some wild mages are known to be crazy enough to cast this spell on enemies to force them into melee-combat."
+msgstr ""
+"Nieodparty Urok Mynoca* (Inwokacje/Wywołania)\n"
+"Poziom: 1\n"
+"Zasięg: zasięg widzenia rzucajšcego\n"
+"Czas działania: natychmiastowy\n"
+"Czas rzucani: 1\n"
+"Obszar działania: 1 istota\n"
+"Rzut obronny: Brak\n"
+"\n"
+"W przeciwieństwie do tego co sugeruje nazwa, czar ten nie ma nic wspólnego z czynieniem maga bardziej atrakcyjnym. Kiedy rzucony zostaje Nieodparty Urok Mynoca, lina stworzona z surowej magii pojawia się; zapętla się ona wokół maga i wskazanej istoty a następnie skraca, przycišgajšc cel do maga.\n"
+"\n"
+"Czar nie ma rzutu obronnego i omija wszelkie magiczne odpornoci jakie może mieć istota. Czar jest zazwyczaj używany do wycišgania przyjaciół z tarapatów; niektórzy dzicy magowie sš na tyle szaleni by przycišgać do siebie wrogów zmuszajšc ich (i siebie) do walki wręcz."
+
+#: wildmage/tra/english/text.tra:23101
+msgid "Meece's Wildarmor"
+msgstr "Dziki Pancerz Meece"
+
+#: wildmage/tra/english/text.tra:23102
+msgid ""
+"Meece's Wildarmor* (Illusion/Phantasm)\n"
+"Level: 6\n"
+"Range: 0\n"
+"Duration: 5 rounds/level\n"
+"Casting Time: 4\n"
+"Area of Effect: The Caster\n"
+"Saving Throw: none\n"
+"\n"
+"This spell was created by the gnomish wild mage Meece Upknot as a means of combat protection. Meece couldn't decide whether stoutness or hiding is the best way to survive a fight, so he made a spell that combines both.\n"
+"\n"
+"The caster of the Wildarmor spell is protected by intense fluctuations in the magical weave around him. This distortion bends the laws of probability to a point where it serves as protection against all forms of damage. For the duration of the spell there is a high probability that any direct attack done to the caster has as smaller effect than it should have; thus all damage intended for the caster is reduced by 20%. However, there is also a 50% chance that the attack distorts the magic field surrounding the caster, causing a wild surge.\n"
+"\n"
+"After the damage done by an attack was reduced, the spell renders the caster invisible to avert further damage. This invisibility lasts for 5 rounds, until dispelled, or until the caster attacks any creature.\n"
+"\n"
+"The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level."
+msgstr ""
+"Dziki Pancerz Meece* (Iluzje)\n"
+"Poziom: 6\n"
+"Zasięg: 0\n"
+"Czas działania: 5 rund/poziom\n"
+"Czas rzucani: 4\n"
+"Obszar działania: rzucajšcy\n"
+"Rzut obronny: brak\n"
+"\n"
+"Czar ten został stworzony przez gnomiego maga Meece Upknota i miał służyć jako ochrona bojowa. Meece nie mógł zadecydować czy zwinnoć czy ukrywanie jest najlepszš metodš na przeżycie walki, więc stworzył czar który łšczy w sobie obie te rzeczy.\n"
+"\n"
+"Mag rzucajšcy Dziki Pancerz zostaje chroniony przez intensywne fluktuacje magicznych struktur dookoła niego. Te zniekształcenia naginajš prawa prawdopodobieństwa do punktu w którym zaczynajš one służyć ochronie przed każdego rodzaju obrażeniami. Na czas trwania czaru istnieje duże prawdopodobieństwo że wykonany na maga atak będzie miał mniejszy efekt niż powinien, ponieważ wszystkie obrażenia zostajš zredukowane o 20%. Istnieje jednak prawdopodobieństwo 50% że atak zakłuci magiczne pole otaczajšce maga, wywołujšc dzikš falę.\n"
+"\n"
+"Po otrzymaniu zredukowanych obrażeń, Dziki Pancerz czyni maga niewidzialnym, by uniknšł dalszych obrażeń. Niewidzialnoć trwa przez 5 rund, lub do czasu gdy zostanie rozproszona lub mag kogo zaatakuje.\n"
+"\n"
+"Czas trwania czaru wynosi 5 rund na poziom maga, aż do maksymalnie 2 godzin na 20 poziomie."
+
+#: wildmage/tra/english/text.tra:30111
+msgid "1st level"
+msgstr "1 poziom"
+
+#: wildmage/tra/english/text.tra:30112
+msgid "2nd level"
+msgstr "2 poziom"
+
+#: wildmage/tra/english/text.tra:30113
+msgid "3rd level"
+msgstr "3 poziom"
+
+#: wildmage/tra/english/text.tra:30114
+msgid "4th level"
+msgstr "4 poziom"
+
+#: wildmage/tra/english/text.tra:30115
+msgid "5th level"
+msgstr "5 poziom"
+
+#: wildmage/tra/english/text.tra:30116
+msgid "6th level"
+msgstr "6 poziom"
+
+#: wildmage/tra/english/text.tra:30117
+msgid "7th level"
+msgstr "7 poziom"
+
+#: wildmage/tra/english/text.tra:30118
+msgid "8th level"
+msgstr "8 poziom"
+
+#: wildmage/tra/english/text.tra:30119
+msgid "9th level"
+msgstr "9 poziom"
+
+#: wildmage/tra/english/text.tra:30120
+msgid "10th level"
+msgstr "10 poziom"
+
+#: wildmage/tra/english/text.tra:30121
+msgid "You don't have any suitable spells memorized."
+msgstr "Nie masz zapamiętanych żadnych odpowiednich czarów."
+
+#: wildmage/tra/english/text.tra:30122
+msgid "Wild Magic Backlash"
+msgstr "Podmuch Dzikiej Fali"
+
+#: wildmage/tra/english/text.tra:30301
+msgid "Shape Spell"
+msgstr "Kształtuj Czar"
+
+#: wildmage/tra/english/text.tra:30302
+msgid "Shaped Spell"
+msgstr "Ukształtowany Czar"
+
+#: wildmage/tra/english/text.tra:40101
+msgid "Hand"
+msgstr "Dłoń"
+
+#: wildmage/tra/english/text.tra:40102
+msgid ""
+"As a Spellshaper you have the ability to release the raw magical energy of memorized spells and \"weave\" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.\n"
+"\n"
+"\n"
+"SPELLSHAPER:\n"
+"\n"
+"The spellshaper is a practitioner of wild magic who casts his spells by virtue of raw magical talent or gift, as opposed to a wild mage's academic, systematic approach.\n"
+"\n"
+"Spellshapers share the sorcerer's intuitive understanding for arcane magic. They memorize spells like a wizard, yet have a second resource at their disposal: A Spellshaper has the ability to \"weave\" raw magic energy into spell effects of his desire, without need of preparing those spells ahead of time. This talent is anything but unfailing, and using it on a regular basis requires as much luck as recklessness. Persons who use such a talent aren't very popular among conservative spellcasters.\n"
+"\n"
+"Unlike the sorcerer, the spellshaper may learn spells from scrolls, and memorize and cast them like a wizard. Being opportunists at heart, rarely a spellshaper renounces this relative reliable way of working magic. It's usually reserved for those protective and last-resort spells that really need to work, though. The spellshaper's talent to cast spells spontaneously is so convenient that he prefers to use it whenever possible.\n"
+"\n"
+"Neglecting conventional spellcasting, and focussing on chaotic wild magic doesn't come without a price: A spellshaper can't memorize as many spells as a true mage, and his progress in getting access to new spell levels is much slower.\n"
+"\n"
+"Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character.\n"
+"\n"
+"Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties.\n"
+"\n"
+"One of the spellshaper's more eccentric character-traits is that he refuses any training in the use of missile weapons; for ranged combat, a spellshaper uses magic, and if magic fails he prefers melee.\n"
+"\n"
+"Advantages:\n"
+"-  Wild Magic (Casting level up to +/- 5)\n"
+"-  THAC0 advancement close to rogue\n"
+"-  5 lore rating per level\n"
+"-  Weave Spell ability\n"
+"-  Weaveshear ability\n"
+"-  Shape Spell ability\n"
+"-  May learn combat-related 'feats'\n"
+"\n"
+"Disadvantages:\n"
+"-  Wild Magic (Casting level up to +/- 5)\n"
+"-  5% Chance for Wild Surge\n"
+"-  Much slower spell progression\n"
+"-  Less wizard spell slots\n"
+"-  Can't raise the number of spell slots\n"
+"-  -5 to hit and -2 damage with missiles\n"
+"-  May wear only one ring\n"
+"-  Alignment must be chaotic\n"
+msgstr ""
+"Jako Spellshaper masz umiejętnoć uwalniania dzikiej, surowej energii magicznej zapamiętanych czarów i kształtowania jej w inne czary. Kształt magicznej mocy jest limitowany jedynie twojš wyobraniš. Noszšc piercień na tej ręce mógłby mieć nie tylko skrępowane ruchy, lecz mogłoby to zakłócać przepływ magii, uniemożliwiajšc ci korzystanie z twoich unikalnych zdolnoci\n"
+"\n"
+"\n"
+"SPELLSHAPER:\n"
+"\n"
+"Spellshaper jest użytkownikiem dzikiej magii, który rzuca czary korzystajšc z talentu lub daru, w przeciwieństwie do systematycznego i akademickiego podejcia innych magów.\n"
+"\n"
+"Podobnie jak Czarownik, Spellshaper pojmuje arkana magii w intuicyjny sposób. Zapamiętuje czary jak mag, lecz ma do dyspozycji także drugie ich ródło: Shpellshaper ma umiejętnoć \"Tkania\" surowej magicznej energii w kształt efektu jakiego sobie życzy, bez potrzeby uprzedniego zapamiętywania tych czarów. O tym talencie można powiedzieć wszystko ale nie to że jest niezawodny, używanie go na co dzień wymaga tyleż lekkomylnoci co szczęcia. Osoby obdarzone takim talentem nie sš popularne wród konserwatywnych magów.\n"
+"\n"
+"W przeciwieństwie do Czarownika, Spellshaper może uczyć się czarów ze zwojów i zapamiętywać je i rzucać podobnie jak mag. Będšc oportunistš spellshaper rzadko rezygnuje z relatywnie przewidywalnego działania magii. Rezerwuje jednak ten sposób dla czarów ochronnych i ostatniej szansy, na których musi polegać i być pewnym powodzenia. Jego talent do spontanicznego rzucania czarów jest na tyle przydatny, że woli go używać kiedy tylko to możliwe.\n"
+"\n"
+"Pominięcie konwencjonalnej formy czarowania i skupienie się na chaotycznej dzikiej magii ma swojš cenę: Spellshaper nie może zapamiętać tak wielu czarów jak prawdziwy mag, a jego postęp w poznawaniu nowych poziomów czarów jest znacznie wolniejszy.\n"
+"\n"
+"Osoby tej profesji zwykły być również nieco ekscentryczne: Ich niezdyscyplinowana natura pozwoliła im opanować alternatywnš metodę rzucania czarów, jednoczenie też cišgły kontakt z chaotycznš magiš wpłynšł na ich osobowoć jeszcze bardziej. Podobnie jak bard, spellshaper ma wiele zainteresowań: Intuicyjnie uczy się po trochu wszystkiego co napotyka na swojej drodze, lecz brak mu dyscypliny by stać się w której z tych dziedzin konkurencyjny dla osób skupionych na niej.\n"
+"\n"
+"Spellshaper jest na tyle mšdry by nie polegać całkowicie na swoich gronych i nieprzewidywalnych zdolnociach. Dzieli czas na ćwiczenia mentalne i bojowe. Nie sš wojownikami, lecz ich zdolnoci w walce wręcz można porównać do tych prezentowanych przez złodziei. Wraz z rozwojem spellshaper może nauczyć się specjalnych zdolnoci zwiększajšcych jego umiejętnoci bojowe, wliczajšc w to sztyletowanie, mistrzostwo w sztyletach, czy unikalnš zdolnoć walki dwoma broniami na raz bez żadnych przeszkód.\n"
+"\n"
+"Jednš z najbardziej ekscentrycznych cech charakterystycznych jest ta że Spellshaper nie specjalizuje się nigdy w broniach pociskowych; do walki dystansowej używa magii, a jeli ta zawiedzie, preferuje walkę wręcz.\n"
+"\n"
+"\n"
+"Zalety:\n"
+"-  Dzika Magia (Zmiana poziomu przy rzucaniu czarów ą 5)\n"
+"-  przyrost TRAK0 podobny do tego u łotrzyków\n"
+"-  5 punktów wiedzy na poziom\n"
+"-  Umiejętnoć Tkania Czarów\n"
+"-  Umiejętnoć Rozerwania Struktur magii\n"
+"-  Umiejętnoć Kształtowania Czarów\n"
+"-  Może się nauczyć kilku umiejętnoci do walki wręcz\n"
+"\n"
+"Wady:\n"
+"-  Dzika Magia (Zmiana poziomu przy rzucaniu czarów ą 5)\n"
+"-  5% szansy na Dzikš Falę\n"
+"-  Wolny postęp w poznawaniu czarów\n"
+"-  Mniej czarów/dzień niż mag\n"
+"-  Nie może zwiększać iloci czarów możliwych do zapamiętania\n"
+"-  -5 do trafienia i -2 do obrażeń pociskami\n"
+"-  Może nosić tylko 1 piercień\n"
+"-  Charakter musi być chaotyczny\n"
+
+#: wildmage/tra/english/text.tra:40201
+msgid "Skull Bomb"
+msgstr "Eksplodujšca czaszka "
+
+#: wildmage/tra/english/text.tra:40202
+msgid ""
+"This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...\n"
+"\n"
+"STATISTICS:\n"
+"Casts the spell \"Skull Trap\" at caster-level 12\n"
+"\n"
+"Not Usable By:\n"
+" Non-chaotic alignments\n"
+" Wizard Slayer"
+msgstr ""
+"Ta dziwna czaszka pewnej nocy pojawiła się w twoim ekwipunku. Drży od magicznej energii. Mógłby się założyć że wyglšda tak samo jak ta pojawiajšca się przy rzucaniu czaru Eksplodujšca Czaszka. Jednak zamiast unoić się w powietrzu, leży ona sobie psokojnie w twojej kieszeni. Nie masz pojęcia dlaczego jeszcze nie wybuchła jednak z jakiego powodu cię to cieszy. Najlepiej będzie jeli rzucisz niš w jakiego łajdaka i to jak najszybciej...\n"
+"\n"
+"PARAMETRY:\n"
+"Rzuca \"Eksplodujšcš Czaszkę\" z efektem 12poziomowego maga\n"
+"\n"
+"Nie może używać:\n"
+" Nie chaotyczne osoby\n"
+" Zabójca Magów"
+
+#: wildmage/tra/english/text.tra:40301
+msgid "Dead Cat"
+msgstr "Martwy Kot"
+
+#: wildmage/tra/english/text.tra:40302
+msgid "This appears to be a dead cat. It is extremely well preserved and looks as if it is sleeping."
+msgstr "Ten kot wyglšda na martwego. Jest doskonale zachowany i wyglšda zupełnie tak jakby spał."
+
+#: wildmage/tra/english/text.tra:40401
+msgid "Teddy Bear"
+msgstr "Pluszowy Mi"
+
+#: wildmage/tra/english/text.tra:40402
+msgid "Although this cute teddy bear looks quite old, it's still in good condition."
+msgstr "Mi jest w dobrym stanie, mimo iż wyglšda na dosyć starego."
+
+#: wildmage/tra/english/text.tra:40403
+msgid "Teddy Bear of Protection +2, +4 vs. Demons"
+msgstr "Pluszowy Mi Ochrony +2, +4 przeciw Demonom"
+
+#: wildmage/tra/english/text.tra:40404
+msgid ""
+"Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'\n"
+"The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.\n"
+"\n"
+"Although Halycron spent much time for his son's safety and education in the arts of magic, he neglected to teach him the necessary discipline and precautionary measures. At the age of six, Halycron's son accidentally summoned a demon while his parents weren't at home. When Halcroyn and his wive returned, the house was burned down, and the babysitter devoured by the demon. In midst of the ruins, they found their son cowering under an almost unscathed table, tightly holding his beloved teddy bear.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Armor Class:  +2 bonus (+4 vs. Demons)\n"
+"Saving Throws:  +2 bonus (+4 vs. Demons)\n"
+"\n"
+"Not Usable By:\n"
+" Wizard Slayer"
+msgstr ""
+"Pluszowy Mi Ochrony +2, +4 przeciw Demonom:  'Dzielny Pooki'\n"
+"Pluszowy mi obrony został wykonany przez arcymaga Halycron Maeral dla swojego nielubnego syna. Ktokolwiek posiada misia uzyskuje ochronę jakš zapewnia Piercień ochrony +2.\n"
+"\n"
+"Mimo iż Halycorn spędził sporo czasu nad zapewnieniem synowi bezpieczeństwa i edukacji magicznej, nie nauczył go koniecznej dyscypliny i oceny sytuacji. W wieku szeciu lat jego syn przypadkowo przywołał demona pod nieobecnoć rodziców. Kiedy arcymag wrócił, dom był spalony a opiekunka do dzieci ogłuszona przez demona. Poród rumowiska znalazł syna ukrytego pod niemal nietkniętym stołem, mocno trzymajšcego swojego pluszowego misia.\n"
+"\n"
+"PARAMETRY:\n"
+"\n"
+"Klasa pancerza:  +2 (+4 przeciw Demons)\n"
+"Rzuty obronne:  +2 (+4 przeciw Demons)\n"
+"\n"
+"Nie może uzywać:\n"
+" Zabójca Magów"
+
+#: wildmage/tra/english/text.tra:40501
+msgid "Rhialto's Spellbook"
+msgstr "Księga czarów Rhialto"
+
+#: wildmage/tra/english/text.tra:40502
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+"Księga ta należała do Rhialto \"Cudownego\". Zdobyłe jš tuż po jego gwałtownym zgonie.\n"
+"\n"
+"Choć ksišżka jest raczej w złym stanie - wyrwane kartki, szalone notatki pojawiajšce się wszędzie, wcišż promieniuje magicznš mocš.\n"
+"\n"
+"Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłby spróbować się naczyć rzucania niektórych z nich.\n"
+"\n"
+"PARAMETRY:\n"
+"\n"
+"Może używać:\n"
+" Dziki Mag"
+
+#: wildmage/tra/english/text.tra:40503
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"This book is as much a diary and a notebook as it is a spellbook. Although he clearly was a madman when you met him, Rhialto once must have been a genius; not only did he develop new spells, he also was obsessed with learning alternative ways of spellcasting, this is what led him to wild magic in the first place, and most likely caused his insanity in the end.\n"
+"\n"
+"Some of the pages are covered with mystic runes that may be used to invoke the spells inscribed on these pages - a convenient way to cast those spells instantly without having to memorize them. Only a small selection of the spells is prepared like this, though; seems like Rhialto found other ways to cast spells on demand.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"May be used once per day to cast one of the following spells:\n"
+" Armor\n"
+" Chaos Shield\n"
+" Dispel Magic\n"
+" Friends\n"
+" Gymlainac's Lightbend\n"
+" Horror\n"
+" Invisibility\n"
+" Larloch's Minor Drain\n"
+" Rhialto's Random Missiles\n"
+" Wizard Eye\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+"Księga ta należała do Rhialto \"Cudownego\". Zdobyłe jš tuż po jego gwałtownym zgonie.\n"
+"\n"
+"Choć ksišżka jest raczej w złym stanie - wyrwane kartki, szalone notatki pojawiajšce się wszędzie, wcišż promieniuje magicznš mocš.\n"
+"\n"
+"Księga ta przypomina bardziej pamiętnik lub notatnik niż księgę czarów. Rhialto z pewnociš był szaleńcem kiedy go spotkałe, lecz kidy musiał być geniuszem; nie tylko wynalazł nowe czary, ale był też opętany naukš nowej formy sposobu rzucania czarów, co najpierw skłoniło go do dzikiej magii, a następnie szaleństwa.\n"
+"\n"
+"Niektóre strony sš pokryte mistycznymi runami mogacymi wywołać czary zapisane na kartach - wygodny sposób natychmiastowego rzucenia czarów bez koniecznoci zapamiętywania ich. Jedynie niewielka częć czarów w księdze posiada te runy, wyglšda na to że Rhialto znalazł inny sposób rzucania czarów bez zapamiętywania ich.\n"
+"\n"
+"Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłby spróbować się naczyć rzucania niektórych z nich.\n"
+"\n"
+"PARAMETRY:\n"
+"\n"
+"Może zostać urzyta raz dziennie do rzucenia jednego z następujšcych czarów:\n"
+" Zbroja\n"
+" Tarcza Chaosu\n"
+" Rozproszenie magii\n"
+" Przyjaciele\n"
+" Zagięcie wiatła Gymlainaca\n"
+" Groza\n"
+" Niewidzialnoć\n"
+" Pomniejsze dršżenie Larlocha\n"
+" Losowe Pociski Rhialto\n"
+" Oko czarodzieja\n"
+"\n"
+"Może używać:\n"
+"Dziki Mag"
+
+#: wildmage/tra/english/text.tra:40511
+msgid "Read"
+msgstr "Przeczytaj"
+
+#: wildmage/tra/english/text.tra:50101
+msgid "Rhialto the Marvelous"
+msgstr "Rhialto Cudowny"
+
+#: wildmage/tra/english/text.tra:50102
+msgid "Rhialto"
+msgstr "Rhialto"
+
+#: wildmage/tra/english/text.tra:50111
+msgid "Wild Surge: Caster changed into a squirrel"
+msgstr "Dzika fala: rzucajšcy zamienia się w wiewiórkę"
+
+#: wildmage/tra/english/text.tra:69998
+msgid "Letter"
+msgstr "List"
+
+#: wildmage/tra/english/text.tra:69999
+msgid ""
+"My dear friend Gorion,\n"
+"\n"
+"be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.\n"
+"\n"
+"E."
+msgstr ""
+"Moje zycie Gorion,\n"
+"\n"
+"Musisz ogladac panstwa wyjazd dobrze, poza mury Candlekeep prowadzi Hasardeur wokós. Nie sa nam znane jego intencje. Czy ma Pan Candlekeep bezpiecznie opuscic, zwrotu nie wrócic.\n"
+"\n"
+"E."

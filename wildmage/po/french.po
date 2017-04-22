@@ -1,0 +1,2077 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-1-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: tra2po v.1.0.2\n"
+
+#: wildmage/tra/english/setup.tra:2
+msgid "Wild Mage Additions: Spellshaper Kit"
+msgstr "Wild Mage Additions : Kit du Tisseur de Sorts"
+
+#: wildmage/tra/english/setup.tra:3
+msgid "Wild Mage Additions: Spellshaper - Avatar Change"
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:4
+msgid "Misc spell modifications"
+msgstr "Diverses Modifications de Sorts"
+
+#: wildmage/tra/english/setup.tra:5
+msgid "Stationary BG1-Rhialto (haughty pansy mode)"
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:10
+msgid "TOB is required to install this mod."
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:20
+msgid "You must have \"New Wild Magic Spells\" installed!"
+msgstr ""
+
+#: wildmage/tra/english/setup.tra:30
+msgid "You must have \"Spellshaper Kit\" installed!"
+msgstr ""
+
+#: wildmage/tra/english/dialog.tra:0
+msgid "You open Rhialto's spellbook for the first time. It's an insane mess of random notes, illegible scribble and childish drawings; all over smeared with blood, bile and some other stuff you can't (and don't even want to) recognize. Amazingly, some of the spell entries are still legible."
+msgstr "Vous ouvrez le livre de sorts de Rhialto pour la première fois. C'est un capharnaüm de notes aléatoires, d'indéchiffrables gribouillages et de dessins enfantins, complètement tâchés de sang, de bile et d'autres trucs que vous n'arrivez pas à (et ne voulez surtout pas) reconnaître. Étonnamment, certaines entrées de sorts restent lisibles."
+
+#: wildmage/tra/english/dialog.tra:1
+msgid "Again you risk a look into Rhialto's spellbook. You carefully separate two sheets that were stuck together, just to discover a nasty drawing of an old sage with long beard and pointy hat, that seems to glare longingly at something that looks like a petrified goat."
+msgstr "Vous risquez un nouveau coup d'oeil dans le livre de sorts de Rhialto. Vous séparez avec précaution deux feuilles qui était collées, pour découvrir un dessin antipathique d'un vieux sage avec une longue barbe et un chapeau pointu, qui semble fixer avec envie quelque chose qui ressemble à un bouc pétrifié."
+
+#: wildmage/tra/english/dialog.tra:2
+msgid "You open the spellbook at a random page and notice some scribble you haven't seen before: \"<CHARNAME>, keep your dirty hands off my spellbook!\""
+msgstr "Vous ouvrez le livre de sorts à une page au hasard, et remarquez un gribouillage que vous n'aviez pas vu auparavant : \"<CHARNAME>, enlevez vos sales pattes de mon livre de sorts !\""
+
+#: wildmage/tra/english/dialog.tra:3
+msgid "When you open Rhialto's spellbook, one of the pages comes loose and falls out."
+msgstr "Quand vous ouvrez le livre de sorts de Rhialto, une des pages se détache et tombe par terre."
+
+#: wildmage/tra/english/dialog.tra:4
+msgid "Rhialto's spellbook is still a mess, and his mind must have been quite the same; you wonder if the same madness could affect you, when you continue to read his writings."
+msgstr "Le livre de sorts de Rhialto est toujours en désordre, et son esprit devait l'être aussi ; vous vous demandez si la même folie pourrait vous toucher si vous continuez à lire ses écrits."
+
+#: wildmage/tra/english/dialog.tra:5
+msgid "Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile you're getting used to it."
+msgstr "Vous ouvrez à nouveau le livre de sorts de Rhialto ; tout est toujours aussi désordonné, mais vous commencez à vous y faire."
+
+#: wildmage/tra/english/dialog.tra:6
+msgid "You continue to study Rhialto's spellbook."
+msgstr "Vous continuez à étudier le livre de sorts de Rhialto."
+
+#: wildmage/tra/english/dialog.tra:7
+msgid "Rhialto may have been insane, but his knowledge was great indeed."
+msgstr "Rhialto était peut-être fou, mais son savoir était véritablement immense."
+
+#: wildmage/tra/english/dialog.tra:8
+msgid "Although you're sure that you've learned every spell from this this spellbook, you still feel the strong urge to risk another look."
+msgstr "Bien que vous soyez sûr d'avoir appris chaque sort de ce livre, vous ressentez pourtant une forte envie de risquer un nouveau coup d'oeil."
+
+#: wildmage/tra/english/dialog.tra:9
+msgid "When you open Rhialto's spellbook again, it crumbles to dust."
+msgstr "Alors que vous ouvrez de nouveau le livre de sorts de Rhialto, il tombe en poussière."
+
+#: wildmage/tra/english/dialog.tra:10
+msgid "Study the spellbook for a while, and see if you can learn something new."
+msgstr "Étudier le livre de sorts pendant un moment, et voir si vous pouvez apprendre quelque chose de neuf."
+
+#: wildmage/tra/english/dialog.tra:11
+msgid "Close the book."
+msgstr "Fermer le livre."
+
+#: wildmage/tra/english/dialog.tra:12
+msgid "When you examine this strange spell closer, it proves to be utterly useless. No point in learning it."
+msgstr "Quand vous examinez ce sort étrange de plus près, il s'avère être complètement inutile. Aucun intérêt à l'apprendre."
+
+#: wildmage/tra/english/dialog.tra:13
+msgid "You spend some time, browsing trough the book..."
+msgstr "Vous passez un peu de temps à parcourir le livre..."
+
+#: wildmage/tra/english/dialog.tra:14
+msgid "You found something of interest."
+msgstr "Vous avez trouvé quelque chose d'intéressant."
+
+#: wildmage/tra/english/dialog.tra:15
+msgid "You find nothing new."
+msgstr "Vous ne trouvez rien de nouveau."
+
+#: wildmage/tra/english/dialog.tra:16
+msgid "You try to learn the spell, but it's too difficult, you need more experience in the art before you can learn it."
+msgstr "Vous essayez d'apprendre le sort, mais c'est trop difficile, vous avez besoin de plus d'expérience dans cet art pour y arriver."
+
+#: wildmage/tra/english/dialog.tra:17
+msgid "You succeed in learning the spell."
+msgstr "Vous réussissez à apprendre le sort."
+
+#: wildmage/tra/english/dialog.tra:18
+msgid "As much as you try to concentrate, you read a line and forget it in the same moment; as if someone powerful wipes it from your memory. Obviously someone doesn't want you to know this spell."
+msgstr "Malgré tous vos efforts de concentration, vous lisez une ligne et l'oubliez immédiatement, comme si quelqu'un de puissant l'effaçait de votre mémoire. A l'évidence, quelqu'un ne veut pas que vous connaissiez ce sort."
+
+#: wildmage/tra/english/dialog.tra:19
+msgid "You close the book."
+msgstr "Vous fermez le livre."
+
+#: wildmage/tra/english/dialog.tra:20
+msgid "Try to learn the spell \"Random Spell I\"."
+msgstr "Essayer d'apprendre le sort \"Sort Aléatoire I\"."
+
+#: wildmage/tra/english/dialog.tra:21
+msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
+msgstr "Essayer d'apprendre le sort \"Conduit Chaotique de Rhialto\"."
+
+#: wildmage/tra/english/dialog.tra:22
+msgid "Try to learn the spell \"Rodent Form\"."
+msgstr "Essayer d'apprendre le sort \"Forme de Rongeur\"."
+
+#: wildmage/tra/english/dialog.tra:23
+msgid "Try to learn the spell \"Blade Shower\"."
+msgstr "Essayer d'apprendre le sort \"Douche de Lames\"."
+
+#: wildmage/tra/english/dialog.tra:24
+msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
+msgstr "Essayer d'apprendre le sort \"Projectiles Aléatoires de Rhialto\"."
+
+#: wildmage/tra/english/dialog.tra:25
+msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
+msgstr "Essayer d'apprendre le sort \"Courbure de l'Espace de Gymlainac\"."
+
+#: wildmage/tra/english/dialog.tra:26
+msgid "Try to learn the spell \"Vile Word of Discord\"."
+msgstr "Essayer d'apprendre le sort \"Vil Mot de Discorde\"."
+
+#: wildmage/tra/english/dialog.tra:27
+msgid "Try to learn the spell \"Cellular Regeneration\"."
+msgstr "Essayer d'apprendre le sort \"Régénération Cellulaire\"."
+
+#: wildmage/tra/english/dialog.tra:28
+msgid "Try to learn the spell \"Glyph of Wild Magic\"."
+msgstr "Essayer d'apprendre le sort \"Glyphe de Magie Entropique\"."
+
+#: wildmage/tra/english/dialog.tra:29
+msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
+msgstr "Essayer d'apprendre le sort \"Veine Chanceuse de Paithan\"."
+
+#: wildmage/tra/english/dialog.tra:30
+msgid "Try to learn the spell \"Vortex\"."
+msgstr "Essayer d'apprendre le sort \"Vortex\"."
+
+#: wildmage/tra/english/dialog.tra:31
+msgid "Try to learn the spell \"Paithan's Fiasco\"."
+msgstr "Essayer d'apprendre le sort \"Fiasco de Paithan\"."
+
+#: wildmage/tra/english/dialog.tra:32
+msgid "Try to learn the spell \"Wildstrike\"."
+msgstr "Essayer d'apprendre le sort \"Frappe Entropique\"."
+
+#: wildmage/tra/english/dialog.tra:33
+msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
+msgstr "Essayer d'apprendre le sort \"Envoi Aléatoire de Hornung\"."
+
+#: wildmage/tra/english/dialog.tra:34
+msgid "Try to learn the spell \"Summon Cow\"."
+msgstr "Essayer d'apprendre le sort \"Convocation de Vache\"."
+
+#: wildmage/tra/english/dialog.tra:35
+msgid "Try to learn the spell \"Eye of the Beholder\"."
+msgstr "Essayer d'apprendre le sort \"Oeil du Spectateur\"."
+
+#: wildmage/tra/english/dialog.tra:36
+msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
+msgstr "Essayer d'apprendre le sort \"Récupération Entropique de Mynoc\"."
+
+#: wildmage/tra/english/dialog.tra:37
+msgid "Try to learn the spell \"Entropy Shield\"."
+msgstr "Essayer d'apprendre le sort \"Bouclier Entropique\"."
+
+#: wildmage/tra/english/dialog.tra:38
+msgid "Try to learn the spell \"Wild Sphere\"."
+msgstr "Essayer d'apprendre le sort \"Sphère Entropique\"."
+
+#: wildmage/tra/english/dialog.tra:39
+msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
+msgstr "Essayer d'apprendre le sort \"Réincarnation Merveilleuse de Rhialto\"."
+
+#: wildmage/tra/english/dialog.tra:40
+msgid "Try to learn the spell \"Rhialto's Avatar\"."
+msgstr "Essayer d'apprendre le sort \"Avatar de Rhialto\"."
+
+#: wildmage/tra/english/dialog.tra:41
+msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
+msgstr "Essayer d'apprendre le sort \"Appel Irrésistible de Mynoc\"."
+
+#: wildmage/tra/english/dialog.tra:42
+msgid "Try to learn the spell \"Summon Wild Horde\"."
+msgstr "Essayer d'apprendre le sort \"Convocation de Horde Sauvage\"."
+
+#: wildmage/tra/english/dialog.tra:43
+msgid "Try to learn the spell \"Random Spell II\"."
+msgstr "Essayer d'apprendre le sort \"Sort Aléatoire II\"."
+
+#: wildmage/tra/english/dialog.tra:44
+msgid "Try to learn the spell \"Corporeal Instability\"."
+msgstr "Essayer d'apprendre le sort \"Instabilité Corporelle\"."
+
+#: wildmage/tra/english/dialog.tra:45
+msgid "Try to learn the spell \"Random Spell III\"."
+msgstr "Essayer d'apprendre le sort \"Sort Aléatoire III\"."
+
+#: wildmage/tra/english/dialog.tra:46
+msgid "Try to learn the spell \"Meece's Wild Armour\"."
+msgstr "Essayer d'apprendre le sort \"Armure Entropique de Meece\"."
+
+#: wildmage/tra/english/dialog.tra:47
+msgid "Try to learn the spell \"Random Spell IV\"."
+msgstr "Essayer d'apprendre le sort \"Sort Aléatoire IV\"."
+
+#: wildmage/tra/english/dialog.tra:48
+msgid "Try to learn the spell \"Entropy Burst\"."
+msgstr "Essayer d'apprendre le sort \"Décharge d'Entropie\"."
+
+#: wildmage/tra/english/dialog.tra:49
+msgid "Try to learn the spell \"Wildfire\"."
+msgstr "Essayer d'apprendre le sort \"Feu Entropique\"."
+
+#: wildmage/tra/english/dialog.tra:100
+msgid "Well, well, well... What do we have here?  Greetings, young one, No doubt you're honored to meet Rhialto the Marvelous."
+msgstr "Bien, bien, bien... Qu’avons-nous là ? Salutations, jeune homme. Nul doute êtes-vous honoré de rencontrer Rhialto le Merveilleux."
+
+#: wildmage/tra/english/dialog.tra:101
+msgid "Ah yes, you are perfect. Be honored, young one, for your existence now has a purpose: Rhialto the Marvelous needs your spleen."
+msgstr "Ah oui, vous êtes parfait. Soyez honoré, jeune homme, puisque votre existence a maintenant un objectif : Rhialto le Merveilleux a besoin de votre rate."
+
+#: wildmage/tra/english/dialog.tra:102
+msgid "It will be the final component for the greatest spell that was worked since, well, since ever!!!  Of course, it needs to be extracted while you're still alive, otherwise it would be worthless as an ingredient."
+msgstr "Ce sera le composant final du plus grand sort conçu depuis, depuis toujours en fait !!! Bien sûr, il faut qu'elle soit extraite alors que vous êtes en vie, autrement elle ne vaudrait rien en tant qu'ingrédient."
+
+#: wildmage/tra/english/dialog.tra:103
+msgid "But it won't be too painful... Well, at least it won't take too long.  Rhialto the Marvelous is a very experienced surgeon, it will only take an hour or two..."
+msgstr "Mais ça ne sera pas trop douloureux... Bon, du moins ça ne durera pas trop longtemps. Rhialto le Merveilleux est un chirurgien très expérimenté, ça ne prendra qu'une heure ou deux..."
+
+#: wildmage/tra/english/dialog.tra:110
+msgid "So we meet again... You seem to have grown more self-confident since Rhialto the Marvelous had his little accident. It is just fitting that you, who caused his downfall by your insolent resistance, brought Rhialto back to life."
+msgstr "Ainsi nous nous rencontrons de nouveau... Vous semblez avoir plus confiance en vous depuis que Rhialto le Merveilleux a eu son petit accident. Ce n'est que justice que vous, qui avez causé sa chute avec votre insolente résistance, ayez ramené Rhialto à la vie."
+
+#: wildmage/tra/english/dialog.tra:111
+msgid "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!"
+msgstr "Mais pour cela, vous avez dû lire le livre de sorts de Rhialto. Rhialto le Merveilleux n'aime pas qu'on touche à ses affaires !!!"
+
+#: wildmage/tra/english/dialog.tra:200
+msgid "Select a Special Ability\n"
+msgstr "Choisissez une capacité spéciale"
+
+#: wildmage/tra/english/dialog.tra:201
+msgid "Ambidexterity (1st Rank)"
+msgstr "Ambidextrie (Rang 1)"
+
+#: wildmage/tra/english/dialog.tra:202
+msgid "Ambidexterity (2nd Rank)"
+msgstr "Ambidextrie (Rang 2)"
+
+#: wildmage/tra/english/dialog.tra:203
+msgid "Backstabbing (x2)"
+msgstr "Attaque Sournoise (x2)"
+
+#: wildmage/tra/english/dialog.tra:204
+msgid "Backstabbing Adept (x3)"
+msgstr "Adepte de l'Attaque Sournoise (x3)"
+
+#: wildmage/tra/english/dialog.tra:205
+msgid "Backstabbing Expert (x4)"
+msgstr "Expert de l'Attaque Sournoise (x4)"
+
+#: wildmage/tra/english/dialog.tra:206
+msgid "Backstabbing Master (x5)"
+msgstr "Maître de l'Attaque Sournoise (x5)"
+
+#: wildmage/tra/english/dialog.tra:207
+msgid "Combat Speed"
+msgstr "Vitesse de Combat"
+
+#: wildmage/tra/english/dialog.tra:208
+msgid "Dagger Specialization"
+msgstr "Spécialisation en Dagues"
+
+#: wildmage/tra/english/dialog.tra:209
+msgid "Dagger Mastery"
+msgstr "Maîtrise de la Dague"
+
+#: wildmage/tra/english/dialog.tra:210
+msgid "Improved Criticals"
+msgstr "Science du Critique"
+
+#: wildmage/tra/english/dialog.tra:211
+msgid "Toughness"
+msgstr "Dur à Cuire"
+
+#: wildmage/tra/english/dialog.tra:212
+msgid "Vicious hits"
+msgstr "Coups Vicieux"
+
+#: wildmage/tra/english/dialog.tra:213
+msgid "Rogue High Level Ability: \"Assassination\""
+msgstr "Aptitude de Haut Niveau de Voleur : \"Assassinat\""
+
+#: wildmage/tra/english/dialog.tra:214
+msgid "Rogue High Level Ability: \"Avoid Death\""
+msgstr "Aptitude de Haut Niveau de Voleur : \"Prévention de la Mort\""
+
+#: wildmage/tra/english/dialog.tra:215
+msgid "Rogue High Level Ability: \"Evasion\""
+msgstr "Aptitude de Haut Niveau de Voleur : \"Evasion\""
+
+#: wildmage/tra/english/dialog.tra:216 wildmage/tra/english/text.tra:30101
+msgid "Weave Spell"
+msgstr "Tisser un Sort"
+
+#: wildmage/tra/english/dialog.tra:217 wildmage/tra/english/text.tra:30201
+msgid "Weaveshear"
+msgstr "Explosion Entropique"
+
+#: wildmage/tra/english/dialog.tra:220
+msgid "You don't know exactly what just happened, but in the heat of battle you somehow managed to cast a spell spontaneously."
+msgstr "Vous ne savez exactement ce qu'il vient de se passer, mais dans la furie du combat vous avez d'une certaine façon réussi à lancer un sort spontanément."
+
+#: wildmage/tra/english/dialog.tra:221
+msgid "Now you feel a strange wave of magical power rising within you. Whatever is happening, somehow you feel that if you yield to it, you will be changed forever."
+msgstr "Vous ressentez maintenant une étrange onde de pouvoir magique en vous. Quoiqu'il soit en train de se produire, vous sentez quelque part que si vous y cédez, vous en serez transformé pour toujours."
+
+#: wildmage/tra/english/dialog.tra:222
+msgid "Embrace this new power."
+msgstr "Embrasser ce nouveau pouvoir."
+
+#: wildmage/tra/english/dialog.tra:223
+msgid "Try to suppress it."
+msgstr "Essayer de le supprimer."
+
+#: wildmage/tra/english/dialog.tra:224
+msgid "Whatever that was, you were strong enough to suppress it."
+msgstr "Quoi que ce fut, vous avez été suffisamment fort pour le supprimer."
+
+#: wildmage/tra/english/dialog.tra:225
+msgid "A surge of chaotic energy overwhelms you."
+msgstr "Un flot d'énergie chaotique vous submerge."
+
+#: wildmage/tra/english/dialog.tra:230
+msgid "When you give in to the surge of magical power, you feel that your understanding of the magical Weave changes."
+msgstr "Alors que vous vous laissez submerger par l'afflux de pouvoir magique, vous sentez que votre compréhension de la Toile magique change."
+
+#: wildmage/tra/english/dialog.tra:231
+msgid "Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic."
+msgstr "Vous essayez pour la première fois d'étudier le chaos autour de vous, le pliant à votre volonté, puisant votre force du reflux et du flot imprévisibles de la magie entropique."
+
+#: wildmage/tra/english/dialog.tra:232
+msgid "Now you feel a close relation to the Weave. You now are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr "Vous ressentez maintenant une relation étroite avec la Toile. Vous êtes à présent capable d'emmêler la Toile, la refaçonner, la tisser au gré de votre imagination."
+
+#: wildmage/tra/english/text.tra:10101
+msgid "Wild Magic"
+msgstr "Magie Entropique"
+
+#: wildmage/tra/english/text.tra:10201
+msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
+msgstr "La Magie Entropique a permis à vos rêves de se réaliser (quel qu'en soit le bénéfice...)"
+
+#: wildmage/tra/english/text.tra:10301
+msgid "THAC0 Reduced by 1"
+msgstr "TAC0 réduit de 1"
+
+#: wildmage/tra/english/text.tra:10302
+msgid "Backstab Multiplier Increased by 1"
+msgstr "Multiplicateur d'Attaque Sournoise Augmenté de 1"
+
+#: wildmage/tra/english/text.tra:10303
+msgid "Dagger Proficiency raised to 2 (Specialized)"
+msgstr "Compétence Dague augmentée à 2 (Spécialiste)"
+
+#: wildmage/tra/english/text.tra:10304
+msgid "Dagger Proficiency raised to 3 (Master)"
+msgstr "Compétence Dague augmentée à 3 (Maître)"
+
+#: wildmage/tra/english/text.tra:10305
+msgid "Gained Ambidexterity (1st Rank)"
+msgstr "Acquiert Ambidextrie (Rang 1)"
+
+#: wildmage/tra/english/text.tra:10306
+msgid "Raised Ambidexterity to 2nd Rank"
+msgstr "Ambidextrie élevée au Rang 2"
+
+#: wildmage/tra/english/text.tra:10307
+msgid "Gained +1 Melee Damage Bonus"
+msgstr "Gain de +1 au Bonus de Dégâts en Mêlée"
+
+#: wildmage/tra/english/text.tra:10308
+msgid "Gained 20% Hitpoint Bonus"
+msgstr "Gain de 20% en Bonus de Dégâts"
+
+#: wildmage/tra/english/text.tra:10309
+msgid "Attacks per round raised by 1"
+msgstr "Nombre d'attaques par round augmenté de 1"
+
+#: wildmage/tra/english/text.tra:10310
+msgid "Critical Hit Range increased by 1"
+msgstr "Zone de Critique élargie de 1"
+
+#: wildmage/tra/english/text.tra:20101
+msgid "Rhialto's Chaos Conduit"
+msgstr "Conduit Chaotique de Rhialto"
+
+#: wildmage/tra/english/text.tra:20102
+msgid ""
+"Rhialto's Chaos Conduit* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2 rounds\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"You found this strange spell in Rhialto's spellbook. Rhialto spent decades with his research on wild magic, and in the end created this spell that allowed him to learn a new way of spellcasting.\n"
+"\n"
+"Rhialto's Chaos Conduit establishes a link between the caster and the chaotic plane of Limbo, and then channels raw chaotic energy right into the caster. The purpose of this process is to open the caster's mind for a different kind of spellcasting.\n"
+"\n"
+"Although the spell's invocation is easy enough to make it available as a 1st level spell, its inner structure is incredible complex and would be appropriate for a spell of 9th, 10th or even higher level. The spell's chaotic nature might partly be responsible for this strange discrepancy.\n"
+"\n"
+"The spell can be cast only once and its effect is irrevocable. The caster's spellcasting capabilities are permanently changed towards a more intuitive way, and the same happens to his personality.\n"
+"\n"
+"These changes don't come from the spell itself, though. Rhialto's Chaos Conduit only frees and amplifies tendencies and interests that are already there. Persons that aren't interested in the gifts this spell has to offer, would be immune against its effects. However, such persons wouldn't even think of casting a spell like this in the first place.\n"
+"\n"
+"No matter if you actually think about casting this spell or not, one thing you know for sure: if you dare to cast the spell, it will change you forever."
+msgstr ""
+"Conduit Chaotique de Rhialto* (Altération)\n"
+"Niveau : 1\n"
+"Portée : le jeteur de sorts\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 2 rounds\n"
+"Zone d'effet : le jeteur de sorts\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Vous avez trouvé ce sort étrange dans le livre de sorts de Rhialto. Rhialto passa des décennies dans ses recherches sur la magie entropique, et finit par créer ce sort qui lui permit d'apprendre une nouvelle façon d'incanter.\n"
+"\n"
+"Le Conduit Chaotique de Rhialto établit un lien entre le lanceur de sorts et le plan chaotique des Limbes, puis canalise de l'énergie chaotique brute à l'intérieur du lanceur du sorts. Le but du procédé est d'ouvrir l'esprit du lanceur de sorts à une manière différente d'incanter.\n"
+"\n"
+"Bien que l'incantation du sort soit suffisamment facile pour en faire un sort de niveau 1, sa structure interne est incroyablement complexe et sera appropriée à un sort de niveau 9, 10 et même encore plus élevé. La nature chaotique du sort pourrait être en partie responsable de cette divergence.\n"
+"\n"
+"Le sort ne peut être lancé qu'une fois et son effet est irrévocable. Les capacités d'incantation du lanceur de sorts sont transformées de manière permanente en quelque chose de plus intuitif, et sa personnalité subit la même transformation.\n"
+"\n"
+"Néanmoins, ces changements ne viennent pas du sort lui-même. Le Conduit Chaotique de Rhialto ne fait que libérer et amplifier des tendances et intérêts déjà présents. Des personnes non intéressées par ce que ce sort a à offrir seraient immunisées à ses effets. Il ne viendrait de toute façon pas à l'esprit de telles personnes de lancer ce genre de sort.\n"
+"\n"
+"Peu importe que vous ayez l'intention de lancer ce sort ou pas, une chose est certaine : si vous osez lancer le sort, cela vous changera pour toujours."
+
+#: wildmage/tra/english/text.tra:20103
+msgid "Spellshaper"
+msgstr "Tisseur de Sorts"
+
+#: wildmage/tra/english/text.tra:20111
+msgid "After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr "Après avoir lancé ce sort étrange, vous sentez changer votre compréhension de la Toile magique. Vous essayez pour la première fois d'étudier le chaos autour de vous, le pliant à votre volonté, puisant votre force du reflux et du flot imprévisibles de la magie entropique. Vous ressentez maintenant une relation étroite avec la Toile. Vous êtes à présent capable d'emmêler la Toile, la refaçonner, la tisser au gré de votre imagination."
+
+#: wildmage/tra/english/text.tra:20112
+msgid "You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream."
+msgstr "Vous sentez aussi que le sort a changé plus que votre façon d'incanter. D'une certaine façon, vous avez l'impression que le sort a libéré une part de votre âme qui était cachée au plus profond de votre être jusqu'à maintenant. Vous montrez un peu plus d'individualité, de tolérance, de curiosité, mais aussi un peu moins de discipline et de diligence, ainsi qu'une certaine méfiance à l'égard des autorités. Cela vous semble pourtant juste, comme si les choses auraient toujours dû se passer comme cela. Vous n'avez pourtant pas l'impression d'avoir été changé, mais plutôt de vous réveiller enfin d'un long, long sommeil."
+
+#: wildmage/tra/english/text.tra:20201
+msgid "Rodent Form"
+msgstr "Forme de Rongeur"
+
+#: wildmage/tra/english/text.tra:20202
+msgid ""
+"Rodent Form* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points against normal weapons, and 4 points against missile weapons. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.\n"
+"\n"
+"Hopefully, the current revision of this spell does NOT change the caster's personality or mentality."
+msgstr ""
+"Forme de Rongeur* (Altération)\n"
+"Niveau : 1\n"
+"Portée : le jeteur de sorts\n"
+"Durée : 1 tour\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : Le jeteur de sorts\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Ce sort transforme le lanceur de sorts en un adorable petit écureuil. Étant donné la taille minuscule du rongeur, le lanceur de sorts gagne un bonus de -2 à la Classe d'Armure contre les armes normales, et -4 contre les projectiles. Contrairement aux autres sorts de métamorphose, le jeteur de sorts garde sa capacité à lancer des sorts sous forme de rongeur.\n"
+"\n"
+"Heureusement, la révision récente de ce sort ne change PAS la personnalité du lanceur de sorts, ni sa mentalité."
+
+#: wildmage/tra/english/text.tra:20211
+msgid "One of my spells has changed!"
+msgstr "Un de mes sorts a changé !"
+
+#: wildmage/tra/english/text.tra:20212
+msgid "Learned new spell: Ratatosk Shape"
+msgstr "Nouveau sort appris : Forme de Ratatosk"
+
+#: wildmage/tra/english/text.tra:20301
+msgid "Ratatosk Shape"
+msgstr "Forme de Ratatosk"
+
+#: wildmage/tra/english/text.tra:20302
+msgid ""
+"Ratatosk Shape* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.\n"
+"\n"
+"Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points against normal weapons, and 5 points against missile weapons. The caster's dexterity is also raised by four points for the duration of the spell. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.\n"
+"\n"
+"The caster also gets some of the Ratatosk's fighting abilities for the duration of the spell: One additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.\n"
+"\n"
+"Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active."
+msgstr ""
+"Forme de Ratatosk* (Altération)\n"
+"Niveau : 1\n"
+"Portée : le jeteur de sorts\n"
+"Durée : 1 tour\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : Le jeteur de sorts\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Les Ratatosk sont une race extraplanaire de guerriers écureuils doués de sens, natifs d'Yggdrasil, le Frêne du Monde, le grand arbre divin dont les branches et les racines s'étendent dans tous les plans extérieurs.\n"
+"\n"
+"En lançant ce sort, le magicien est transformé en une de ces petites créatures. Étant donné la taille minuscule d'un Ratatosk, le lanceur de sorts gagne un bonus de -3 à la classe d'armure contre les armes normales, et de -5 contre les projectiles. La dextérité du lanceur de sorts est aussi augmentée de quatre points pendant la durée du sort. Tout bonus à la classe d'armure acquis grâce à la modification de la dextérité est cumulé avec ceux dûs à la taille.\n"
+"\n"
+"Pendant la durée du sort, le lanceur de sorts gagne aussi quelques capacités de combat propre au Ratatosk : une attaque supplémentaire par round, les griffes sont considérés +5 à tous les niveaux, excepté pour le bonus aux dégâts. Les griffes font 1d4 points de dégâts tranchants.\n"
+"\n"
+"Contrairement aux autres sorts de transformation, le jeteur de sorts garde sa capacité à lancer des sorts pendant que ce sort est actif."
+
+#: wildmage/tra/english/text.tra:20401
+msgid "Random Spell I"
+msgstr "Sort Aléatoire I"
+
+#: wildmage/tra/english/text.tra:20402
+msgid ""
+"Random Spell I* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Sort Aléatoire I* (Invocation/Évocation)\n"
+"Niveau : 1\n"
+"Portée : 40 mètres\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : spéciale\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Ce sort hasardeux fait appel au chaos de la magie pour donner à de l'énergie magique une forme de sortilège plus puissante que ce que l'entropiste pourrait normalement lancer. Quand il est lancé, Sort Aléatoire génère un effet équivalent à un sort de niveau 2 ou 3, choisi aléatoirement.\n"
+"\n"
+"Le lanceur de sorts choisit une créature dans un rayon de 40 mètres comme étant la cible du sort. Le sort créé sera centré sur cette créature, sauf si c'est un sort qui n'affecte que le lanceur de sorts.\n"
+"\n"
+"Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. D'un autre côté, le lanceur de sorts ne sait rien du sort qui va être dupliqué, pas même si celui-ci sera dangereux ou bénéfique."
+
+#: wildmage/tra/english/text.tra:20501
+msgid "Blade Shower"
+msgstr "Douche de Lames"
+
+#: wildmage/tra/english/text.tra:20502
+msgid ""
+"Blade Shower* (Conjuration)\n"
+"Level: 2\n"
+"Range: 40 yards\n"
+"Duration: 3 rounds/5 levels\n"
+"Casting Time: 1\n"
+"Area of Effect: 1-25 creatures\n"
+"Saving Throw: Special\n"
+"\n"
+"The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.\n"
+"\n"
+"Each single dagger does 1d4 points of piercing damage. At level 5, the daggers are considered as +1 weapons for determining damage bonus and if a creature can be struck. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.\n"
+"\n"
+"The daggers, being made of raw chaos stuff, bypass all physical and magical defenses and thus always strike the target. Nonetheless, the the caster must make an attack roll for each single dagger to determine a critical miss or hit. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic."
+msgstr ""
+"Douche de Lames* (Conjuration)\n"
+"Niveau : 2\n"
+"Portée : 40 mètres\n"
+"Durée : 3 rounds/5 niveaux\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : 1-25 créatures\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Ce sort crée un ensemble de dagues magiques qui flottent dans l'air jusqu'à ce qu'elles soient projetées sur leur cibles. Pour un magicien de niveau 1 à 5, une dague par niveau est créée et il apparaît ensuite un ensemble supplémentaire de cinq dagues tous les cinq niveaux, avec un maximum de 25 dagues au niveau 25. Chaque ensemble de dagues est envoyé en une seule fois sur une à cinq cibles choisies par le lanceur de sorts. Les dagues sont formées d'une matière chaotique instable, et se dissolvent une fois que le sort expire ; pour chaque ensemble supplémentaire de dagues créé, la durée du sort est augmentée de 3 rounds.\n"
+"\n"
+"Chaque dague inflige 1d4 points de dégâts perçants. Au niveau 5, les dagues sont considérées comme des armes +1 pour la détermination des bonus aux dégâts, et si une créature peut être touchée. Ce bonus est augmenté de 1 tous les 5 niveaux : +2 au niveau 10, +3 au niveau 15, jusqu'à un maximum de +5 au niveau 25.\n"
+"\n"
+"Les dagues, constituées de chaos pur, contournent toute défense physique ou magique et touchent toujours leurs cibles. Néanmoins, le lanceur de sorts doit lancer un jet d'attaque pour déterminer la possibilité d'un échec ou coup critique. Lors d'un échec critique, la cible ne subit aucun dégât. Lors d'un coup critique, la dague inflige le double de dégâts et la cible doit réussir un jet de sauvegarde contre les sorts ou subir un des effets suivants : Silence, Confusion, Horreur, Sommeil, Magie Entropique."
+
+#: wildmage/tra/english/text.tra:20511
+msgid "\"Blade Shower\" has been added to your Special Abilities menu"
+msgstr "\"Douche de Lames\" a été ajouté à votre menu de Capacités Spéciales"
+
+#: wildmage/tra/english/text.tra:20601
+msgid "Rhialto's Random Missiles"
+msgstr "Projectiles Aléatoires de Rhialto"
+
+#: wildmage/tra/english/text.tra:20602
+msgid ""
+"Rhialto's Random Missiles* (Evocation)\n"
+"Level: 2\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell is an improved, randomized version of the first-level spell Magic Missile. It creates a random number of missiles that dart forth from the wizard's fingertips and unerringly strike their target, which must be a creature of some sort.\n"
+"\n"
+"The actual number of missiles is dependent on the caster's level of experience: 1d4 at first level,  1d6 at fourth level,  1d8 at eighth level  and 1d10 at 12th level.\n"
+"\n"
+"Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or magical damage. The chaotic nature of the missiles gives them a 25% chance to bypass any natural or magical resistances the target might have."
+msgstr ""
+"Projectiles Aléatoires de Rhialto* (Évocation)\n"
+"Niveau : 2\n"
+"Portée : Champ de vision du lanceur de sorts\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Ce sort est une version améliorée et plus hasardeuse que le sort de niveau 1 'Projectile Magique'. Il crée un nombre aléatoire de projectiles qui fusent des doigts du magicien et qui touchent immanquablement leur cible, qui doit être une créature.\n"
+"\n"
+"Le nombre de projectiles dépend du niveau du lanceur de sorts : 1d4 au premier niveau, 1d6 au quatrième niveau, 1d8 au huitième niveau et 1d10 au douzième niveau.\n"
+"\n"
+"Chaque projectile inflige 1d4+1 points de dégâts d'acide, de froid, de feu, d'électricité ou magiques. La nature chaotique des projectiles leur donne 25% de chance de contourner toute résistance naturelle ou magique dont la cible pourrait bénéficier."
+
+#: wildmage/tra/english/text.tra:20701
+msgid "Glyph of Wild Magic"
+msgstr "Glyphe de Magie Entropique"
+
+#: wildmage/tra/english/text.tra:20702
+msgid ""
+"Glyph of Wild Magic* (Evocation)\n"
+"Level: 4\n"
+"Range: 40 yards\n"
+"Duration: 1 round/10 levels\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"A glyph of wild magic is a powerful inscription magically drawn on the ground or any other surface. The glyph will remain there until someone comes too close, at which point it will explode and create one weave disturbance for each creature within a 30' radius. Each disturbance causes a multitude of wild surges, targeted at random creatures (including the caster, should he still be nearby).\n"
+"\n"
+"For every 10 experience levels of the caster, the disturbances remain in existence for 1 round, though it is possible to dispell them prematurely by causing a distortion with physical or magical means.\n"
+"\n"
+"Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage."
+msgstr ""
+"Glyphe de Magie Entropique* (Évocation)\n"
+"Niveau : 4\n"
+"Portée : 40 mètres\n"
+"Durée : 1 round/10 niveaux\n"
+"Temps d'incantation : 3\n"
+"Zone d'effet : rayon de 9 mètres\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Un glyphe de magie entropique est une puissante inscription magiquement dessinée sur le sol ou toute autre surface. Le glyphe reste en place jusqu'à ce que quelqu'un s'en approche trop près, causant une explosion et créant une perturbation de la Toile qui affecte toute créature dans un rayon de 9 mètres. Chaque perturbation provoque une multitude de hiatus entropiques qui affectent les créatures aléatoirement (ce qui inclut le lanceur de sorts, s'il est toujours dans la zone).\n"
+"\n"
+"La perturbation perdure un round supplémentaire tous les 10 niveaux de l'entropiste ; il est toutefois possible de la dissiper prématurément en causant une distorsion par un moyen physique ou magique.\n"
+"\n"
+"Naturellement, le résultat du sort est complètement aléatoire. Les victimes peuvent être renforcées par les hiatus entropiques, ou elles peuvent être complètement annihilées. Plus il y a de créatures dans la zone d'effet, plus l'issue du sort en est chaotique, et plus grande est la probabilité que le glyphe provoque beaucoup de dégâts."
+
+#: wildmage/tra/english/text.tra:20711
+msgid "Weave Disturbance"
+msgstr "Perturbation de la Toile"
+
+#: wildmage/tra/english/text.tra:20801
+msgid "Gymlainac's Lightbend"
+msgstr "Courbure de l'Espace de Gymlainac"
+
+#: wildmage/tra/english/text.tra:20802
+msgid ""
+"Gymlainac's Lightbend* (Alteration)\n"
+"Level: 3\n"
+"Range: Touch\n"
+"Duration: 5 rounds + 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell was developed by the wild mage Gymlainac, in an effort to create a wild magic version of Invisibility.\n"
+"\n"
+"The spell bends light waves around the recipient, creating an effect similar to the second-level spell Blur and a Cloak of Displacement. The recipient's form is both blurred and sways (regardless of movement), making her much more difficult to hit. When the spell is cast, the recipient gains a bonus of 2d4 to armor class and 1d4 to saving throws. Since the effect of this spell is no illusion but an actual change of the space around the recipient, it can't be dispelled by True Seeing or similar spells."
+msgstr ""
+"Courbure de l'Espace de Gymlainac* (Altération)\n"
+"Niveau : 3\n"
+"Portée : toucher\n"
+"Durée : 5 rounds + 1 round/niveau\n"
+"Temps d'incantation : 3\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Ce sort fut développé par l'entropiste Gymlainac, alors qu'il tentait de créer une version entropique du sort d'invisibilité.\n"
+"\n"
+"Le sort courbe la lumière autour du récipiendaire, créant un effet similaire au sort de second niveau Flou et à l'effet d'une cape de déplacement. La forme du récipiendaire est à la fois floue et oscillante (peu importe le mouvement), la rendant beaucoup plus difficile à toucher. Quand le sort est lancé, le récipiendaire gagne un bonus de de 2d4 à la classe d'armure et de 1d4 aux jets de sauvegarde. Étant donné que ce sort n'est pas une illusion mais une réelle déformation de l'espace autour du récipiendaire, il ne peut être dissipé par les sorts de vision véritable ou similaires."
+
+#: wildmage/tra/english/text.tra:20901
+msgid "Vile Word of Discord"
+msgstr "Vil Mot de Discorde"
+
+#: wildmage/tra/english/text.tra:20902
+msgid ""
+"Vile Word of Discord* (Enchantment/Charm)\n"
+"Level: 3\n"
+"Range: Visual range of the caster\n"
+"Duration: 2 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This spell, a combination of ventriloquism and confusion magics, is the very essence of discord, with the potential to destroy not only formations but also allegiances.\n"
+"\n"
+"The caster points out a single creature, which then appears to shout insults in a strange, sinister language. The surprise, the unexpected source and the magic hidden within those words hit all bystanders completely unprepared.\n"
+"\n"
+"Everyone within a 30' sphere around the target must save vs. spells at -4 or suffer a randomly chosen effect: attack each other, flee in panic, stand around in confusion, ally with the caster or stumbling around uncontrolled. In addition, there's a 20% chance that some of the victims drop random equipment.\n"
+"\n"
+"The spell affects the caster's allies as well as his enemies; only the caster and the creature which was targeted in the first place are immune to the effect.\n"
+"\n"
+"Usually, this spell can't be backtraced to the caster: the only person, the victims might be angry at, is the spell's original target. Ongoing fights between the affected creatures might continue even after the spell ends."
+msgstr ""
+"Vil Mot de Discorde* (Enchantement/Charme)\n"
+"Niveau : 3\n"
+"Portée : champ de vision du lanceur de sorts\n"
+"Durée : 2 rounds\n"
+"Temps d'incantation : 3\n"
+"Zone d'effet : rayon de 9 mètres\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Ce sort, une combinaison de ventriloquie et de confusion magique, est l'essence même de la discorde, avec le potentiel de détruire non seulement des formations mais aussi des allégeances.\n"
+"\n"
+"Le lanceur de sorts désigne une créature, qui semble alors proférer des insultes dans une langue étrange et sinistre. La surprise, l'origine inattendue et la magie cachée en ces mots prennent complètement au dépourvu tous les spectateurs.\n"
+"\n"
+"Chaque créature dans une sphère de 9 mètres de rayon autour de la cible doit réussir un jet de sauvegarde contre les sorts avec un malus de -4 ou subir un effet tiré au sort : fuir totalement paniquée, rester sur place confuse, s'allier au jeteur de sorts, ou errer de manière incontrôlée. De plus, il y a 20% de chance que certaines victimes lâchent des objets qu'elles portent (choisis au hasard).\n"
+"\n"
+"Le sort affecte aussi bien les ennemis que les alliés du lanceur de sorts ; seuls lui et la créature ciblée en premier lieu sont immunisés à cet effet.\n"
+"\n"
+"Les victimes de ce sort ne peuvent normalement pas remonter jusqu'au lanceur de sorts : la seule personne à laquelle les victimes peuvent s'en prendre est la créature ciblée par le sort. Les combats commencés entre les créatures affectées peuvent même perdurer après la fin du sort."
+
+#: wildmage/tra/english/text.tra:21001
+msgid "Cellular Regeneration"
+msgstr "Régénération Cellulaire"
+
+#: wildmage/tra/english/text.tra:21002
+msgid ""
+"Cellular Regeneration* (Necromancy)\n"
+"Level: 4\n"
+"Range: Touch\n"
+"Duration: 6 rounds\n"
+"Casting Time: 4\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"By reshaping a strand of the Weave until it resembles the patterns created by a priest's healing spell, the wild mage can accomplish what was thought to be impossible: an arcane spell that cures wounds.\n"
+"\n"
+"Cellular Regeneration increases the growth rate of the body's various tissues, causing them to mend together faster. Once the recipient is touched, the spell begins to work, restoring damage according to the table below:\n"
+"\n"
+"Round  Healing\n"
+"------------------\n"
+"1           1\n"
+"2           1d4\n"
+"3           1d4 + level/5 (up to 1d4+5)\n"
+"4           1d4 + level/5 (up to 1d4+5)\n"
+"5           1d4\n"
+"6           1\n"
+"\n"
+"The regeneration process is so stressing for the body, that the recipient stays unconscious for the duration of the spell, and looses one point of constitution for one hour thereafter."
+msgstr ""
+"Régénération Cellulaire* (Nécromancie)\n"
+"Niveau : 4\n"
+"Portée : toucher\n"
+"Durée : 6 rounds\n"
+"Temps d'incantation : 4\n"
+"Zone d'effet : une créature\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"En retissant un fil de la Toile jusqu'à ce qu'il ressemble aux motifs créés par le sort de soin d'un prêtre, l'entropiste peut accomplir ce qu'on pensait impossible : un sort profane qui soigne les blessures.\n"
+"\n"
+"Régénération Cellulaire augmente le taux de croissance des différents tissus du corps, permettant une récupération plus rapide. Une fois que le bénéficiaire du sort est touché, celui-ci commence à faire effet et soigne les blessures selon la table ci-dessous :\n"
+"\n"
+"Round\tPoints de vie soignés\n"
+"-----------------------------\n"
+"1 \t1\n"
+"2 \t1d4\n"
+"3 \t1d4 + Niveau/5 (jusqu'à 1d4+5)\n"
+"4 \t1d4 + Niveau/5 (jusqu'à 1d4+5)\n"
+"5 \t1d4\n"
+"6 \t1\n"
+"\n"
+"Le processus de régénération demande tellement d'effort au corps que le bénéficiaire reste inconscient pendant la durée du sort, et perd un point de constitution pour toute l'heure suivante."
+
+#: wildmage/tra/english/text.tra:21101
+msgid "Vortex"
+msgstr "Vortex"
+
+#: wildmage/tra/english/text.tra:21102
+msgid ""
+"Vortex* (Evocation)\n"
+"Level: 5\n"
+"Range: 30 yards\n"
+"Duration: 3-15 rounds\n"
+"Casting Time: 5\n"
+"Area of effect: 7-foot-diameter sphere\n"
+"Saving Throw: Half\n"
+"\n"
+"A vortex is a swirling mass of magical energy, barely controllable by the caster. After casting the spell, a 7 foot tall, multicolored sphere appears. From this moment on, the caster must maintain concentration in order for the vortex to remain.\n"
+"\n"
+"Each round, the caster can move the vortex 60 feet. However, control of direction is not perfect. If the caster fails to concentrate just for a moment, the Vortex moves on on its own.\n"
+"\n"
+"The vortex is composed of raw magical energy. Once per round, all creatures close to the vortex suffer 2d6 points of each: stunning, electricity and magic damage. Creatures struck are allowed a saving throw vs. spells to suffer only half damage.\n"
+"\n"
+"The duration of the spell is 3 rounds at level 10, plus one round for each additional level - up to 15 rounds at level 34. The caster is held immobile for the whole duration of the spell; he can't cancel it, even when he completely lost control over the vortex."
+msgstr ""
+"Vortex* (Évocation)\n"
+"Niveau : 5\n"
+"Portée : 30 mètres\n"
+"Durée : 3-15 rounds\n"
+"Temps d'incantation : 5\n"
+"Zone d'effet : sphère de 2 mètres de diamètre\n"
+"Jet de sauvegarde : 1/2\n"
+"\n"
+"Un vortex est une masse tourbillonnante d'énergie magique, à peine contrôlable par le lanceur de sorts. Après avoir lancé le sort, une sphère multicolore de 2 mètres de diamètre apparaît. A partir de ce moment-là, le lanceur de sorts doit maintenir sa concentration pour que le vortex subsiste.\n"
+"\n"
+"Le lanceur de sorts peut déplacer le vortex de 20 mètres par round. Cependant, le contrôle de la direction n'est pas parfait. Si le lanceur de sorts perd sa concentration pendant un court instant, le Vortex se déplace alors de lui-même.\n"
+"\n"
+"Le Vortex est composé d'énergie magique brute. Une fois par round, toutes les créatures à proximité du vortex subissent 2d6 points de dégâts de chaque type : contondant, électrique, magique. Les créatures concernées ont droit à un jet de sauvegarde contre les sorts pour ne subir que la moitié des dégâts.\n"
+"\n"
+"Le sort dure 3 rounds au niveau 10, plus un round pour chaque tranche supplémentaire de deux niveaux de Tisseur de Sorts, avec un maximum de 15 rounds au niveau 34. Le lanceur de sorts est maintenu immobile durant toute la durée du sort ; il ne peut l'annuler, même s'il perd complètement le contrôle du vortex."
+
+#: wildmage/tra/english/text.tra:21201
+msgid "Paithan's Lucky Streak"
+msgstr "Veine Chanceuse de Paithan"
+
+#: wildmage/tra/english/text.tra:21202
+msgid ""
+"Paithan's Lucky Streak* (Enchantment/Charm)\n"
+"Level: 5\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This extremely potent spell gives the target a run of good luck. The recipient gains 1d8 points of luck, receiving this amount as bonus to any of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is added to any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 2 or higher, a new 1d8 bonus is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 1, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 16 or higher, the spell does not only continue, but the next round is also a \"Good Luck\" round, in which the recipient gets not only 8 points of luck bonus, but also the almost supernatural ability to avoid death, level drain, and anything that limits his movement.\n"
+"\n"
+"As long as it doesn't expire due to \"Bad Luck\" (1 on D20, then 15 or lower on D20), the spell continues infinitely."
+msgstr ""
+"Veine Chanceuse de Paithan* (Enchantement/Charme)\n"
+"Niveau : 5\n"
+"Portée : toucher\n"
+"Durée : spéciale\n"
+"Temps d'incantation : 5\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Ce sort extrêmement puissant donne à la cible un excès de bonne chance. Le bénéficiaire gagne 1d8 points de chance et reçoit ce bonus à chacune de ses actions. Ceci inclut les jets de sauvegarde, les jets d'attaque, les capacités de voleur, etc. De plus, le double du résultat obtenu est ajouté à n'importe quel jet que le bénéficiaire pourrait avoir à faire sur la table des hiatus entropiques.\n"
+"\n"
+"A la fin de chaque round, un D20 est lancé pour déterminer si le sort se termine. Si on obtient 2 ou plus, on tire un nouveau D8 de bonus, et le sort continue durant un round supplémentaire.\n"
+"\n"
+"Si un 1 est obtenu, il reste encore 25% de chances que le sort continue de faire effet : si le résultat d'un second jet de D20 est de 16 ou plus, non seulement le sort continue de faire effet, mais le round suivant est aussi un round de \"Bonne Fortune\", durant lequel le bénéficiaire gagne non seulement 8 points de bonus de chance, mais aussi la capacité quasi surnaturelle d'éviter la mort, le drain de niveaux, et tout ce qui peut limiter son mouvement.\n"
+"\n"
+"Tant que le sort n'expire pas suite à une \"mauvaise fortune\" (1 au D20, puis 15 ou moins au D20), le sort continue de faire effet indéfiniment."
+
+#: wildmage/tra/english/text.tra:21301
+msgid "Paithan's Fiasco"
+msgstr "Fiasco de Paithan"
+
+#: wildmage/tra/english/text.tra:21302
+msgid ""
+"Paithan's Fiasco* (Enchantment/Charm)\n"
+"Level: 6\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"Paithan's Fiasco is the reverse version of the level 5 spell Paithan's Lucky Streak. The target, usually an enemy, suffers a run of bad luck. The victim is affected by 1d8 points of bad luck, taking this amount as a penalty to all of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is subtracted from any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 19 or lower, a new 1d8 penalty is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 20, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 5 or lower, the spell does not only continue, but the next round is also a \"Fiasco\" round, in which the victim gets 8 points of bad luck penalty and suffers one of the following things: stumble and drop down to the ground for two rounds,  drop weapon due to a sudden spasm,  fail horrible at parrying and loose all attacks for this round,  hurt himself for 1d20 hitpoints  or getting blinded by splinters from his own weapon for three rounds.\n"
+"\n"
+"As long as it doesn't expire due to \"Good Luck\" (20 on D20, then 6 or higher on D20), the spell continues infinitely."
+msgstr ""
+"Fiasco de Paithan* (Enchantement/Charme)\n"
+"Niveau : 6\n"
+"Portée : toucher\n"
+"Durée : spéciale\n"
+"Temps d'incantation : 5\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Fiasco de Paithan est la version opposée du sort de niveau 5 'Veine Chanceuse de Paithan'. La cible, habituellement un ennemi, souffre d'un excès de malchance. La victime est affectée par 1d8 points de malchance, cette quantité étant appliquée comme pénalité à chacune de ses actions. Ceci inclut les jets de sauvegarde, les jets d'attaque, les capacités de voleur, etc. De plus, le double de la quantité obtenue est retirée à tout jet que la victime pourrait avoir à faire sur la table des hiatus entropiques.\n"
+"\n"
+"A la fin de chaque round, un jet de D20 permet de déterminer si le sort expire. Sur un résultat de 19 ou moins, on tire un nouveau D8 de pénalité, et le sort continue durant un round supplémentaire.\n"
+"\n"
+"Sur un résultat de 20, il reste encore 25% de chances que le sort continue de faire effet : si le résultat d'un second jet de D20 est de 5 ou moins, non seulement le sort continue de faire effet, mais le round suivant est un round de \"Fiasco\", durant lequel la victime \"gagne\" 8 points de pénalité de mauvaise fortune et souffre d'un des effets suivants : trébucher et tomber à terre pour deux rounds, lâcher son arme suite à un spasme soudain, rater complètement une parade et perdre toutes ses attaques pour ce round, se blesser de 1D20 points de dégâts ou être aveuglée par les éclats de sa propre arme pour trois rounds.\n"
+"\n"
+"Tant que le sort n'expire pas suite à une \"bonne fortune\" (20 au D20, puis 6 ou plus au D20), le sort continue de faire effet indéfiniment."
+
+#: wildmage/tra/english/text.tra:21311
+msgid "Fiasco"
+msgstr "Fiasco"
+
+#: wildmage/tra/english/text.tra:21401
+msgid "Wildstrike"
+msgstr "Frappe Entropique"
+
+#: wildmage/tra/english/text.tra:21402
+msgid ""
+"Wildstrike* (Conjuration/Summoning)\n"
+"Level: 6\n"
+"Range: 30 yards\n"
+"Duration: 1-15 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"This spell is used primarily against hostile spellcasters. It distorts all attempts at spellcasting, converting spell energy into wild surges. The victim of a wildstrike is allowed a saving throw, to which a -1 modifier is applied for every 10 levels of the caster. If successful, the spell has no effect. If the saving throw is failed, the target is enclosed within a field of wild magic.\n"
+"\n"
+"Each attempt to casts spells or uses a charge from a magical item, automatically creates a wild surge. When determining the effects of this surge, 5 is subtracted from the die roll for every five levels of the wild mage who cast the wildstrike, making the effects of the wild surge more likely to affect the victim.\n"
+"\n"
+"The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35."
+msgstr ""
+"Frappe Entropique* (Conjuration/Invocation)\n"
+"Niveau : 6\n"
+"Portée : 30 mètres\n"
+"Durée : 1-15 rounds\n"
+"Temps d'incantation : 3\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : annule\n"
+"\n"
+"Ce sort est principalement utilisé face à des lanceurs de sorts hostiles. Il déforme toutes les tentatives d'incantation, convertissant l'énergie magique en hiatus entropiques. La victime d'une frappe entropique lance un jet de sauvegarde, auquel s'applique une pénalité de -1 tous les 10 niveaux du lanceur de sorts. S'il est réussi, le sort n'a aucun effet. Si le jet de sauvegarde est raté, la cible est enveloppée dans un champ de magie entropique.\n"
+"\n"
+"Chaque tentative de lancer des sorts ou d'utiliser les charges d'un objet magique crée automatiquement un hiatus entropique. Lors de la détermination des effets de ce hiatus, on retire 5 au résultat du jet de dé pour chaque tranche de 5 niveaux de l'entropiste, rendant les effets des hiatus entropiques plus à même d'affecter la cible.\n"
+"\n"
+"La durée du sort est de 1 round, plus 2 rounds tous les 5 niveaux du lanceur de sorts, avec un maximum de 15 rounds au niveau 35."
+
+#: wildmage/tra/english/text.tra:21501
+msgid "Hornung's Random Dispatcher"
+msgstr "Envoi Aléatoire de Hornung"
+
+#: wildmage/tra/english/text.tra:21502
+msgid ""
+"Hornung's Random Dispatcher* (Abjuration)\n"
+"Level: 7\n"
+"Range: 30 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"With the utterance of a few words, this spell can hurl someone to a random plane and leave him there. The target is allowed a saving throw against spells. If successful, the spell fails. If unsuccessful, the victim and all items carried by him are sent to a random plane.\n"
+"\n"
+"The caster has no control over the destination of the target. The conditions at the destination may kill the target (for example, arriving in the elemental plane of fire), merely make his life difficult, or promise a new life in paradise (literally).\n"
+"\n"
+"Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime."
+msgstr ""
+"Envoi Aléatoire de Hornung* (Abjuration)\n"
+"Niveau : 7\n"
+"Portée : 30 mètres\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 2\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : annule\n"
+"\n"
+"En énonçant quelques mots, ce sort peut envoyer quelqu'un dans un plan au hasard et l'y abandonner. La cible a droit à un jet de sauvegarde contre les sorts. S'il est réussi, le sort échoue. S'il est raté, la victime et tous les objets qu'elle porte sont envoyés sur un plan choisi aléatoirement.\n"
+"\n"
+"Le lanceur de sorts n'a aucun contrôle sur la destination de la cible. Les conditions du plan d'arrivée peuvent tuer la cible (par exemple, en arrivant sur le plan élémentaire du feu), simplement lui rendre la vie plus difficile, ou lui promettre une nouvelle vie au paradis (littéralement).\n"
+"\n"
+"Dans tous les cas, quand le sort est réussi, le lanceur de sorts se débarrasse de la cible, et il est très peu probable qu'ils se rencontrent à nouveau dans cette vie."
+
+#: wildmage/tra/english/text.tra:21511
+msgid "was sent to the Abyss"
+msgstr "a été envoyé aux Abysses"
+
+#: wildmage/tra/english/text.tra:21512
+msgid "was sent to Acheron"
+msgstr "a été envoyé sur Acheron"
+
+#: wildmage/tra/english/text.tra:21513
+msgid "was sent to the prime world known as Oerth"
+msgstr "a été envoyé dans le plan matériel de la Taerre (Oerth)"
+
+#: wildmage/tra/english/text.tra:21514
+msgid "was sent to the prime world known as Athas"
+msgstr "a été envoyé dans le plan matériel d'Athas"
+
+#: wildmage/tra/english/text.tra:21515
+msgid "was sent to Arcadia"
+msgstr "a été envoyé sur Arcadie"
+
+#: wildmage/tra/english/text.tra:21516
+msgid "was sent to the Astral Plane"
+msgstr "a été envoyé sur le Plan Astral"
+
+#: wildmage/tra/english/text.tra:21517
+msgid "was sent to the Beastlands"
+msgstr "a été envoyé sur la Terre des Bêtes"
+
+#: wildmage/tra/english/text.tra:21518
+msgid "was sent to the Outlands"
+msgstr "a été envoyé sur Outreterre"
+
+#: wildmage/tra/english/text.tra:21519
+msgid "was sent to the Elemental Plane of Air"
+msgstr "a été envoyé dans le Plan Élémentaire de l'Air"
+
+#: wildmage/tra/english/text.tra:21520
+msgid "was sent to the Elemental Plane of Fire"
+msgstr "a été envoyé dans le Plan Élémentaire du Feu"
+
+#: wildmage/tra/english/text.tra:21521
+msgid "was sent to the Elemental Plane of Earth"
+msgstr "a été envoyé dans le Plan Élémentaire de la Terre"
+
+#: wildmage/tra/english/text.tra:21522
+msgid "was sent to the Elemental Plane of Water"
+msgstr "a été envoyé dans le Plan Élémentaire de l'Eau"
+
+#: wildmage/tra/english/text.tra:21523
+msgid "was sent to Elysium"
+msgstr "a été envoyé aux Elysées"
+
+#: wildmage/tra/english/text.tra:21524
+msgid "was sent to the Ethereal Plane"
+msgstr "a été envoyé dans le Plan Ethéré"
+
+#: wildmage/tra/english/text.tra:21525
+msgid "was sent to Gehenna"
+msgstr "a été envoyé à la Géhenne"
+
+#: wildmage/tra/english/text.tra:21526
+msgid "was sent to Gladsheim"
+msgstr "a été envoyé sur Gladsheim"
+
+#: wildmage/tra/english/text.tra:21527
+msgid "was sent to the Gray Waste"
+msgstr "a été envoyé sur la Gaste Grise"
+
+#: wildmage/tra/english/text.tra:21528
+msgid "was sent to Limbo"
+msgstr "a été envoyé dans les Limbes"
+
+#: wildmage/tra/english/text.tra:21529
+msgid "was sent to the Negative Material Plane"
+msgstr "a été envoyé dans le Plan de l'Energie Négative"
+
+#: wildmage/tra/english/text.tra:21530
+msgid "was sent to the Quasi-Plane of Vacuum"
+msgstr "a été envoyé dans le Demi-Plan du Vide"
+
+#: wildmage/tra/english/text.tra:21531
+msgid "was sent to the Quasi-Plane of Ash"
+msgstr "a été envoyé dans le Demi-Plan de Cendre"
+
+#: wildmage/tra/english/text.tra:21532
+msgid "was sent to the Quasi-Plane of Dust"
+msgstr "a été envoyé dans le Demi-Plan de Poussière"
+
+#: wildmage/tra/english/text.tra:21533
+msgid "was sent to the Quasi-Plane of Salt"
+msgstr "a été envoyé dans le Demi-Plan de Sel"
+
+#: wildmage/tra/english/text.tra:21534
+msgid "was sent to the Nine Hells"
+msgstr "a été envoyé sur Baator"
+
+#: wildmage/tra/english/text.tra:21535
+msgid "was sent to Nirvana"
+msgstr "a été envoyé au Nirvana"
+
+#: wildmage/tra/english/text.tra:21536
+msgid "was sent to Olympus"
+msgstr "a été envoyé à L'Arborée"
+
+#: wildmage/tra/english/text.tra:21537
+msgid "was sent to Pandemonium"
+msgstr "a été envoyé au Pandemonium"
+
+#: wildmage/tra/english/text.tra:21538
+msgid "was sent to the Para-Elemental Plane of Smoke"
+msgstr "a été envoyé sur le Plan Para-Élémentaire de la Fumée"
+
+#: wildmage/tra/english/text.tra:21539
+msgid "was sent to the Para-Elemental Plane of Magma"
+msgstr "a été envoyé sur le Plan Para-Élémentaire du Magma"
+
+#: wildmage/tra/english/text.tra:21540
+msgid "was sent to the Para-Elemental Plane of Ooze"
+msgstr "a été envoyé sur le Plan Para-Élémentaire de la Vase"
+
+#: wildmage/tra/english/text.tra:21541
+msgid "was sent to the Para-Elemental Plane of Ice"
+msgstr "a été envoyé sur le Plan Para-Élémentaire de la Glace"
+
+#: wildmage/tra/english/text.tra:21542
+msgid "was sent to the Positive Material Plane"
+msgstr "a été envoyé sur le Plan Matériel Positif"
+
+#: wildmage/tra/english/text.tra:21543
+msgid "was sent to the Quasi-Plane of Lightning"
+msgstr "a été envoyé sur le Plan Quasi-Elementaire de la Foudre"
+
+#: wildmage/tra/english/text.tra:21544
+msgid "was sent to the Quasi-Plane of Radiance"
+msgstr "a été envoyé sur le Plan Quasi-Elementaire de la Radiance"
+
+#: wildmage/tra/english/text.tra:21545
+msgid "was sent to the Quasi-Plane of Minerals"
+msgstr "a été envoyé sur le Plan Quasi-Elementaire des Minéraux"
+
+#: wildmage/tra/english/text.tra:21546
+msgid "was sent to the Quasi-Plane of Steam"
+msgstr "a été envoyé sur le Plan Quasi-Elementaire de la Vapeur"
+
+#: wildmage/tra/english/text.tra:21547
+msgid "was sent to the Icewind Dale"
+msgstr "a été envoyé au Val de Bise"
+
+#: wildmage/tra/english/text.tra:21548
+msgid "was sent to the Seven Heavens"
+msgstr "a été envoyé sur le Mont Céleste"
+
+#: wildmage/tra/english/text.tra:21549
+msgid "was sent to the Tarterus"
+msgstr "a été envoyé aux Carcères"
+
+#: wildmage/tra/english/text.tra:21550
+msgid "was sent to the Twin Paradises"
+msgstr "a été envoyé sur Bytopie"
+
+#: wildmage/tra/english/text.tra:21601
+msgid "Summon Cow"
+msgstr "Convocation de Vache"
+
+#: wildmage/tra/english/text.tra:21602
+msgid ""
+"Summon Cow* (Summoning)\n"
+"Level: 7\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: Special\n"
+"\n"
+"Upon casting this spell, a cow is summoned in the air 50-200 yards above the targeted creature. The exact height is dependent on the caster's level, and determines the damage done to the target.\n"
+"\n"
+"Once summoned, the animal will fall down upon the target. The impact as well as the crash to the ground cause crushing damage equal to 3d10 + 1d10 for every three levels of the caster, up to a maximum total of two times 10d10 at Level 21. There is no saving throw against the physical impact, though a very lucky or agile individual may drop to the ground without taking additional damage.\n"
+"\n"
+"If the targeted creature survives the impact, there's a chance of 10% +10% for every three experience levels of the caster, that the victim drops random equipment while falling. The maximum chance is 80% at Level 21; there is no saving throw.\n"
+"\n"
+"Finally, the whole situation is so confusing and frightening, that the target must save against spells or flee in panic for three rounds. The saving throw starts with a modifier of +2, which is decreased by 1 for every three levels of the caster, until it reaches -5 at 21th level.\n"
+"\n"
+"Warning:\n"
+"Basically, this spell is just a purposeful release of a specific wild surge. As such, there is a chance for unwanted side effects.\n"
+"\n"
+"It is also strongly advised against using this spell in the presence of rangers or druids."
+msgstr ""
+"Convocation de Vache* (Invocation)\n"
+"Niveau : 7\n"
+"Portée : Portée visuelle du lanceur de sorts\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 3\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Lorsque ce sort est lancé, une vache est invoquée dans le ciel, 50 à 200 mètres au-dessus de la créature ciblée. La hauteur exacte dépend du niveau du lanceur de sorts, et détermine les dégâts causés à la cible.\n"
+"\n"
+"Une fois invoqué, l'animal tombe sur la cible. L'impact ainsi que le crash au sol cause 3d10 points de dégâts contondants plus 1d10 pour chaque tranche de 3 niveaux du lanceur de sorts, avec un maximum de 10d10 au niveau 21. Il n'y a aucun jet de sauvegarde contre l'impact physique, bien qu'un individu très chanceux ou très agile puisse se laisser tomber au sol sans dégâts supplémentaires.\n"
+"\n"
+"Si la créature ciblée survit à l'impact, il y a 10% de chance + 10% pour chaque tranche de 3 niveaux d'expérience du lanceur de sorts que la victime lâche un objet au hasard lors de sa chute. La probabilité maximale est de 80% au niveau 21 ; il n'y a aucun jet de sauvegarde.\n"
+"\n"
+"Finalement, la situation dans son ensemble est si effrayante et prête tellement à confusion que la cible doit réussir un jet de sauvegarde contre les sorts sous peine de s'enfuir pour trois rounds, paniquée. Le jet de sauvegarde s'effectue avec un modificateur de +2, qui décroit de 1 pour chaque niveau de lanceur de sorts, jusqu'à atteindre -5 au niveau 21.\n"
+"\n"
+"Attention :\n"
+"Fondamentalement, ce sort n'est que le déclenchement contrôlé d'un hiatus entropique bien particulier. Il peut donc y avoir des effets secondaires indésirables.\n"
+"\n"
+"Il est aussi fortement déconseillé d'utiliser ce sort en présence de rôdeurs ou de druides."
+
+#: wildmage/tra/english/text.tra:21701
+msgid "Mynoc's Wild Recuperation"
+msgstr "Récupération Entropique de Mynoc"
+
+#: wildmage/tra/english/text.tra:21702
+msgid ""
+"Mynoc's Wild Recuperation* (Evocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"When casting this spell, the wild mage willingly releases raw magical energy in form of a wild surge. If he manages to control the wild surge, he can use the energy to bring back into memory 1d4 spells that have been previously cast. If no spells have been cast yet, then nothing happens, and the spell is wasted.\n"
+"\n"
+"For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less."
+msgstr ""
+"Récupération Entropique de Mynoc* (Évocation)\n"
+"Niveau : 8\n"
+"Portée : le jeteur de sorts\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 10\n"
+"Zone d'effet : Le jeteur de sorts\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Quand ce sort est lancé, l'entropiste libère volontairement de l'énergie magique brute sous la forme d'un hiatus entropique. S'il réussit à contrôler le hiatus entropique, il peut utiliser l'énergie pour se remémorer 1d4 sorts précédemment lancés. Si aucun sort n'a encore été lancé, alors rien ne se se passe et le sort est perdu.\n"
+"\n"
+"Pour ce qui est de l'effet du hiatus entropique, le mage reçoit un bonus de +40 sur la table correspondante ; il est donc probable qu'un résultat un tant soit peu favorable se produise. Récupération Entropique de Mynoc ne permet de se remémorer que de sorts de niveau 7 ou moins."
+
+#: wildmage/tra/english/text.tra:21711
+msgid "1 spell restored to memory"
+msgstr "1 sort remémoré"
+
+#: wildmage/tra/english/text.tra:21712
+msgid "2 spells restored to memory"
+msgstr "2 sorts remémorés"
+
+#: wildmage/tra/english/text.tra:21713
+msgid "3 spells restored to memory"
+msgstr "3 sorts remémorés"
+
+#: wildmage/tra/english/text.tra:21714
+msgid "4 spells restored to memory"
+msgstr "4 sorts remémorés"
+
+#: wildmage/tra/english/text.tra:21801
+msgid "Eye of the Beholder"
+msgstr "Oeil du Spectateur"
+
+#: wildmage/tra/english/text.tra:21802
+msgid ""
+"Eye of the Beholder* (Evocation)\n"
+"Level: 8\n"
+"Range: Visual range of caster\n"
+"Duration: 1 round/5 levels\n"
+"Casting Time: 5\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"When this spell is cast, one of the wild mage's eyeballs pops out, and is transformed into a Beholder's eye stalk.\n"
+"\n"
+"Once per round, the wild mage may use this eyestalk to gaze at a target, causing one of 10 possible effects to shoot forth from the eye. The exact result (including saving throws, range, duration, etc.) are determined at random from among the 10 functions of a beholder's eye stalks: Charm Person, Fear, Disintegrate, Slow, Petrification, Cause Serious Wounds, Hold Person, Lightning Bolt, Paralyze or Death Ray.\n"
+"\n"
+"Usually, the caster's eye returns to its original shape and place after the spell has expired."
+msgstr ""
+"Oeil du Spectateur* (Évocation)\n"
+"Niveau : 8\n"
+"Portée : champ visuel du lanceur de sorts\n"
+"Durée : 1 round/5 niveaux\n"
+"Temps d'incantation : 5\n"
+"Zone d'effet : spéciale\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Quand ce sort est lancé, un des globes oculaires de l'entropiste quitte son orbite, et est transformé en un pseudopode de Spectateur.\n"
+"\n"
+"Une fois par round, l'entropiste peut utiliser ce pseudopode pour fixer une cible et déclencher une des 10 attaques possibles de l'oeil. Le résultat exact (incluant le jet de sauvegarde, la portée, la durée, etc.) est déterminé au hasard parmi les 10 fonctions d'un oeil de Spectateur : Charme Personne, Horreur, Désintégration, Lenteur, Pétrification, Blessures Graves, Immobilisation, Eclair, Paralysie ou Rayon de la Mort.\n"
+"\n"
+"Habituellement, l'oeil du lanceur de sorts reprend sa forme et sa place initiale une fois le sort terminé."
+
+#: wildmage/tra/english/text.tra:21803
+msgid "Beholder's Gaze"
+msgstr "Regard du Spectateur"
+
+#: wildmage/tra/english/text.tra:21811
+msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
+msgstr "\"Regard du Spectateur\" a été ajouté à votre menu de Capacités Spéciales."
+
+#: wildmage/tra/english/text.tra:21901
+msgid "Entropy Shield"
+msgstr "Bouclier Entropique"
+
+#: wildmage/tra/english/text.tra:21902
+msgid ""
+"Entropy Shield* (Abjuration)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: 2 turns\n"
+"Casting Time: 9\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell surrounds the caster in a protective field of raw magical energy. This field will absorb the energy of any wild surge and all but the most powerful spells.\n"
+"\n"
+"For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield.\n"
+"\n"
+"In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect."
+msgstr ""
+"Bouclier Entropique* (Abjuration)\n"
+"Niveau : 9\n"
+"Portée : le jeteur de sorts\n"
+"Durée : 2 tours\n"
+"Temps d'incantation : 9\n"
+"Zone d'effet : le jeteur de sorts\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Ce sort entoure le lanceur de sorts d'un champ protecteur d'énergie magique brute. Le champ absorbe l'énergie de tout hiatus entropique et tous les sorts, exceptés les plus puissants.\n"
+"\n"
+"Pendant toute la durée du sort, le lanceur de sorts est immunisé à tous les sorts de niveau 7 ou moins, ce qui inclut des sorts comme Rayon Rubis d'Inversion qui sont spécifiquement conçus pour dissiper les protections magiques. Seul Perce-Bouclier et Anéantissement des Défenses sont capables d'annihiler un bouclier entropique.\n"
+"\n"
+"De plus, le lanceur de sorts gagne un bonus de +100 pour les jets de la table des hiatus entropiques, permettant à tous ses sorts d'être lancés normalement ; ceci s'applique aussi à Rupture Hasardeuse de Nahal - tant que le bouclier entropique est actif, le lanceur de sorts réussit toujours à créer l'effet désiré."
+
+#: wildmage/tra/english/text.tra:22001
+msgid "Wild Sphere"
+msgstr "Sphère Entropique"
+
+#: wildmage/tra/english/text.tra:22002
+msgid ""
+"Wild Sphere* (Conjuration/Summoning)\n"
+"Level: 9\n"
+"Range: Visual range of the caster\n"
+"Duration: 6 turns\n"
+"Casting Time: 1 round\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This powerful spell creates a temporary rift in the Weave. The area of effect is a sphere with 30 foot radius; within chaos reigns.\n"
+"\n"
+"Any spell cast within the Wild Sphere automatically causes a wild surge. Effects from magical items that expend charges also cause wild surges when used in the area. Other magical items function normally. Even after a victim left the area of effect, it takes one round for his spell casting capabilities return to normal.\n"
+"\n"
+"In addition, everyone within the area of effect must make a save vs. spells at -5 every round, or cause a weave disturbance that fires multiple wild surges at random targets for one round, comparable to the 4th level spell Glyph of Wild Magic.\n"
+"\n"
+"Vicims that also fail the save vs. spells without modifier, are subject to one of the following random effects: randomly teleported, polymorphed into a squirrel, confused, paralyzed, healed by 1d8 hit points, take 1d8 hit points of damage, rendered unconscious or hasted."
+msgstr ""
+"Sphère Entropique* (Conjuration/Invocation)\n"
+"Niveau : 9\n"
+"Portée : champ visuel du lanceur de sorts\n"
+"Durée : 6 tours\n"
+"Temps d'incantation : 1 round\n"
+"Zone d'effet : rayon de 9 mètres\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Ce sort puissant crée une brèche temporaire dans la Toile. La zone d'effet est une sphère de 9 mètres de rayon, dans laquelle règne le chaos.\n"
+"\n"
+"Tout sort lancé à l'intérieur de la Sphère Entropique cause automatiquement un hiatus entropique. Les effets provoqués par des objets magiques à charges causent aussi des hiatus entropiques lorsqu'ils sont utilisés dans cette zone. Les autres objets magiques fonctionnent normalement. Une fois qu'une victime a quitté la zone d'effet, il lui faut un round pour que ses capacités d'incantation reviennent à la normale.\n"
+"\n"
+"De plus, chaque personne dans la zone d'effet doit réussir un jet de sauvegarde contre les sorts avec un malus de -5 à chaque round, ou causer une perturbation de la Toile qui déclenche plusieurs hiatus entropiques sur des cibles aléatoires pendant un round, tout comme le sort de niveau 4 Glyphe de Magie Entropique.\n"
+"\n"
+"Les victimes qui ratent le jet de sauvegarde contre les sorts sans tenir compte du malus sont aléatoirement sujettes à un des effets suivants : Téléportation aléatoire, Métamorphose en écureuil, Confusion, Paralysie, Soin de 1d8 points de vie, Blessure de 1d8 points de dégâts, Inconscience ou Hâte."
+
+#: wildmage/tra/english/text.tra:22101
+msgid "Rhialto's Marvelous Reincarnation"
+msgstr "Réincarnation Merveilleuse de Rhialto"
+
+#: wildmage/tra/english/text.tra:22102
+msgid ""
+"Rhialto's Marvelous Reincarnation* (Alteration)\n"
+"Level: 10\n"
+"Range: Visual range of the caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"This sinister spell is the legacy of the wild mage that called himself Rhialto the Marvelous.\n"
+"\n"
+"Casting this spell causes fluctuations in the laws of probability, and weakens the fabric of time. These effects last only for a moment, but this is long enough to create an alternate reality.\n"
+"\n"
+"The purpose of this spell is to bring a dead back to life by changing an event in the past and letting another creature (one that still lives in the present) die instead. There is no divine intervention involved: the reincarnated creature isn't raised from the dead, on successful casting of this spell, the fatal event never happened and the spell's beneficiary never has died.\n"
+"\n"
+"Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood."
+msgstr ""
+"Réincarnation Merveilleuse de Rhialto* (Altération)\n"
+"Niveau : 10\n"
+"Portée : champ visuel du lanceur de sorts\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 10\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Ce sort sinistre est l'héritage de l'entropiste qui se surnommait Rhialto le Merveilleux.\n"
+"\n"
+"Lancer ce sort provoque des fluctuations dans les lois des probabilités, et fragilise la trame du temps. Ces effets ne sont que temporaires, mais durent suffisamment longtemps pour créer une réalité alternative.\n"
+"\n"
+"Le but de ce sort est de ramener un mort à la vie en modifiant un évènement passé et laissant une autre créature (encore vivante dans le présent) mourir à sa place. Il n'est pas question d'intervention divine ; la créature réincarnée n'est pas ramenée du royaume des morts ; lorsque ce sort est lancé avec succès, l'évènement fatal n'est jamais arrivé et le bénéficiaire du sort n'est jamais mort.\n"
+"\n"
+"Une fois que la victime est choisie, les fils du temps sont retissés de sorte que la victime soit morte au même moment et de la même façon que le bénéficiaire du sort. Le bénéficiaire réapparaît à la même place où la victime se tenait."
+
+#: wildmage/tra/english/text.tra:22201
+msgid "Entropy Burst"
+msgstr "Décharge d'Entropie"
+
+#: wildmage/tra/english/text.tra:22202
+msgid ""
+"Entropy Burst (Invocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: None\n"
+"\n"
+"Invoking the Entropy Burst spell creates magic of tremendous power. The caster acts as a bridge between the material plane and the primal forces of chaos, causing a burst of chaos-stuff centered on the caster and reaching up to a 30' radius.\n"
+"\n"
+"The effect of this spell is completely harmless for chaotic creatures, everyone else is pushed away from the caster for several seconds; creatures of neutral alignment take 1d8 points of magical damage, while lawful creatures take 1d20 points of damage. In addition, one of the following effects applies to a lawful target, according to its level:\n"
+"\n"
+"Hit Dice or levels  --  Effects of Entropy Burst\n"
+"Less than 4  --  Death\n"
+"4 to 7  --  Stunned for 1 turn\n"
+"8 to 11  --  Slowed for 1 turn with 75% chance of spell failure\n"
+"12 and up  --  Deafened for 1 turn with 50% chance of spell failure\n"
+"\n"
+"There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled."
+msgstr ""
+"Décharge d'Entropie (Invocation)\n"
+"Niveau : 8\n"
+"Portée : le jeteur de sorts\n"
+"Durée : spéciale\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : rayon de 9 mètres\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Une Décharge d'Entropie invoque une magie d'une puissance colossale. Le lanceur de sorts agit comme un pont entre le plan matériel et les forces primordiales du chaos, et provoque une décharge d'énergie chaotique centrée sur le lanceur de sorts et qui s'étend dans un rayon de 9 mètres.\n"
+"\n"
+"L'effet de ce sort est complètement inoffensif pour les créatures chaotiques, toutes les autres excepté le lanceur de sorts étant projetées loin de ce dernier pendant plusieurs secondes ; les créatures d'alignement neutre subissent 1d8 points de dégâts magiques, tandis que les créatures d'alignement loyal subissent 1d20 points de dégâts De plus, un des effets suivants s'applique à une cible loyale, selon son niveau :\n"
+"\n"
+"Dés de vie ou Niveaux  --  Effets de la Décharge d'Entropie\n"
+"Moins de 4             --  Mort\n"
+"4 à 7                  --  Assommée pour un tour\n"
+"8 à 11                 --  Ralentie pour 1 tour avec 75% de chance de rater ses sorts\n"
+"12 et plus             --  Assourdie pour un tour avec 50% de chance de rater ses sorts\n"
+"\n"
+"Il n'y a aucun jet de sauvegarde ; les effets sont instantanés et durent jusqu'à expiration du sort ou jusqu'à ce qu'ils soient dissipés."
+
+#: wildmage/tra/english/text.tra:22301
+msgid "Acid Storm"
+msgstr "Tempête d'acide"
+
+#: wildmage/tra/english/text.tra:22302
+msgid ""
+"Acid Storm (Evocation)\n"
+"Level: 7\n"
+"Range: Sight of Caster\n"
+"Duration: 1 turn\n"
+"Casting Time: 7\n"
+"Area of Effect: 20-foot radius\n"
+"Saving Throw: Half\n"
+"This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points of damage each round for the first three rounds, 1-6 hit points for the next three rounds, and 1-8 hit points for the next four rounds. Moving out of the area of effect does not stop the damage - the acid adheres to the skin, and the victims continue to suffer damage as long as the spell duration lasts. Affected creatures may make a saving throw vs. spell every round after they have been hit by the cloud - if successful, they only take half-damage (for that round only)."
+msgstr ""
+"Tempête d'acide (Évocation)\n"
+"Niveau : 7\n"
+"Portée : Champ visuel du lanceur de sorts\n"
+"Durée : 1 tour\n"
+"Temps d'incantation : 7\n"
+"Zone d'effet : rayon de 6 mètres\n"
+"Jet de sauvegarde : 1/2\n"
+"\n"
+"Ce sort libère un nuage acide dans toute la zone d'effet, causant 1d4 points de dégâts chacun des trois premiers rounds, 1d6 pour les trois suivants, et un 1d8 pour les quatre suivants. Quitter la zone d'effet ne met pas fin aux dégâts reçus - l'acide adhère à la peau, et les victimes continuent à subir les dégâts pour toute la durée du sort. Les créatures affectées effectuent un jet de sauvegarde contre les sorts chaque round après avoir été touchées par le nuage - s'il est réussi, elles ne subissent que la moitié des dégâts (pour ce round-là seulement)."
+
+#: wildmage/tra/english/text.tra:22401
+msgid "Summon Wild Horde"
+msgstr "Convocation de Horde Sauvage"
+
+#: wildmage/tra/english/text.tra:22402
+msgid ""
+"Summon Wild Horde* (Conjuration/Summoning)\n"
+"Level: 2\n"
+"Range: 0\n"
+"Duration: 1 round/level\n"
+"Casting Time: 2\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This summoning spell calls forth 1d20 aggressive rabbits that defend the caster with their lives.\n"
+"\n"
+"The tiny animals don't really pose a threat besides distracting the caster's enemies. When one of the rodents dies, however, there is a 25% chance that it will explode in a fireball, doing 2d4 points of fire damage to everyone within a 20 foot radius (save vs. spell for half)."
+msgstr ""
+"Convocation de Horde Sauvage* (Conjuration/Invocation)\n"
+"Niveau : 2\n"
+"Portée : 0\n"
+"Durée : 1 round/niveau\n"
+"Temps d'incantation : 2\n"
+"Zone d'effet : spéciale\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Ce sort de convocation convoque 1d20 lapins agressifs qui défendent le lanceur de sorts au péril de leur vie.\n"
+"\n"
+"Ces petits animaux ne constituent pas vraiment une menace hormis le fait qu'ils distraient les ennemis du lanceur de sorts. Cependant, quand un des lapins meurt, il y a 25% de chances qu'il explose en une boule de feu causant 2d4 points de dégâts à toute créature dans un rayon de 6 mètres. Réussir un jet de sauvegarde contre les sorts réduit les dégâts de moitié."
+
+#: wildmage/tra/english/text.tra:22501
+msgid "Corporeal Instability"
+msgstr "Instabilité Corporelle"
+
+#: wildmage/tra/english/text.tra:22502
+msgid ""
+"Corporeal Instability* (Alteration)\n"
+"Level: 4\n"
+"Range: Visual sight of caster\n"
+"Duration: 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: One Creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"Corporeal Instability temporarily distorts the various bonds that hold the victim's body together.\n"
+"\n"
+"When the spell is cast on a creature, it has to save vs. spells at -5 or be liquefied. When failing the saving throw, the victim takes 1d20 points of system-shock damage as his body destabilizes into an amorphous, ever-shifting mass. The victim is unable to take any action for 1 round per level of the caster, but is also immune to anything save magical damage."
+msgstr ""
+"Instabilité Corporelle* (Altération)\n"
+"Niveau : 4\n"
+"Portée : champ visuel du lanceur de sorts\n"
+"Durée : 1 round/niveau\n"
+"Temps d'incantation : 3\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : annule\n"
+"\n"
+"Instabilité Corporelle déforme temporairement les différentes liaisons qui permettent à la victime de rester en un seul morceau.\n"
+"\n"
+"Quand le sort est lancé sur une créature, celle-ci doit réussir un jet de sauvegarde contre les sorts avec un malus de -5 ou être liquéfiée. Si le jet de sauvegarde est raté, la victime subit 1d20 points de dégâts dûs au choc métabolique et son corps se transforme en une masse amorphe, changeant continuellement de forme. La victime est incapable de faire quoi que ce soit pour une durée d'un round par niveau du lanceur de sorts, mais est aussi immunisée à tout hormis les dégâts magiques."
+
+#: wildmage/tra/english/text.tra:22601
+msgid "Random Spell II"
+msgstr "Sort Aléatoire II"
+
+#: wildmage/tra/english/text.tra:22602
+msgid ""
+"Random Spell II* (Invocation/Evocation)\n"
+"Level: 3\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This is a more powerful version of the 1st level spell Random Spell I. Random spell II, when cast, creates an effect equal to a randomly selected spell of 4th or 5th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Sort Aléatoire II* (Invocation/Évocation)\n"
+"Niveau : 3\n"
+"Portée : 40 mètres\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : spéciale\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Ce sort est une version plus puissante du sort de niveau 1, Sort Aléatoire I. Sort Aléatoire II, une fois lancé, provoque un effet semblable à un sort aléatoirement choisi de niveau 4 ou 5.\n"
+"\n"
+"Le lanceur de sorts choisit comme cible une créature dans un rayon de 40 mètres. Le sort est alors centré sur cette créature, sauf dans le cas d'un sort qui n'affecte que le lanceur de sorts.\n"
+"\n"
+"Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. Le revers de la médaille étant que le lanceur de sorts n'a aucune idée du sort qui va être dupliqué, ni même si le sort est néfaste ou bénéfique."
+
+#: wildmage/tra/english/text.tra:22701
+msgid "Random Spell III"
+msgstr "Sort Aléatoire III"
+
+#: wildmage/tra/english/text.tra:22702
+msgid ""
+"Random Spell III* (Invocation/Evocation)\n"
+"Level: 5\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"Similar to the 1st and 3rd level spells, Random Spell III creates an effect equal to a randomly selected spell of 6th or 7th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Sort Aléatoire III* (Invocation/Évocation)\n"
+"Niveau : 5\n"
+"Portée : 40 mètres\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet: spéciale\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Similaire aux sorts de niveaux 1 et 3, Sort Aléatoire III cause un effet semblable à un sort aléatoirement choisi de niveau 6 ou 7.\n"
+"\n"
+"Le lanceur de sorts choisit comme cible une créature dans un rayon de 40 mètres. Le sort est alors centré sur cette créature, sauf dans le cas d'un sort qui n'affecte que le lanceur de sorts.\n"
+"\n"
+"Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. Le revers de la médaille étant que le lanceur de sorts n'a aucune idée du sort qui va être dupliqué, ni même si le sort est néfaste ou bénéfique."
+
+#: wildmage/tra/english/text.tra:22801
+msgid "Random Spell IV"
+msgstr "Sort Aléatoire IV"
+
+#: wildmage/tra/english/text.tra:22802
+msgid ""
+"Random Spell IV* (Invocation/Evocation)\n"
+"Level: 7\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"The most powerful version of Random Spell creates an effect equal to a randomly selected spell of 8th or 9th level.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+"Sort Aléatoire IV* (Invocation/Évocation)\n"
+"Niveau : 7\n"
+"Portée : 40 mètres\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : spéciale\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"La plus puissante version du Sort Aléatoire cause un effet semblable à un sort aléatoirement choisi de niveau 8 ou 9.\n"
+"\n"
+"Le lanceur de sorts choisit comme cible une créature dans un rayon de 40 mètres. Le sort est alors centré sur cette créature, sauf dans le cas d'un sort qui n'affecte que le lanceur de sorts.\n"
+"\n"
+"Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. Le revers de la médaille étant que le lanceur de sorts n'a aucune idée du sort qui va être dupliqué, ni même si le sort est néfaste ou bénéfique."
+
+#: wildmage/tra/english/text.tra:22901
+msgid "Wildfire"
+msgstr "Feu Entropique"
+
+#: wildmage/tra/english/text.tra:22902
+msgid ""
+"Wildfire* (Invocation/Evocation)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"By means of this spell, the wild mage is able to channel raw magical energy through himself, shaping it into any form or effect he desires.\n"
+"\n"
+"Wildfire allows the caster to create the effect of any wizard spell of 8th level or lower. He need only have general knowledge of the spell and its effects; the spell does not need to be in his own spellbooks."
+msgstr ""
+"Feu Entropique* (Invocation/Évocation)\n"
+"Niveau : 9\n"
+"Portée : le jeteur de sorts\n"
+"Durée : spéciale\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : spéciale\n"
+"Jet de sauvegarde : spécial\n"
+"\n"
+"Ce sort permet à l'entropiste de canaliser à travers sa propre personne de l'énergie magique brute, lui donnant la forme ou l'effet qu'il désire.\n"
+"\n"
+"Feu Entropique permet au lanceur de sorts de créer l'effet de n'importe quel sort de magicien de niveau 8 ou inférieur. Il n'a besoin que d'une connaissance générale du sort et ses effets ; le sort n'a pas besoin d'être dans son livre de sorts."
+
+#: wildmage/tra/english/text.tra:23001
+msgid "Mynoc's Irresistible Appeal"
+msgstr "Appel Irrésistible de Mynoc"
+
+#: wildmage/tra/english/text.tra:23002
+msgid ""
+"Mynoc's Irresistible Appeal* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: Visual sight of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: none\n"
+"\n"
+"Other than its name suggests, this spell has nothing to do with making the caster more attractive. When Mynoc's Irresistible Appeal is cast, a rope consisting of raw magical energy appears; this rope loops itself around the targeted creature and then shortens, drawing the target toward the caster.\n"
+"\n"
+"There is no saving throw against this spell and it bypasses all magic resistances the targeted creature might have. While this spell is mainly used to get friends out of trouble (or learn to know new ones), some wild mages are known to be crazy enough to cast this spell on enemies to force them into melee-combat."
+msgstr ""
+"Appel Irrésistible de Mynoc* (Invocation/Évocation)\n"
+"Niveau : 1\n"
+"Portée : Champ visuel du lanceur de sorts\n"
+"Durée : instantanée\n"
+"Temps d'incantation : 1\n"
+"Zone d'effet : 1 créature\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Quand ce sort est lancé, une corde constituée d'énergie magique brute apparaît ; cette corde s'enroule d'elle-même autour de la créature ciblée puis se raccourcit, amenant la cible vers le lanceur de sorts.\n"
+"\n"
+"Il n'y a aucun jet de sauvegarde contre ce sort et il contourne toutes les résistances magiques que la créature ciblée pourrait avoir. Bien que ce sort soit principalement utilisé pour sortir ses amis du pétrin (ou s'en faire de nouveaux), quelques entropistes sont connus pour être suffisamment fous pour lancer ce sort sur leur ennemis, les forçant à un corps à corps."
+
+#: wildmage/tra/english/text.tra:23101
+msgid "Meece's Wildarmor"
+msgstr "Armure Entropique de Meece"
+
+#: wildmage/tra/english/text.tra:23102
+msgid ""
+"Meece's Wildarmor* (Illusion/Phantasm)\n"
+"Level: 6\n"
+"Range: 0\n"
+"Duration: 5 rounds/level\n"
+"Casting Time: 4\n"
+"Area of Effect: The Caster\n"
+"Saving Throw: none\n"
+"\n"
+"This spell was created by the gnomish wild mage Meece Upknot as a means of combat protection. Meece couldn't decide whether stoutness or hiding is the best way to survive a fight, so he made a spell that combines both.\n"
+"\n"
+"The caster of the Wildarmor spell is protected by intense fluctuations in the magical weave around him. This distortion bends the laws of probability to a point where it serves as protection against all forms of damage. For the duration of the spell there is a high probability that any direct attack done to the caster has as smaller effect than it should have; thus all damage intended for the caster is reduced by 20%. However, there is also a 50% chance that the attack distorts the magic field surrounding the caster, causing a wild surge.\n"
+"\n"
+"After the damage done by an attack was reduced, the spell renders the caster invisible to avert further damage. This invisibility lasts for 5 rounds, until dispelled, or until the caster attacks any creature.\n"
+"\n"
+"The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level."
+msgstr ""
+"Armure Entropique de Meece* (Illusion/Fantasme)\n"
+"Niveau : 6\n"
+"Portée : le jeteur de sorts\n"
+"Durée : 5 rounds/niveau\n"
+"Temps d'incantation : 4\n"
+"Zone d'effet : le jeteur de sorts\n"
+"Jet de sauvegarde : aucun\n"
+"\n"
+"Ce sort fut créé par l'entropiste gnome Meece Upknot comme un moyen pour se protéger en combat. Meece n'arrivait pas à décider qui de la robustesse ou de la discrétion était le meilleur moyen pour survivre à un combat, alors il créa un sort qui combine les deux.\n"
+"\n"
+"Le lanceur d'Armure Entropique est protégé par des fluctuations intenses de la toile magique autour de lui. Cette déformation modifie les lois des probabilités à un point tel qu'elles servent alors de protection contre tout type de dégâts. Tant que le sort fait effet, il y a une forte probabilité que toute attaque directe visant le lanceur de sorts ait un effet mois significatif que la normale ; ainsi tous les dégâts que le lanceur de sorts reçoit sont réduits de 20%. Cependant il y a aussi 50% de chance que l'attaque déforme le champ magique entourant le lanceur de sorts, causant un hiatus entropique.\n"
+"\n"
+"Une fois que les dégâts causés par une attaque ont été réduits, le sort rend l'entropiste invisible pour prévenir tout dégât supplémentaire. Cette invisibilité dure 5 rounds, jusqu'à dissipation, ou jusqu'à ce que le lanceur de sorts attaque une créature.\n"
+"\n"
+"Le sort dure 5 rounds pour chaque niveau du lanceur de sorts, avec un maximum de 2 heures au niveau 20."
+
+#: wildmage/tra/english/text.tra:30111
+msgid "1st level"
+msgstr "Niveau 1"
+
+#: wildmage/tra/english/text.tra:30112
+msgid "2nd level"
+msgstr "Niveau 2"
+
+#: wildmage/tra/english/text.tra:30113
+msgid "3rd level"
+msgstr "Niveau 3"
+
+#: wildmage/tra/english/text.tra:30114
+msgid "4th level"
+msgstr "Niveau 4"
+
+#: wildmage/tra/english/text.tra:30115
+msgid "5th level"
+msgstr "Niveau 5"
+
+#: wildmage/tra/english/text.tra:30116
+msgid "6th level"
+msgstr "Niveau 6"
+
+#: wildmage/tra/english/text.tra:30117
+msgid "7th level"
+msgstr "Niveau 7"
+
+#: wildmage/tra/english/text.tra:30118
+msgid "8th level"
+msgstr "Niveau 8"
+
+#: wildmage/tra/english/text.tra:30119
+msgid "9th level"
+msgstr "Niveau 9"
+
+#: wildmage/tra/english/text.tra:30120
+msgid "10th level"
+msgstr "Niveau 10"
+
+#: wildmage/tra/english/text.tra:30121
+msgid "You don't have any suitable spells memorized."
+msgstr "Vous n'avez aucun sort approprié de mémorisé."
+
+#: wildmage/tra/english/text.tra:30122
+msgid "Wild Magic Backlash"
+msgstr "Réaction Entropique"
+
+#: wildmage/tra/english/text.tra:30301
+msgid "Shape Spell"
+msgstr "Modeler un Sort"
+
+#: wildmage/tra/english/text.tra:30302
+msgid "Shaped Spell"
+msgstr "Sort Modelé"
+
+#: wildmage/tra/english/text.tra:40101
+msgid "Hand"
+msgstr "Main"
+
+#: wildmage/tra/english/text.tra:40102
+msgid ""
+"As a Spellshaper you have the ability to release the raw magical energy of memorized spells and \"weave\" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.\n"
+"\n"
+"\n"
+"SPELLSHAPER:\n"
+"\n"
+"The spellshaper is a practitioner of wild magic who casts his spells by virtue of raw magical talent or gift, as opposed to a wild mage's academic, systematic approach.\n"
+"\n"
+"Spellshapers share the sorcerer's intuitive understanding for arcane magic. They memorize spells like a wizard, yet have a second resource at their disposal: A Spellshaper has the ability to \"weave\" raw magic energy into spell effects of his desire, without need of preparing those spells ahead of time. This talent is anything but unfailing, and using it on a regular basis requires as much luck as recklessness. Persons who use such a talent aren't very popular among conservative spellcasters.\n"
+"\n"
+"Unlike the sorcerer, the spellshaper may learn spells from scrolls, and memorize and cast them like a wizard. Being opportunists at heart, rarely a spellshaper renounces this relative reliable way of working magic. It's usually reserved for those protective and last-resort spells that really need to work, though. The spellshaper's talent to cast spells spontaneously is so convenient that he prefers to use it whenever possible.\n"
+"\n"
+"Neglecting conventional spellcasting, and focussing on chaotic wild magic doesn't come without a price: A spellshaper can't memorize as many spells as a true mage, and his progress in getting access to new spell levels is much slower.\n"
+"\n"
+"Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character.\n"
+"\n"
+"Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties.\n"
+"\n"
+"One of the spellshaper's more eccentric character-traits is that he refuses any training in the use of missile weapons; for ranged combat, a spellshaper uses magic, and if magic fails he prefers melee.\n"
+"\n"
+"Advantages:\n"
+"-  Wild Magic (Casting level up to +/- 5)\n"
+"-  THAC0 advancement close to rogue\n"
+"-  5 lore rating per level\n"
+"-  Weave Spell ability\n"
+"-  Weaveshear ability\n"
+"-  Shape Spell ability\n"
+"-  May learn combat-related 'feats'\n"
+"\n"
+"Disadvantages:\n"
+"-  Wild Magic (Casting level up to +/- 5)\n"
+"-  5% Chance for Wild Surge\n"
+"-  Much slower spell progression\n"
+"-  Less wizard spell slots\n"
+"-  Can't raise the number of spell slots\n"
+"-  -5 to hit and -2 damage with missiles\n"
+"-  May wear only one ring\n"
+"-  Alignment must be chaotic\n"
+msgstr ""
+"En tant que Tisseur de Sorts, vous avez la possibilité de libérer l'énergie magique brute des sorts mémorisés et de la retisser en un nouvel effet de sort. La forme que peut prendre le pouvoir magique n'est limitée que par votre imagination. Porter un anneau sur cette main serait non seulement une entrave à votre technique, mais perturberait aussi le flux magique, ce qui diminuerait nettement votre capacité à tisser les sorts.\n"
+"\n"
+"\n"
+"TISSEUR DE SORTS :\n"
+"\n"
+"Le Tisseur de sorts est un praticien de la magie entropique qui lance ses sorts grâce à un talent inné ou à un don en magie brute, à l'opposé de l'approche académique et systématique de l'entropiste.\n"
+"\n"
+"Les Tisseurs de sorts partagent avec les sorciers une compréhension intuitive de la magie des arcanes. Ils mémorisent les sorts comme les magiciens, mais disposent d'une autre ressource : un tisseur de sorts a la capacité de \"tisser\" l'énergie magique brute en l'effet de sort qu'il désire, sans avoir besoin de préparer ces sorts à l'avance. Ce talent est tout sauf fiable, et son utilisation de manière régulière requiert autant de chance que de témérité. Les personnes qui utilisent un tel talent ne sont pas très populaires chez les lanceurs de sorts classiques.\n"
+"\n"
+"Contrairement au sorcier, le Tisseur de sorts peut apprendre des sorts à partir de parchemins, les mémoriser et les lancer comme le ferait un magicien. Étant opportuniste dans l'âme, il est rare qu'un Tisseur de sorts renonce à cette utilisation de la magie relativement fiable. Elle est cependant généralement réservée aux sorts de protection et de dernier recours, qui doivent à tout prix fonctionner correctement. Mais le don du Tisseur de sorts de lancer spontanément ses sortilèges est tellement pratique qu'il préfère l'utiliser dès que possible.\n"
+"\n"
+"Négliger l'incantation conventionnelle et se concentrer sur la chaotique magie entropique ne se fait pas sans contrepartie : un Tisseur de sorts ne peut mémoriser autant de sorts qu'un véritable mage, et sa progression dans l'acquisition de nouveaux sorts est bien plus lente.\n"
+"\n"
+"Les gens de cette profession ont aussi tendance à être un peu excentriques : leur nature indisciplinée constitue ce qui les a conduits à choisir cette façon alternative d'incanter, et un contact constant avec la magie entropique chaotique affecte encore plus la personnalité d'un Tisseur de sorts. De manière similaire à un barde, un Tisseur de sorts a beaucoup de centres d'intérêts : il apprend un peu de tout ce qui croise son chemin, mais manque de constance pour maîtriser ce savoir de la même façon qu'un personnage discipliné.\n"
+"\n"
+"La plupart des Tisseurs de sorts ont la sagesse de ne pas compter uniquement sur leur dangereuse et imprévisible magie. Ils assurent leurs arrières en apprenant à se battre. Ce ne sont pas des guerriers, mais l'efficacité d'un Tisseur de sorts au corps au corps est proche de celle d'un voleur. En accumulant de l'expérience, le lanceur de sorts peut apprendre des capacités spéciales qui améliorent encore plus ses techniques de combat ; ces capacités incluant l'attaque sournoise, la maîtrise de la dague et la faculté unique de se battre avec deux armes sans pénalité.\n"
+"\n"
+"Un des traits de caractère des plus excentriques des tisseurs de sorts est qu'ils refusent tout entraînement dans l'utilisation d'armes à projectiles ; pour le combat à distance, le Tisseur de sorts use de sa magie et si celle-ci échoue, il préfère le corps à corps.\n"
+"\n"
+"Avantages :\n"
+"-  Magie Entropique (Niveau de lanceur de sorts ± 5)\n"
+"-  Progression du TAC0 proche du roublard\n"
+"-  5 points de connaissance par niveau\n"
+"-  Capacité de Tisser les sorts\n"
+"-  Capacité : Explosion Entropique\n"
+"-  Capacité de Modeler les sorts\n"
+"-  Peut apprendre des \"dons\" relatifs au combat\n"
+"\n"
+"Inconvénients :\n"
+"-  Magie Entropique (Niveau de lanceur de sorts ± 5)\n"
+"-  5% de chance d'occasionner un Hiatus Entropique\n"
+"-  Progression en sorts bien plus lente\n"
+"-  Moins d'emplacements de sorts de mage\n"
+"-  Ne peut augmenter le nombre d'emplacement de sorts\n"
+"-  -5 au toucher et -2 aux dégâts avec les projectiles\n"
+"-  Ne peut porter qu'un seul anneau\n"
+"-  L'alignement doit être chaotique"
+
+#: wildmage/tra/english/text.tra:40201
+msgid "Skull Bomb"
+msgstr "Crâne Bombe"
+
+#: wildmage/tra/english/text.tra:40202
+msgid ""
+"This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...\n"
+"\n"
+"STATISTICS:\n"
+"Casts the spell \"Skull Trap\" at caster-level 12\n"
+"\n"
+"Not Usable By:\n"
+" Non-chaotic alignments\n"
+" Wizard Slayer"
+msgstr ""
+"Cette étrange bombe en forme de crâne est apparue une nuit dans votre inventaire. Elle est tellement chargée d'énergie magique qu'elle semble sur le point d'exploser. Vous gagez que c'est le résultat d'un sort de Piège à Crânes raté. Au lieu de voler vers sa cible, le crâne s'est matérialisé dans vos poches. Vous ne savez absolument pas pourquoi il n'a - heureusement - pas encore explosé. Vous feriez bien de le lancer sur un adversaire dès que possible...\n"
+"\n"
+"PARAMETRES :\n"
+"\n"
+"Lance le sort Piège à Crânes comme un magicien de niveau 12.\n"
+"\n"
+"Non utilisable par :\n"
+" Personnages d'alignement non chaotique\n"
+" Tueur de magicien"
+
+#: wildmage/tra/english/text.tra:40301
+msgid "Dead Cat"
+msgstr "Chat Mort"
+
+#: wildmage/tra/english/text.tra:40302
+msgid "This appears to be a dead cat. It is extremely well preserved and looks as if it is sleeping."
+msgstr "On dirait un chat mort. Il est extrêmement bien préservé et on croirait qu'il est en train de dormir."
+
+#: wildmage/tra/english/text.tra:40401
+msgid "Teddy Bear"
+msgstr "Ours en peluche"
+
+#: wildmage/tra/english/text.tra:40402
+msgid "Although this cute teddy bear looks quite old, it's still in good condition."
+msgstr "Bien que ce mignon petit ours en peluche paraisse vieux, il est encore en très bon état."
+
+#: wildmage/tra/english/text.tra:40403
+msgid "Teddy Bear of Protection +2, +4 vs. Demons"
+msgstr "Ours en peluche de Protection +2, +4 contre les Démons"
+
+#: wildmage/tra/english/text.tra:40404
+msgid ""
+"Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'\n"
+"The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.\n"
+"\n"
+"Although Halycron spent much time for his son's safety and education in the arts of magic, he neglected to teach him the necessary discipline and precautionary measures. At the age of six, Halycron's son accidentally summoned a demon while his parents weren't at home. When Halcroyn and his wive returned, the house was burned down, and the babysitter devoured by the demon. In midst of the ruins, they found their son cowering under an almost unscathed table, tightly holding his beloved teddy bear.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Armor Class:  +2 bonus (+4 vs. Demons)\n"
+"Saving Throws:  +2 bonus (+4 vs. Demons)\n"
+"\n"
+"Not Usable By:\n"
+" Wizard Slayer"
+msgstr ""
+"Ours en peluche de Protection +2, +4 contre les Démons : 'Pookie le Brave'\n"
+"Cet ours en peluche de protection fut créé par l'archimage Halycron Maeral pour son fils. Quiconque porte l'objet acquiert une protection similaire à celle d'un anneau de protection +2.\n"
+"\n"
+"Bien que Halycron ait passé beaucoup de temps à assurer la sécurité de son fils et son éducation dans l'art de la magie, il négligea l'enseignement de la discipline et des mesures de précaution. A l'âge de 6 ans, le fils d'Halycron convoqua accidentellement un démon alors que ses parents n'étaient pas à la maison. Quand Halycron et son épouse rentrèrent, ils trouvèrent la maison en cendres et la nourrice dévorée par le démon. Au milieu des ruines, ils trouvèrent leur fils recroquevillé sous une table presque indemne, serrant dans ses bras son cher ours en peluche.\n"
+"\n"
+"PARAMETRES :\n"
+"\n"
+"Classe d'Armure : Bonus de +2 (+4 contre les Démons)\n"
+"Jet de sauvegarde : Bonus de +2 (+4 contre les Démons)\n"
+"\n"
+"Non utilisable par :\n"
+" Tueur de Magicien"
+
+#: wildmage/tra/english/text.tra:40501
+msgid "Rhialto's Spellbook"
+msgstr "Livre de sorts de Rhialto"
+
+#: wildmage/tra/english/text.tra:40502
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+"Ce livre de sorts appartenait à Rhialto le Merveilleux. Vous l'avez obtenu après son soudain trépas.\n"
+"\n"
+"Bien que ce livre soit en mauvais état - pages déchirées, gribouillages farfelus et des tâches partout, il en émane encore beaucoup de pouvoir magique.\n"
+"\n"
+"L'assortiment général des sorts dans ce livre est assez inhabituel, vous pourriez essayer d'apprendre à lancer certains d'entre eux.\n"
+"\n"
+"PARAMETRES :\n"
+"\n"
+"Utilisable uniquement par :\n"
+" Entropiste"
+
+#: wildmage/tra/english/text.tra:40503
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"This book is as much a diary and a notebook as it is a spellbook. Although he clearly was a madman when you met him, Rhialto once must have been a genius; not only did he develop new spells, he also was obsessed with learning alternative ways of spellcasting, this is what led him to wild magic in the first place, and most likely caused his insanity in the end.\n"
+"\n"
+"Some of the pages are covered with mystic runes that may be used to invoke the spells inscribed on these pages - a convenient way to cast those spells instantly without having to memorize them. Only a small selection of the spells is prepared like this, though; seems like Rhialto found other ways to cast spells on demand.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"May be used once per day to cast one of the following spells:\n"
+" Armor\n"
+" Chaos Shield\n"
+" Dispel Magic\n"
+" Friends\n"
+" Gymlainac's Lightbend\n"
+" Horror\n"
+" Invisibility\n"
+" Larloch's Minor Drain\n"
+" Rhialto's Random Missiles\n"
+" Wizard Eye\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+"Ce livre de sorts a appartenu autrefois à Rhialto le Merveilleux. Vous l'avez obtenu après son soudain trépas.\n"
+"\n"
+"Bien que ce livre soit en mauvais état - pages déchirées, griffonnements farfelus et des tâches partout, il en émane encore beaucoup de pouvoir magique.\n"
+"\n"
+"Ce livre est autant un journal intime et un carnet de notes qu'un livre de sorts. Bien qu'il était clairement fou lorsque vous l'avez rencontré, Rhialto dût être un génie autrefois ; non seulement il développa de nouveaux sorts, mais il était aussi obsédé par l'apprentissage de procédures d'incantation alternatives, ce qui le mena à la magie entropique en premier lieu et causa probablement sa folie à long terme.\n"
+"\n"
+"Certaines pages sont couvertes de runes mystiques qui peuvent être utilisées pour invoquer les sorts inscrits sur ces pages - un moyen commode pour lancer des sorts instantanément sans avoir à les mémoriser. Cependant, seule une petite sélection de sorts est préparée de la sorte ; on dirait que Rhialto a trouvé d'autres moyens pour lancer des sorts à la demande.\n"
+"\n"
+"L'assortiment général des sorts dans ce livre est assez inhabituel, vous pourriez essayer d'apprendre à lancer certains d'entre eux.\n"
+"\n"
+"PARAMETRES :\n"
+"\n"
+"Peut être utilisé une fois par jour pour lancer un des sorts suivants :\n"
+" Armure\n"
+" Bouclier du Chaos\n"
+" Dissipation de la Magie\n"
+" Amitié\n"
+" Courbure de l'Espace de Gymlainac\n"
+" Horreur\n"
+" Invisibilité\n"
+" Absorption Mineure de Larloch\n"
+" Projectiles Aléatoires de Rhialto\n"
+" Oeil du Magicien\n"
+"\n"
+"Utilisable uniquement par :\n"
+" Entropiste"
+
+#: wildmage/tra/english/text.tra:40511
+msgid "Read"
+msgstr "Lire"
+
+#: wildmage/tra/english/text.tra:50101
+msgid "Rhialto the Marvelous"
+msgstr "Rhialto le Merveilleux"
+
+#: wildmage/tra/english/text.tra:50102
+msgid "Rhialto"
+msgstr "Rhialto"
+
+#: wildmage/tra/english/text.tra:50111
+msgid "Wild Surge: Caster changed into a squirrel"
+msgstr "Hiatus Entropique : lanceur de sorts changé en écureuil"
+
+#: wildmage/tra/english/text.tra:69998
+msgid "Letter"
+msgstr "Lettre"
+
+#: wildmage/tra/english/text.tra:69999
+msgid ""
+"My dear friend Gorion,\n"
+"\n"
+"be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.\n"
+"\n"
+"E."
+msgstr ""
+"Mon cher ami Gorion,\n"
+"\n"
+"Sois attentif lors de ton départ, il y a un entropiste qui traine à l'extérieur des murs de Château-Suif. Ses intentions sont inconnues ; il serait préférable de prendre directement la route dès que vous aurez quitté le château.\n"
+"\n"
+"E."
