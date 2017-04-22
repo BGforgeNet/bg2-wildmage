@@ -1015,8 +1015,7 @@ msgstr "Regard du Spectateur"
 
 #: wildmage/tra/english/text.tra:21811
 msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
-msgstr ""
-"\"Regard du Spectateur\" a été ajouté à votre menu de Capacités Spéciales"
+msgstr "\"Regard du Spectateur\" a été ajouté à votre menu de Capacités Spéciales"
 
 #: wildmage/tra/english/text.tra:21901
 msgid "Entropy Shield"
@@ -1907,7 +1906,7 @@ msgid "You must have \"New Wild Magic Spells\" installed!"
 msgstr ""
 
 #: wildmage/tra/english/setup.tra:60
-msgid "Ironman"
+msgid "IronMan"
 msgstr ""
 
 #: wildmage/tra/english/setup.tra:61
@@ -2156,9 +2155,7 @@ msgstr "Ainsi nous nous rencontrons de nouveau... Vous semblez avoir plus confia
 
 #: wildmage/tra/english/dialog.tra:111
 msgid "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!"
-msgstr ""
-"Mais pour cela, vous avez dû lire le livre de sorts de Rhialto. Rhialto le "
-"Merveilleux n'aime pas qu'on touche à ses affaires !!!"
+msgstr "Mais pour cela, vous avez dû lire le livre de sorts de Rhialto. Rhialto le Merveilleux n'aime pas qu'on touche à ses affaires !!!"
 
 #: wildmage/tra/english/dialog.tra:200
 msgid "Select a Special Ability\n"

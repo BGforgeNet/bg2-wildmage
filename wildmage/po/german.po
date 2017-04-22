@@ -1225,14 +1225,9 @@ msgstr ""
 "Wirkungsbereich: Speziell\n"
 "Rettungswurf: Speziell\n"
 "\n"
-"Dieser Beschwörungszauber ruft 1W20 aggressive Hasen herbei, die den "
-"Zaubernden mit ihrem Leben verteidigen.\n"
+"Dieser Beschwörungszauber ruft 1W20 aggressive Hasen herbei, die den Zaubernden mit ihrem Leben verteidigen.\n"
 "\n"
-"Abgesehen von ihrer ablenkenden Wirkung stellen die kleinen Tiere keine "
-"wirkliche Bedrohung dar. Wenn einer der Hasen stirbt besteht allerdings eine "
-"25% chance dass er in einem Feuerball explodiert, und jedem innerhalb eines "
-"8 Meter Radius 2W4 punkte Feuerschaden zufügt (rettungswurf gegen Zauber für "
-"halben Schaden)."
+"Abgesehen von ihrer ablenkenden Wirkung stellen die kleinen Tiere keine wirkliche Bedrohung dar. Wenn einer der Hasen stirbt besteht allerdings eine 25% chance dass er in einem Feuerball explodiert, und jedem innerhalb eines 8 Meter Radius 2W4 punkte Feuerschaden zufügt (rettungswurf gegen Zauber für halben Schaden)."
 
 #: wildmage/tra/english/text.tra:22501
 msgid "Corporeal Instability"
@@ -1889,7 +1884,7 @@ msgid "You must have \"New Wild Magic Spells\" installed!"
 msgstr "\"Neue Zaubersprche\" wird bentigt!"
 
 #: wildmage/tra/english/setup.tra:60
-msgid "Ironman"
+msgid "IronMan"
 msgstr ""
 
 #: wildmage/tra/english/setup.tra:61
