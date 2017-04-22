@@ -1775,7 +1775,7 @@ msgstr "Требуется установить компонент \"Новые 
 #: wildmage/tra/english/setup.tra:60
 #, fuzzy
 #| msgid "Ironman"
-msgid "IronMan"
+msgid "Ironman"
 msgstr "Стальная воля"
 
 #: wildmage/tra/english/setup.tra:61
