@@ -13,10 +13,10 @@ This mod expands on Wild Magic and Wild Mages. Fixed version, based on [original
 **Work in progress**.
 
 - Components
- - [New wild magic spells](#new-wild-magic-spells)
- - [Retain Rhialto's inventory](#retain-rhialtos-inventory)
- - [Spellshaper kit](#spellshaper-kit)
- - [Misc spell changes](#misc-spell-changes)
+  - [New wild magic spells](#new-wild-magic-spells)
+  - [Retain Rhialto's inventory](#retain-rhialtos-inventory)
+  - [Spellshaper kit](#spellshaper-kit)
+  - [Misc spell changes](#misc-spell-changes)
 - [Tips](#tips)
 - [Changelog](#changelog)
 - [License](#license)
