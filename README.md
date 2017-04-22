@@ -72,28 +72,28 @@ Like dozens of other wizards in the game, you now can target any nearby place yo
 ### Tips
 - Rhialto will always spawn. It doesn't matter which class is the main character.
 - How to kill him on low levels, (BG1 ironman):
- - gather a larger party
- - spread, run, shoot
+  - gather a larger party
+  - spread, run, shoot
 - In pansy mode, Rhialto is in the actual Candlekeep area, not in the area where Gorion is killed.
 
 ### Changelog
 - 2.beta3
- - Better EE compatibility with HANDLE_CHARSETS
- - Updated some translations
+  - Better EE compatibility with HANDLE_CHARSETS
+  - Updated some translations
 - 2.beta2
- - Fixed problem with Rhialto never polymorphing
- - Added separate component to preserve the bear
- - Fix tutu installation
+  - Fixed problem with Rhialto never polymorphing
+  - Added separate component to preserve the bear
+  - Fix tutu installation
 - 2.beta1
- - Allow to be installed on EE (including IWD:EE)
- - Make MacOS/Linux friendly
- - Combine some components to simplify installation
- - Preserve teddy bear upon BG1>BG2 transition
- - Fix Rodent/Ratatosk shape: power, dispell/bypass, AC bonus, paw enchantment, description
- - Fix Random spell X description
- - Fix Rhialto's spell slots/levels
- - Fix Blade shower: no permanent daggers, bypass magic protections such as GoI, clarify description, disable wild surges/spell failure for created daggers
- - Under the hood: dos2unix, lowercase, split components into multiple files, use newer weidu syntax, shorten where possible, streamline scripts handling Rhialto appearance and items transfer
+  - Allow to be installed on EE (including IWD:EE)
+  - Make MacOS/Linux friendly
+  - Combine some components to simplify installation
+  - Preserve teddy bear upon BG1>BG2 transition
+  - Fix Rodent/Ratatosk shape: power, dispell/bypass, AC bonus, paw enchantment, description
+  - Fix Random spell X description
+  - Fix Rhialto's spell slots/levels
+  - Fix Blade shower: no permanent daggers, bypass magic protections such as GoI, clarify description, disable wild surges/spell failure for created daggers
+  - Under the hood: dos2unix, lowercase, split components into multiple files, use newer weidu syntax, shorten where possible, streamline scripts handling Rhialto appearance and items transfer
 - 1.7: the original
 
 
