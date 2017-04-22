@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2017-04-22 18:44+0000\n"
+"PO-Revision-Date: 2017-04-22 18:49+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2136,7 +2136,12 @@ msgstr "Но это будет не больно... По крайней мере
 
 #: wildmage/tra/english/dialog.tra:110
 msgid "So we meet again... You seem to have grown more self-confident since Rhialto the Marvelous had his little accident. It is just fitting that you, who caused his downfall by your insolent resistance, brought Rhialto back to life."
-msgstr "Итак, мы снова встретились… Похоже, твоя уверенность в своих силах значительно выросла с тех пор, как с Риалто Изумительным произошел тот несчастный случай. И разве это не перст судьбы: именно тебе, чье дерзкое сопротивление послужило причиной его падения, суждено было вернуть Риалто к жизни?"
+msgstr ""
+"Итак, мы снова встретились… Похоже, твоя уверенность в своих силах "
+"значительно выросла с тех пор, как с Риалто Изумительным произошел тот "
+"несчастный случай. И в том, что именно тебе, чье дерзкое сопротивление "
+"послужило причиной его падения, суждено было вернуть Риалто к жизни, виден "
+"перст судьбы."
 
 #: wildmage/tra/english/dialog.tra:111
 msgid "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!"
@@ -2144,7 +2149,7 @@ msgstr "Но чтобы сделать это, тебе нужно было пр
 
 #: wildmage/tra/english/dialog.tra:200
 msgid "Select a Special Ability\n"
-msgstr "Выберите особую способность"
+msgstr "Выберите особую способность\n"
 
 #: wildmage/tra/english/dialog.tra:201
 msgid "Ambidexterity (1st Rank)"
