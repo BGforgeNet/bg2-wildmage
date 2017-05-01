@@ -1,4 +1,11 @@
 #
+#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from wildmage/tra/english/text.tra
+#. #-#-#-#-#  english.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from wildmage/tra/english/setup.tra
+#. #-#-#-#-#  english.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from wildmage/tra/english/dialog.tra
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
