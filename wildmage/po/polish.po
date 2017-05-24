@@ -11,14 +11,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2017-04-22 19:01+0000\n"
-"Last-Translator: The Magus <weblate@bgforge.net>\n"
+"PO-Revision-Date: 2017-05-24 22:59+0000\n"
+"Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: polish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.12\n"
 
 #: wildmage/tra/english/text.tra:10101
@@ -1696,7 +1697,7 @@ msgstr ""
 
 #: wildmage/tra/english/text.tra:40201
 msgid "Skull Bomb"
-msgstr "Eksplodująca czaszka "
+msgstr "Eksplodująca czaszka"
 
 #: wildmage/tra/english/text.tra:40202
 msgid ""
@@ -1962,7 +1963,7 @@ msgstr "Studiujesz dalej księgę czarów Rhialto."
 
 #: wildmage/tra/english/dialog.tra:7
 msgid "Rhialto may have been insane, but his knowledge was great indeed."
-msgstr "Może i Rhialto był szalony, lecz jego wiedza była rzeczywiście ogromna"
+msgstr "Może i Rhialto był szalony, lecz jego wiedza była rzeczywiście ogromna."
 
 #: wildmage/tra/english/dialog.tra:8
 msgid "Although you're sure that you've learned every spell from this this spellbook, you still feel the strong urge to risk another look."
