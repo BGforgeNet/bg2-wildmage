@@ -1,11 +1,4 @@
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. extracted from wildmage/tra/english/text.tra
-#. #-#-#-#-#  english.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. extracted from wildmage/tra/english/setup.tra
-#. #-#-#-#-#  english.pot (PACKAGE VERSION)  #-#-#-#-#
-#. extracted from wildmage/tra/english/dialog.tra
-#, fuzzy
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -18,61 +11,491 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: tra2po v.1.0.2\n"
+"X-Generator: bgforge_po v.1.0.0\n"
 
-#: wildmage/tra/english/text.tra:10101
+#: dialog.tra:0
+msgid ""
+"You open Rhialto's spellbook for the first time. It's an insane mess of "
+"random notes, illegible scribble and childish drawings; all over smeared "
+"with blood, bile and some other stuff you can't (and don't even want to) "
+"recognize. Amazingly, some of the spell entries are still legible."
+msgstr ""
+
+#: dialog.tra:1
+msgid ""
+"Again you risk a look into Rhialto's spellbook. You carefully separate two "
+"sheets that were stuck together, just to discover a nasty drawing of an old "
+"sage with long beard and pointy hat, that seems to glare longingly at "
+"something that looks like a petrified goat."
+msgstr ""
+
+#: dialog.tra:2
+msgid ""
+"You open the spellbook at a random page and notice some scribble you haven't"
+" seen before: \"<CHARNAME>, keep your dirty hands off my spellbook!\""
+msgstr ""
+
+#: dialog.tra:3
+msgid ""
+"When you open Rhialto's spellbook, one of the pages comes loose and falls "
+"out."
+msgstr ""
+
+#: dialog.tra:4
+msgid ""
+"Rhialto's spellbook is still a mess, and his mind must have been quite the "
+"same; you wonder if the same madness could affect you, when you continue to "
+"read his writings."
+msgstr ""
+
+#: dialog.tra:5
+msgid ""
+"Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile "
+"you're getting used to it."
+msgstr ""
+
+#: dialog.tra:6
+msgid "You continue to study Rhialto's spellbook."
+msgstr ""
+
+#: dialog.tra:7
+msgid "Rhialto may have been insane, but his knowledge was great indeed."
+msgstr ""
+
+#: dialog.tra:8
+msgid ""
+"Although you're sure that you've learned every spell from this this "
+"spellbook, you still feel the strong urge to risk another look."
+msgstr ""
+
+#: dialog.tra:9
+msgid "When you open Rhialto's spellbook again, it crumbles to dust."
+msgstr ""
+
+#: dialog.tra:10
+msgid ""
+"Study the spellbook for a while, and see if you can learn something new."
+msgstr ""
+
+#: dialog.tra:11
+msgid "Close the book."
+msgstr ""
+
+#: dialog.tra:12
+msgid ""
+"When you examine this strange spell closer, it proves to be utterly useless."
+" No point in learning it."
+msgstr ""
+
+#: dialog.tra:13
+msgid "You spend some time, browsing trough the book..."
+msgstr ""
+
+#: dialog.tra:14
+msgid "You found something of interest."
+msgstr ""
+
+#: dialog.tra:15
+msgid "You find nothing new."
+msgstr ""
+
+#: dialog.tra:16
+msgid ""
+"You try to learn the spell, but it's too difficult, you need more experience"
+" in the art before you can learn it."
+msgstr ""
+
+#: dialog.tra:17
+msgid "You succeed in learning the spell."
+msgstr ""
+
+#: dialog.tra:18
+msgid ""
+"As much as you try to concentrate, you read a line and forget it in the same"
+" moment; as if someone powerful wipes it from your memory. Obviously someone"
+" doesn't want you to know this spell."
+msgstr ""
+
+#: dialog.tra:19
+msgid "You close the book."
+msgstr ""
+
+#: dialog.tra:20
+msgid "Try to learn the spell \"Random Spell I\"."
+msgstr ""
+
+#: dialog.tra:21
+msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
+msgstr ""
+
+#: dialog.tra:22
+msgid "Try to learn the spell \"Rodent Form\"."
+msgstr ""
+
+#: dialog.tra:23
+msgid "Try to learn the spell \"Blade Shower\"."
+msgstr ""
+
+#: dialog.tra:24
+msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
+msgstr ""
+
+#: dialog.tra:25
+msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
+msgstr ""
+
+#: dialog.tra:26
+msgid "Try to learn the spell \"Vile Word of Discord\"."
+msgstr ""
+
+#: dialog.tra:27
+msgid "Try to learn the spell \"Cellular Regeneration\"."
+msgstr ""
+
+#: dialog.tra:28
+msgid "Try to learn the spell \"Glyph of Wild Magic\"."
+msgstr ""
+
+#: dialog.tra:29
+msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
+msgstr ""
+
+#: dialog.tra:30
+msgid "Try to learn the spell \"Vortex\"."
+msgstr ""
+
+#: dialog.tra:31
+msgid "Try to learn the spell \"Paithan's Fiasco\"."
+msgstr ""
+
+#: dialog.tra:32
+msgid "Try to learn the spell \"Wildstrike\"."
+msgstr ""
+
+#: dialog.tra:33
+msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
+msgstr ""
+
+#: dialog.tra:34
+msgid "Try to learn the spell \"Summon Cow\"."
+msgstr ""
+
+#: dialog.tra:35
+msgid "Try to learn the spell \"Eye of the Beholder\"."
+msgstr ""
+
+#: dialog.tra:36
+msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
+msgstr ""
+
+#: dialog.tra:37
+msgid "Try to learn the spell \"Entropy Shield\"."
+msgstr ""
+
+#: dialog.tra:38
+msgid "Try to learn the spell \"Wild Sphere\"."
+msgstr ""
+
+#: dialog.tra:39
+msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
+msgstr ""
+
+#: dialog.tra:40
+msgid "Try to learn the spell \"Rhialto's Avatar\"."
+msgstr ""
+
+#: dialog.tra:41
+msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
+msgstr ""
+
+#: dialog.tra:42
+msgid "Try to learn the spell \"Summon Wild Horde\"."
+msgstr ""
+
+#: dialog.tra:43
+msgid "Try to learn the spell \"Random Spell II\"."
+msgstr ""
+
+#: dialog.tra:44
+msgid "Try to learn the spell \"Corporeal Instability\"."
+msgstr ""
+
+#: dialog.tra:45
+msgid "Try to learn the spell \"Random Spell III\"."
+msgstr ""
+
+#: dialog.tra:46
+msgid "Try to learn the spell \"Meece's Wild Armour\"."
+msgstr ""
+
+#: dialog.tra:47
+msgid "Try to learn the spell \"Random Spell IV\"."
+msgstr ""
+
+#: dialog.tra:48
+msgid "Try to learn the spell \"Entropy Burst\"."
+msgstr ""
+
+#: dialog.tra:49
+msgid "Try to learn the spell \"Wildfire\"."
+msgstr ""
+
+#: dialog.tra:100
+msgid ""
+"Well, well, well... What do we have here?  Greetings, young one, No doubt "
+"you're honored to meet Rhialto the Marvelous."
+msgstr ""
+
+#: dialog.tra:101
+msgid ""
+"Ah yes, you are perfect. Be honored, young one, for your existence now has a"
+" purpose: Rhialto the Marvelous needs your spleen."
+msgstr ""
+
+#: dialog.tra:102
+msgid ""
+"It will be the final component for the greatest spell that was worked since,"
+" well, since ever!!!  Of course, it needs to be extracted while you're still"
+" alive, otherwise it would be worthless as an ingredient."
+msgstr ""
+
+#: dialog.tra:103
+msgid ""
+"But it won't be too painful... Well, at least it won't take too long.  "
+"Rhialto the Marvelous is a very experienced surgeon, it will only take an "
+"hour or two..."
+msgstr ""
+
+#: dialog.tra:110
+msgid ""
+"So we meet again... You seem to have grown more self-confident since Rhialto"
+" the Marvelous had his little accident. It is just fitting that you, who "
+"caused his downfall by your insolent resistance, brought Rhialto back to "
+"life."
+msgstr ""
+
+#: dialog.tra:111
+msgid ""
+"But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous "
+"really doesn't like it when someone touches his stuff!!!"
+msgstr ""
+
+#: dialog.tra:200
+msgid "Select a Special Ability\n"
+msgstr ""
+
+#: dialog.tra:201
+msgid "Ambidexterity (1st Rank)"
+msgstr ""
+
+#: dialog.tra:202
+msgid "Ambidexterity (2nd Rank)"
+msgstr ""
+
+#: dialog.tra:203
+msgid "Backstabbing (x2)"
+msgstr ""
+
+#: dialog.tra:204
+msgid "Backstabbing Adept (x3)"
+msgstr ""
+
+#: dialog.tra:205
+msgid "Backstabbing Expert (x4)"
+msgstr ""
+
+#: dialog.tra:206
+msgid "Backstabbing Master (x5)"
+msgstr ""
+
+#: dialog.tra:207
+msgid "Combat Speed"
+msgstr ""
+
+#: dialog.tra:208
+msgid "Dagger Specialization"
+msgstr ""
+
+#: dialog.tra:209
+msgid "Dagger Mastery"
+msgstr ""
+
+#: dialog.tra:210
+msgid "Improved Criticals"
+msgstr ""
+
+#: dialog.tra:211
+msgid "Toughness"
+msgstr ""
+
+#: dialog.tra:212
+msgid "Vicious hits"
+msgstr ""
+
+#: dialog.tra:213
+msgid "Rogue High Level Ability: \"Assassination\""
+msgstr ""
+
+#: dialog.tra:214
+msgid "Rogue High Level Ability: \"Avoid Death\""
+msgstr ""
+
+#: dialog.tra:215
+msgid "Rogue High Level Ability: \"Evasion\""
+msgstr ""
+
+#: dialog.tra:216 text.tra:30101
+msgid "Weave Spell"
+msgstr ""
+
+#: dialog.tra:217 text.tra:30201
+msgid "Weaveshear"
+msgstr ""
+
+#: dialog.tra:220
+msgid ""
+"You don't know exactly what just happened, but in the heat of battle you "
+"somehow managed to cast a spell spontaneously."
+msgstr ""
+
+#: dialog.tra:221
+msgid ""
+"Now you feel a strange wave of magical power rising within you. Whatever is "
+"happening, somehow you feel that if you yield to it, you will be changed "
+"forever."
+msgstr ""
+
+#: dialog.tra:222
+msgid "Embrace this new power."
+msgstr ""
+
+#: dialog.tra:223
+msgid "Try to suppress it."
+msgstr ""
+
+#: dialog.tra:224
+msgid "Whatever that was, you were strong enough to suppress it."
+msgstr ""
+
+#: dialog.tra:225
+msgid "A surge of chaotic energy overwhelms you."
+msgstr ""
+
+#: dialog.tra:230
+msgid ""
+"When you give in to the surge of magical power, you feel that your "
+"understanding of the magical Weave changes."
+msgstr ""
+
+#: dialog.tra:231
+msgid ""
+"Once you tried to study the chaos around you, bending it to your will, "
+"drawing your strength from the erratic ebb and flow of wild magic."
+msgstr ""
+
+#: dialog.tra:232
+msgid ""
+"Now you feel a close relation to the Weave. You now are able to tangle the "
+"Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr ""
+
+#: setup.tra:1
+msgid "New Wild Magic Spells"
+msgstr ""
+
+#: setup.tra:2
+msgid "Spellshaper Kit"
+msgstr ""
+
+#: setup.tra:4
+msgid "Misc spell modifications"
+msgstr ""
+
+#: setup.tra:20
+msgid "You must have \"New Wild Magic Spells\" installed!"
+msgstr ""
+
+#: setup.tra:60
+msgid "Ironman"
+msgstr ""
+
+#: setup.tra:61
+msgid "Haughty pansy"
+msgstr ""
+
+#: setup.tra:62
+msgid "Only ToB and EE engines are supported"
+msgstr ""
+
+#: setup.tra:63
+msgid "Original avatar"
+msgstr ""
+
+#: setup.tra:64
+msgid "Changed avatar"
+msgstr ""
+
+#: setup.tra:65
+msgid "Requires BG1 content"
+msgstr ""
+
+#: setup.tra:66
+msgid "Retain Rhialto's items"
+msgstr ""
+
+#: text.tra:10101
 msgid "Wild Magic"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10201
+#: text.tra:10201
 msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10301
+#: text.tra:10301
 msgid "THAC0 Reduced by 1"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10302
+#: text.tra:10302
 msgid "Backstab Multiplier Increased by 1"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10303
+#: text.tra:10303
 msgid "Dagger Proficiency raised to 2 (Specialized)"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10304
+#: text.tra:10304
 msgid "Dagger Proficiency raised to 3 (Master)"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10305
+#: text.tra:10305
 msgid "Gained Ambidexterity (1st Rank)"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10306
+#: text.tra:10306
 msgid "Raised Ambidexterity to 2nd Rank"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10307
+#: text.tra:10307
 msgid "Gained +1 Melee Damage Bonus"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10308
+#: text.tra:10308
 msgid "Gained 20% Hitpoint Bonus"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10309
+#: text.tra:10309
 msgid "Attacks per round raised by 1"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:10310
+#: text.tra:10310
 msgid "Critical Hit Range increased by 1"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20101
+#: text.tra:20101
 msgid "Rhialto's Chaos Conduit"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20102
+#: text.tra:20102
 msgid ""
 "Rhialto's Chaos Conduit* (Alteration)\n"
 "Level: 1\n"
@@ -95,23 +518,35 @@ msgid ""
 "No matter if you actually think about casting this spell or not, one thing you know for sure: if you dare to cast the spell, it will change you forever."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20103
+#: text.tra:20103
 msgid "Spellshaper"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20111
-msgid "After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+#: text.tra:20111
+msgid ""
+"After casting this strange spell, you feel your understanding of the magical"
+" Weave changing. Once you tried to study the chaos around you, bending it to"
+" your will, drawing your strength from the erratic ebb and flow of wild "
+"magic. Now you feel a relation to the Weave. You feel that you are able to "
+"tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20112
-msgid "You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream."
+#: text.tra:20112
+msgid ""
+"You also feel, that the spell has changed more than just your spellcasting "
+"abilities. Somehow it feels as if the spell freed a part of your soul that "
+"was hidden deep within you until now. There is a bit more individuality, "
+"tolerance, curiosity, but also a bit less discipline and diligence, as well "
+"as a mistrust to authorities. It feel right though, as if it always was "
+"supposed to be like that. You don't feel as if you were changed, though, "
+"it's more like finally waking up from a long, long dream."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20201
+#: text.tra:20201
 msgid "Rodent Form"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20202
+#: text.tra:20202
 msgid ""
 "Rodent Form* (Alteration)\n"
 "Level: 1\n"
@@ -126,19 +561,19 @@ msgid ""
 "Hopefully, the current revision of this spell does NOT change the caster's personality or mentality."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20211
+#: text.tra:20211
 msgid "One of my spells has changed!"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20212
+#: text.tra:20212
 msgid "Learned new spell: Ratatosk Shape"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20301
+#: text.tra:20301
 msgid "Ratatosk Shape"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20302
+#: text.tra:20302
 msgid ""
 "Ratatosk Shape* (Alteration)\n"
 "Level: 1\n"
@@ -157,11 +592,11 @@ msgid ""
 "Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20401
+#: text.tra:20401
 msgid "Random Spell I"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20402
+#: text.tra:20402
 msgid ""
 "Random Spell I* (Invocation/Evocation)\n"
 "Level: 1\n"
@@ -180,11 +615,11 @@ msgid ""
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20501
+#: text.tra:20501
 msgid "Blade Shower"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20502
+#: text.tra:20502
 msgid ""
 "Blade Shower* (Conjuration)\n"
 "Level: 2\n"
@@ -203,15 +638,15 @@ msgid ""
 "Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20511
+#: text.tra:20511
 msgid "\"Blade Shower\" has been added to your Special Abilities menu"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20601
+#: text.tra:20601
 msgid "Rhialto's Random Missiles"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20602
+#: text.tra:20602
 msgid ""
 "Rhialto's Random Missiles* (Evocation)\n"
 "Level: 2\n"
@@ -228,11 +663,11 @@ msgid ""
 "Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or magical damage. The chaotic nature of the missiles gives them a 25% chance to bypass any natural or magical resistances the target might have."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20701
+#: text.tra:20701
 msgid "Glyph of Wild Magic"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20702
+#: text.tra:20702
 msgid ""
 "Glyph of Wild Magic* (Evocation)\n"
 "Level: 4\n"
@@ -249,15 +684,15 @@ msgid ""
 "Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20711
+#: text.tra:20711
 msgid "Weave Disturbance"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20801
+#: text.tra:20801
 msgid "Gymlainac's Lightbend"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20802
+#: text.tra:20802
 msgid ""
 "Gymlainac's Lightbend* (Alteration)\n"
 "Level: 3\n"
@@ -272,11 +707,11 @@ msgid ""
 "The spell bends light waves around the recipient, creating an effect similar to the second-level spell Blur and a Cloak of Displacement. The recipient's form is both blurred and sways (regardless of movement), making her much more difficult to hit. When the spell is cast, the recipient gains a bonus of 2d4 to armor class and 1d4 to saving throws. Since the effect of this spell is no illusion but an actual change of the space around the recipient, it can't be dispelled by True Seeing or similar spells."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20901
+#: text.tra:20901
 msgid "Vile Word of Discord"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:20902
+#: text.tra:20902
 msgid ""
 "Vile Word of Discord* (Enchantment/Charm)\n"
 "Level: 3\n"
@@ -297,11 +732,11 @@ msgid ""
 "Usually, this spell can't be backtraced to the caster: the only person, the victims might be angry at, is the spell's original target. Ongoing fights between the affected creatures might continue even after the spell ends."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21001
+#: text.tra:21001
 msgid "Cellular Regeneration"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21002
+#: text.tra:21002
 msgid ""
 "Cellular Regeneration* (Necromancy)\n"
 "Level: 4\n"
@@ -327,11 +762,11 @@ msgid ""
 "The regeneration process is so stressing for the body, that the recipient stays unconscious for the duration of the spell, and looses one point of constitution for one hour thereafter."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21101
+#: text.tra:21101
 msgid "Vortex"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21102
+#: text.tra:21102
 msgid ""
 "Vortex* (Evocation)\n"
 "Level: 5\n"
@@ -350,11 +785,11 @@ msgid ""
 "The duration of the spell is 3 rounds at level 10, plus one round for each additional level - up to 15 rounds at level 34. The caster is held immobile for the whole duration of the spell; he can't cancel it, even when he completely lost control over the vortex."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21201
+#: text.tra:21201
 msgid "Paithan's Lucky Streak"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21202
+#: text.tra:21202
 msgid ""
 "Paithan's Lucky Streak* (Enchantment/Charm)\n"
 "Level: 5\n"
@@ -373,11 +808,11 @@ msgid ""
 "As long as it doesn't expire due to \"Bad Luck\" (1 on D20, then 15 or lower on D20), the spell continues infinitely."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21301
+#: text.tra:21301
 msgid "Paithan's Fiasco"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21302
+#: text.tra:21302
 msgid ""
 "Paithan's Fiasco* (Enchantment/Charm)\n"
 "Level: 6\n"
@@ -396,15 +831,15 @@ msgid ""
 "As long as it doesn't expire due to \"Good Luck\" (20 on D20, then 6 or higher on D20), the spell continues infinitely."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21311
+#: text.tra:21311
 msgid "Fiasco"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21401
+#: text.tra:21401
 msgid "Wildstrike"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21402
+#: text.tra:21402
 msgid ""
 "Wildstrike* (Conjuration/Summoning)\n"
 "Level: 6\n"
@@ -421,11 +856,11 @@ msgid ""
 "The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21501
+#: text.tra:21501
 msgid "Hornung's Random Dispatcher"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21502
+#: text.tra:21502
 msgid ""
 "Hornung's Random Dispatcher* (Abjuration)\n"
 "Level: 7\n"
@@ -442,171 +877,171 @@ msgid ""
 "Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21511
+#: text.tra:21511
 msgid "was sent to the Abyss"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21512
+#: text.tra:21512
 msgid "was sent to Acheron"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21513
+#: text.tra:21513
 msgid "was sent to the prime world known as Oerth"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21514
+#: text.tra:21514
 msgid "was sent to the prime world known as Athas"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21515
+#: text.tra:21515
 msgid "was sent to Arcadia"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21516
+#: text.tra:21516
 msgid "was sent to the Astral Plane"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21517
+#: text.tra:21517
 msgid "was sent to the Beastlands"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21518
+#: text.tra:21518
 msgid "was sent to the Outlands"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21519
+#: text.tra:21519
 msgid "was sent to the Elemental Plane of Air"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21520
+#: text.tra:21520
 msgid "was sent to the Elemental Plane of Fire"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21521
+#: text.tra:21521
 msgid "was sent to the Elemental Plane of Earth"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21522
+#: text.tra:21522
 msgid "was sent to the Elemental Plane of Water"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21523
+#: text.tra:21523
 msgid "was sent to Elysium"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21524
+#: text.tra:21524
 msgid "was sent to the Ethereal Plane"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21525
+#: text.tra:21525
 msgid "was sent to Gehenna"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21526
+#: text.tra:21526
 msgid "was sent to Gladsheim"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21527
+#: text.tra:21527
 msgid "was sent to the Gray Waste"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21528
+#: text.tra:21528
 msgid "was sent to Limbo"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21529
+#: text.tra:21529
 msgid "was sent to the Negative Material Plane"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21530
+#: text.tra:21530
 msgid "was sent to the Quasi-Plane of Vacuum"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21531
+#: text.tra:21531
 msgid "was sent to the Quasi-Plane of Ash"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21532
+#: text.tra:21532
 msgid "was sent to the Quasi-Plane of Dust"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21533
+#: text.tra:21533
 msgid "was sent to the Quasi-Plane of Salt"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21534
+#: text.tra:21534
 msgid "was sent to the Nine Hells"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21535
+#: text.tra:21535
 msgid "was sent to Nirvana"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21536
+#: text.tra:21536
 msgid "was sent to Olympus"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21537
+#: text.tra:21537
 msgid "was sent to Pandemonium"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21538
+#: text.tra:21538
 msgid "was sent to the Para-Elemental Plane of Smoke"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21539
+#: text.tra:21539
 msgid "was sent to the Para-Elemental Plane of Magma"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21540
+#: text.tra:21540
 msgid "was sent to the Para-Elemental Plane of Ooze"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21541
+#: text.tra:21541
 msgid "was sent to the Para-Elemental Plane of Ice"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21542
+#: text.tra:21542
 msgid "was sent to the Positive Material Plane"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21543
+#: text.tra:21543
 msgid "was sent to the Quasi-Plane of Lightning"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21544
+#: text.tra:21544
 msgid "was sent to the Quasi-Plane of Radiance"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21545
+#: text.tra:21545
 msgid "was sent to the Quasi-Plane of Minerals"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21546
+#: text.tra:21546
 msgid "was sent to the Quasi-Plane of Steam"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21547
+#: text.tra:21547
 msgid "was sent to the Icewind Dale"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21548
+#: text.tra:21548
 msgid "was sent to the Seven Heavens"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21549
+#: text.tra:21549
 msgid "was sent to the Tarterus"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21550
+#: text.tra:21550
 msgid "was sent to the Twin Paradises"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21601
+#: text.tra:21601
 msgid "Summon Cow"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21602
+#: text.tra:21602
 msgid ""
 "Summon Cow* (Summoning)\n"
 "Level: 7\n"
@@ -630,11 +1065,11 @@ msgid ""
 "It is also strongly advised against using this spell in the presence of rangers or druids."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21701
+#: text.tra:21701
 msgid "Mynoc's Wild Recuperation"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21702
+#: text.tra:21702
 msgid ""
 "Mynoc's Wild Recuperation* (Evocation)\n"
 "Level: 8\n"
@@ -649,27 +1084,27 @@ msgid ""
 "For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21711
+#: text.tra:21711
 msgid "1 spell restored to memory"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21712
+#: text.tra:21712
 msgid "2 spells restored to memory"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21713
+#: text.tra:21713
 msgid "3 spells restored to memory"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21714
+#: text.tra:21714
 msgid "4 spells restored to memory"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21801
+#: text.tra:21801
 msgid "Eye of the Beholder"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21802
+#: text.tra:21802
 msgid ""
 "Eye of the Beholder* (Evocation)\n"
 "Level: 8\n"
@@ -686,19 +1121,19 @@ msgid ""
 "Usually, the caster's eye returns to its original shape and place after the spell has expired."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21803
+#: text.tra:21803
 msgid "Beholder's Gaze"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21811
+#: text.tra:21811
 msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21901
+#: text.tra:21901
 msgid "Entropy Shield"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:21902
+#: text.tra:21902
 msgid ""
 "Entropy Shield* (Abjuration)\n"
 "Level: 9\n"
@@ -715,11 +1150,11 @@ msgid ""
 "In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22001
+#: text.tra:22001
 msgid "Wild Sphere"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22002
+#: text.tra:22002
 msgid ""
 "Wild Sphere* (Conjuration/Summoning)\n"
 "Level: 9\n"
@@ -738,11 +1173,11 @@ msgid ""
 "Vicims that also fail the save vs. spells without modifier, are subject to one of the following random effects: randomly teleported, polymorphed into a squirrel, confused, paralyzed, healed by 1d8 hit points, take 1d8 hit points of damage, rendered unconscious or hasted."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22101
+#: text.tra:22101
 msgid "Rhialto's Marvelous Reincarnation"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22102
+#: text.tra:22102
 msgid ""
 "Rhialto's Marvelous Reincarnation* (Alteration)\n"
 "Level: 10\n"
@@ -761,11 +1196,11 @@ msgid ""
 "Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22201
+#: text.tra:22201
 msgid "Entropy Burst"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22202
+#: text.tra:22202
 msgid ""
 "Entropy Burst (Invocation)\n"
 "Level: 8\n"
@@ -788,11 +1223,11 @@ msgid ""
 "There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22301
+#: text.tra:22301
 msgid "Acid Storm"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22302
+#: text.tra:22302
 msgid ""
 "Acid Storm (Evocation)\n"
 "Level: 7\n"
@@ -804,11 +1239,11 @@ msgid ""
 "This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points of damage each round for the first three rounds, 1-6 hit points for the next three rounds, and 1-8 hit points for the next four rounds. Moving out of the area of effect does not stop the damage - the acid adheres to the skin, and the victims continue to suffer damage as long as the spell duration lasts. Affected creatures may make a saving throw vs. spell every round after they have been hit by the cloud - if successful, they only take half-damage (for that round only)."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22401
+#: text.tra:22401
 msgid "Summon Wild Horde"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22402
+#: text.tra:22402
 msgid ""
 "Summon Wild Horde* (Conjuration/Summoning)\n"
 "Level: 2\n"
@@ -823,11 +1258,11 @@ msgid ""
 "The tiny animals don't really pose a threat besides distracting the caster's enemies. When one of the rodents dies, however, there is a 25% chance that it will explode in a fireball, doing 2d4 points of fire damage to everyone within a 20 foot radius (save vs. spell for half)."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22501
+#: text.tra:22501
 msgid "Corporeal Instability"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22502
+#: text.tra:22502
 msgid ""
 "Corporeal Instability* (Alteration)\n"
 "Level: 4\n"
@@ -842,11 +1277,11 @@ msgid ""
 "When the spell is cast on a creature, it has to save vs. spells at -5 or be liquefied. When failing the saving throw, the victim takes 1d20 points of system-shock damage as his body destabilizes into an amorphous, ever-shifting mass. The victim is unable to take any action for 1 round per level of the caster, but is also immune to anything save magical damage."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22601
+#: text.tra:22601
 msgid "Random Spell II"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22602
+#: text.tra:22602
 msgid ""
 "Random Spell II* (Invocation/Evocation)\n"
 "Level: 3\n"
@@ -865,11 +1300,11 @@ msgid ""
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22701
+#: text.tra:22701
 msgid "Random Spell III"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22702
+#: text.tra:22702
 msgid ""
 "Random Spell III* (Invocation/Evocation)\n"
 "Level: 5\n"
@@ -888,11 +1323,11 @@ msgid ""
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22801
+#: text.tra:22801
 msgid "Random Spell IV"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22802
+#: text.tra:22802
 msgid ""
 "Random Spell IV* (Invocation/Evocation)\n"
 "Level: 7\n"
@@ -911,11 +1346,11 @@ msgid ""
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22901
+#: text.tra:22901
 msgid "Wildfire"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:22902
+#: text.tra:22902
 msgid ""
 "Wildfire* (Invocation/Evocation)\n"
 "Level: 9\n"
@@ -930,11 +1365,11 @@ msgid ""
 "Wildfire allows the caster to create the effect of any wizard spell of 8th level or lower. He need only have general knowledge of the spell and its effects; the spell does not need to be in his own spellbooks."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:23001
+#: text.tra:23001
 msgid "Mynoc's Irresistible Appeal"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:23002
+#: text.tra:23002
 msgid ""
 "Mynoc's Irresistible Appeal* (Invocation/Evocation)\n"
 "Level: 1\n"
@@ -949,11 +1384,11 @@ msgid ""
 "There is no saving throw against this spell and it bypasses all magic resistances the targeted creature might have. While this spell is mainly used to get friends out of trouble (or learn to know new ones), some wild mages are known to be crazy enough to cast this spell on enemies to force them into melee-combat."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:23101
+#: text.tra:23101
 msgid "Meece's Wildarmor"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:23102
+#: text.tra:23102
 msgid ""
 "Meece's Wildarmor* (Illusion/Phantasm)\n"
 "Level: 6\n"
@@ -972,75 +1407,67 @@ msgid ""
 "The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30101 wildmage/tra/english/dialog.tra:216
-msgid "Weave Spell"
-msgstr ""
-
-#: wildmage/tra/english/text.tra:30111
+#: text.tra:30111
 msgid "1st level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30112
+#: text.tra:30112
 msgid "2nd level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30113
+#: text.tra:30113
 msgid "3rd level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30114
+#: text.tra:30114
 msgid "4th level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30115
+#: text.tra:30115
 msgid "5th level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30116
+#: text.tra:30116
 msgid "6th level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30117
+#: text.tra:30117
 msgid "7th level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30118
+#: text.tra:30118
 msgid "8th level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30119
+#: text.tra:30119
 msgid "9th level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30120
+#: text.tra:30120
 msgid "10th level"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30121
+#: text.tra:30121
 msgid "You don't have any suitable spells memorized."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30122
+#: text.tra:30122
 msgid "Wild Magic Backlash"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30201 wildmage/tra/english/dialog.tra:217
-msgid "Weaveshear"
-msgstr ""
-
-#: wildmage/tra/english/text.tra:30301
+#: text.tra:30301
 msgid "Shape Spell"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:30302
+#: text.tra:30302
 msgid "Shaped Spell"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40101
+#: text.tra:40101
 msgid "Hand"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40102
+#: text.tra:40102
 msgid ""
 "As a Spellshaper you have the ability to release the raw magical energy of memorized spells and \"weave\" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.\n"
 "\n"
@@ -1081,11 +1508,11 @@ msgid ""
 "-  Alignment must be chaotic\n"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40201
+#: text.tra:40201
 msgid "Skull Bomb"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40202
+#: text.tra:40202
 msgid ""
 "This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...\n"
 "\n"
@@ -1097,27 +1524,30 @@ msgid ""
 " Wizard Slayer"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40301
+#: text.tra:40301
 msgid "Dead Cat"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40302
-msgid "This appears to be a dead cat. It is extremely well preserved and looks as if it is sleeping."
+#: text.tra:40302
+msgid ""
+"This appears to be a dead cat. It is extremely well preserved and looks as "
+"if it is sleeping."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40401
+#: text.tra:40401
 msgid "Teddy Bear"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40402
-msgid "Although this cute teddy bear looks quite old, it's still in good condition."
+#: text.tra:40402
+msgid ""
+"Although this cute teddy bear looks quite old, it's still in good condition."
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40403
+#: text.tra:40403
 msgid "Teddy Bear of Protection +2, +4 vs. Demons"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40404
+#: text.tra:40404
 msgid ""
 "Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'\n"
 "The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.\n"
@@ -1133,11 +1563,11 @@ msgid ""
 " Wizard Slayer"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40501
+#: text.tra:40501
 msgid "Rhialto's Spellbook"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40502
+#: text.tra:40502
 msgid ""
 "This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
 "\n"
@@ -1151,7 +1581,7 @@ msgid ""
 " Wild Mage"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40503
+#: text.tra:40503
 msgid ""
 "This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
 "\n"
@@ -1181,399 +1611,31 @@ msgid ""
 " Wild Mage"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:40511
+#: text.tra:40511
 msgid "Read"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:50101
+#: text.tra:50101
 msgid "Rhialto the Marvelous"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:50102
+#: text.tra:50102
 msgid "Rhialto"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:50111
+#: text.tra:50111
 msgid "Wild Surge: Caster changed into a squirrel"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:69998
+#: text.tra:69998
 msgid "Letter"
 msgstr ""
 
-#: wildmage/tra/english/text.tra:69999
+#: text.tra:69999
 msgid ""
 "My dear friend Gorion,\n"
 "\n"
 "be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.\n"
 "\n"
 "E."
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:1
-msgid "New Wild Magic Spells"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:2
-msgid "Spellshaper Kit"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:4
-msgid "Misc spell modifications"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:20
-msgid "You must have \"New Wild Magic Spells\" installed!"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:60
-msgid "Ironman"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:61
-msgid "Haughty pansy"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:62
-msgid "Only ToB and EE engines are supported"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:63
-msgid "Original avatar"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:64
-msgid "Changed avatar"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:65
-msgid "Requires BG1 content"
-msgstr ""
-
-#: wildmage/tra/english/setup.tra:66
-msgid "Retain Rhialto's items"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:0
-msgid "You open Rhialto's spellbook for the first time. It's an insane mess of random notes, illegible scribble and childish drawings; all over smeared with blood, bile and some other stuff you can't (and don't even want to) recognize. Amazingly, some of the spell entries are still legible."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:1
-msgid "Again you risk a look into Rhialto's spellbook. You carefully separate two sheets that were stuck together, just to discover a nasty drawing of an old sage with long beard and pointy hat, that seems to glare longingly at something that looks like a petrified goat."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:2
-msgid "You open the spellbook at a random page and notice some scribble you haven't seen before: \"<CHARNAME>, keep your dirty hands off my spellbook!\""
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:3
-msgid "When you open Rhialto's spellbook, one of the pages comes loose and falls out."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:4
-msgid "Rhialto's spellbook is still a mess, and his mind must have been quite the same; you wonder if the same madness could affect you, when you continue to read his writings."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:5
-msgid "Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile you're getting used to it."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:6
-msgid "You continue to study Rhialto's spellbook."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:7
-msgid "Rhialto may have been insane, but his knowledge was great indeed."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:8
-msgid "Although you're sure that you've learned every spell from this this spellbook, you still feel the strong urge to risk another look."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:9
-msgid "When you open Rhialto's spellbook again, it crumbles to dust."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:10
-msgid "Study the spellbook for a while, and see if you can learn something new."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:11
-msgid "Close the book."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:12
-msgid "When you examine this strange spell closer, it proves to be utterly useless. No point in learning it."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:13
-msgid "You spend some time, browsing trough the book..."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:14
-msgid "You found something of interest."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:15
-msgid "You find nothing new."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:16
-msgid "You try to learn the spell, but it's too difficult, you need more experience in the art before you can learn it."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:17
-msgid "You succeed in learning the spell."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:18
-msgid "As much as you try to concentrate, you read a line and forget it in the same moment; as if someone powerful wipes it from your memory. Obviously someone doesn't want you to know this spell."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:19
-msgid "You close the book."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:20
-msgid "Try to learn the spell \"Random Spell I\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:21
-msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:22
-msgid "Try to learn the spell \"Rodent Form\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:23
-msgid "Try to learn the spell \"Blade Shower\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:24
-msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:25
-msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:26
-msgid "Try to learn the spell \"Vile Word of Discord\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:27
-msgid "Try to learn the spell \"Cellular Regeneration\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:28
-msgid "Try to learn the spell \"Glyph of Wild Magic\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:29
-msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:30
-msgid "Try to learn the spell \"Vortex\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:31
-msgid "Try to learn the spell \"Paithan's Fiasco\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:32
-msgid "Try to learn the spell \"Wildstrike\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:33
-msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:34
-msgid "Try to learn the spell \"Summon Cow\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:35
-msgid "Try to learn the spell \"Eye of the Beholder\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:36
-msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:37
-msgid "Try to learn the spell \"Entropy Shield\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:38
-msgid "Try to learn the spell \"Wild Sphere\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:39
-msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:40
-msgid "Try to learn the spell \"Rhialto's Avatar\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:41
-msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:42
-msgid "Try to learn the spell \"Summon Wild Horde\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:43
-msgid "Try to learn the spell \"Random Spell II\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:44
-msgid "Try to learn the spell \"Corporeal Instability\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:45
-msgid "Try to learn the spell \"Random Spell III\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:46
-msgid "Try to learn the spell \"Meece's Wild Armour\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:47
-msgid "Try to learn the spell \"Random Spell IV\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:48
-msgid "Try to learn the spell \"Entropy Burst\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:49
-msgid "Try to learn the spell \"Wildfire\"."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:100
-msgid "Well, well, well... What do we have here?  Greetings, young one, No doubt you're honored to meet Rhialto the Marvelous."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:101
-msgid "Ah yes, you are perfect. Be honored, young one, for your existence now has a purpose: Rhialto the Marvelous needs your spleen."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:102
-msgid "It will be the final component for the greatest spell that was worked since, well, since ever!!!  Of course, it needs to be extracted while you're still alive, otherwise it would be worthless as an ingredient."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:103
-msgid "But it won't be too painful... Well, at least it won't take too long.  Rhialto the Marvelous is a very experienced surgeon, it will only take an hour or two..."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:110
-msgid "So we meet again... You seem to have grown more self-confident since Rhialto the Marvelous had his little accident. It is just fitting that you, who caused his downfall by your insolent resistance, brought Rhialto back to life."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:111
-msgid "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous really doesn't like it when someone touches his stuff!!!"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:200
-msgid "Select a Special Ability\n"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:201
-msgid "Ambidexterity (1st Rank)"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:202
-msgid "Ambidexterity (2nd Rank)"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:203
-msgid "Backstabbing (x2)"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:204
-msgid "Backstabbing Adept (x3)"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:205
-msgid "Backstabbing Expert (x4)"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:206
-msgid "Backstabbing Master (x5)"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:207
-msgid "Combat Speed"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:208
-msgid "Dagger Specialization"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:209
-msgid "Dagger Mastery"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:210
-msgid "Improved Criticals"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:211
-msgid "Toughness"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:212
-msgid "Vicious hits"
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:213
-msgid "Rogue High Level Ability: \"Assassination\""
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:214
-msgid "Rogue High Level Ability: \"Avoid Death\""
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:215
-msgid "Rogue High Level Ability: \"Evasion\""
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:220
-msgid "You don't know exactly what just happened, but in the heat of battle you somehow managed to cast a spell spontaneously."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:221
-msgid "Now you feel a strange wave of magical power rising within you. Whatever is happening, somehow you feel that if you yield to it, you will be changed forever."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:222
-msgid "Embrace this new power."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:223
-msgid "Try to suppress it."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:224
-msgid "Whatever that was, you were strong enough to suppress it."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:225
-msgid "A surge of chaotic energy overwhelms you."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:230
-msgid "When you give in to the surge of magical power, you feel that your understanding of the magical Weave changes."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:231
-msgid "Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic."
-msgstr ""
-
-#: wildmage/tra/english/dialog.tra:232
-msgid "Now you feel a close relation to the Weave. You now are able to tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
 msgstr ""
