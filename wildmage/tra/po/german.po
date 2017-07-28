@@ -478,7 +478,7 @@ msgstr "Allgemeine Zauberspruch Modifikationen"
 
 #: setup.tra:20
 msgid "You must have \"New Wild Magic Spells\" installed!"
-msgstr "\"Neue Zaubersprche\" wird bentigt!"
+msgstr "\"Neue Zaubersprüche\" wird benötigt!"
 
 #: setup.tra:60
 msgid "Ironman"
