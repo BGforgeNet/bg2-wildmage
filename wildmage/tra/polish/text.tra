@@ -1,4 +1,3 @@
-// coding: cp1250
 @10101=~Dzika Magia~
 @10201=~Dzika Magia sprawi³a ¿e twoje sny sta³y siê rzeczywistoœci¹. (Cokolwiek by to oznacza³o...)~
 @10301=~TRAK0 obni¿one o 1~
@@ -12,7 +11,7 @@
 @10309=~Uzyskujesz dodatkowy atak na rundê~
 @10310=~Zakres zagro¿enia ciosem krytycznym zwiêkszony o 1~
 @20101=~Przewód Chaosu Rhialto~
-@20102=~Przewód Chaosu Rhialto* (Przemiany)
+@20102=~Przewód Chaosu Rhialto* (Przemiany) 
 Poziom: 1
 Zasiêg: 0
 Czas dzia³ania: natychmiastowy
@@ -35,25 +34,25 @@ Bez wzglêdu na to czy myœlisz o rzuceniu tego czaru czy nie, b¹dŸ pewien jednej 
 @20111=~Kiedy rzuci³eœ ten czar, czujesz ¿e twoje zrozumienie tworzenia magii zmieni³o siê. Spróbowa³eœ poj¹æ chaos otaczaj¹cy ciê, podporz¹dkowuj¹c go twej woli, czerpi¹c si³ê z nieobliczalnoœci, niesta³oœci i ci¹g³ego ruchu dzikiej magii. Jesteœ teraz w stanie okie³znaæ struktury magii, ukszta³towaæ j¹, "utkaæ" j¹ w cokolwiek sobie wyobrazisz.~
 @20112=~Czujesz tak¿e, ¿e czar ten zmieni³ wiêcej ni¿ jedynie twoje zdolnoœci do rzucania czarów. Czujesz jakby czar uwolni³ g³êboko ukryt¹ czêœæ twojej œwiadomoœci. Jest w tobie wiêcej indywidualizmu, tolerancji, ciekawoœci, lecz tak¿e mniej dyscypliny i pilnoœci, pojawi³ siê brak zaufania do w³adzy. Jednak uczucie wydaje siê znajome, jakby zawsze tam by³o i teraz zosta³o ujawnione. To nie uczucie zmiany, lecz bardziej ostatecznego przebudzenia po d³ugim œnie.~
 @20201=~Przemiana w gryzonia~
-@20202=~Przemiana w gryzonia* (Przemiany)
+@20202=~Przemiana w gryzonia* (Przemiany) 
 Poziom: 1
 Zasiêg: 0
 Czas dzia³ania: 1 tura
-Czas rzucania: 1
+Czas rzucania: 1 
 Obszar dzia³ania: rzucaj¹cy
 Rzut obronny: Brak
 
-Czar ten przemienia rzucaj¹cego w s³odk¹ ma³¹ wiewiórkê. Ze wzglêdu na ma³y rozmiar gryzonia otrzymuje premie do Klasy Pancerza +2 w walce wrêcz i +4 przeciw pociskom. W przeciwieñstwie do innych polimorficznych czarów rzucaj¹cy zachowuje swoje umiejêtnoœci rzucania czarów w formie gryzonia.
+Czar ten przemienia rzucaj¹cego w s³odk¹ ma³¹ wiewiórkê. Ze wzglêdu na ma³y rozmiar gryzonia otrzymuje premie do Klasy Pancerza +2 w walce wrêcz i +4 przeciw pociskom. W przeciwieñstwie do innych polimorficznych czarów rzucaj¹cy zachowuje swoje umiejêtnoœci rzucania czarów w formie gryzonia. 
 
 Obecna wersja czaru NIE POWINNA wp³yn¹æ na osobowoœæ i mentalnoœæ rzucaj¹cego.~
 @20211=~Jeden z moich czarów siê zmieni³!~
 @20212=~Nauczy³eœ siê nowego czaru: Przemiana w Ratatoska~
 @20301=~Przemiana w Ratatoska~
-@20302=~Przemiana w Ratatoska* (Przemiany)
+@20302=~Przemiana w Ratatoska* (Przemiany) 
 Poziom: 1
 Zasiêg: 0
 Czas dzia³ania: 1 tura
-Czas rzucania: 1
+Czas rzucania: 1 
 Obszar dzia³ania: rzucaj¹cy
 Rzut obronny: Brak
 
@@ -69,7 +68,7 @@ W przeciwieñstwie do innych polimorficznych czarów rzucaj¹cy zachowuje swoje umi
 Poziom: 1
 Zasiêg: 40 jardów
 Czas dzia³ania: natychmiastowy
-Czas rzucania: 1
+Czas rzucania: 1 
 Obszar dzia³ania: specjalny
 Rzut obronny: specjalny
 
@@ -83,7 +82,7 @@ Zalet¹ Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasiêg, który za
 Poziom: 2
 Zasiêg: 40 jardów
 Czas dzia³ania: 3 rundy/5 poziomów
-Czas rzucania: 1
+Czas rzucania: 1 
 Obszar dzia³ania: 1-25 istot
 Rzut obronny: specjalny
 
@@ -94,21 +93,21 @@ Ka¿dy sztylet zadaje 1k4 k³utych obra¿eñ. Na 5 poziomie sztylety s¹ traktowane j
 Sztylety wykonane s¹ z czystego chaosu, omijaj¹ wszelkie fizyczne i magiczne przeszkody i zawsze trafiaj¹ w cel. Jednak¿e rzucaj¹cy musi wykonaæ rzut na atak dla ka¿dego sztyletu by okreœliæ krytyczne chybienie lub trafienie. W przypadku krytycznego chybienia sztylet nie zadaje ¿adnych obra¿eñ. W przypadku trafienia krytycznego sztylet zadaje podwójne obra¿enia i cel musi wykonaæ rzut obronny przeciw czarom, lub przez 5 rund bêdzie ofiar¹ nastêpuj¹cych efektów: Uciszenie, Zamêt, Strach, Sen, Dzika Magia.~
 @20511=~"Deszcz Ostrzy" zosta³ dodany do twoich umiejêtnoœci specjalnych~
 @20601=~Losowe Pociski Rhialto~
-@20602=~Losowe Pociski Rhialto* (Inwokacje)
+@20602=~Losowe Pociski Rhialto* (Inwokacje) 
 Poziom: 2
-Zasiêg: zasiêg widzenia rzucaj¹cego
+Zasiêg: zasiêg widzenia rzucaj¹cego 
 Czas dzia³ania: natychmiastowy
-Czas rzucania: 1
+Czas rzucania: 1 
 Obszar dzia³ania: 1 istota
 Rzut obronny: Brak
 
-Czar ten jest ulepszon¹ i chaotyczn¹ wersj¹ czaru 1 poziomu Magiczny Pocisk. Tworzy on losow¹ liczbê pocisków które wystrzeliwuj¹ z palców czarodzieja i bezb³êdnie trafiaj¹ w cel, który mo¿e byæ jak¹kolwiek istot¹.
+Czar ten jest ulepszon¹ i chaotyczn¹ wersj¹ czaru 1 poziomu Magiczny Pocisk. Tworzy on losow¹ liczbê pocisków które wystrzeliwuj¹ z palców czarodzieja i bezb³êdnie trafiaj¹ w cel, który mo¿e byæ jak¹kolwiek istot¹. 
 
 Dok³adna liczba pocisków jest zale¿na od poziomu rzucaj¹cego czar: 1k4 na 1 poziomie, 1k6 na poziomie 4, 1k8 na 8 poziomie i 1k10 na 12 poziomie
 
 Ka¿dy pociska zadaje 1k4+1 obra¿eñ od (losowo) kwasu, zimna, ognia, elektrycznoœci lub magii. Chaotyczna natura pocisków daje im 25% szanse na ominiêcie jakiejkolwiek naturalnej lub magicznej odpornoœci celu.~
 @20701=~Glif z Dzikiej Magii~
-@20702=~Glif z Dzikiej Magii* (Inwokacje)
+@20702=~Glif z Dzikiej Magii* (Inwokacje) 
 Poziom: 4
 Zasiêg: 40 jardów
 Czas dzia³ania: 1 rund/10 poziomów
@@ -118,7 +117,7 @@ Rzut obronny: specjalny
 
 Glif z dzikiem magii jest potê¿n¹ inskrypcj¹ magicznie nakreœlon¹ na ziemi lub innej powierzchni. Glif pozostanie tam dopóki ktoœ nie podejdzie za blisko. Wtedy eksploduje i spowoduje fale zak³ócaj¹c¹ strukturê magii ka¿dej istocie w promieniu 30 stóp. Ka¿de zak³ócenie powoduje mnóstwo fal dzikiej magii skupionych na losowych istotach (wliczaj¹c w to rzucaj¹cego czar jeœli jest w pobli¿u).
 
-Na ka¿de 10 poziomów doœwiadczenia rzucaj¹cego, zak³ócenia pozostaj¹ przez dodatkow¹ rundê, jednak jest mo¿liwe rozproszenie ich przedwczeœnie przez zniekszta³cenie, w sposób fizyczny lub mentalny.
+Na ka¿de 10 poziomów doœwiadczenia rzucaj¹cego, zak³ócenia pozostaj¹ przez dodatkow¹ rundê, jednak jest mo¿liwe rozproszenie ich przedwczeœnie przez zniekszta³cenie, w sposób fizyczny lub mentalny. 
 
 Oczywiœcie efekt czaru jest ca³kowicie losowy, ofiary mog¹ zostaæ wzmocnione przez dzikie fale lub ca³kowicie unicestwione. Im wiêcej istot na obszarze dzia³ania tym ciekawsze efekty da czar i tym wiêksze prawdopodobieñstwo ¿e glif zada wysokie obra¿enia.~
 @20711=~Zak³ócenie Struktury Magii~
@@ -135,13 +134,13 @@ Czar zosta³ opracowany przez dzikiego maga imieniem Gymlainac, w celu stworzenia
 
 Czar zagina œwiat³o dooko³a celu, tworz¹c efekt podobny do czaru 2 poziomu Rozmycie i dzia³ania P³aszcza Przemieszczenia. Kontury postaci staj¹ siê zniekszta³cone i chwiejne, czyni¹c j¹ trudniejsz¹ do trafienia. Kiedy czar zostaje rzucony cel otrzymuje bonus +2k4 do Klasy Pancerza i 1k4 do rzutów obronnych. Czar ten nie jest iluzj¹, lecz faktycznie powoduje zakrzywienie przestrzeni wokó³ celu, nie mo¿e wiêc zostaæ rozproszony przez czary takie jak Prawdziwe Widzenie.~
 @20901=~Nikczemne S³owo Niezgody~
-@20902=~Nikczemne S³owo Niezgody* (Zaczarowania/Zauroczenia)
+@20902=~Nikczemne S³owo Niezgody* (Zaczarowania/Zauroczenia) 
 Poziom: 3
 Zasiêg: zasiêg widzenia rzucaj¹cego
 Czas dzia³ania: 2 rundy
-Czas rzucani: 3
-Obszar dzia³ania: promieñ 30 stóp
-Rzut obronny: specialny
+Czas rzucani: 3 
+Obszar dzia³ania: promieñ 30 stóp 
+Rzut obronny: specialny 
 
 Czar ten jest kombinacj¹ brzuchomówstwa i magii zauroczeñ, jest esencj¹ niezgody i posiada potencja³ nie tylko niszczenia formacji wroga lecz tak¿e pos³uszeñstwa.
 
@@ -186,9 +185,9 @@ Rzut obronny: 1/2
 
 Wir to k³êbi¹ca siê masa energii magicznej, raczej niemo¿liwa do kontrolowania przez rzucaj¹cego. Po rzuceniu czaru pojawia siê wysoka na 7 stóp wielokolorowa kula. Od  tego momentu rzucaj¹cy musi siê koncentrowaæ by utrzymaæ wir przy istnieniu.
 
-Podczas ka¿dej rundy mag mo¿e przemieœciæ wir o 60 stóp. Jednak kontrola nad kierunkiem ruchu nie jest idealna. Jeœli mag nie skoncentruje siê wystarczaj¹co, wir sam zadecyduje gdzie siê przemieœciæ.
+Podczas ka¿dej rundy mag mo¿e przemieœciæ wir o 60 stóp. Jednak kontrola nad kierunkiem ruchu nie jest idealna. Jeœli mag nie skoncentruje siê wystarczaj¹co, wir sam zadecyduje gdzie siê przemieœciæ. 
 
-Wir jest stworzony z czystej energii magicznej. Raz na rundê wszystkie istoty w pobli¿u wiru otrzymuj¹ po 2k6 obra¿eñ od (³¹cznie): og³uszenia, elektrycznoœci i magii. Powalone istoty mog¹ wykonaæ rzut obronny przeciw czarom i cierpi¹ jedynie po³owê obra¿eñ.
+Wir jest stworzony z czystej energii magicznej. Raz na rundê wszystkie istoty w pobli¿u wiru otrzymuj¹ po 2k6 obra¿eñ od (³¹cznie): og³uszenia, elektrycznoœci i magii. Powalone istoty mog¹ wykonaæ rzut obronny przeciw czarom i cierpi¹ jedynie po³owê obra¿eñ. 
 
 Czas trwania czaru wynosi 3 rundy na poziomie 10  i dodatkowo jedn¹ rundê co drugi dodatkowy poziom, a¿ do maksymalnie 15 rund na poziomie 34. Mag nie mo¿e siê w trakcie trwania czaru poruszaæ, nie mo¿e tak¿e przerwaæ czaru, nawet jeœli ca³kowicie utraci³ kontolê nad wirem.~
 @21201=~Promieñ Szczêœcia Paithana~
@@ -200,12 +199,12 @@ Czas rzucani: 5
 Obszar dzia³ania: 1 istota
 Rzut obronny: Brak
 
-Ten niezwykle silny czar zapewnia celowi przyp³yw szczêœcia. Wskazana istota otrzymuje bonus 1k8 punktów szczêœcia do ka¿dej wykonywanej czynnoœci. Wlicza siê w to rzuty obronne, rzuty na trafienie, umiejêtnoœci z³odziejskie itd. Dodatkowo podwojona suma punktów dodawana jest do ka¿dego rzutu kostk¹ w tabeli dzikiej magii.
+Ten niezwykle silny czar zapewnia celowi przyp³yw szczêœcia. Wskazana istota otrzymuje bonus 1k8 punktów szczêœcia do ka¿dej wykonywanej czynnoœci. Wlicza siê w to rzuty obronne, rzuty na trafienie, umiejêtnoœci z³odziejskie itd. Dodatkowo podwojona suma punktów dodawana jest do ka¿dego rzutu kostk¹ w tabeli dzikiej magii. 
 
-Na koniec ka¿dej rundy wykonywany jest rzut kostk¹ k20 decyduj¹cy o tym czy czar zakoñczy swoje dzia³anie. W przypadku wyniku 2 lub wiêkszego wykonywany jest ponowny rzut kostk¹ 1k8 okreœlaj¹cy liczbê dodawanych punktów szczêœcia i czar trwa przez nastêpn¹ rundê.
+Na koniec ka¿dej rundy wykonywany jest rzut kostk¹ k20 decyduj¹cy o tym czy czar zakoñczy swoje dzia³anie. W przypadku wyniku 2 lub wiêkszego wykonywany jest ponowny rzut kostk¹ 1k8 okreœlaj¹cy liczbê dodawanych punktów szczêœcia i czar trwa przez nastêpn¹ rundê. 
 
 W przypadku gdy wypadnie 1 wci¹¿ istnieje 25% prawdopodobieñstwo ¿e czar bêdzie trwaæ dalej: Jeœli wynik kolejnego rzutu k20 wyniesie 16 lub wiêcej, czar nie tylko trwa dalej, lecz dodatkowo nastêpna runda jest "Szczêœliwa" co oznacza ¿e cel dostaje +8 punktów szczêœcia oraz nadnaturaln¹ zdolnoœæ unikniêcia œmierci, wyssania poziomu i swobody ruchów.
-
+ 
 O ile czar nie przestanie dzia³aæ w wyniku "Pechu" (1 przy rzucie k20 a nastêpnie 15 lub mniej przy kolejnym rzucie k20) czar mo¿e trwaæ nieskoñczenie d³ugo.~
 @21301=~Fiasko Paithana~
 @21302=~Fiasko Paithana* (Zaczarowania/Zauroczenia)
@@ -216,16 +215,16 @@ Czas rzucani: 5
 Obszar dzia³ania: 1 istota
 Rzut obronny: Brak
 
-Fiasko Paithana to odwrócona wersja czaru 5 poziomu Promieñ Szczêœcia Paithana. Cel, zazwyczaj wróg, prze¿ywa pasmo niepowodzeñ. Ofierze celu zostaje obni¿one szczêœcie o 1k8 punktów do ka¿dej wykonywanej czynnoœci. Wlicza siê w to rzuty obronne, rzuty na trafienie, umiejêtnoœci z³odziejskie itd. Dodatkowo podwojona suma punktów odejmowana jest od ka¿dego rzutu kostk¹ w tabeli dzikiej magii.
+Fiasko Paithana to odwrócona wersja czaru 5 poziomu Promieñ Szczêœcia Paithana. Cel, zazwyczaj wróg, prze¿ywa pasmo niepowodzeñ. Ofierze celu zostaje obni¿one szczêœcie o 1k8 punktów do ka¿dej wykonywanej czynnoœci. Wlicza siê w to rzuty obronne, rzuty na trafienie, umiejêtnoœci z³odziejskie itd. Dodatkowo podwojona suma punktów odejmowana jest od ka¿dego rzutu kostk¹ w tabeli dzikiej magii. 
 
-Na koniec ka¿dej rundy wykonywany jest rzut kostk¹ k20 decyduj¹cy o tym czy czar zakoñczy swoje dzia³anie. W przypadku wyniku 19 lub mniejszego wykonywany jest ponowny rzut kostk¹ 1k8 okreœlaj¹cy liczbê odejmowanych punktów szczêœcia i czar trwa przez nastêpn¹ rundê.
+Na koniec ka¿dej rundy wykonywany jest rzut kostk¹ k20 decyduj¹cy o tym czy czar zakoñczy swoje dzia³anie. W przypadku wyniku 19 lub mniejszego wykonywany jest ponowny rzut kostk¹ 1k8 okreœlaj¹cy liczbê odejmowanych punktów szczêœcia i czar trwa przez nastêpn¹ rundê. 
 
 W przypadku wyniku 20, wci¹¿ jest 25% szansa ¿e czar bêdzie trwaæ dalej: Jeœli rezultat kolejnego rzutu k20 bêdzie wynosi³ 5 lub mniej, czar nie tylko kontynuuje swoje dzia³anie, lecz dodatkowo nastêpna runda jest rund¹ "Fiaska", ofiara otrzymuje ujemny modyfikator 8 punktów do szczêœcia, oraz wystêpuj¹ u niej nastêpuj¹ce efekty: potyka siê i upada na 2 rundy, upuszcza broñ w wyniku gwa³townego ataku kaszlu, nie jest w stanie parowaæ ciosów i traci wszystkie ataki na t¹ rundê, zadaje sobie sama 1k20 punktów obra¿eñ lub oœlepia siê drzazg¹ z w³asnej broni na trzy rundy.
-
+ 
 O ile czar nie przestanie dzia³aæ w wyniku "Szczêœcia" (20 przy rzucie k20 a nastêpnie 6 lub wiêcej przy kolejnym rzucie k20) czar mo¿e trwaæ nieskoñczenie d³ugo.~
 @21311=~Fiasko~
 @21401=~Dzikie Czarowanie~
-@21402=~Dzikie Czarowanie* (Przywo³ania/Sprowadzenia)
+@21402=~Dzikie Czarowanie* (Przywo³ania/Sprowadzenia) 
 Poziom: 6
 Zasiêg: 30 jardów
 Czas dzia³ania: 1-15 rund
@@ -239,17 +238,17 @@ Ka¿da próba rzucenia czaru lub u¿ycia magicznego przedmiotu automatycznie wywo³u
 
 Czas trwania czaru wynosi 1 rundê, plus dodatkowe 2 rundy za ka¿de piêæ poziomów czaruj¹cego, a¿ do maksymalnie 15 rund na poziomie 35.~
 @21501=~Losowe Odes³anie Hornunga~
-@21502=~Losowe Odes³anie Hornunga* (Odrzucanie)
+@21502=~Losowe Odes³anie Hornunga* (Odrzucanie) 
 Poziom: 7
 Zasiêg: 30 jardów
 Czas dzia³ania: natychmiastowy
-Czas rzucani: 2
+Czas rzucani: 2 
 Obszar dzia³ania: 1 istota
 Rzut obronny: Neg.
 
 Czar ten przez wymówienie kilku s³ów mo¿e przenieœæ kogoœ do losowej sfery i zostawiæ go tam. Cel mo¿e wykonaæ rzut obronny, który w przypadku powodzenia ca³kowicie niweluje dzia³anie czaru. W przeciwnym wypadku ofiara i wszystkie przedmioty, które przy sobie ma, zostaj¹ wys³ane do losowej sfery.
 
-Rzucaj¹cy nie ma kontroli nad tym gdzie odes³ana zostanie ofiara. Warunki panuj¹ce w miejscu gdzie cel siê znajdzie mog¹ go zabiæ (na przyk³ad, jeœli pojawi siê w Sferze ¯ywio³u Ognia), sprawiæ ¿e jego ¿ycie bêdzie trudne, lub te¿ cel mo¿e znaleŸæ siê w raju (dos³ownie).
+Rzucaj¹cy nie ma kontroli nad tym gdzie odes³ana zostanie ofiara. Warunki panuj¹ce w miejscu gdzie cel siê znajdzie mog¹ go zabiæ (na przyk³ad, jeœli pojawi siê w Sferze ¯ywio³u Ognia), sprawiæ ¿e jego ¿ycie bêdzie trudne, lub te¿ cel mo¿e znaleŸæ siê w raju (dos³ownie). 
 
 Jakkolwiek by siê nie sta³o, jeœli czar siê powiedzie, mag pozbywa siê celu i jest raczej ma³o prawdopodobne ¿e spotkaj¹ siê ponownie w tym ¿yciu.~
 @21511=~zosta³ wys³any do Otch³ani~
@@ -293,11 +292,11 @@ Jakkolwiek by siê nie sta³o, jeœli czar siê powiedzie, mag pozbywa siê celu i je
 @21549=~zosta³ wys³any do Tataru~
 @21550=~zosta³ wys³any do Dwutopii~
 @21601=~Przywo³anie Krowy~
-@21602=~Przywo³anie Krowy* (Sprowadzenie)
+@21602=~Przywo³anie Krowy* (Sprowadzenie) 
 Poziom: 7
-Zasiêg: zasiêg widzenia rzucaj¹cego
+Zasiêg: zasiêg widzenia rzucaj¹cego 
 Czas dzia³ania: Natychmiastowy
-Czas rzucani: 3
+Czas rzucani: 3 
 Obszar dzia³ania: 1 istota
 Rzut obronny: specjalny
 
@@ -318,7 +317,7 @@ Jednoczeœnie jest zalecane aby nie u¿ywaæ tego czaru w obecnoœci ³owców i druidó
 Poziom: 8
 Zasiêg: 0
 Czas dzia³ania: natychmiastowy
-Czas rzucani: 10
+Czas rzucani: 10 
 Obszar dzia³ania: rzucaj¹cy
 Rzut obronny: Brak
 
@@ -356,11 +355,11 @@ Rzut obronny: Brak
 
 Czar otacza rzucaj¹cego ochronnym polem surowej energii magicznej. Pole to absorbuje energiê dzikich fal i ka¿dego czaru, oprócz tych najpotê¿niejszych.
 
-Na czas trwania czaru rzucaj¹cy zyskuje niewra¿liwoœæ na wszystkie czary poziomu 7 lub ni¿szych, wliczaj¹c w to czary takie jak Rubinowy Promieñ Odwrócenia i inne maj¹ce na celu rozproszenie magicznych os³on. Jedynie Przebicie Tarczy i Uderzenie Czaru maj¹ wystarczaj¹c¹ moc do rozproszenia Tarczy Entropii.
+Na czas trwania czaru rzucaj¹cy zyskuje niewra¿liwoœæ na wszystkie czary poziomu 7 lub ni¿szych, wliczaj¹c w to czary takie jak Rubinowy Promieñ Odwrócenia i inne maj¹ce na celu rozproszenie magicznych os³on. Jedynie Przebicie Tarczy i Uderzenie Czaru maj¹ wystarczaj¹c¹ moc do rozproszenia Tarczy Entropii. 
 
 Dodatkowo, rzucaj¹cy zyskuje bonus +100 do rzutów kostk¹ w tabeli dzikiej magii, zapewniaj¹c sobie tym samym ¿e ka¿dy czar zostanie rzucony normalnie, wliczaj¹c w to Lekkomyœlne Zaklêcie Nahala - tak d³ugo jak Tarcza Entropii jest aktywna rzucaj¹cemu zawsze powiedzie siê wywo³anie po¿¹danego efektu.~
 @22001=~Dzika Sfera~
-@22002=~Dzika Sfera* (Przywo³ania/Sprowadzenia)
+@22002=~Dzika Sfera* (Przywo³ania/Sprowadzenia) 
 Poziom: 9
 Zasiêg: zasiêg widzenia rzucaj¹cego
 Czas dzia³ania: 6 tur
@@ -368,19 +367,19 @@ Czas rzucani: 1 runda
 Obszar dzia³ania: promieñ 30 stóp
 Rzut obronny: specjalny
 
-Ten potê¿ny czar tworzy tymczasow¹ szczelinê w strukturze magii o promieniu 30 stóp w œrodku której niepodzielnie panuje chaos.
+Ten potê¿ny czar tworzy tymczasow¹ szczelinê w strukturze magii o promieniu 30 stóp w œrodku której niepodzielnie panuje chaos. 
 
-Ka¿dy czar rzucony w obszarze Dzikiej Sfery wywo³uje dzik¹ falê. U¿ycie magicznych przedmiotów zu¿ywaj¹cych ³adunki tak¿e powoduje dzik¹ falê, inne magiczne przedmioty (na przyk³ad dzia³aj¹ce stale) funkcjonuj¹ normalnie. Jeœli ofiara opuœci obszar dzia³ania czaru jeszcze przez rundê bêdzie pod jego wp³ywem, po up³ywie tego czasu jej zdolnoœci rzucania czarów wracaj¹ do normy.
+Ka¿dy czar rzucony w obszarze Dzikiej Sfery wywo³uje dzik¹ falê. U¿ycie magicznych przedmiotów zu¿ywaj¹cych ³adunki tak¿e powoduje dzik¹ falê, inne magiczne przedmioty (na przyk³ad dzia³aj¹ce stale) funkcjonuj¹ normalnie. Jeœli ofiara opuœci obszar dzia³ania czaru jeszcze przez rundê bêdzie pod jego wp³ywem, po up³ywie tego czasu jej zdolnoœci rzucania czarów wracaj¹ do normy. 
 
 Dodatkowo ka¿dy w obszarze dzia³ania czaru musi wykonaæ rzut obronny przeciw czarom z modyfikatorem -5 lub spowoduje zak³ócenie struktury magii, które wystrzeli liczne dzikie fale w losowych kierunkach przez jedn¹ rundê, efekt jest porównywalny z tym spowodowanym przez 4-poziomowy czar Glif z Dzikiej Magii.
 
 Osoby którym nie powiedzie siê rzut obronny przeciwko czarom bez modyfikatora, zostaj¹ poddane nastêpuj¹cym losowo wybranym efektom: teleportowane w losowe miejsce, zamienione w wiewiórkê, ulegaj¹ zamêtowi, parali¿owi, maj¹ uleczone 1k8 P¯, dostaj¹ 1k8 punktów obra¿eñ, trac¹ przytomnoœæ lub zostaj¹ przyspieszone.~
 @22101=~Reinkarnacja Rhialto Cudownego~
-@22102=~Reinkarnacja Rhialto Cudownego* (Przemiany)
+@22102=~Reinkarnacja Rhialto Cudownego* (Przemiany) 
 Poziom: 10
 Zasiêg: zasiêg widzenia rzucaj¹cego
 Czas dzia³ania: natychmiastowy
-Czas rzucani: 10
+Czas rzucani: 10 
 Obszar dzia³ania: 1 istota
 Rzut obronny: Brak
 
@@ -425,8 +424,8 @@ Czar uwalnia chmurê kwasu na obszarze swojego dzia³ania, która zadaje 1-4 punktó
 Poziom: 2
 Zasiêg: 0
 Czas dzia³ania: 1 runda/poziom
-Czas rzucani: 2
-Obszar dzia³ania: specjalny
+Czas rzucani: 2 
+Obszar dzia³ania: specjalny 
 Rzut obronny: specjalny
 
 Czar przywo³uje 1k20 agresywnych królików, które bêd¹ walczyæ do koñca w obronie maga.
@@ -437,7 +436,7 @@ Ma³e zwierz¹tka nie stanowi¹ raczej zagro¿enia i raczej tylko rozpraszaj¹ przeci
 Poziom: 4
 Zasiêg: zasiêg widzenia rzucaj¹cego
 Czas dzia³ania: 1 runda/poziom
-Czas rzucani: 3
+Czas rzucani: 3 
 Obszar dzia³ania: 1 istota
 Rzut obronny: Neg.
 
@@ -449,7 +448,7 @@ Kiedy czar jest rzucony, ofiara musi wykonaæ rzut obronny przeciw czarom z modyf
 Poziom: 3
 Zasiêg: 40 jardów
 Czas dzia³ania: natychmiastowy
-Czas rzucani: 1
+Czas rzucani: 1 
 Obszar dzia³ania: specjalny
 Rzut obronny: specjalny
 
@@ -463,7 +462,7 @@ Zalet¹ Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasiêg, który za
 Poziom: 5
 Zasiêg: 40 jardów
 Czas dzia³ania: natychmiastowy
-Czas rzucani: 1
+Czas rzucani: 1 
 Obszar dzia³ania: specjalny
 Rzut obronny: specjalny
 
@@ -477,7 +476,7 @@ Zalet¹ Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasiêg, który za
 Poziom: 7
 Zasiêg: 40 jardów
 Czas dzia³ania: natychmiastowy
-Czas rzucani: 1
+Czas rzucani: 1 
 Obszar dzia³ania: specjalny
 Rzut obronny: specjalny
 
@@ -491,7 +490,7 @@ Zalet¹ Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasiêg, który za
 Poziom: 9
 Zasiêg: 0
 Czas dzia³ania: specjalny
-Czas rzucani: 1
+Czas rzucani: 1 
 Obszar dzia³ania: specjalny
 Rzut obronny: specjalny
 
@@ -503,7 +502,7 @@ Dziki Czar pozwala rzucaj¹cemu utworzyæ efekt jakiegokolwiek czaru poziomu 8 lub
 Poziom: 1
 Zasiêg: zasiêg widzenia rzucaj¹cego
 Czas dzia³ania: natychmiastowy
-Czas rzucani: 1
+Czas rzucani: 1 
 Obszar dzia³ania: 1 istota
 Rzut obronny: Brak
 
@@ -515,7 +514,7 @@ Czar nie ma rzutu obronnego i omija wszelkie magiczne odpornoœci jakie mo¿e mieæ
 Poziom: 6
 Zasiêg: 0
 Czas dzia³ania: 5 rund/poziom
-Czas rzucani: 4
+Czas rzucani: 4 
 Obszar dzia³ania: rzucaj¹cy
 Rzut obronny: brak
 
@@ -563,16 +562,16 @@ Spellshaper jest na tyle m¹dry by nie polegaæ ca³kowicie na swoich groŸnych i ni
 Jedn¹ z najbardziej ekscentrycznych cech charakterystycznych jest ta ¿e Spellshaper nie specjalizuje siê nigdy w broniach pociskowych; do walki dystansowej u¿ywa magii, a jeœli ta zawiedzie, preferuje walkê wrêcz.
 
 
-Zalety:
+Zalety:		
 -  Dzika Magia (Zmiana poziomu przy rzucaniu czarów ± 5)
 -  przyrost TRAK0 podobny do tego u ³otrzyków
 -  5 punktów wiedzy na poziom
 -  Umiejêtnoœæ Tkania Czarów
--  Umiejêtnoœæ Rozerwania Struktur magii
+-  Umiejêtnoœæ Rozerwania Struktur magii 
 -  Umiejêtnoœæ Kszta³towania Czarów
 -  Mo¿e siê nauczyæ kilku umiejêtnoœci do walki wrêcz
-
-Wady:
+		
+Wady:	
 -  Dzika Magia (Zmiana poziomu przy rzucaniu czarów ± 5)
 -  5% szansy na Dzik¹ Falê
 -  Wolny postêp w poznawaniu czarów
@@ -611,17 +610,17 @@ Nie mo¿e uzywaæ:
 @40501=~Ksiêga czarów Rhialto~
 @40502=~Ksiêga ta nale¿a³a do Rhialto "Cudownego". Zdoby³eœ j¹ tu¿ po jego gwa³townym zgonie.
 
-Choæ ksi¹¿ka jest raczej w z³ym stanie - wyrwane kartki, szalone notatki pojawiaj¹ce siê wszêdzie, wci¹¿ promieniuje magiczn¹ moc¹.
+Choæ ksi¹¿ka jest raczej w z³ym stanie - wyrwane kartki, szalone notatki pojawiaj¹ce siê wszêdzie, wci¹¿ promieniuje magiczn¹ moc¹. 
 
 Dobór czarów zawartych w ca³ej ksiêdze jest raczej niecodzienny, móg³byœ spróbowaæ siê naczyæ rzucania niektórych z nich.
 
 PARAMETRY:
-
+ 
 Mo¿e u¿ywaæ:
  Dziki Mag~
 @40503=~Ksiêga ta nale¿a³a do Rhialto "Cudownego". Zdoby³eœ j¹ tu¿ po jego gwa³townym zgonie.
 
-Choæ ksi¹¿ka jest raczej w z³ym stanie - wyrwane kartki, szalone notatki pojawiaj¹ce siê wszêdzie, wci¹¿ promieniuje magiczn¹ moc¹.
+Choæ ksi¹¿ka jest raczej w z³ym stanie - wyrwane kartki, szalone notatki pojawiaj¹ce siê wszêdzie, wci¹¿ promieniuje magiczn¹ moc¹.  
 
 Ksiêga ta przypomina bardziej pamiêtnik lub notatnik ni¿ ksiêgê czarów. Rhialto z pewnoœci¹ by³ szaleñcem kiedy go spotka³eœ, lecz kidyœ musia³ byæ geniuszem; nie tylko wynalaz³ nowe czary, ale by³ te¿ opêtany nauk¹ nowej formy sposobu rzucania czarów, co najpierw sk³oni³o go do dzikiej magii, a nastêpnie szaleñstwa.
 
@@ -642,7 +641,7 @@ Mo¿e zostaæ urzyta raz dziennie do rzucenia jednego z nastêpuj¹cych czarów:
  Pomniejsze dr¹¿enie Larlocha
  Losowe Pociski Rhialto
  Oko czarodzieja
-
+ 
 Mo¿e u¿ywaæ:
 Dziki Mag~
 @40511=~Przeczytaj~
@@ -652,6 +651,6 @@ Dziki Mag~
 @69998=~List~
 @69999=~Moje zycie Gorion,
 
-Musisz ogladac panstwa wyjazd dobrze, poza mury Candlekeep prowadzi Hasardeur wokós. Nie sa nam znane jego intencje. Czy ma Pan Candlekeep bezpiecznie opuscic, zwrotu nie wrócic.
+Musisz ogladac panstwa wyjazd dobrze, poza mury Candlekeep prowadzi Hasardeur wokós. Nie sa nam znane jego intencje. Czy ma Pan Candlekeep bezpiecznie opuscic, zwrotu nie wrócic. 
 
 E.~

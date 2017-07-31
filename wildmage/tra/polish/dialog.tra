@@ -1,6 +1,3 @@
-// coding: cp1250
-@216=~Tkanie Czaru~
-@217=~Rozerwanie Struktur~
 @0=~Otwierasz ksiêgê czarów Rhialto po raz pierwszy. Panuje w niej niesamowity nie³ad, pe³no przypadkowych notatek, nieczytelnych zapisków i dziecinnych rysunków; ca³a jest wysmarowana krwi¹, ¿ó³ci¹ i czymœ innym czego nie mo¿esz (i nawet nie chcesz) zidentyfikowaæ. Co zadziwiaj¹ce, niektóre zapisane czary s¹ wci¹¿ czytelne.~
 @1=~Ponownie decydujesz siê na rzut oka w ksiêgê czarów Rhialto. Ostro¿nie rozdzielasz dwie karty zlepione ze sob¹, tylko po to by odkryæ paskudny rysunek starego mêdrca z d³ug¹ brod¹ i szpiczastym kapeluszem, który wygl¹da jakby siê wpatrywa³ z po¿¹daniem na coœ co wygl¹da jak spertyfikowany kozio³.~
 @2=~Otwierasz ksiêgê na losowej stronie i zauwa¿asz notkê której przedtem najwyraŸniej tu nie by³o: "<CHARNAME>, trzymaj swoje brudne rêce z dala od mojej ksiêgi!"~
@@ -8,7 +5,7 @@
 @4=~Ksiêga Rhialto wci¹¿ jest w strasznym nie³adzie i jego umys³ musia³ byæ podobny; Zastnawiasz siê czy takie samo szaleñstwo mo¿e dotkn¹æ i ciebie, je¿eli nie przestaniesz czytaæ jego zapisków.~
 @5=~Znów otwierasz ksiêgê czarów Rhialto, wci¹¿ jest w wielkim nie³adzie, ale z biegiem czasu zd¹¿y³eœ siê do tego przyzwyczaiæ.~
 @6=~Studiujesz dalej ksiêgê czarów Rhialto.~
-@7=~Mo¿e i Rhialto by³ szalony, lecz jego wiedza by³a rzeczywiœcie ogromna~
+@7=~Mo¿e i Rhialto by³ szalony, lecz jego wiedza by³a rzeczywiœcie ogromna.~
 @8=~Mimo i¿ jesteœ pewien ¿e nauczy³eœ siê ju¿ ka¿dego czaru z ksiêgi, wci¹¿ czujesz potrzebê spojrzenia na jej karty raz jeszcze.~
 @9=~Kiedy otwierasz ksiêgê czarów Rhialto, rozpada siê na drobny py³.~
 @10=~Studiujesz ksiêgê przez chwile i widzisz ¿e byæ mo¿e mo¿esz siê nauczyæ czegoœ nowego.~
@@ -74,6 +71,8 @@
 @213=~Wysokopoziomowa Umiejêtnoœæ £otrzyka: "Zabójstwo"~
 @214=~Wysokopoziomowa Umiejêtnoœæ £otrzyka: "Unikniêcie Œmierci"~
 @215=~Wysokopoziomowa Umiejêtnoœæ £otrzyka:  "Unik"~
+@216=~Tkanie Czaru~
+@217=~Rozerwanie Struktur~
 @220=~Nie wiesz jak to siê dok³adnie sta³o, ale w ferworze walki jakimœ sposobem spontanicznie uda³o ci siê rzuciæ czar.~
 @221=~Czujesz teraz dziwn¹ falê magicznej energii wzbieraj¹c¹ w tobie. Cokolwiek siê dzieje, w pewien sposób czujesz ¿e jeœli poddasz siê tej dziwnej mocy, bêdziesz zmieniony na zawsze.~
 @222=~Przyjmij t¹ now¹ moc.~
