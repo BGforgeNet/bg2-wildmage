@@ -56,6 +56,49 @@ COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the 
   SAY NAME2 @50102
   WRITE_LONG 0x14 rhia_xp //see pansy switch earlier
 
+  ADD_MEMORIZED_SPELL ~spwi105~ #0 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi112~ #0 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi119~ #0 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi211~ #1 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi303~ #2 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi304~ #2 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi312~ #2 ~wizard~
+  ADD_MEMORIZED_SPELL ~wm_word~ #2 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi415~ #3 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi418~ #3 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi423~ #3 ~wizard~
+  ADD_MEMORIZED_SPELL ~wm_glyph~ #3 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi501~ #4 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi505~ #4 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi506~ #4 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi523~ #4 ~wizard~
+  ADD_MEMORIZED_SPELL ~wm_vortx~ #4 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi604~ #5 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi609~ #5 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi616~ #5 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi701~ #6 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi713~ #6 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi714~ #6 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi812~ #7 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi813~ #7 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi897~ #7 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi898~ #7 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi899~ #7 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spwi909~ #8 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi913~ #8 ~wizard~
+  ADD_MEMORIZED_SPELL ~wm_sphr~ #8 ~wizard~
+
+  ADD_MEMORIZED_SPELL ~spcl916~ #0 ~innate~
+
+
 COPY ~%comp_dir%/cre/wm_rhia2.cre~    ~override/wm_rhia2.cre~    // Rhialto the squirrel
   SAY NAME1 @50101
   SAY NAME2 @50102
