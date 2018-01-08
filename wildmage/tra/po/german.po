@@ -295,8 +295,8 @@ msgid ""
 " alive, otherwise it would be worthless as an ingredient."
 msgstr ""
 "Sie wird die letzte Komponente für den großartigsten Zauber seit... Naja... "
-"seit es Zauberei gibt!! Natürlich muss die Milz extrahiert werden solange Du "
-"noch lebst, sonst wäre sie wertlos für Rhialtos Zauber."
+"seit es Zauberei gibt!! Natürlich muss die Milz extrahiert werden solange Du"
+" noch lebst, sonst wäre sie wertlos für Rhialtos Zauber."
 
 #: dialog.tra:103
 msgid ""
