@@ -18,16 +18,16 @@ END ELSE BEGIN //stationary Rhialto: create outside Candlekeep's wall and give s
 
   ACTION_IF GAME_IS ~bgee~ BEGIN
     OUTER_SPRINT gorion_cre ~gorion~
-    OUTER_SPRINT candlekeep_exterior_ch6_bcs ~ar2626~
+    OUTER_SPRINT out_candlekeep_area ~ar2626~
   END ELSE ACTION_IF GAME_IS ~eet~ BEGIN
     OUTER_SPRINT gorion_cre ~gorion~
-    OUTER_SPRINT candlekeep_exterior_ch6_bcs ~bg2626~
+    OUTER_SPRINT out_candlekeep_area ~bg2626~
   END ELSE ACTION_IF GAME_IS ~bgt~ BEGIN
     OUTER_SPRINT gorion_cre ~gorion~
-    OUTER_SPRINT out_candlekeep_area_bcs ~ar6526~
+    OUTER_SPRINT out_candlekeep_area ~ar6526~
   END ELSE ACTION_IF GAME_IS ~tutu tutu_totsc~ BEGIN
     OUTER_SPRINT gorion_cre ~_gorion~
-    OUTER_SPRINT candlekeep_exterior_ch6_area_bcs ~_ar2626~
+    OUTER_SPRINT out_candlekeep_area ~_ar2626~
   END
 
   EXTEND_BOTTOM ~%out_candlekeep_area%.bcs~ ~%comp_dir%/baf/candlekeep.baf~
