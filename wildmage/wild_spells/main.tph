@@ -387,7 +387,3 @@ COPY_EXISTING ~itemdial.2da~ ~override/itemdial.2da~
   APPEND_FILE ~%comp_dir%/dialog/itemdial_add.txt~
   REPLACE ~_READ_~ @40511
 
-//fix spell probabilities to be in 0-99 range
-COPY_EXISTING_REGEXP GLOB ~^wm_.+\.spl$~ ~override~
-  WRITE_BYTE 0x13 99
-BUT_ONLY
