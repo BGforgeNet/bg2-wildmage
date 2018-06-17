@@ -6,7 +6,7 @@ NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 
 ALWAYS
-  ACTION_IF ENGINE_IS ~bgee bg2ee iwdee eet~ BEGIN
+  ACTION_IF ENGINE_IS ~bgee bg2ee eet iwdee pstee~ BEGIN
     ACTION_DEFINE_ARRAY charsetsNoConvertArray BEGIN setup weidu END
     ACTION_DEFINE_ARRAY charsetsReloadArray BEGIN text END
     LAF ~HANDLE_CHARSETS~
@@ -19,6 +19,7 @@ ALWAYS
         reload_array = charsetsReloadArray
     END
   END
+  LOAD_TRA ~%MOD_FOLDER%/tra/%LANGUAGE%/text_ee.tra~
 END
 
 LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/tra/english/text.tra~ ~%MOD_FOLDER%/tra/english/setup.tra~
@@ -26,7 +27,6 @@ LANGUAGE ~Deutsch~ ~german~ ~%MOD_FOLDER%/tra/german/text.tra~ ~%MOD_FOLDER%/tra
 LANGUAGE ~Polski (Maciek F)~ ~polish~ ~%MOD_FOLDER%/tra/polish/text.tra~ ~%MOD_FOLDER%/tra/polish/setup.tra~
 LANGUAGE ~Russian (aerie.ru)~ ~russian~ ~%MOD_FOLDER%/tra/russian/text.tra~ ~%MOD_FOLDER%/tra/russian/setup.tra~
 LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~%MOD_FOLDER%/tra/french/text.tra~ ~%MOD_FOLDER%/tra/french/setup.tra~ ~%MOD_FOLDER%/tra/french/weidu.tra~
-
 
 BEGIN @60 //Ironman
 SUBCOMPONENT @1 //New Wild Magic Spells
