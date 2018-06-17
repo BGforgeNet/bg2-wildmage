@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2017-12-03 07:59+0000\n"
-"Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
+"PO-Revision-Date: 2018-06-17 22:22+0000\n"
+"Last-Translator: Henry Lavinder <henryklavinder@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: german\n"
 "MIME-Version: 1.0\n"
@@ -467,8 +467,6 @@ msgid "New Wild Magic Spells"
 msgstr "Rückschlag - Unbändige Magie"
 
 #: setup.tra:2
-#, fuzzy
-#| msgid "Spellshaper"
 msgid "Spellshaper Kit"
 msgstr "Sprücheweber"
 
