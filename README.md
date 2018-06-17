@@ -7,7 +7,7 @@
 </a>
 
 [__Download__](https://github.com/burner1024/bg2-wildmage/releases/latest)
- | [__Support__](https://github.com/burner1024/bg2-wildmage/issues)
+ | [__Support__](#support)
  | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=4&t=17)
  | [__Help translating__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
 
@@ -78,6 +78,14 @@ Like dozens of other wizards in the game, you now can target any nearby place yo
   - gather a larger party
   - spread, run, shoot
 - In pansy mode, Rhialto is in the actual Candlekeep area, not in the area where Gorion is killed.
+
+### Support
+- Check known issues below.
+- Check [reported issues](https://github.com/BGforgeNet/bg2-wildmage/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- If it's not present there, file a new one.
+
+#### Not bugs/known issues
+- "Summon Cow" occasionally damages every creature in the whole area. This seems to be hard-coded and intended by Bioware. It also happens with the wild surge and the original 2nd level "Easter Egg"-spell.
 
 ### Changelog
 - 2.beta3
