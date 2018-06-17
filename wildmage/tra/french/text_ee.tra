@@ -1,0 +1,57 @@
+@40202 = ~Cette étrange bombe en forme de crâne est apparue une nuit dans votre inventaire. Elle est tellement chargée d'énergie magique qu'elle semble sur le point d'exploser. Vous gagez que c'est le résultat d'un sort de Piège à Crânes raté. Au lieu de voler vers sa cible, le crâne s'est matérialisé dans vos poches. Vous ne savez absolument pas pourquoi il n'a - heureusement - pas encore explosé. Vous feriez bien de le lancer sur un adversaire dès que possible...
+
+PARAMETRES :
+
+Lance le sort Piège à Crânes comme un magicien de niveau 12.
+
+Non utilisable par :
+ Personnages d'alignement non chaotique
+ Tueur de magicien~
+@40404 = ~Ours en peluche de Protection +2, +4 contre les Démons : 'Pookie le Brave'
+Cet ours en peluche de protection fut créé par l'archimage Halycron Maeral pour son fils. Quiconque porte l'objet acquiert une protection similaire à celle d'un anneau de protection +2.
+
+Bien que Halycron ait passé beaucoup de temps à assurer la sécurité de son fils et son éducation dans l'art de la magie, il négligea l'enseignement de la discipline et des mesures de précaution. A l'âge de 6 ans, le fils d'Halycron convoqua accidentellement un démon alors que ses parents n'étaient pas à la maison. Quand Halycron et son épouse rentrèrent, ils trouvèrent la maison en cendres et la nourrice dévorée par le démon. Au milieu des ruines, ils trouvèrent leur fils recroquevillé sous une table presque indemne, serrant dans ses bras son cher ours en peluche.
+
+PARAMETRES :
+
+Classe d'Armure : Bonus de +2 (+4 contre les Démons)
+Jet de sauvegarde : Bonus de +2 (+4 contre les Démons)
+
+Non utilisable par :
+ Tueur de Magicien~
+@40502 = ~Ce livre de sorts appartenait à Rhialto le Merveilleux. Vous l'avez obtenu après son soudain trépas.
+
+Bien que ce livre soit en mauvais état - pages déchirées, gribouillages farfelus et des tâches partout, il en émane encore beaucoup de pouvoir magique.
+
+L'assortiment général des sorts dans ce livre est assez inhabituel, vous pourriez essayer d'apprendre à lancer certains d'entre eux.
+
+PARAMETRES :
+
+Utilisable uniquement par :
+ Entropiste~
+@40503 = ~Ce livre de sorts a appartenu autrefois à Rhialto le Merveilleux. Vous l'avez obtenu après son soudain trépas.
+
+Bien que ce livre soit en mauvais état - pages déchirées, griffonnements farfelus et des tâches partout, il en émane encore beaucoup de pouvoir magique.
+
+Ce livre est autant un journal intime et un carnet de notes qu'un livre de sorts. Bien qu'il était clairement fou lorsque vous l'avez rencontré, Rhialto dût être un génie autrefois ; non seulement il développa de nouveaux sorts, mais il était aussi obsédé par l'apprentissage de procédures d'incantation alternatives, ce qui le mena à la magie entropique en premier lieu et causa probablement sa folie à long terme.
+
+Certaines pages sont couvertes de runes mystiques qui peuvent être utilisées pour invoquer les sorts inscrits sur ces pages - un moyen commode pour lancer des sorts instantanément sans avoir à les mémoriser. Cependant, seule une petite sélection de sorts est préparée de la sorte ; on dirait que Rhialto a trouvé d'autres moyens pour lancer des sorts à la demande.
+
+L'assortiment général des sorts dans ce livre est assez inhabituel, vous pourriez essayer d'apprendre à lancer certains d'entre eux.
+
+PARAMETRES :
+
+Peut être utilisé une fois par jour pour lancer un des sorts suivants :
+ Armure
+ Bouclier du Chaos
+ Dissipation de la Magie
+ Amitié
+ Courbure de l'Espace de Gymlainac
+ Horreur
+ Invisibilité
+ Absorption Mineure de Larloch
+ Projectiles Aléatoires de Rhialto
+ Oeil du Magicien
+
+Utilisable uniquement par :
+ Entropiste~
