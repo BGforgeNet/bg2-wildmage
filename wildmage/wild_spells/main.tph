@@ -387,3 +387,17 @@ COPY_EXISTING ~itemdial.2da~ ~override/itemdial.2da~
   APPEND_FILE ~%comp_dir%/dialog/itemdial_add.txt~
   REPLACE ~_READ_~ @40511
 
+COPY_EXISTING_REGEXP GLOB ~^wm_.+\.spl$~ ~override~
+  GET_OFFSET_ARRAY ab_array SPL_V10_HEADERS
+  PHP_EACH ab_array AS int => ab_off BEGIN
+    GET_OFFSET_ARRAY2 fx_array ab_off SPL_V10_HEAD_EFFECTS
+    PHP_EACH fx_array AS int => fx_off BEGIN
+      READ_BYTE (fx_off + 0x12) fx_prob2
+      PATCH_IF fx_prob2 == 100 BEGIN
+//        PATCH_PRINT ~probability 2 is %fx_prob2%, correcting to 99~
+        WRITE_BYTE (fx_off + 0x12) 99
+      END
+    END
+  PATCH_PRINT ~spell is %SOURCE_FILE%~
+  END
+BUT_ONLY
