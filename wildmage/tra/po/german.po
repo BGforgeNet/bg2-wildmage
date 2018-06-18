@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2018-06-17 22:22+0000\n"
+"PO-Revision-Date: 2018-06-18 07:22+0000\n"
 "Last-Translator: Henry Lavinder <henryklavinder@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: german\n"
@@ -461,10 +461,8 @@ msgstr ""
 "\"weben\", Formen die nur durch deine Vorstellungskraft beschränkt sind."
 
 #: setup.tra:1
-#, fuzzy
-#| msgid "Wild Magic Backlash"
 msgid "New Wild Magic Spells"
-msgstr "Rückschlag - Unbändige Magie"
+msgstr "Neue Zaubersprüche"
 
 #: setup.tra:2
 msgid "Spellshaper Kit"
@@ -480,31 +478,31 @@ msgstr "\"Neue Zaubersprüche\" wird benötigt!"
 
 #: setup.tra:60
 msgid "Ironman"
-msgstr ""
+msgstr "Eisenmann"
 
 #: setup.tra:61
 msgid "Haughty pansy"
-msgstr ""
+msgstr "Schönling"
 
 #: setup.tra:62
 msgid "Only ToB and EE engines are supported"
-msgstr ""
+msgstr "Nur ToB und EE werden unterstützt"
 
 #: setup.tra:63
 msgid "Original avatar"
-msgstr ""
+msgstr "Originaler Avatar"
 
 #: setup.tra:64
 msgid "Changed avatar"
-msgstr ""
+msgstr "Veränderter Avatar"
 
 #: setup.tra:65
 msgid "Requires BG1 content"
-msgstr ""
+msgstr "Benötigt BG1"
 
 #: setup.tra:66
 msgid "Retain Rhialto's items"
-msgstr ""
+msgstr "Rhialtos Gegenstände beibehalten"
 
 #: text.tra:10101
 msgid "Wild Magic"
