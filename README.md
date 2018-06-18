@@ -86,6 +86,7 @@ Like dozens of other wizards in the game, you now can target any nearby place yo
 
 #### Not bugs/known issues
 - "Summon Cow" occasionally damages every creature in the whole area. This seems to be hard-coded and intended by Bioware. It also happens with the wild surge and the original 2nd level "Easter Egg"-spell.
+- Spellshaper *does not* get extra attacks from weapon specialization. If you're unhappy with that, post [here](https://github.com/BGforgeNet/bg2-wildmage/issues/2)
 
 ### Changelog
 - 2.beta3
