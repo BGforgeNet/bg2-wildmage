@@ -59,6 +59,5 @@ REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20
 OUTER_SET avatar = 1
 INCLUDE ~%MOD_FOLDER%/shaper_kit/main.tph~
 
-
 BEGIN @4 //Misc Spell Modifications
 COPY ~%MOD_FOLDER%/misc_spells/copy~ ~override~

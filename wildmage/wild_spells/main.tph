@@ -61,6 +61,8 @@ COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the 
   ADD_MEMORIZED_SPELL ~spwi119~ #0 ~wizard~
 
   ADD_MEMORIZED_SPELL ~spwi211~ #1 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi211~ #1 ~wizard~
+  ADD_MEMORIZED_SPELL ~spwi219~ #1 ~wizard~
 
   ADD_MEMORIZED_SPELL ~spwi303~ #2 ~wizard~
   ADD_MEMORIZED_SPELL ~spwi304~ #2 ~wizard~
