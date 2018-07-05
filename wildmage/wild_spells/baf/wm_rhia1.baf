@@ -657,6 +657,64 @@ THEN
     Continue()
 END
 
+
+//just keep casting larlochs if nothing else comes up, doom must happen finally
+IF
+  See(TenthNearestEnemyOf(Myself))
+  !Range(LastSeenBy(Myself),10)
+  !GlobalTimerNotExpired("delay","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("delay","LOCALS",6)
+    IncrementGlobal("doomed","LOCALS",1)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_LARLOCH_MINOR_DRAIN)
+END
+
+IF
+  See(TenthNearestEnemyOf(Myself))
+  !Range(LastSeenBy(Myself),10)
+  !GlobalTimerNotExpired("delay","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("delay","LOCALS",6)
+    IncrementGlobal("doomed","LOCALS",1)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_LARLOCH_MINOR_DRAIN)
+END
+
+IF
+  See(TenthNearestEnemyOf(Myself))
+  !Range(LastSeenBy(Myself),10)
+  !GlobalTimerNotExpired("delay","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("delay","LOCALS",6)
+    IncrementGlobal("doomed","LOCALS",1)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_LARLOCH_MINOR_DRAIN)
+END
+
+IF
+  See(TenthNearestEnemyOf(Myself))
+  !Range(LastSeenBy(Myself),10)
+  !GlobalTimerNotExpired("delay","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("delay","LOCALS",6)
+    IncrementGlobal("doomed","LOCALS",1)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_LARLOCH_MINOR_DRAIN)
+END
+
+IF
+  See(TenthNearestEnemyOf(Myself))
+  !Range(LastSeenBy(Myself),10)
+  !GlobalTimerNotExpired("delay","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("delay","LOCALS",6)
+    IncrementGlobal("doomed","LOCALS",1)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_LARLOCH_MINOR_DRAIN)
+END
+
+
 IF
   See(NearestEnemyOf(Myself))
 THEN
