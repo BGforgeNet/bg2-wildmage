@@ -401,6 +401,6 @@ COPY_EXISTING_REGEXP GLOB ~^wm_.+\.spl$~ ~override~
         WRITE_BYTE (fx_off + 0x12) 99
       END
     END
-  PATCH_PRINT ~spell is %SOURCE_FILE%~
+//  PATCH_PRINT ~spell is %SOURCE_FILE%~
   END
 BUT_ONLY
