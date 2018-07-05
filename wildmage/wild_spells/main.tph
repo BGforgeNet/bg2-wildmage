@@ -109,6 +109,7 @@ COPY ~%comp_dir%/spl/wm_rhia1.spl~    ~override/wm_rhia1.spl~    // Rhialto's sp
   SAY NAME1 @21101
   SAY UNIDENTIFIED_DESC @21102
   SAY 0x9e @50111
+  WRITE_LONG 0x18 (THIS BOR BIT14 BOR BIT15) //never actually surge, don't fail, otherwise Rhialto might not turn into squirrel... again
 
 COPY ~%comp_dir%/spl/wm_glph.spl~    ~override/wm_glph.spl~    // Rhialto's Hostile Glyph of WM
   SAY NAME1 @20701
