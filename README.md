@@ -2,9 +2,6 @@
 <a href="https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/">
 <img src="https://tra.bgforge.net/widgets/infinity-engine/-/wild-mage-additions/svg-badge.svg" alt="Translation status" />
 </a>
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-<img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg" alt="License" />
-</a>
 
 [__Download__](https://github.com/burner1024/bg2-wildmage/releases/latest)
  | [__Support__](#support)
@@ -116,4 +113,6 @@ Like dozens of other wizards in the game, you now can target any nearby place yo
 ### License
 The original work is abandonware. JOG doesn't appear to be available.
 
-Contributions on top of the original are [CC BY-NC-SA v4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Contributions **on top** of the original are <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg" alt="License" />
+</a>
