@@ -3,9 +3,9 @@
 <img src="https://tra.bgforge.net/widgets/infinity-engine/-/wild-mage-additions/svg-badge.svg" alt="Translation status" />
 </a>
 
-[__Download__](https://github.com/burner1024/bg2-wildmage/releases/latest)
+[__Download__](https://github.com/BGforgeNet/bg2-wildmage/releases/latest)
  | [__Support__](#support)
- | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=4&t=17)
+ | [__Discussion__](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
  | [__Help translating__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
 
 This mod expands on Wild Magic and Wild Mages. Fixed version, based on [original by JOG](http://mods.jo-ge.net/bg/shaper.htm).
