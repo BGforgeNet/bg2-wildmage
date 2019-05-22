@@ -1,0 +1,5 @@
+golem:
+  mod_dir: wildmage
+  platforms:
+    - tob_fixpack
+    - bgee
