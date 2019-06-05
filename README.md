@@ -116,4 +116,3 @@ The original work is abandonware. JOG doesn't appear to be available.
 Contributions **on top** of the original are <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg" alt="License" />
 </a>
-
