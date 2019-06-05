@@ -60,4 +60,9 @@ OUTER_SET avatar = 1
 INCLUDE ~%MOD_FOLDER%/shaper_kit/main.tpa~
 
 BEGIN @4 //Misc Spell Modifications
+ACTION_IF GAME_IS ~bgee~ BEGIN
+  OUTER_PATCH 1 BEGIN
+    PATCH_WARN ~test warning~
+  END
+END
 COPY ~%MOD_FOLDER%/misc_spells/copy~ ~override~
