@@ -1,11 +1,7 @@
-@40202 = ~Ta dziwna czaszka pewnej nocy pojawiła się w twoim ekwipunku. Drży od magicznej energii. Mógłbyś się założyć że wygląda tak samo jak ta pojawiająca się przy rzucaniu czaru Eksplodująca Czaszka. Jednak zamiast unośić się w powietrzu, leży ona sobie psokojnie w twojej kieszeni. Nie masz pojęcia dlaczego jeszcze nie wybuchła jednak z jakiegoś powodu cię to cieszy. Najlepiej będzie jeśli rzucisz nią w jakiegoś łajdaka i to jak najszybciej...
+@40202 = ~Ta dziwna czaszka pewnej nocy pojawiła się w twoim ekwipunku. Drży od magicznej energii. Mógłbyś się założyć że wygląda tak samo jak ta pojawiająca się przy rzucaniu czaru Eksplodująca Czaszka. Jednak zamiast unosić się w powietrzu, leży ona sobie spokojnie w twojej kieszeni. Nie masz pojęcia dlaczego jeszcze nie wybuchła jednak z jakiegoś powodu cię to cieszy. Najlepiej będzie jeśli rzucisz nią w jakiegoś łajdaka i to jak najszybciej...
 
 PARAMETRY:
-Rzuca "Eksplodującą Czaszkę" z efektem 12poziomowego maga
-
-Nie może używać:
- Nie chaotyczne osoby
- Zabójca Magów~
+Rzuca "Eksplodującą Czaszkę" z efektem 12-poziomowego maga~
 @40404 = ~Pluszowy Miś Ochrony +2, +4 przeciw Demonom:  'Dzielny Pooki'
 Pluszowy miś obrony został wykonany przez arcymaga Halycron Maeral dla swojego nieślubnego syna. Ktokolwiek posiada misia uzyskuje ochronę jaką zapewnia Pierścień ochrony +2.
 
@@ -14,33 +10,25 @@ Mimo iż Halycorn spędził sporo czasu nad zapewnieniem synowi bezpieczeństwa 
 PARAMETRY:
 
 Klasa pancerza:  +2 (+4 przeciw Demons)
-Rzuty obronne:  +2 (+4 przeciw Demons)
-
-Nie może uzywać:
- Zabójca Magów~
+Rzuty obronne:  +2 (+4 przeciw Demons)~
 @40502 = ~Księga ta należała do Rhialto "Cudownego". Zdobyłeś ją tuż po jego gwałtownym zgonie.
 
 Choć książka jest raczej w złym stanie - wyrwane kartki, szalone notatki pojawiające się wszędzie, wciąż promieniuje magiczną mocą. 
 
-Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłbyś spróbować się naczyć rzucania niektórych z nich.
-
-PARAMETRY:
- 
-Może używać:
- Dziki Mag~
+Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłbyś spróbować się naczyć rzucania niektórych z nich.~
 @40503 = ~Księga ta należała do Rhialto "Cudownego". Zdobyłeś ją tuż po jego gwałtownym zgonie.
 
 Choć książka jest raczej w złym stanie - wyrwane kartki, szalone notatki pojawiające się wszędzie, wciąż promieniuje magiczną mocą.  
 
-Księga ta przypomina bardziej pamiętnik lub notatnik niż księgę czarów. Rhialto z pewnością był szaleńcem kiedy go spotkałeś, lecz kidyś musiał być geniuszem; nie tylko wynalazł nowe czary, ale był też opętany nauką nowej formy sposobu rzucania czarów, co najpierw skłoniło go do dzikiej magii, a następnie szaleństwa.
+Księga ta przypomina bardziej pamiętnik lub notatnik niż księgę czarów. Rhialto z pewnością był szaleńcem kiedy go spotkałeś, lecz kiedyś musiał być geniuszem; nie tylko wynalazł nowe czary, ale był też opętany nauką nowej formy sposobu rzucania czarów, co najpierw skłoniło go do dzikiej magii, a następnie szaleństwa.
 
-Niektóre strony są pokryte mistycznymi runami mogacymi wywołać czary zapisane na kartach - wygodny sposób natychmiastowego rzucenia czarów bez konieczności zapamiętywania ich. Jedynie niewielka część czarów w księdze posiada te runy, wygląda na to że Rhialto znalazł inny sposób rzucania czarów bez zapamiętywania ich.
+Niektóre strony są pokryte mistycznymi runami mogącymi wywołać czary zapisane na kartach - wygodny sposób natychmiastowego rzucenia czarów bez konieczności zapamiętywania ich. Jedynie niewielka część czarów w księdze posiada te runy, wygląda na to że Rhialto znalazł inny sposób rzucania czarów bez zapamiętywania ich.
 
-Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłbyś spróbować się naczyć rzucania niektórych z nich.
+Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłbyś spróbować się nauczyć rzucania niektórych z nich.
 
 PARAMETRY:
 
-Może zostać urzyta raz dziennie do rzucenia jednego z następujących czarów:
+Może zostać użyta raz dziennie do rzucenia jednego z następujących czarów:
  Zbroja
  Tarcza Chaosu
  Rozproszenie magii

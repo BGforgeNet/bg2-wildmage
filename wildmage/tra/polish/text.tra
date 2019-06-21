@@ -4,8 +4,8 @@
 @10302 = ~Modyfikator Obra¿eñ od Ciosu w Plecy Zwiêkszony o 1~
 @10303 = ~Poziom bieg³oœci w Sztyletach zwiêkszony do 2 (Specjalizacja)~
 @10304 = ~Poziom bieg³oœci w Sztyletach zwiêkszony do 3 (Mistrz)~
-@10305 = ~Uzyskujesz Dwurêcznoœæ (1 stopieñ)~
-@10306 = ~Uzyskujesz Dwurêcznoœæ (2 stopieñ)~
+@10305 = ~Uzyskujesz Oburêcznoœæ (1 stopieñ)~
+@10306 = ~Uzyskujesz Oburêcznoœæ (2 stopieñ)~
 @10307 = ~Uzyskujesz +1 do obra¿eñ w walce wrêcz~
 @10308 = ~Uzyskujesz bonus 20% do Punktów ¯ycia~
 @10309 = ~Uzyskujesz dodatkowy atak na rundê~
@@ -30,7 +30,7 @@ Czar mo¿e zostaæ rzucony tylko raz, a jego efekt jest nieodwracalny. Zdolnoœci r
 Te zmiany nie s¹ jednak¿e efektem samego czaru. Przewód Chaosu Rhialto jedynie uwalnia i wzmacnia tendencje i cele, które ju¿ w magu s¹. Osoba która nie jest zainteresowana darem jaki daje ten czar bêdzie odporna na jego efekt. Jednak¿e taka osoba po pierwsze nie myœla³a by nawet o rzucaniu czaru takiego jak ten.
 
 Bez wzglêdu na to czy myœlisz o rzuceniu tego czaru czy nie, b¹dŸ pewien jednej rzeczy: Jeœli oœmielisz siê go rzuciæ, zmieni ciê on na zawsze.~
-@20103 = ~Spellshaper~
+@20103 = ~Czarotwórca~
 @20111 = ~Kiedy rzuci³eœ ten czar, czujesz ¿e twoje zrozumienie tworzenia magii zmieni³o siê. Spróbowa³eœ poj¹æ chaos otaczaj¹cy ciê, podporz¹dkowuj¹c go twej woli, czerpi¹c si³ê z nieobliczalnoœci, niesta³oœci i ci¹g³ego ruchu dzikiej magii. Jesteœ teraz w stanie okie³znaæ struktury magii, ukszta³towaæ j¹, "utkaæ" j¹ w cokolwiek sobie wyobrazisz.~
 @20112 = ~Czujesz tak¿e, ¿e czar ten zmieni³ wiêcej ni¿ jedynie twoje zdolnoœci do rzucania czarów. Czujesz jakby czar uwolni³ g³êboko ukryt¹ czêœæ twojej œwiadomoœci. Jest w tobie wiêcej indywidualizmu, tolerancji, ciekawoœci, lecz tak¿e mniej dyscypliny i pilnoœci, pojawi³ siê brak zaufania do w³adzy. Jednak uczucie wydaje siê znajome, jakby zawsze tam by³o i teraz zosta³o ujawnione. To nie uczucie zmiany, lecz bardziej ostatecznego przebudzenia po d³ugim œnie.~
 @20201 = ~Przemiana w gryzonia~
@@ -42,7 +42,7 @@ Czas rzucania: 1
 Obszar dzia³ania: rzucaj¹cy
 Rzut obronny: Brak
 
-Czar ten przemienia rzucaj¹cego w s³odk¹ ma³¹ wiewiórkê. Ze wzglêdu na ma³y rozmiar gryzonia otrzymuje premie do Klasy Pancerza +2 w walce wrêcz i +4 przeciw pociskom. W przeciwieñstwie do innych polimorficznych czarów rzucaj¹cy zachowuje swoje umiejêtnoœci rzucania czarów w formie gryzonia. 
+Czar ten przemienia rzucaj¹cego w s³odk¹ ma³¹ wiewiórkê. Ze wzglêdu na ma³y rozmiar gryzonia otrzymuje premie do Klasy Pancerza +2 oraz dodatkowo+4 przeciw pociskom. Szybkoœæ ruchu równie¿ zostaje zwiêkszona. W przeciwieñstwie do innych polimorficznych czarów rzucaj¹cy zachowuje swoje umiejêtnoœci rzucania czarów w formie gryzonia. 
 
 Obecna wersja czaru NIE POWINNA wp³yn¹æ na osobowoœæ i mentalnoœæ rzucaj¹cego.~
 @20211 = ~Jeden z moich czarów siê zmieni³!~
@@ -58,11 +58,11 @@ Rzut obronny: Brak
 
 Ratatoski s¹ jedn¹ z ras rozumnych wiewiórek-wojowników charakterystycznych dla Yggdrasil, Jesionu Œwiata, wielkiego boskiego drzewa, którego ga³êzie i korzenie spowijaj¹ ca³e zewnêtrzne krêgi.
 
-Po rzuceniu czaru, mag przechodzi transformacje w jednego z tych malutkich stworzonek. Ze wzglêdu na ma³y rozmiar gryzonia otrzymuje premie do Klasy Pancerza +3 w walce wrêcz i +5 przeciw pociskom. Zrêcznoœæ rzucaj¹cego zwiêksza siê o 4 punkty na czas trwania czaru. Ewentualne bonusy do klasy pancerza ze wzglêdu na wysok¹ zrêcznoœæ s¹ dodawane do tych pochodz¹cych od rozmiaru.
+Po rzuceniu czaru, mag przechodzi transformacje w jednego z tych malutkich stworzonek. Ze wzglêdu na ma³y rozmiar gryzonia otrzymuje premie do Klasy Pancerza +3 w walce wrêcz i +5 przeciw pociskom. Szybkoœæ ruchu równie¿ zostaje zwiêkszona. Zrêcznoœæ rzucaj¹cego zwiêksza siê o 4 punkty. Ewentualne bonusy do klasy pancerza ze wzglêdu na wysok¹ zrêcznoœæ s¹ dodawane do tych pochodz¹cych od rozmiaru.
 
-Rzucaj¹cy otrzymuje tak¿e niektóre umiejêtnoœci bojowe Ratatoska na czas trwania czaru: Dodatkowy atak na rundê, pazurki traktowane jako broñ +5 pod ka¿dym wzglêdem za wyj¹tkiem obra¿eñ. Pazurki zadaj¹ 1k4+1 obra¿eñ siecznych.
+Rzucaj¹cy otrzymuje tak¿e niektóre umiejêtnoœci bojowe Ratatoska: dodatkowy atak na rundê, pazurki traktowane jako broñ +5 pod ka¿dym wzglêdem za wyj¹tkiem obra¿eñ. Pazury zadaj¹ 1k4+1 obra¿eñ siecznych.
 
-W przeciwieñstwie do innych polimorficznych czarów rzucaj¹cy zachowuje swoje umiejêtnoœci rzucania czarów w formie Ratatoska~
+W przeciwieñstwie do innych polimorficznych czarów rzucaj¹cy zachowuje swoje umiejêtnoœci rzucania czarów w formie Ratatoska.~
 @20401 = ~Losowy Czar I~
 @20402 = ~Losowy Czar I* (Inwokacje/Wywo³ania)
 Poziom: 1
@@ -73,6 +73,8 @@ Obszar dzia³ania: specjalny
 Rzut obronny: specjalny
 
 Ten ryzykowny czar korzysta z chaosu magii w celu uformowania magicznej energiiw czar potê¿niejszy ni¿ dziki mag móg³by normalnie rzuciæ. Losowy Czar I ma efekt losowo wybranego czaru z czarów 2 i 3 poziomu.
+
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
 
 Rzucaj¹cy wybiera jedn¹ istotê w zasiêgu 40 jardów na cel czaru. Uzyskany efekt bêdzie wycentrowany na tej istocie, chyba ¿e ma on wp³yw jedynie na rzucaj¹cego czar.
 
@@ -88,9 +90,11 @@ Rzut obronny: specjalny
 
 Czar tworzy zestaw magicznych sztyletów które unosz¹ siê w powietrzu dopóki nie zostan¹ wystrzelone do celu. Od 1 do 5 poziomu tworzony jest jeden sztylet na poziom, nastêpnie dodatkowy zestaw 5 sztyletów na ka¿de 5 poziomów rzucaj¹cego, do maksymalnie 25 sztyletów na 25 poziomie. Ka¿dy zestaw jest wystrzeliwany naraz do 1-5 celów wybranych przez rzucaj¹cego czar. Sztylety s¹ wykonane z materii chaosu i znikaj¹ po up³ywie czasu dzia³ania czaru, na ka¿dy zestaw czarów czas dzia³ania jest wys³u¿ony o 3 rundy.
 
-Ka¿dy sztylet zadaje 1k4 k³utych obra¿eñ. Na 5 poziomie sztylety s¹ traktowane jako broñ +1 pod wzglêdem obra¿eñ i tego czy istota mo¿e zostaæ trafiona. Ten bonus zwiêksza siê o 1 co ka¿de 5 poziomów rzucaj¹cego: +2 na 10 poziomie, +3 na 15, do maksymalnie +5 na 25 poziomie.
+Ka¿dy sztylet zadaje 1k4 k³utych obra¿eñ. Na 5 poziomie sztylety otrzymuj¹ +1 pod wzglêdem obra¿eñ. Ten bonus zwiêksza siê o 1 co ka¿de 5 poziomów rzucaj¹cego: +2 na 10 poziomie, +3 na 15, do maksymalnie +5 na 25 poziomie.
 
-Sztylety wykonane s¹ z czystego chaosu, omijaj¹ wszelkie fizyczne i magiczne przeszkody i zawsze trafiaj¹ w cel. Jednak¿e rzucaj¹cy musi wykonaæ rzut na atak dla ka¿dego sztyletu by okreœliæ krytyczne chybienie lub trafienie. W przypadku krytycznego chybienia sztylet nie zadaje ¿adnych obra¿eñ. W przypadku trafienia krytycznego sztylet zadaje podwójne obra¿enia i cel musi wykonaæ rzut obronny przeciw czarom, lub przez 5 rund bêdzie ofiar¹ nastêpuj¹cych efektów: Uciszenie, Zamêt, Strach, Sen, Dzika Magia.~
+Sztylety wykonane s¹ z czystego chaosu, omijaj¹ wszelkie fizyczne oraz czary obronne i zawsze trafiaj¹ w cel. Jednak¿e nadal mog¹ byæ zatrzymane przez os³ony typu Kamienna Skóra lub ¯elazna Skóra. Os³ony oraz odpornoœci pochodz¹ce z magicznych przedmiotów nie maj¹ znaczenia. 
+
+Co wiêcej, rzucaj¹cy rzuca d20 za ka¿dy pojedynczy sztylet, aby okreœliæ krytyczne trafienie lub jego brak. W przypadku krytycznego chybienia sztylet nie zadaje ¿adnych obra¿eñ. W przypadku trafienia krytycznego sztylet zadaje podwójne obra¿enia i cel musi wykonaæ rzut obronny przeciw czarom, lub przez 5 rund bêdzie ofiar¹ nastêpuj¹cych efektów: Uciszenie, Zamêt, Strach, Sen, Dzika Magia.~
 @20511 = ~"Deszcz Ostrzy" zosta³ dodany do twoich umiejêtnoœci specjalnych~
 @20601 = ~Losowe Pociski Rhialto~
 @20602 = ~Losowe Pociski Rhialto* (Inwokacje) 
@@ -339,7 +343,7 @@ Rzut obronny: specjalny
 
 Kiedy czar zostanie rzucony, oko dzikiego maga wyskakuje z oczodo³ów i zostaje przekszta³cone w czó³kê Obserwatora z okiem na samym czubku.
 
-Raz na rundê dziki mag mo¿e u¿yæ swojego Oka i wys³aæ promieñ w wybranym przez siebie kierunku, powoduj¹c jeden z 10 losowych efektów. Dok³adne efekty (wliczaj¹c w to rzuty obronne, zasiêg, czas trwania itd. ) s¹ zale¿ne od rodzaju promienia którym strzeli³ mag, efekty mog¹ byæ nastêpuj¹ce: Zauroczenie osoby, Strach, Dezintegracja, Spowolnienie, Pertyfikacja, Zadawanie Powa¿nych Ran, Unieruchomienie Osoby, B³yskawica, Parali¿, Promieñ Œmierci.
+Raz na rundê dziki mag mo¿e u¿yæ swojego Oka i wys³aæ promieñ w wybranym przez siebie kierunku, powoduj¹c jeden z 10 losowych efektów. Dok³adne efekty (wliczaj¹c w to rzuty obronne, zasiêg, czas trwania itd. ) s¹ zale¿ne od rodzaju promienia którym strzeli³ mag, efekty mog¹ byæ nastêpuj¹ce: Zauroczenie osoby, Strach, Dezintegracja, Spowolnienie, Petryfikacja, Zadawanie Powa¿nych Ran, Unieruchomienie Osoby, B³yskawica, Parali¿, Promieñ Œmierci.
 
 Zazwyczaj oko maga wraca do poprzedniego kszta³tu i miejsca po up³yniêciu czasu dzia³ania czaru.~
 @21803 = ~Promieñ Obserwatora~
@@ -454,6 +458,8 @@ Rzut obronny: specjalny
 
 To potê¿niejsza wersja czaru 1 poziomu Losowy Czar I. Losowy Czar II tworzy po rzuceniu efekt losowo wybrany spoœród czarów 4 i 5 poziomu.
 
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
+
 Rzucaj¹cy wybiera jedn¹ istotê w zasiêgu 40 jardów na cel czaru. Uzyskany efekt bêdzie wycentrowany na tej istocie, chyba ¿e ma on wp³yw jedynie na rzucaj¹cego czar.
 
 Zalet¹ Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasiêg, który zawsze ma 40 jardów, niezale¿nie od efektu wylosowanego czaru, oraz fakt ¿e dziki mag nie musi byæ w stanie rzuciæ czaru, lub nawet mieæ go w swojej ksiêdze czarów. Wad¹ jest fakt i¿ rzucaj¹cy nie ma ¿adnego wp³ywu na to jaki czar zostanie rzucony, ani te¿ na to czy efekt bêdzie przyjazny czy szkodliwy.~
@@ -466,7 +472,9 @@ Czas rzucani: 1
 Obszar dzia³ania: specjalny
 Rzut obronny: specjalny
 
-Podobnie jak losowy czar z 1 i 3 poziomu, Losowy Czar III tworzy po rzuceniu efekt lofowo wybrany spoœród czarów 6 i 7 poziomu.
+Podobnie jak losowy czar z 1 i 3 poziomu, Losowy Czar III tworzy efekt odpowiadaj¹cy losowemu czarowi wybranemu z poœród 6 lub 7 poziomu.
+
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
 
 Rzucaj¹cy wybiera jedn¹ istotê w zasiêgu 40 jardów na cel czaru. Uzyskany efekt bêdzie wycentrowany na tej istocie, chyba ¿e ma on wp³yw jedynie na rzucaj¹cego czar.
 
@@ -482,6 +490,8 @@ Rzut obronny: specjalny
 
 Jest to najsilniejsza wersja Losowego Czaru, tworzy losowy efekt czaru 9 poziomu.
 
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
+
 Rzucaj¹cy wybiera jedn¹ istotê w zasiêgu 40 jardów na cel czaru. Uzyskany efekt bêdzie wycentrowany na tej istocie, chyba ¿e ma on wp³yw jedynie na rzucaj¹cego czar.
 
 Zalet¹ Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasiêg, który zawsze ma 40 jardów, niezale¿nie od efektu wylosowanego czaru, oraz fakt ¿e dziki mag nie musi byæ w stanie rzuciæ czaru, lub nawet mieæ go w swojej ksiêdze czarów. Wad¹ jest fakt i¿ rzucaj¹cy nie ma ¿adnego wp³ywu na to jaki czar zostanie rzucony, ani te¿ na to czy efekt bêdzie przyjazny czy szkodliwy.~
@@ -496,7 +506,7 @@ Rzut obronny: specjalny
 
 Poprzez ten czar dziki mag jest w stanie skanalizowaæ surow¹ magiczn¹ energiê przez siebie, kszta³tuj¹c j¹ w cokolwiek tylko zechce.
 
-Dziki Czar pozwala rzucaj¹cemu utworzyæ efekt jakiegokolwiek czaru poziomu 8 lub ni¿szego. Musi on jedynie posiadaæ ogóln¹ wiedze na temat jego efektów; czar nie musi byæ w jego ksiêdze czarów.~
+Dziki Czar pozwala rzucaj¹cemu utworzyæ efekt jakiegokolwiek czaru poziomu 8 lub ni¿szego. Musi on jedynie posiadaæ ogóln¹ wiedzê na temat jego efektów; czar nie musi byæ w jego ksiêdze czarów.~
 @23001 = ~Nieodparty Urok Mynoca~
 @23002 = ~Nieodparty Urok Mynoca* (Inwokacje/Wywo³ania)
 Poziom: 1
@@ -520,7 +530,7 @@ Rzut obronny: brak
 
 Czar ten zosta³ stworzony przez gnomiego maga Meece Upknota i mia³ s³u¿yæ jako ochrona bojowa. Meece nie móg³ zadecydowaæ czy zwinnoœæ czy ukrywanie jest najlepsz¹ metod¹ na prze¿ycie walki, wiêc stworzy³ czar który ³¹czy w sobie obie te rzeczy.
 
-Mag rzucaj¹cy Dziki Pancerz zostaje chroniony przez intensywne fluktuacje magicznych struktur dooko³a niego. Te zniekszta³cenia naginaj¹ prawa prawdopodobieñstwa do punktu w którym zaczynaj¹ one s³u¿yæ ochronie przed ka¿dego rodzaju obra¿eniami. Na czas trwania czaru istnieje du¿e prawdopodobieñstwo ¿e wykonany na maga atak bêdzie mia³ mniejszy efekt ni¿ powinien, poniewa¿ wszystkie obra¿enia zostaj¹ zredukowane o 20%. Istnieje jednak prawdopodobieñstwo 50% ¿e atak zak³uci magiczne pole otaczaj¹ce maga, wywo³uj¹c dzik¹ falê.
+Mag rzucaj¹cy Dziki Pancerz zostaje chroniony przez intensywne fluktuacje magicznych struktur dooko³a niego. Te zniekszta³cenia naginaj¹ prawa prawdopodobieñstwa do punktu w którym zaczynaj¹ one s³u¿yæ ochronie przed ka¿dego rodzaju obra¿eniami. Na czas trwania czaru istnieje du¿e prawdopodobieñstwo ¿e wykonany na maga atak bêdzie mia³ mniejszy efekt ni¿ powinien, poniewa¿ wszystkie obra¿enia zostaj¹ zredukowane o 20%. Istnieje jednak prawdopodobieñstwo 50% ¿e atak zak³uci³ magiczne pole otaczaj¹ce maga, wywo³uj¹c dzik¹ falê.
 
 Po otrzymaniu zredukowanych obra¿eñ, Dziki Pancerz czyni maga niewidzialnym, by unikn¹³ dalszych obra¿eñ. Niewidzialnoœæ trwa przez 5 rund, lub do czasu gdy zostanie rozproszona lub mag kogoœ zaatakuje.
 
@@ -542,28 +552,28 @@ Czas trwania czaru wynosi 5 rund na poziom maga, a¿ do maksymalnie 2 godzin na 2
 @30301 = ~Kszta³tuj Czar~
 @30302 = ~Ukszta³towany Czar~
 @40101 = ~D³oñ~
-@40102 = ~Jako Spellshaper masz umiejêtnoœæ uwalniania dzikiej, surowej energii magicznej zapamiêtanych czarów i kszta³towania jej w inne czary. Kszta³t magicznej mocy jest limitowany jedynie twoj¹ wyobraŸni¹. Nosz¹c pierœcieñ na tej rêce móg³byœ mieæ nie tylko skrêpowane ruchy, lecz mog³oby to zak³ócaæ przep³yw magii, uniemo¿liwiaj¹c ci korzystanie z twoich unikalnych zdolnoœci
+@40102 = ~Jako Czarotwórca masz umiejêtnoœæ uwalniania dzikiej, surowej energii magicznej zapamiêtanych czarów i kszta³towania jej w inne czary. Kszta³t magicznej mocy jest limitowany jedynie twoj¹ wyobraŸni¹. Nosz¹c pierœcieñ na tej rêce móg³byœ mieæ nie tylko skrêpowane ruchy, lecz mog³oby to zak³ócaæ przep³yw magii, uniemo¿liwiaj¹c ci korzystanie z twoich unikalnych zdolnoœci
 
 
-SPELLSHAPER:
+Czarotwórca:
 
-Spellshaper jest u¿ytkownikiem dzikiej magii, który rzuca czary korzystaj¹c z talentu lub daru, w przeciwieñstwie do systematycznego i akademickiego podejœcia innych magów.
+Czarotwórca jest u¿ytkownikiem dzikiej magii, który rzuca czary korzystaj¹c z talentu lub daru, w przeciwieñstwie do systematycznego i akademickiego podejœcia innych magów.
 
-Podobnie jak Czarownik, Spellshaper pojmuje arkana magii w intuicyjny sposób. Zapamiêtuje czary jak mag, lecz ma do dyspozycji tak¿e drugie ich Ÿród³o: Shpellshaper ma umiejêtnoœæ "Tkania" surowej magicznej energii w kszta³t efektu jakiego sobie ¿yczy, bez potrzeby uprzedniego zapamiêtywania tych czarów. O tym talencie mo¿na powiedzieæ wszystko ale nie to ¿e jest niezawodny, u¿ywanie go na co dzieñ wymaga tyle¿ lekkomyœlnoœci co szczêœcia. Osoby obdarzone takim talentem nie s¹ popularne wœród konserwatywnych magów.
+Podobnie jak Czarownik, Czarotwórca pojmuje arkana magii w intuicyjny sposób. Zapamiêtuje czary jak mag, lecz ma do dyspozycji tak¿e drugie ich Ÿród³o: Czarotwórca ma umiejêtnoœæ "Tkania" surowej magicznej energii w kszta³t efektu jakiego sobie ¿yczy, bez potrzeby uprzedniego zapamiêtywania tych czarów. O tym talencie mo¿na powiedzieæ wszystko ale nie to ¿e jest niezawodny, u¿ywanie go na co dzieñ wymaga tyle¿ lekkomyœlnoœci co szczêœcia. Osoby obdarzone takim talentem nie s¹ popularne wœród konserwatywnych magów.
 
-W przeciwieñstwie do Czarownika, Spellshaper mo¿e uczyæ siê czarów ze zwojów i zapamiêtywaæ je i rzucaæ podobnie jak mag. Bêd¹c oportunist¹ spellshaper rzadko rezygnuje z relatywnie przewidywalnego dzia³ania magii. Rezerwuje jednak ten sposób dla czarów ochronnych i ostatniej szansy, na których musi polegaæ i byæ pewnym powodzenia. Jego talent do spontanicznego rzucania czarów jest na tyle przydatny, ¿e woli go u¿ywaæ kiedy tylko to mo¿liwe.
+W przeciwieñstwie do Czarownika, Czarotwórca mo¿e uczyæ siê czarów ze zwojów i zapamiêtywaæ je i rzucaæ podobnie jak mag. Bêd¹c oportunist¹ Czarotwórca rzadko rezygnuje z relatywnie przewidywalnego dzia³ania magii. Rezerwuje jednak ten sposób dla czarów ochronnych i ostatniej szansy, na których musi polegaæ i byæ pewnym powodzenia. Jego talent do spontanicznego rzucania czarów jest na tyle przydatny, ¿e woli go u¿ywaæ kiedy tylko to mo¿liwe.
 
-Pominiêcie konwencjonalnej formy czarowania i skupienie siê na chaotycznej dzikiej magii ma swoj¹ cenê: Spellshaper nie mo¿e zapamiêtaæ tak wielu czarów jak prawdziwy mag, a jego postêp w poznawaniu nowych poziomów czarów jest znacznie wolniejszy.
+Pominiêcie konwencjonalnej formy czarowania i skupienie siê na chaotycznej dzikiej magii ma swoj¹ cenê: Czarotwórca nie mo¿e zapamiêtaæ tak wielu czarów jak prawdziwy mag, a jego postêp w poznawaniu nowych poziomów czarów jest znacznie wolniejszy.
 
-Osoby tej profesji zwyk³y byæ równie¿ nieco ekscentryczne: Ich niezdyscyplinowana natura pozwoli³a im opanowaæ alternatywn¹ metodê rzucania czarów, jednoczeœnie te¿ ci¹g³y kontakt z chaotyczn¹ magi¹ wp³yn¹³ na ich osobowoœæ jeszcze bardziej. Podobnie jak bard, spellshaper ma wiele zainteresowañ: Intuicyjnie uczy siê po trochu wszystkiego co napotyka na swojej drodze, lecz brak mu dyscypliny by staæ siê w którejœ z tych dziedzin konkurencyjny dla osób skupionych na niej.
+Osoby tej profesji zwyk³y byæ równie¿ nieco ekscentryczne: Ich niezdyscyplinowana natura pozwoli³a im opanowaæ alternatywn¹ metodê rzucania czarów, jednoczeœnie te¿ ci¹g³y kontakt z chaotyczn¹ magi¹ wp³yn¹³ na ich osobowoœæ jeszcze bardziej. Podobnie jak Bard, Czarotwórca ma wiele zainteresowañ: Intuicyjnie uczy siê po trochu wszystkiego co napotyka na swojej drodze, lecz brak mu dyscypliny by staæ siê w którejœ z tych dziedzin konkurencyjny dla osób skupionych na niej.
 
-Spellshaper jest na tyle m¹dry by nie polegaæ ca³kowicie na swoich groŸnych i nieprzewidywalnych zdolnoœciach. Dzieli czas na æwiczenia mentalne i bojowe. Nie s¹ wojownikami, lecz ich zdolnoœci w walce wrêcz mo¿na porównaæ do tych prezentowanych przez z³odziei. Wraz z rozwojem spellshaper mo¿e nauczyæ siê specjalnych zdolnoœci zwiêkszaj¹cych jego umiejêtnoœci bojowe, wliczaj¹c w to sztyletowanie, mistrzostwo w sztyletach, czy unikaln¹ zdolnoœæ walki dwoma broniami na raz bez ¿adnych przeszkód.
+Czarotwórca jest na tyle m¹dry by nie polegaæ ca³kowicie na swoich groŸnych i nieprzewidywalnych zdolnoœciach. Dzieli czas na æwiczenia mentalne i bojowe. Nie s¹ wojownikami, lecz ich zdolnoœci w walce wrêcz mo¿na porównaæ do tych prezentowanych przez z³odziei. Wraz z rozwojem Czarotwórca mo¿e nauczyæ siê specjalnych zdolnoœci zwiêkszaj¹cych jego umiejêtnoœci bojowe, wliczaj¹c w to sztyletowanie, mistrzostwo w sztyletach, czy unikaln¹ zdolnoœæ walki dwoma broniami na raz bez ¿adnych przeszkód.
 
-Jedn¹ z najbardziej ekscentrycznych cech charakterystycznych jest ta ¿e Spellshaper nie specjalizuje siê nigdy w broniach pociskowych; do walki dystansowej u¿ywa magii, a jeœli ta zawiedzie, preferuje walkê wrêcz.
+Jedn¹ z najbardziej ekscentrycznych cech charakterystycznych jest ta ¿e Czarotwórca nie specjalizuje siê nigdy w broniach strzeleckich; do walki dystansowej u¿ywa magii, a jeœli ta zawiedzie, preferuje walkê wrêcz.
 
 
 Zalety:		
--  Dzika Magia (Zmiana poziomu przy rzucaniu czarów ± 5)
+-  Dzika Magia (zmiana poziomu przy rzucaniu czarów +- 5)
 -  przyrost TRAK0 podobny do tego u ³otrzyków
 -  5 punktów wiedzy na poziom
 -  Umiejêtnoœæ Tkania Czarów
@@ -572,7 +582,7 @@ Zalety:
 -  Mo¿e siê nauczyæ kilku umiejêtnoœci do walki wrêcz
 		
 Wady:	
--  Dzika Magia (Zmiana poziomu przy rzucaniu czarów ± 5)
+-  Dzika Magia (zmiana poziomu przy rzucaniu czarów +- 5)
 -  5% szansy na Dzik¹ Falê
 -  Wolny postêp w poznawaniu czarów
 -  Mniej czarów/dzieñ ni¿ mag
@@ -582,10 +592,10 @@ Wady:
 -  Charakter musi byæ chaotyczny
 ~
 @40201 = ~Eksploduj¹ca czaszka~
-@40202 = ~Ta dziwna czaszka pewnej nocy pojawi³a siê w twoim ekwipunku. Dr¿y od magicznej energii. Móg³byœ siê za³o¿yæ ¿e wygl¹da tak samo jak ta pojawiaj¹ca siê przy rzucaniu czaru Eksploduj¹ca Czaszka. Jednak zamiast unoœiæ siê w powietrzu, le¿y ona sobie psokojnie w twojej kieszeni. Nie masz pojêcia dlaczego jeszcze nie wybuch³a jednak z jakiegoœ powodu ciê to cieszy. Najlepiej bêdzie jeœli rzucisz ni¹ w jakiegoœ ³ajdaka i to jak najszybciej...
+@40202 = ~Ta dziwna czaszka pewnej nocy pojawi³a siê w twoim ekwipunku. Dr¿y od magicznej energii. Móg³byœ siê za³o¿yæ ¿e wygl¹da tak samo jak ta pojawiaj¹ca siê przy rzucaniu czaru Eksploduj¹ca Czaszka. Jednak zamiast unosiæ siê w powietrzu, le¿y ona sobie spokojnie w twojej kieszeni. Nie masz pojêcia dlaczego jeszcze nie wybuch³a jednak z jakiegoœ powodu ciê to cieszy. Najlepiej bêdzie jeœli rzucisz ni¹ w jakiegoœ ³ajdaka i to jak najszybciej...
 
 PARAMETRY:
-Rzuca "Eksploduj¹c¹ Czaszkê" z efektem 12poziomowego maga
+Rzuca "Eksploduj¹c¹ Czaszkê" z efektem 12-poziomowego maga
 
 Nie mo¿e u¿ywaæ:
  Nie chaotyczne osoby
@@ -612,7 +622,7 @@ Nie mo¿e uzywaæ:
 
 Choæ ksi¹¿ka jest raczej w z³ym stanie - wyrwane kartki, szalone notatki pojawiaj¹ce siê wszêdzie, wci¹¿ promieniuje magiczn¹ moc¹. 
 
-Dobór czarów zawartych w ca³ej ksiêdze jest raczej niecodzienny, móg³byœ spróbowaæ siê naczyæ rzucania niektórych z nich.
+Dobór czarów zawartych w ca³ej ksiêdze jest raczej niecodzienny, móg³byœ spróbowaæ nauczyæ siê rzucania niektórych z nich.
 
 PARAMETRY:
  
@@ -622,15 +632,15 @@ Mo¿e u¿ywaæ:
 
 Choæ ksi¹¿ka jest raczej w z³ym stanie - wyrwane kartki, szalone notatki pojawiaj¹ce siê wszêdzie, wci¹¿ promieniuje magiczn¹ moc¹.  
 
-Ksiêga ta przypomina bardziej pamiêtnik lub notatnik ni¿ ksiêgê czarów. Rhialto z pewnoœci¹ by³ szaleñcem kiedy go spotka³eœ, lecz kidyœ musia³ byæ geniuszem; nie tylko wynalaz³ nowe czary, ale by³ te¿ opêtany nauk¹ nowej formy sposobu rzucania czarów, co najpierw sk³oni³o go do dzikiej magii, a nastêpnie szaleñstwa.
+Ksiêga ta przypomina bardziej pamiêtnik lub notatnik ni¿ ksiêgê czarów. Rhialto z pewnoœci¹ by³ szaleñcem kiedy go spotka³eœ, lecz kiedyœ musia³ byæ geniuszem; nie tylko wynalaz³ nowe czary, ale by³ te¿ opêtany nauk¹ nowej formy sposobu rzucania czarów, co najpierw sk³oni³o go do dzikiej magii, a nastêpnie szaleñstwa.
 
-Niektóre strony s¹ pokryte mistycznymi runami mogacymi wywo³aæ czary zapisane na kartach - wygodny sposób natychmiastowego rzucenia czarów bez koniecznoœci zapamiêtywania ich. Jedynie niewielka czêœæ czarów w ksiêdze posiada te runy, wygl¹da na to ¿e Rhialto znalaz³ inny sposób rzucania czarów bez zapamiêtywania ich.
+Niektóre strony s¹ pokryte mistycznymi runami mog¹cymi wywo³aæ czary zapisane na kartach - wygodny sposób natychmiastowego rzucenia czarów bez koniecznoœci zapamiêtywania ich. Jedynie niewielka czêœæ czarów w ksiêdze posiada te runy, wygl¹da na to ¿e Rhialto znalaz³ inny sposób rzucania czarów bez zapamiêtywania ich.
 
-Dobór czarów zawartych w ca³ej ksiêdze jest raczej niecodzienny, móg³byœ spróbowaæ siê naczyæ rzucania niektórych z nich.
+Dobór czarów zawartych w ca³ej ksiêdze jest raczej niecodzienny, móg³byœ spróbowaæ nauczyæ siê rzucania niektórych z nich.
 
 PARAMETRY:
 
-Mo¿e zostaæ urzyta raz dziennie do rzucenia jednego z nastêpuj¹cych czarów:
+Mo¿e zostaæ u¿yta raz dziennie do rzucenia jednego z nastêpuj¹cych czarów:
  Zbroja
  Tarcza Chaosu
  Rozproszenie magii
@@ -649,8 +659,8 @@ Dziki Mag~
 @50102 = ~Rhialto~
 @50111 = ~Dzika fala: rzucaj¹cy zamienia siê w wiewiórkê~
 @69998 = ~List~
-@69999 = ~Moje zycie Gorion,
+@69999 = ~Mój drogi przyjacielu Gorionie,
 
-Musisz ogladac panstwa wyjazd dobrze, poza mury Candlekeep prowadzi Hasardeur wokós. Nie sa nam znane jego intencje. Czy ma Pan Candlekeep bezpiecznie opuscic, zwrotu nie wrócic. 
+uwa¿aj podczas swojego wyjazdu, gdzieœ za œcianami Candlekeep przesiaduje dziki mag. Jego intencje s¹ nieznane; kiedy ju¿ opuœcisz twierdzê, lepiej natychmiast udaj siê na szlak.
 
 E.~

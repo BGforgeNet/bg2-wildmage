@@ -1,8 +1,8 @@
 @0 = ~Otwierasz ksiêgê czarów Rhialto po raz pierwszy. Panuje w niej niesamowity nie³ad, pe³no przypadkowych notatek, nieczytelnych zapisków i dziecinnych rysunków; ca³a jest wysmarowana krwi¹, ¿ó³ci¹ i czymœ innym czego nie mo¿esz (i nawet nie chcesz) zidentyfikowaæ. Co zadziwiaj¹ce, niektóre zapisane czary s¹ wci¹¿ czytelne.~
-@1 = ~Ponownie decydujesz siê na rzut oka w ksiêgê czarów Rhialto. Ostro¿nie rozdzielasz dwie karty zlepione ze sob¹, tylko po to by odkryæ paskudny rysunek starego mêdrca z d³ug¹ brod¹ i szpiczastym kapeluszem, który wygl¹da jakby siê wpatrywa³ z po¿¹daniem na coœ co wygl¹da jak spertyfikowany kozio³.~
+@1 = ~Ponownie decydujesz siê na rzut oka w ksiêgê czarów Rhialto. Ostro¿nie rozdzielasz dwie karty zlepione ze sob¹, tylko po to by odkryæ paskudny rysunek starego mêdrca z d³ug¹ brod¹ i szpiczastym kapeluszem, który wygl¹da jakby siê wpatrywa³ z po¿¹daniem na coœ co wygl¹da jak spetryfikowany kozio³.~
 @2 = ~Otwierasz ksiêgê na losowej stronie i zauwa¿asz notkê której przedtem najwyraŸniej tu nie by³o: "<CHARNAME>, trzymaj swoje brudne rêce z dala od mojej ksiêgi!"~
 @3 = ~Kiedy otwierasz ksiêgê czarów Rhialto jedna ze stron odkleja siê i wypada.~
-@4 = ~Ksiêga Rhialto wci¹¿ jest w strasznym nie³adzie i jego umys³ musia³ byæ podobny; Zastnawiasz siê czy takie samo szaleñstwo mo¿e dotkn¹æ i ciebie, je¿eli nie przestaniesz czytaæ jego zapisków.~
+@4 = ~Ksiêga Rhialto wci¹¿ jest w strasznym nie³adzie i jego umys³ musia³ byæ podobny; Zastawiasz siê czy takie samo szaleñstwo mo¿e dotkn¹æ i ciebie, je¿eli nie przestaniesz czytaæ jego zapisków.~
 @5 = ~Znów otwierasz ksiêgê czarów Rhialto, wci¹¿ jest w wielkim nie³adzie, ale z biegiem czasu zd¹¿y³eœ siê do tego przyzwyczaiæ.~
 @6 = ~Studiujesz dalej ksiêgê czarów Rhialto.~
 @7 = ~Mo¿e i Rhialto by³ szalony, lecz jego wiedza by³a rzeczywiœcie ogromna.~
@@ -16,8 +16,8 @@
 @15 = ~Nie znajdujesz nic nowego.~
 @16 = ~Próbujesz siê nauczyæ czaru, lecz jest zbyt trudny do opanowania, potrzebujesz wiêcej doœwiadczenia w Sztuce zanim bêdziesz siê go w stanie nauczyæ.~
 @17 = ~Zdo³a³eœ siê nauczyæ czaru.~
-@18 = ~Starasz sie skoncentrowaæ, lecz jak bardzo byæ nie by³ skupiony po przeczytaniu jednej linii natychmiast j¹ zapominasz; zupe³nie jakby ktoœ potê¿ny wymazywa³ to z Twojej pamiêci. Wydaje siê oczywiste ¿e ktoœ nie chce byœ pozna³ ten czar.~
-@19 = ~Zamknij ksiêgê.~
+@18 = ~Starasz siê skoncentrowaæ, lecz jak bardzo byæ nie by³ skupiony po przeczytaniu jednej linii natychmiast j¹ zapominasz; zupe³nie jakby ktoœ potê¿ny wymazywa³ to z Twojej pamiêci. Wydaje siê oczywiste ¿e ktoœ nie chce byœ pozna³ ten czar.~
+@19 = ~Zamykasz ksiêgê.~
 @20 = ~Spróbuj nauczyæ siê czaru "Losowy Czar I".~
 @21 = ~Spróbuj nauczyæ siê czaru "Przewód Chaosu Rhialto".~
 @22 = ~Spróbuj nauczyæ siê czaru "Przemiana w gryzonia".~
@@ -51,18 +51,18 @@
 @100 = ~No, no, no... Co my tu mamy? Witaj m³odzieñcze, bez w¹tpienia masz zaszczyt spotkaæ Rhialto Cudownego.~
 @101 = ~Ach tak, bêdziesz doskona³y. B¹dŸ zaszczycony, m³odzieñcze, gdy¿ twa egzystencja nagle zyska³a sens: Rhualto Cudowny potrzebuje twojej œledziony.~
 @102 = ~To bêdzie ostateczny sk³adnik do najwiêkszego czaru jaki zosta³ opracowany od czasu, có¿, od zawsze!!  Oczywiœcie musi byæ pozyskana gdy jeszcze ¿yjesz, w przeciwnym wypadku by³a by bezu¿yteczna jako sk³adnik.~
-@103 = ~Nie martw siê nie bêdzie bola³o za bardzo... Có¿, a przynajmniej nie potrwa d³ugo. Rhialto Cudowny jest doœwiadczonym chirurgiem, to zajmie tylko godzine lub dwie...~
-@110 = ~A wiêc spotykamy siê ponownie... Wyros³eœ na bardziej pewnego siebie od kiedy Rhialto Cudowny mia³ swój ma³y wypadek przy pracy. To znamienne ¿e ty, który spowodowa³eœ jego upadek przez swój bezczelny opór, przywracasz Rhialto spowrotem do ¿ycia.~
+@103 = ~Nie martw siê nie bêdzie bola³o za bardzo... Có¿, a przynajmniej nie potrwa d³ugo. Rhialto Cudowny jest doœwiadczonym chirurgiem, to zajmie tylko godzinê lub dwie...~
+@110 = ~A wiêc spotykamy siê ponownie... Wyros³eœ na bardziej pewnego siebie od kiedy Rhialto Cudowny mia³ swój ma³y wypadek przy pracy. To znamienne ¿e ty, który spowodowa³eœ jego upadek przez swój bezczelny opór, przywracasz Rhialto do ¿ycia.~
 @111 = ~Lecz by to zrobiæ musia³eœ przeczytaæ ksiêgê Rhialto. A ¿eby j¹ dostaæ musia³eœ wzi¹æ j¹ z jego trupa. Rhialto Cudowny nie lubi byæ dotykany!!~
 @200 = ~Wybierz Umiejêtnoœæ Specjaln¹
 ~
-@201 = ~Dwurêcznoœæ (1 stopieñ)~
-@202 = ~Dwurêcznoœæ (2 stopieñ)~
+@201 = ~Oburêcznoœæ (1 stopieñ)~
+@202 = ~Oburêcznoœæ (2 stopieñ)~
 @203 = ~Sztyletowanie (x2)~
 @204 = ~Sztyletowanie: Adept (x3)~
 @205 = ~Sztyletowanie: Ekspert (x4)~
 @206 = ~Sztyletowanie: Mistrz (x5)~
-@207 = ~Bojowa Prêdkoœæ~
+@207 = ~Prêdkoœæ Bojowa~
 @208 = ~Specjalizacja w Sztyletach~
 @209 = ~Mistrzostwo w Sztyletach~
 @210 = ~Ulepszone Trafienia krytyczne~
