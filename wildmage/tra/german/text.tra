@@ -34,63 +34,67 @@ Egal ob Du darüber nachdenkst diesen Zauber zu sprechen oder nicht, eines ist ge
 @20111 = ~Nachdem Du diesen seltsamen Zauber gesprochen hast, fühlst Du wie sich dein Magieverständnis verändert. Einst hast Du versucht das Chaos um dich herum zu erforschen und ihm Deinen Willen aufzuzwingen. Du hast die unberechenbaren Gezeitenströme der unbändigen Magie zu deinen Gunsten genutzt. Jetzt spürst Du eine intuitive Beziehung zur Magie, Du fühlst das du fähig bist das Gewebe der Magie aufzuwickeln, es umzuformen, es in neue Formen zu "weben", Formen die nur durch deine Vorstellungskraft beschränkt sind.~
 @20112 = ~Du fühlst aber auch, daß dieser Zauber mehr verändert hat als nur deine Magiefertigkeiten. Irgendwie fühlt es sich an, als ob der Zauber einen Teil deiner Seele befreit hat, der bisher tief in Dir verborgen war. Da ist ein bißchen mehr Individualismus, Toleranz, Neugier, aber auch etwas weniger Disziplin und Fleiß. Alles in allem fühlt es sich aber richtig an, als ob es schon immer so hätte sein sollen. Es ist nicht wirklich wie eine Veränderung, mehr wie ein Erwachen aus einem langen, langen Traum.~
 @20201 = ~Nager Form~
-@20202 = ~Nager Form* (Veränderung)
-Rang: 1
-Reichweite: 0
-Wirkungsdauer: 1 Phase
-Zeitaufwand: 1
-Wirkungsbereich: Der Zaubernde
-Rettungswurf; Nein
+@20202 = ~Rodent Form* (Alteration)
+Level: 1
+Range: 0
+Duration: 1 turn
+Casting Time: 1
+Area of Effect: The caster
+Saving Throw: None
 
-Dieser Zauber transformiert den Zaubernden in ein niedliches kleines Eichhörnchen. Bedingt durch den winzigen Körper des Nagers bekommt der Magier einen 2 Punkte Bonus auf die Rüstungsklasse gegen Nahkampfwaffen, und 4 Punkte gegen Fernwaffen. Anders als bei anderen Formwandelzaubern, behält der Magier seine Zauberfähigkeiten solange er in Nager Form ist.
+This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points, and additional 2 points against missile weapons. Move speed is also slightly increased. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.
 
-Theoretisch sollte die aktuelle Version dieses Zaubers weder die Persönlichkeit noch den Geisteszustand des Zaubernden verändern.~
+Hopefully, the current revision of this spell does NOT change the caster's personality or mentality.~
 @20211 = ~Einer meiner Zauber hat sich verändert!~
 @20212 = ~lernte neuen Zauber: Ratatosk Form~
 @20301 = ~Ratatosk Form~
-@20302 = ~Ratatosk Form* (Veränderung)
-Rang: 1
-Reichweite: 0
-Wirkungsdauer: 1 Phase
-Zeitaufwand: 1
-Wirkungsbereich: Der Zaubernde
-Rettungswurf; Nein
+@20302 = ~Ratatosk Shape* (Alteration)
+Level: 1
+Range: 0
+Duration: 1 turn
+Casting Time: 1
+Area of Effect: The caster
+Saving Throw: None
 
-Die Ratatosk sind eine Rasse intelligenter Eichhörnchen-Krieger deren Heimat Yggdrasil ist, die Welten Esche, der große göttliche Baum, dessen Zweige und Wurzeln alle Dimensionen umspannen.
+The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.
 
-Wenn dieser Zauber gewirkt wird, verwandelt sich der Magier in eines dieser kleinen Kerlchen. Bedingt durch den kleinen Körper der Ratatosk bekommt der Magier einen 3 Punkte Bonus auf die Rüstungsklasse gegen Nahkampfwaffen, und 5 Punkte gegen Fernwaffen. Zudem wird die Geschicklichkeit für die Dauer des Zaubers um vier Punkte erhöht. Rüstungsklassenboni die durch die Erhöhung des Geschicks erlangt werden, addieren sich zu denen die durch die Größe bedingt sind.
+Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points, and additional 2 points against missile weapons. Move speed is also slightly increased. On top of that, caster's dexterity is raised by four points. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.
 
-Der Magier erlangt zudem einige der Kampffertigkeiten der Ratatosk: Ein zusätzlicher Angriff pro Runde, und Pfoten die abgesehen vom Schadensbonus als +5 Waffen gewertet werden. Die Pfoten verursachen 1w4+1 Schadenspunkte.
+The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.
 
-Anders als bei anderen Formwandelzaubern, behält der Magier seine Zauberfähigkeiten solange dieser Zauber aktiv ist.~
+Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active.~
 @20401 = ~Zufälliger Zauber I~
-@20402 = ~Zufälliger Zauber I* (Hervorrufung)
-Rang: 1
-Reichweite: 40 Meter
-Wirkungsdauer: Augenblicklich
-Zeitaufwand: 1
-Wirkungsbereich: Speziell
-Rettungswurf: Speziell
+@20402 = ~Random Spell I* (Invocation/Evocation)
+Level: 1
+Range: 40 yards
+Duration: Instantaneous
+Casting Time: 1
+Area of Effect: Special
+Saving Throw: Special
 
-Dieser riskante Zauber benutzt das Chaos der unbändigen Magie um magische Energie in einen Zauber größerer Macht umzuformen, als der Hasardeur eigentlich wirken könnte. Zufälliger Zauber erzeugt einen Effekt der gleichwertig zu einem zufälligen Zauber des 2. oder 3. Rangs ist.
+This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.
 
-Der Magier wählt ein Wesen in einem Umkreis von 40 Metern aus, das dem Zauber als Ziel dient. Der erzeugte Sprucheffekt ist dann auf dieses Wesen zentriert, es sei den der Zauber wirkt sich nur auf den Zaubernden aus.
+In rare cases, an unstable magical energy outburst results in several random effects being created.
 
-Die Vorteile von Zufälliger Zauber sind der Zeitaufwand der immer 1 ist, die Reichweite, die 40 Meter beträgt, ungeachtet der eigentlichen Reichweite des duplizierten Zaubers, und die Tatsache daß der Hasardeur den Zauber weder in seinem Zauberbuch haben muss, noch überhaupt fähig sein muss ihn zu wirken. Die Schattenseite ist daß der Zaubernde keinerlei Information darüber hat, welcher Zauber dupliziert wird, nicht einmal ob der Effekt schädlich ist oder nicht.~
+The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+
+The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
 @20501 = ~Klingensturm~
-@20502 = ~Klingensturm* (Herbeirufung)
-Rang: 2
-Reichweite: 40 Meter
-Wirkungsdauer: 3 Runden/5 Stufen
-Zeitaufwand: 1
-Wirkungsbereich: 1-25 Wesen
-Rettungswurf: Speziell
+@20502 = ~Blade Shower* (Conjuration)
+Level: 2
+Range: 40 yards
+Duration: 3 rounds/5 levels
+Casting Time: 1
+Area of Effect: 1-25 creatures
+Saving Throw: Special
 
-Dieser Zauber erzeugt einen Satz magischer Wurfdolche, die mitten in der Luft schweben bis sie auf ihre Ziele abgefeuert werden. Für die Stufen 1-5 wird je ein Dolch erzeugt, und ein zusätzlicher Satz von 5 Dolchen für alle 5 Stufen, bis zu 25 Dolche bei Stufe 25. Jeder Satz Dolche muss auf einmal abgefeuert werden, wobei der Magier 1-5 Ziele auswählen kann. Die Dolche bestehen aus instabiler Chaosmaterie und lösen sich auf wenn der Zauber seine Wirkung verliert. Für jeden Satz an Dolchen der erschaffen wird, erhöht sich die Wirkungsdauer um weitere 3 Runden.
+The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.
 
-Jeder einzelne Dolch verursacht 1W4 Schadenspunkte. Ab der 5. Stufe werden die Dolche in Bezug auf Schadensbonus und ob ein Wesen verletzt werden kann als +1 Waffen angesehen. Dieser Bonus erhöht sich um eins, für alle fünf Stufen des Magiers: +2 ab Stufe 10, +3 ab Stufe 15, bis hin zum Maximum von +5 wenn die 25. Stufe erreicht ist.
+Each single dagger does 1d4 points of piercing damage. At level 5, the daggers get +1 damage bonus. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.
 
-Die Dolche, bestehend aus roher Chaosmasse, durchdringen jegliche physische oder magische Abwehr, und treffen somit immer ihr Ziel. Trotzdem muss der Magier für jeden einzelnen Dolch einen Trefferwurf machen, um einen kritischen Treffer oder Fehlschlag festzustellen. Bei einem kritischen Fehlschlag nimmt das Opfer keinerlei Schaden, bei einem kritischen Treffer wird der Schaden verdoppelt, und das Opfer muss einen Rettungswurf gegen Zauber bestehen oder steht für 5 Runden unter einem der folgenden Effekte: Stille, Verwirrung, Schrecken, Schlaf, Unbändige Magie.~
+The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.
+
+Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
 @20511 = ~"Klingensturm" wurde den Besonderen Fähigkeiten hinzugefügt~
 @20601 = ~Rhialtos Zufällige Geschosse~
 @20602 = ~Rhialtos Zufällige Geschosse* (Hervorrufung)
@@ -446,47 +450,53 @@ Dieser Zauber stört vorübergehend die Bindungen die den Körper des Opfers zusamm
 
 Wenn der Zauber auf ein Wesen gewirkt wird, muss es einen Rettungswurf gegen Zauber mit -5 Modifikator schaffen oder es wird verflüssigt. Schaft es den Rettungswurf nicht, erleidet das Wesen 1W20 Punkte Schock-Schaden und wird für 1 Runde pro Stufe des Zaubernden in eine schleimige Flüssigkeit verwandelt. Während dieser Zeit ist das Opfer bewußtlos und immun gegen alle Schadensformen ausser Magieschaden.~
 @22601 = ~Zufälliger Zauber II~
-@22602 = ~Zufälliger Zauber II* (Hervorrufung)
-Rang: 3
-Reichweite: 40 Meter
-Wirkungsdauer: Augenblicklich
-Zeitaufwand: 1
-Wirkungsbereich: Speziell
-Rettungswurf: Speziell
+@22602 = ~Random Spell II* (Invocation/Evocation)
+Level: 3
+Range: 40 yards
+Duration: Instantaneous
+Casting Time: 1
+Area of Effect: Special
+Saving Throw: Special
 
-Dies ist eine mächtigere version des 1. Rang Zaubers Zufälliger Zauber I. Zufälliger Zauber II erzeugt einen Effekt der gleichwertig zu einem zufälligen Zauber des 4. oder 5. Rangs ist.
+This is a more powerful version of the 1st level spell Random Spell I. Random spell II, when cast, creates an effect equal to a randomly selected spell of 4th or 5th level.
 
-Der Magier wählt ein Wesen in einem Umkreis von 40 Metern aus, das dem Zauber als Ziel dient. Der erzeugte Sprucheffekt ist dann auf dieses Wesen zentriert, es sei den der Zauber wirkt sich nur auf den Zaubernden aus.
+In rare cases, an unstable magical energy outburst results in several random effects being created.
 
-Die Vorteile von Zufälliger Zauber sind der Zeitaufwand der immer 1 ist, die Reichweite, die 40 Meter beträgt, ungeachtet der eigentlichen Reichweite des duplizierten Zaubers, und die Tatsache daß der Hasardeur den Zauber weder in seinem Zauberbuch haben muss, noch überhaupt fähig sein muss ihn zu wirken. Die Schattenseite ist daß der Zaubernde keinerlei Information darüber hat, welcher Zauber dupliziert wird, nicht einmal ob der Effekt schädlich ist oder nicht.~
+The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+
+The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
 @22701 = ~Zufälliger Zauber III~
-@22702 = ~Zufälliger Zauber III* (Hervorrufung)
-Rang: 5
-Reichweite: 40 Meter
-Wirkungsdauer: Augenblicklich
-Zeitaufwand: 1
-Wirkungsbereich: Speziell
-Rettungswurf: Speziell
+@22702 = ~Random Spell III* (Invocation/Evocation)
+Level: 5
+Range: 40 yards
+Duration: Instantaneous
+Casting Time: 1
+Area of Effect: Special
+Saving Throw: Special
 
-Entsprechend den Zaubern des 1. und 3. Rangs erzeugt Zufälliger Zauber III einen Effekt der gleichwertig zu einem zufälligen Zauber des 6. oder 7. Rangs ist.
+Similar to the 1st and 3rd level spells, Random Spell III creates an effect equal to a randomly selected spell of 6th or 7th level.
 
-Der Magier wählt ein Wesen in einem Umkreis von 40 Metern aus, das dem Zauber als Ziel dient. Der erzeugte Sprucheffekt ist dann auf dieses Wesen zentriert, es sei den der Zauber wirkt sich nur auf den Zaubernden aus.
+In rare cases, an unstable magical energy outburst results in several random effects being created.
 
-Die Vorteile von Zufälliger Zauber sind der Zeitaufwand der immer 1 ist, die Reichweite, die 40 Meter beträgt, ungeachtet der eigentlichen Reichweite des duplizierten Zaubers, und die Tatsache daß der Hasardeur den Zauber weder in seinem Zauberbuch haben muss, noch überhaupt fähig sein muss ihn zu wirken. Die Schattenseite ist daß der Zaubernde keinerlei Information darüber hat, welcher Zauber dupliziert wird, nicht einmal ob der Effekt schädlich ist oder nicht.~
+The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+
+The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
 @22801 = ~Zufälliger Zauber IV~
-@22802 = ~Zufälliger Zauber IV* (Hervorrufung)
-Rang: 7
-Reichweite: 40 Meter
-Wirkungsdauer: Augenblicklich
-Zeitaufwand: 1
-Wirkungsbereich: Speziell
-Rettungswurf: Speziell
+@22802 = ~Random Spell IV* (Invocation/Evocation)
+Level: 7
+Range: 40 yards
+Duration: Instantaneous
+Casting Time: 1
+Area of Effect: Special
+Saving Throw: Special
 
-Die mächtigste Version des Zufälligen Zaubers erzeugt einen Effekt der gleichwertig zu einem zufälligen Zauber des 8. oder 9. Rangs ist.
+The most powerful version of Random Spell creates an effect equal to a randomly selected spell of 8th or 9th level.
 
-Der Magier wählt ein Wesen in einem Umkreis von 40 Metern aus, das dem Zauber als Ziel dient. Der erzeugte Sprucheffekt ist dann auf dieses Wesen zentriert, es sei den der Zauber wirkt sich nur auf den Zaubernden aus.
+In rare cases, an unstable magical energy outburst results in several random effects being created.
 
-Die Vorteile von Zufälliger Zauber sind der Zeitaufwand der immer 1 ist, die Reichweite, die 40 Meter beträgt, ungeachtet der eigentlichen Reichweite des duplizierten Zaubers, und die Tatsache daß der Hasardeur den Zauber weder in seinem Zauberbuch haben muss, noch überhaupt fähig sein muss ihn zu wirken. Die Schattenseite ist daß der Zaubernde keinerlei Information darüber hat, welcher Zauber dupliziert wird, nicht einmal ob der Effekt schädlich ist oder nicht.~
+The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+
+The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
 @22901 = ~Unbändiges Feuer~
 @22902 = ~Unbändiges Feuer* (Hervorrufung)
 Rang: 9
@@ -544,21 +554,44 @@ Die Wirkungsdauer des Zaubers ist 5 Runden für jede Stufe des Zaubernden, bis hi
 @30301 = ~Zauber Formen~
 @30302 = ~Geformter Zauber~
 @40101 = ~Hand~
-@40102 = ~Als Sprücheweber hast Du die Fähigkeit erlangt, rohe magische Energie durch deine Hand zu leiten und in einen Zauberspruch umzuformen. Die Form die die magische Energie annehmen kann wird nur durch Deine Vorstellungskraft beschränkt. Einen Ring an dieser Hand zu tragen würde nicht nur deine Fingerfertigkeit beeinträchtigen, sondern auch den Fluss der Magie stören was deine Zauberfertigkeiten empfindlich stören würde.
+@40102 = ~As a Spellshaper you have the ability to release the raw magical energy of memorized spells and "weave" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.
 
 
-Hasardeur / Sprücheweber:
+SPELLSHAPER:
 
+The spellshaper is a practitioner of wild magic who casts his spells by virtue of raw magical talent or gift, as opposed to a wild mage's academic, systematic approach.
 
-Ähnlich wie der Hexenmeister hat auch der Sprücheweber ein intuitives Talent für das Magische. Er prägt sich seine Zauber genauso ein wie ein Zauberkundiger, kennt aber einen alternativen Weg Zauber zu wirken: Das intuitive Verständnis für das Magiegewebe erlaubt einem Sprücheweber rohe magische Energie nach Belieben umzuformen. Ein Sprücheweber kann die Energien seiner eingeprägten Sprüche freisetzen und daraus einen neuen Zauber "weben", ohne sich diesen im Voraus einprägen zu müssen. Dieses Talent ist allerdings alles andere als unfehlbar - es anzuwenden erfordert einiges an Glück und Unbekümmertheit. Personen die sich darauf spezialisiert haben, auf diese weise Magie zu wirken sind nicht allzu beliebt bei konservativen Magiern.
+Spellshapers share the sorcerer's intuitive understanding for arcane magic. They memorize spells like a wizard, yet have a second resource at their disposal: A Spellshaper has the ability to "weave" raw magic energy into spell effects of his desire, without need of preparing those spells ahead of time. This talent is anything but unfailing, and using it on a regular basis requires as much luck as recklessness. Persons who use such a talent aren't very popular among conservative spellcasters.
 
-Anders als der Hexenmeister kann der Sprücheweber neue Zauber von Schriftrollen lernen, und sie auf dieselbe Weise einprägen und wirken wie ein Zauberkundiger. Als geborene Opportunisten verzichten nur wenige Sprücheweber auf diese relativ verlässliche Methode Magie zu wirken. Konservatives Zaubern ist allerdings üblicherweise für die Art von Notfallzaubern reserviert, die unbedingt funktionieren müssen. Wann immer möglich greift ein Sprücheweber auf seine bequeme Methode zurück, Zauber je nach Bedarf zu wirken.
+Unlike the sorcerer, the spellshaper may learn spells from scrolls, and memorize and cast them like a wizard. Being opportunists at heart, rarely a spellshaper renounces this relative reliable way of working magic. It's usually reserved for those protective and last-resort spells that really need to work, though. The spellshaper's talent to cast spells spontaneously is so convenient that he prefers to use it whenever possible.
 
-Die Vernachlässigung der konservativen Magiemethodik und die Konzentration auf die chaotische unbändige Magie haben ihren Preis: Ein Sprücheweber kann sich bei weitem nicht so viele Zauber einprägen wie ein Zauberkundiger, und es dauert um einiges länger bis er Zugriff auf neue Magieränge bekommt.
+Neglecting conventional spellcasting, and focussing on chaotic wild magic doesn't come without a price: A spellshaper can't memorize as many spells as a true mage, and his progress in getting access to new spell levels is much slower.
 
-Die Mehrheit der Sprücheweber ist zudem etwas exzentrisch: Ihre disziplinlose Natur war es was sie ursprünglich dazu brachte, die althergebrachten Lehren der Zauberkundigen zu ignorieren und nach alternativen Magieformen zu suchen. Zudem hat der sehr intensive Kontakt mit Unbändiger Magie einen starken Einfluss auf die Persönlichkeit des Sprüchewebers. Ähnlich einem Barden hat der Sprücheweber viele Interessen, er lernt intuitiv ein bischen von allem was seinen Weg kreuzt, hat aber nicht die Disziplin diese Dinge so schnell und umfassend zu lernen wie eine zielgerichtetere Person.
+Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character.
 
-Entsprechend dieser Natur, und aus Notwendigkeit wegen seiner unzuverlässigen Magie, entwickeln Sprücheweber ein Talent für den Nahkampf. Er ist in keiner Weise ein Krieger, aber seine Fähigkeiten im Nahkampf entsprechen denen eines Diebes. Eines der vielleicht exzentrischten Charaktermerkmale eines Sprüchewebers ist, dass er jegliches Üben mit Fernwaffen verweigert. Im Laufe der Zeit kann der Sprücheweber Spezialfähigkeiten erlernen, die seine Nahkampftechniken noch weiter verbessern. Diese Fähigkeiten beinhalten hinterhältige Attacken, Meisterschaft im Umgang mit dem Dolch, und die einzigartige Fähigkeit zwei Waffen ohne jegliche Abzüge zu benutzen.~
+Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties.
+
+One of the spellshaper's more eccentric character-traits is that he refuses any training in the use of missile weapons; for ranged combat, a spellshaper uses magic, and if magic fails he prefers melee.
+
+Advantages:
+-  Wild Magic (Casting level varies up to +- 5)
+-  THAC0 advancement close to rogue
+-  5 lore rating per level
+-  Weave Spell ability
+-  Weaveshear ability
+-  Shape Spell ability
+-  May learn combat-related "feats"
+
+Disadvantages:
+-  Wild Magic (Casting level varies up to +- 5)
+-  5% Chance for Wild Surge
+-  Much slower spell progression
+-  Less wizard spell slots
+-  Can't raise the number of spell slots
+-  -5 to hit and -2 damage with missiles
+-  May wear only one ring
+-  Alignment must be chaotic
+~
 @40201 = ~Schädelbombe~
 @40202 = ~Dieser komische Schädel erschien eines Nachts in deinem Inventar. Er platzt beinahe, so vollgestopft ist er mit mystischer Energie. Jede Wette, dass dies das Resultat eines missratenen "Schwebender Schädel" Zaubers ist den irgendjemand irgendwo mal zaubern wollte. Anstatt auf das Ziel zu zufliegen wurde der Schädel in deinen Rucksack teleportiert. Keine Ahnung warum er noch nicht explodiert ist, aber zum Glück ist er's nicht. Am besten wirfst du den Schädel so schnell wie möglich auf jemanden der es wirklich verdient hat...
 

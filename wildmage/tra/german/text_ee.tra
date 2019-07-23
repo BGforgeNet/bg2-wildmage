@@ -1,56 +1,41 @@
-@40202 = ~Dieser komische Schädel erschien eines Nachts in deinem Inventar. Er platzt beinahe, so vollgestopft ist er mit mystischer Energie. Jede Wette, dass dies das Resultat eines missratenen "Schwebender Schädel" Zaubers ist den irgendjemand irgendwo mal zaubern wollte. Anstatt auf das Ziel zu zufliegen wurde der Schädel in deinen Rucksack teleportiert. Keine Ahnung warum er noch nicht explodiert ist, aber zum Glück ist er's nicht. Am besten wirfst du den Schädel so schnell wie möglich auf jemanden der es wirklich verdient hat...
+@40202 = ~This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...
 
-STATISTIK:
-Zaubert "Schwebender Schädel" wie ein Magier der 12. Stufe
+STATISTICS:
+Casts the spell "Skull Trap" at caster-level 12~
+@40404 = ~Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'
+The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.
 
-Nicht benutzbar von:
- Personen nicht-chaotischer Gesinnung
- Magierkiller~
-@40404 = ~Teddybär des Schutzes +2, +4 gg. Dämonen:  'Brummi der Tapfere'
-Der Teddybär des Schutzes würde vom Erzmagier Halycron Maeral für seinen kleinen Sohn erschaffen. Wer den Bär im Arm hält wird geschützt wie durch einen Ring des Schutzes +2.
+Although Halycron spent much time for his son's safety and education in the arts of magic, he neglected to teach him the necessary discipline and precautionary measures. At the age of six, Halycron's son accidentally summoned a demon while his parents weren't at home. When Halcroyn and his wive returned, the house was burned down, and the babysitter devoured by the demon. In midst of the ruins, they found their son cowering under an almost unscathed table, tightly holding his beloved teddy bear.
 
-Obwohl Halycron viel Zeit damit verbracht hat, seinen Sohn in die Kunst der Magie einzuführen, vernachlässigte er es, ihm auch die notwendigen Sicherheitsvorkehrungen beizubringen. Im Alter von sechs Jahren hat Halcyrons Sohn aus Versehen einen Dämon herbeigerufen, während seine Eltern nicht Zuhause waren. Als Halcyron und seine Frau zurückkehrten, war das Haus nur noch Schutt und Asche, und der Babysitter vom Dämonen verspeist. Inmitten der Ruinen fanden sie ihren Sohn, der sich unter einem praktisch unversehrten Tisch verkrochen hatte, seinen Lieblingsteddy eng umschlungen.
+STATISTICS:
 
-STATISTIK:
+Armor Class:  +2 bonus (+4 vs. Demons)
+Saving Throws:  +2 bonus (+4 vs. Demons)~
+@40502 = ~This spellbook once belonged to Rhialto "the Marvelous". You obtained it after his sudden demise.
 
-Rüstungsklasse:  +2 Bonus (+4 gg. Dämonen)
-Rettungswürfe:  +2 Bonus (+4 gg. Dämonen)
+Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.
 
-Nicht benutzbar von:
- Magierkiller~
-@40502 = ~Dieses Zauberbuch gehörte einst Rhialto "dem Fabelhaften". Du hast es nach seinem plötzlichen Ableben an Dich genommen.
+The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.~
+@40503 = ~This spellbook once belonged to Rhialto "the Marvelous". You obtained it after his sudden demise.
 
-Obwohl das Buch in ausserordentlich schlechtem Zustand ist - Alles voller Flecken, zerrissenen Seiten und blödsinnigem Gekritzel, strahlt es doch immer noch eine große Menge magischer Energie ab.
+Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.
 
-Die Auswahl an Zaubersprüchen in diesem Buch ist recht ungewöhnlich, vielleicht kannst Du einige dieser Zauber lernen.
+This book is as much a diary and a notebook as it is a spellbook. Although he clearly was a madman when you met him, Rhialto once must have been a genius; not only did he develop new spells, he also was obsessed with learning alternative ways of spellcasting, this is what led him to wild magic in the first place, and most likely caused his insanity in the end.
 
-STATISTIK:
+Some of the pages are covered with mystic runes that may be used to invoke the spells inscribed on these pages - a convenient way to cast those spells instantly without having to memorize them. Only a small selection of the spells is prepared like this, though; seems like Rhialto found other ways to cast spells on demand.
 
-Nur benutzbar durch:
- Hasardeur~
-@40503 = ~Dieses Zauberbuch gehörte einst Rhialto "dem Fabelhaften". Du hast es nach seinem plötzlichen Ableben an Dich genommen.
+The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.
 
-Obwohl das Buch in ausserordentlich schlechtem Zustand ist - Alles voller Flecken, zerrissenen Seiten und blödsinnigem Gekritzel, strahlt es doch immer noch eine große Menge magischer Energie ab.
+STATISTICS:
 
-Dieses Buch ist sowohl Zauberbuch als auch Tagebuch und Notizblock. Obwohl er ganz klar verrückt war, als Du ihn trafst, muss Rhialto doch einst ein Genie gewesen sein. Er hat nicht nur neue Zaubersprüche entwickelt, er war auch davon besessen, alternative Wege zu finden Magie zu wirken. Dies brachte ihn zum Studium der unbändigen Magie, und war am Ende wohl auch für seinen Wahnsinn verantwortlich.
-
-Einige Seiten dieses Buches sind mit mystischen Runen überzogen, die dazu genutzt werden können, die Zauber die sich auf diesen Seiten befinden sofort zu sprechen ohne sie sich vorher einprägen zu müssen. Allerdings wurde nur eine kleine Auswahl an Zaubern derartig vorbereitet - scheint so als ob Rhialto andere Wege gefunden hat, seine Zauber je nach Bedarf zu wirken.
-
-Die Auswahl an Zaubersprüchen in diesem Buch ist recht ungewöhnlich, vielleicht kannst Du einige dieser Zauber lernen.
-
-STATISTIK:
-
-Kann einmal pro Tag benutzt werden, um einen der folgenden Zauber zu wirken:
- Panzer
- Chaosschild
- Magie Bannen
- Freundschaft
- Gymlainacs Lichtbrechung
- Schrecken
- Unsichtbarkeit
- Larlochs Geringerer Lebenskraftentzug
- Rhialtos Zufällige Geschosse
- Zauberauge
-
-Nur benutzbar durch:
- Hasardeur~
+May be used once per day to cast one of the following spells:
+ Armor
+ Chaos Shield
+ Dispel Magic
+ Friends
+ Gymlainac's Lightbend
+ Horror
+ Invisibility
+ Larloch's Minor Drain
+ Rhialto's Random Missiles
+ Wizard Eye~
