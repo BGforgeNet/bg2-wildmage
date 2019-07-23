@@ -1,3 +1,6 @@
+translation:
+  tra_dir: wildmage/tra
+
 golem:
   mod_dir: wildmage
   platforms:
