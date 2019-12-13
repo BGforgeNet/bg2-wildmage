@@ -6,3 +6,4 @@ golem:
   platforms:
     - tob_fixpack
     - bgee
+  happy: true
