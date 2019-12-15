@@ -4,6 +4,6 @@ translation:
 golem:
   mod_dir: wildmage
   platforms:
-    - tob_fixpack
+    - tob
     - bgee
   happy: true
