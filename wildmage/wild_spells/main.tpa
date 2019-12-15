@@ -1,9 +1,3 @@
-ACTION_IF GAME_IS ~bgee~ BEGIN
-  OUTER_PATCH 1 BEGIN
-    PATCH_FAIL ~test error~
-  END
-END
-
 OUTER_SPRINT comp_dir ~%MOD_FOLDER%/wild_spells~
 
 //Rhialto appearance
