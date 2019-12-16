@@ -2,6 +2,7 @@
 <a href="https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/">
 <img src="https://tra.bgforge.net/widgets/infinity-engine/-/wild-mage-additions/svg-badge.svg" alt="Translation status" />
 </a>
+[![Build Status](https://golem.bgforge.net/mods/wild-mage-additions/status.svg)](https://golem.bgforge.net/mods/wild-mage-additions/status.svg)
 
 [__Download__](https://github.com/BGforgeNet/bg2-wildmage/releases/latest)
  | [__Support__](#support)
