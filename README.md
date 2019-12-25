@@ -9,6 +9,7 @@
  | [__Help translating__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
 
 This mod expands on Wild Magic and Wild Mages. Fixed version, based on [original by JOG](http://mods.jo-ge.net/bg/shaper.htm).
+It's designed for BG series. It might work on other IE games, but that's untested.
 
 **Work in progress**.
 
