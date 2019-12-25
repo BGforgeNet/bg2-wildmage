@@ -367,18 +367,15 @@ COPY ~%comp_dir%/spl/wm_armor.spl~  ~override/wm_armor.spl~    // Wizard Spell: 
 //--------------------------------------------------------------------------
 //               Items
 //--------------------------------------------------------------------------
-// bear bam is missing a frame in BG:EE, using a copy from BG2
-ACTION_IF GAME_IS ~bgee~ BEGIN
-  COPY ~%comp_dir%/bam/wm_bear.bam~ ~override~
-END
+// bear bam is missing a frame in EEs
+COPY ~%comp_dir%/bam/wm_bear.bam~ ~override~
 COPY ~%comp_dir%/itm/wm_bear.itm~  ~override/wm_bear.itm~    // "Teddy Bear of Protection"
   SAY NAME1 @40401
   SAY UNIDENTIFIED_DESC @40402
   SAY NAME2 @40403
   SAY DESC @40404
-  PATCH_IF GAME_IS ~bgee~ BEGIN // bear bam is missing a frame in BG:EE, using a copy from BG2
-    WRITE_ASCII_TERMINATE 0x3a ~wm_bear~
-  END
+  WRITE_ASCII_TERMINATE 0x3a ~wm_bear~
+
 
 //------------------------------------------------------
 //   Spellbook "Talking Item" with dialogue
