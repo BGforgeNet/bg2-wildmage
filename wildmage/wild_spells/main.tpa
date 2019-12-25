@@ -104,6 +104,10 @@ COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the 
 COPY ~%comp_dir%/cre/wm_rhia2.cre~    ~override/wm_rhia2.cre~    // Rhialto the squirrel
   SAY NAME1 @50101
   SAY NAME2 @50102
+//BG:EE doesn't ship hunter.bcs
+ACTION_IF NOT FILE_EXISTS_IN_GAME ~hunter.bcs~ BEGIN
+  COPY ~%comp_dir%/bcs/hunter.bcs~ ~override~
+END
 
 COPY ~%comp_dir%/spl/wm_rhia1.spl~    ~override/wm_rhia1.spl~    // Rhialto's special Vortex
   SAY NAME1 @21101
