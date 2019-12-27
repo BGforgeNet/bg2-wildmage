@@ -1027,6 +1027,18 @@ msgstr ""
 "\n"
 "Czas trwania czaru wynosi 3 rundy na poziomie 10  i dodatkowo jedną rundę co drugi dodatkowy poziom, aż do maksymalnie 15 rund na poziomie 34. Mag nie może się w trakcie trwania czaru poruszać, nie może także przerwać czaru, nawet jeśli całkowicie utracił kontolę nad wirem."
 
+#. LEAVE empty space in translation
+#: text.tra:21103
+msgctxt "wizeye01"
+msgid " "
+msgstr ""
+
+#. LEAVE empty space in translation
+#: text.tra:21104
+msgctxt "wizeye02"
+msgid " "
+msgstr ""
+
 #: text.tra:21201
 msgid "Paithan's Lucky Streak"
 msgstr "Promień Szczęścia Paithana"

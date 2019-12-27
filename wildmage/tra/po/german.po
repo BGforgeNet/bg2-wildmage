@@ -1084,6 +1084,18 @@ msgstr ""
 "\n"
 "Die Wirkungsdauer ist 3 Runden bis zu Stufe 10 plus eine Runde für jede Stufe darüber, bis hin zu 15 Runden bei Stufe 34. Der Zaubernde ist für die gesamte Dauer des Zaubers fest an die Stelle gebannt. Es besteht keine Möglichkeit diesen Effekt vorzeitig zu unterbrechen, selbst wenn der Zaubernde vollständig die Kontrolle über den Wirbel verloren hat."
 
+#. LEAVE empty space in translation
+#: text.tra:21103
+msgctxt "wizeye01"
+msgid " "
+msgstr ""
+
+#. LEAVE empty space in translation
+#: text.tra:21104
+msgctxt "wizeye02"
+msgid " "
+msgstr ""
+
 #: text.tra:21201
 msgid "Paithan's Lucky Streak"
 msgstr "Paithans Glückssträhne"
