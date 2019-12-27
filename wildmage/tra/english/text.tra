@@ -322,7 +322,8 @@ The vortex is composed of raw magical energy. Once per round, all creatures clos
 
 The duration of the spell is 3 rounds at level 10, plus one round for each additional level - up to 15 rounds at level 34. The caster is held immobile for the whole duration of the spell; he can't cancel it, even when he completely lost control over the vortex.~
 
-
+@21103 = ~~ [wizeye01]
+@21104 = ~~ [wizeye02]
 
 
 // -----------------------------------

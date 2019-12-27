@@ -224,6 +224,17 @@ COPY ~%comp_dir%/spl/wm_vortx.spl~  ~override/wm_vortx.spl~    // Wizard Spell: 
 COPY ~%comp_dir%/spl/wm_vortx.cre~  ~override/wm_vortx.cre~
   SAY NAME1 @21101
   SAY NAME2 @21101
+  SAY INITIAL_MEETING @21103
+  SAY DAMAGE @21103
+  SAY DYING  @21104
+  SAY SELECT_COMMON1 @21103
+  SAY SELECT_COMMON2 @21104
+  SAY SELECT_ACTION1 @21103
+ACTION_FOR_EACH sound IN wizeye01 wizeye02 BEGIN
+  ACTION_IF NOT FILE_EXISTS_IN_GAME ~%sound%.wav~ BEGIN
+    COPY ~%comp_dir%/wav/%sound%.wav~ ~override~
+  END
+END
 
 COPY ~%comp_dir%/spl/wm_luck.spl~  ~override/wm_luck.spl~    // Wizard Spell: Paithan's Lucky Streak
   SAY NAME1 @21201
