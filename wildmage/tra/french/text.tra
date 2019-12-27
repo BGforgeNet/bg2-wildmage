@@ -194,6 +194,8 @@ Le lanceur de sorts peut déplacer le vortex de 20 mètres par round. Cependant, l
 Le Vortex est composé d'énergie magique brute. Une fois par round, toutes les créatures à proximité du vortex subissent 2d6 points de dégâts de chaque type : contondant, électrique, magique. Les créatures concernées ont droit à un jet de sauvegarde contre les sorts pour ne subir que la moitié des dégâts.
 
 Le sort dure 3 rounds au niveau 10, plus un round pour chaque tranche supplémentaire de deux niveaux de Tisseur de Sorts, avec un maximum de 15 rounds au niveau 34. Le lanceur de sorts est maintenu immobile durant toute la durée du sort ; il ne peut l'annuler, même s'il perd complètement le contrôle du vortex.~
+@21103 = ~~ [wizeye01]
+@21104 = ~~ [wizeye02]
 @21201 = ~Veine Chanceuse de Paithan~
 @21202 = ~Veine Chanceuse de Paithan* (Enchantement/Charme)
 Niveau : 5

@@ -195,6 +195,8 @@ Der Wirbel kann mit einer Geschwindigkeit von ca. 20 Meter pro Runde bewegt werd
 Der Wirbel besteht aus roher magischer Energie. Einmal pro Runde fügt er jedem Wesen in seiner Nähe 2W6 punkte an Lähmungs-, Blitz-, und Magieschaden zu. Schafft ein betroffenes Wesen einen Rettungswurf gegen Zauber wird der Schaden halbiert.
 
 Die Wirkungsdauer ist 3 Runden bis zu Stufe 10 plus eine Runde für jede Stufe darüber, bis hin zu 15 Runden bei Stufe 34. Der Zaubernde ist für die gesamte Dauer des Zaubers fest an die Stelle gebannt. Es besteht keine Möglichkeit diesen Effekt vorzeitig zu unterbrechen, selbst wenn der Zaubernde vollständig die Kontrolle über den Wirbel verloren hat.~
+@21103 = ~~ [wizeye01]
+@21104 = ~~ [wizeye02]
 @21201 = ~Paithans Glückssträhne~
 @21202 = ~Paithans Glückssträhne* (Bezauberung/Verzauberung)
 Rang: 5
