@@ -1,0 +1,4 @@
+[submodule "lib/ielib"]
+	path = lib/ielib
+	url = https://github.com/BGforgeNet/BGforge-MLS-IElib.git
+	branch = master
