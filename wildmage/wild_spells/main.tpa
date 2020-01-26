@@ -358,6 +358,35 @@ COPY ~%comp_dir%/spl/wm_horde.spl~  ~override/wm_horde.spl~     // Wizard Spell:
 COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Corporeal Instability
   SAY NAME1 @22501
   SAY UNIDENTIFIED_DESC @22502
+  // Poison res is not a native cre stat, see iesdp. Adding separately.
+  FOR (h=1; h<=20; h++) BEGIN
+    duration = h * 6 // 1 round/level
+    probability1 = 99
+    header = h
+    target = TARGET_eff_self
+    timing = TIMING_permanent
+    resist_dispel = DISPEL_no_MR_BYPASS_yes
+    PATCH_FOR_EACH strref IN 14017 14662 BEGIN // Poison, Poisoned
+      LPF ADD_SPELL_EFFECT BEGIN
+        INT_VAR  // vars should be inherited
+          opcode = OPCODE_protection_from_display_specific_string
+          parameter1 = strref
+      END
+    END
+    PATCH_FOR_EACH icon IN ICON_poisoned ICON_bleeding BEGIN
+      LPF ADD_SPELL_EFFECT BEGIN
+        INT_VAR
+          opcode = OPCODE_prevent_special_effect_icon
+          parameter1 = icon
+      END
+    END
+    // actual poison immunity
+    LPF ADD_SPELL_EFFECT BEGIN
+      INT_VAR
+        opcode = OPCODE_protection_from_opcode
+        parameter2 = OPCODE_poison
+    END
+  END
 
 COPY ~%comp_dir%/spl/wm_rnd2.spl~  ~override/wm_rnd2.spl~    // Wizard Spell: Random Spell II
   SAY NAME1 @22601
@@ -419,10 +448,8 @@ COPY_EXISTING_REGEXP GLOB ~^wm_.+\.spl$~ ~override~
     PHP_EACH fx_array AS int => fx_off BEGIN
       READ_BYTE (fx_off + 0x12) fx_prob2
       PATCH_IF fx_prob2 == 100 BEGIN
-//        PATCH_PRINT ~probability 2 is %fx_prob2%, correcting to 99~
         WRITE_BYTE (fx_off + 0x12) 99
       END
     END
-//  PATCH_PRINT ~spell is %SOURCE_FILE%~
   END
 BUT_ONLY
