@@ -79,8 +79,8 @@ Like dozens of other wizards in the game, you now can target any nearby place yo
 - In pansy mode, Rhialto is in the actual Candlekeep area, not in the area where Gorion is killed.
 
 ### Report issues
-- Check "not bugs/known issues" below.
-- Check [reported issues](https://github.com/BGforgeNet/bg2-wildmage/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- Check [not bugs/known issues](#not-bugsknown-issues).
+- Check [reported issues](https://github.com/BGforgeNet/bg2-wildmage/issues?utf8=%E2%9C%93&q=is%3Aissue).
 - If it's not present there, file a new one.
 
 #### Not bugs/known issues
