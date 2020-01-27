@@ -359,32 +359,52 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
   SAY NAME1 @22501
   SAY UNIDENTIFIED_DESC @22502
   // Poison res is not a native cre stat, see iesdp. Adding separately.
-  FOR (h=1; h<=20; h++) BEGIN
+  FOR (h=1; h<=20; h=h+1) BEGIN
     duration = h * 6 // 1 round/level
-    probability1 = 99
-    header = h
-    target = TARGET_eff_self
-    timing = TIMING_permanent
-    resist_dispel = DISPEL_no_MR_BYPASS_yes
+    savebonus = "-5"  //you can't just say -5?
     PATCH_FOR_EACH strref IN 14017 14662 BEGIN // Poison, Poisoned
-      LPF ADD_SPELL_EFFECT BEGIN
-        INT_VAR  // vars should be inherited
+      LPF ADD_SPELL_EFFECT
+        INT_VAR
           opcode = OPCODE_protection_from_display_specific_string
+          duration = duration // I thought vars are inherited properly, but apparently not?
           parameter1 = strref
+          probability1 = 99
+          header = h
+          power = 4
+          target = TARGET_eff_preset
+          resist_dispel = DISPEL_no_BYPASS_MR_yes
+          savingthrow = SAVINGTHROW_SPELL
+          savebonus = savebonus
       END
     END
     PATCH_FOR_EACH icon IN ICON_poisoned ICON_bleeding BEGIN
-      LPF ADD_SPELL_EFFECT BEGIN
+      LPF ADD_SPELL_EFFECT
         INT_VAR
           opcode = OPCODE_prevent_special_effect_icon
-          parameter1 = icon
+          duration = duration
+          parameter2 = EVAL ~%icon%~ // is there a way to do this without an implicit EVAL?
+          probability1 = 99
+          header = h
+          power = 4
+          target = TARGET_eff_preset
+          resist_dispel = DISPEL_no_BYPASS_MR_yes
+          savingthrow = SAVINGTHROW_SPELL
+          savebonus = savebonus
       END
     END
     // actual poison immunity
-    LPF ADD_SPELL_EFFECT BEGIN
+    LPF ADD_SPELL_EFFECT
       INT_VAR
         opcode = OPCODE_protection_from_opcode
         parameter2 = OPCODE_poison
+        duration = duration
+        probability1 = 99
+        header = h
+        power = 4
+        target = TARGET_eff_preset
+        resist_dispel = DISPEL_no_BYPASS_MR_yes
+        savingthrow = SAVINGTHROW_SPELL
+        savebonus = savebonus
     END
   END
 
