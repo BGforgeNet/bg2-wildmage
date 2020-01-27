@@ -373,7 +373,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
           power = 4
           target = TARGET_eff_preset
           resist_dispel = DISPEL_no_BYPASS_MR_yes
-          savingthrow = SAVINGTHROW_SPELL
+          savingthrow = SAVINGTHROW_spell
           savebonus = savebonus
       END
     END
@@ -388,7 +388,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
           power = 4
           target = TARGET_eff_preset
           resist_dispel = DISPEL_no_BYPASS_MR_yes
-          savingthrow = SAVINGTHROW_SPELL
+          savingthrow = SAVINGTHROW_spell
           savebonus = savebonus
       END
     END
@@ -403,7 +403,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
         power = 4
         target = TARGET_eff_preset
         resist_dispel = DISPEL_no_BYPASS_MR_yes
-        savingthrow = SAVINGTHROW_SPELL
+        savingthrow = SAVINGTHROW_spell
         savebonus = savebonus
     END
   END
