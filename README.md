@@ -2,11 +2,12 @@
 
 [![Translation status](https://tra.bgforge.net/widgets/infinity-engine/-/wild-mage-additions/svg-badge.svg)](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
 [![Build Status](https://golem.bgforge.net/mods/wild-mage-additions/status.svg)](https://golem.bgforge.net/mods/wild-mage-additions)
+[![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 
 [__Download__](https://github.com/BGforgeNet/bg2-wildmage/releases/latest)
- | [__Support__](#support)
- | [__Discussion__](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
- | [__Help translating__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
+ | [__Discuss__](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
+ | [__Translate__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
+ | [__Report issues__](#report-issues)
 
 This mod expands on Wild Magic and Wild Mages. Fixed version, based on [original by JOG](http://mods.jo-ge.net/bg/shaper.htm).
 It's designed for BG series. It might work on other IE games, but that's untested.
@@ -77,8 +78,8 @@ Like dozens of other wizards in the game, you now can target any nearby place yo
   - spread, run, shoot
 - In pansy mode, Rhialto is in the actual Candlekeep area, not in the area where Gorion is killed.
 
-### Support
-- Check known issues below.
+### Report issues
+- Check "not bugs/known issues" below.
 - Check [reported issues](https://github.com/BGforgeNet/bg2-wildmage/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - If it's not present there, file a new one.
 
