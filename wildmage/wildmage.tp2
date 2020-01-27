@@ -20,7 +20,7 @@ ALWAYS
     END
     LOAD_TRA ~%MOD_FOLDER%/tra/%LANGUAGE%/text_ee.tra~
   END
-  INCLUDE ~%MOD_FOLDER%/lib/ielib/main.tpa~
+  INCLUDE ~%MOD_FOLDER%/lib/bgforge/main.tpa~
 END
 
 LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/tra/english/text.tra~ ~%MOD_FOLDER%/tra/english/setup.tra~

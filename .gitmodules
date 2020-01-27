@@ -1,4 +1,4 @@
 [submodule "lib/ielib"]
-	path = wildmage/lib/ielib
+	path = wildmage/lib/bgforge
 	url = https://github.com/BGforgeNet/BGforge-MLS-IElib.git
 	branch = master
