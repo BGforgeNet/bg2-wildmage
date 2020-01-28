@@ -382,7 +382,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
         INT_VAR
           opcode = OPCODE_prevent_special_effect_icon
           duration = duration
-          parameter2 = EVAL icon //how do you like THIS Elon Musk?
+          parameter2 = EVAL ~%icon%~ //how do you like THIS Elon Musk?
           probability1 = 99
           header = h
           power = 4
