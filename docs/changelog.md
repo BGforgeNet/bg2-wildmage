@@ -12,6 +12,10 @@
   - made sure it has sounds on BGEE.
 - Corporeal instability: added missing poison immunity.
 - Some translations updated.
+- Changed Rhialto weapons to +1, to make sure he ahas them in BG1.
+- Added squirrel script missing in BGEE.
+- Ensured that special vortex never fails, so that Rhialto TURNS.
+- Addded few more Larlochs to the fight so that Rhialto turns finally.
 
 ### Version 2.beta3
 - Better EE compatibility with `HANDLE_CHARSETS`.
