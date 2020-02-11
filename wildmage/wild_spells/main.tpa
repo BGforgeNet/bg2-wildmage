@@ -371,7 +371,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
           probability1 = 99
           header = h
           power = 4
-          target = TARGET_eff_preset
+          target = TARGET_EFFECT_preset
           resist_dispel = DISPEL_no_BYPASS_MR_yes
           savingthrow = SAVINGTHROW_spell
           savebonus = savebonus
@@ -386,7 +386,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
           probability1 = 99
           header = h
           power = 4
-          target = TARGET_eff_preset
+          target = TARGET_EFFECT_preset
           resist_dispel = DISPEL_no_BYPASS_MR_yes
           savingthrow = SAVINGTHROW_spell
           savebonus = savebonus
@@ -401,7 +401,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
         probability1 = 99
         header = h
         power = 4
-        target = TARGET_eff_preset
+        target = TARGET_EFFECT_preset
         resist_dispel = DISPEL_no_BYPASS_MR_yes
         savingthrow = SAVINGTHROW_spell
         savebonus = savebonus
