@@ -54,7 +54,7 @@ COMPILE EVAL ~%comp_dir%/baf/wm_rhia1.baf~
 COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the Marvelous
   SAY NAME1 @50101
   SAY NAME2 @50102
-  WRITE_LONG 0x14 rhia_xp //see pansy switch earlier
+  WRITE_LONG CRE_XP_value rhia_xp //see pansy switch earlier
 
   ADD_MEMORIZED_SPELL ~spwi105~ #0 ~wizard~
   ADD_MEMORIZED_SPELL ~spwi112~ #0 ~wizard~
@@ -117,7 +117,9 @@ COPY ~%comp_dir%/spl/wm_rhia1.spl~    ~override/wm_rhia1.spl~    // Rhialto's sp
   SAY NAME1 @21101
   SAY UNIDENTIFIED_DESC @21102
   SAY 0x9e @50111
-  WRITE_LONG 0x18 (THIS BOR BIT14 BOR BIT15) //never actually surge, don't fail, otherwise Rhialto might not turn into squirrel... again
+  //never actually surge, don't fail, otherwise Rhialto might not turn into squirrel... again
+  WRITE_LONG SPL_flags (THIS BOR FLAG_SPL_ignore_dead_wild_magic BOR FLAG_SPL_ignore_wild_surge)
+
 
 COPY ~%comp_dir%/spl/wm_glph.spl~    ~override/wm_glph.spl~    // Rhialto's Hostile Glyph of WM
   SAY NAME1 @20701
@@ -186,13 +188,13 @@ COPY ~%comp_dir%/spl/wm_bld1.spl~  ~override/wm_bld1.spl~
     GET_OFFSET_ARRAY2 fx_array ab_off SPL_V10_HEAD_EFFECTS
     PHP_EACH fx_array AS int => fx_off BEGIN
       READ_SHORT fx_off fx_opcode
-      PATCH_IF fx_opcode = 12 BEGIN //damage
-        WRITE_BYTE (fx_off+3) 10 //power
+      PATCH_IF fx_opcode = OPCODE_hp_damage BEGIN
+        WRITE_BYTE (fx_off+OFFSET_power) 10
       END
     END
   END
-  WRITE_SHORT 0x18 (THIS BOR 0b1100000000000000) //ignore spell failure and wild surge, only need second byte
-
+  //ignore spell failure and wild surge, only need second byte
+  WRITE_SHORT SPL_flags (THIS BOR FLAG_SPL_ignore_dead_wild_magic BOR FLAG_SPL_ignore_wild_surge)
 
 COPY ~%comp_dir%/spl/wm_miss.spl~  ~override/wm_miss.spl~    // Wizard Spell: Rhialto's Random Missiles
   SAY NAME1 @20601
@@ -466,9 +468,9 @@ COPY_EXISTING_REGEXP GLOB ~^wm_.+\.spl$~ ~override~
   PHP_EACH ab_array AS int => ab_off BEGIN
     GET_OFFSET_ARRAY2 fx_array ab_off SPL_V10_HEAD_EFFECTS
     PHP_EACH fx_array AS int => fx_off BEGIN
-      READ_BYTE (fx_off + 0x12) fx_prob2
-      PATCH_IF fx_prob2 == 100 BEGIN
-        WRITE_BYTE (fx_off + 0x12) 99
+      READ_BYTE (fx_off + OFFSET_probability1) fx_prob1
+      PATCH_IF fx_prob1 == 100 BEGIN
+        WRITE_BYTE (fx_off + OFFSET_probability1) 99
       END
     END
   END
