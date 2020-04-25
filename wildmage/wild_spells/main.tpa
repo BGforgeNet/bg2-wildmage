@@ -367,7 +367,7 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
     PATCH_FOR_EACH strref IN 14017 14662 BEGIN // Poison, Poisoned
       LPF ADD_SPELL_EFFECT
         INT_VAR
-          opcode = OPCODE_protection_from_display_specific_string
+          opcode = OPCODE_text_protection_from_display_specific_string
           duration = duration // I thought vars are inherited properly, but apparently not?
           parameter1 = strref
           probability1 = 99
