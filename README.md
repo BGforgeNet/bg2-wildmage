@@ -5,14 +5,12 @@
 [![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 
 [__Download__](https://github.com/BGforgeNet/bg2-wildmage/releases/latest)
- | [__Discuss__](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
- | [__Translate__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
- | [__Report issues__](#report-issues)
+| [__Discuss__](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
+| [__Translate__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
+| [__Report issues__](#report-issues)
 
 This mod expands on Wild Magic and Wild Mages. Fixed version, based on [original by JOG](http://mods.jo-ge.net/bg/shaper.htm).
 It's designed for BG series. It might work on other IE games, but that's untested.
-
-**Work in progress**.
 
 - Components
   - [New wild magic spells](#new-wild-magic-spells)
@@ -38,7 +36,7 @@ On Ironman, to meet the mage, rest outdoors. You can also rest in an inn and lea
 On haugthy pansy (available in BG1 only), the mage will be waiting outside Candlekeep's walls.
 
 ### Retain Rhialto's inventory
-Certain items are available to the player only if Rhialto is killed fast enough. This component removes that restriction and lets you have all the loot.
+Certain items are available to the player only if Rhialto is killed fast enough. This component removes that restriction and lets you have all the loot (which might be cheaty/overpowered, depending on your taste).
 
 ### Spellshaper kit
 - [Original avatar](#original-avatar)

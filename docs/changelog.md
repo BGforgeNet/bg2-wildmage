@@ -30,7 +30,7 @@
 - Allowed to be installed on EE (including IWD:EE).
 - Made MacOS/Linux friendly.
 - Combined some components to simplify installation.
-- Preserved teddy bear upon BG1>BG2 transition.
+- Preserve teddy bear upon BG1>BG2 transition.
 - Fixed Rodent/Ratatosk shape: power, dispell/bypass, AC bonus, paw enchantment, description.
 - Fixed Random spell X description.
 - Fixed Rhialto's spell slots/levels.
