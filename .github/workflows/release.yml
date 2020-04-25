@@ -1,9 +1,22 @@
 # Author: AL|EN
 # Email: alienquake@hotmail.com
+
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+      - "v*"
+
 jobs:
+  tagged-release:
+    name: "Tagged Release"
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+
   CreateIEModZipPackagesUploadToPublishedRelease:
     runs-on: ubuntu-latest
     steps:
