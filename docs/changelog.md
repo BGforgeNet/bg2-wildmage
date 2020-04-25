@@ -16,6 +16,7 @@
 - Added squirrel script missing in BGEE.
 - Ensured that special vortex never fails, so that Rhialto TURNS.
 - Addded few more Larlochs to the fight so that Rhialto turns finally.
+- Finally, should be fully EE-compatible.
 
 ### Version 2.beta3
 - Better EE compatibility with `HANDLE_CHARSETS`.
