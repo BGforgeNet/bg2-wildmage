@@ -189,7 +189,7 @@ COPY ~%comp_dir%/spl/wm_bld1.spl~  ~override/wm_bld1.spl~
     PHP_EACH fx_array AS int => fx_off BEGIN
       READ_SHORT fx_off fx_opcode
       PATCH_IF fx_opcode = OPCODE_hp_damage BEGIN
-        WRITE_BYTE (fx_off + FEATURE_power) 10
+        WRITE_BYTE (fx_off + FX_power) 10
       END
     END
   END
@@ -373,9 +373,9 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
           probability1 = 99
           header = h
           power = 4
-          target = TARGET_FEATURE_preset
+          target = TARGET_FX_preset
           resist_dispel = DISPELLABLE | IGNORE_MAGIC_RESISTANCE
-          savingthrow = SAVINGTHROW_spell
+          savingthrow = FLAG_SAVINGTHROW_spell
           savebonus = savebonus
       END
     END
@@ -388,9 +388,9 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
           probability1 = 99
           header = h
           power = 4
-          target = TARGET_FEATURE_preset
+          target = TARGET_FX_preset
           resist_dispel = DISPELLABLE | IGNORE_MAGIC_RESISTANCE
-          savingthrow = SAVINGTHROW_spell
+          savingthrow = FLAG_SAVINGTHROW_spell
           savebonus = savebonus
       END
     END
@@ -403,9 +403,9 @@ COPY ~%comp_dir%/spl/wm_liq.spl~  ~override/wm_liq.spl~     // Wizard Spell: Cor
         probability1 = 99
         header = h
         power = 4
-        target = TARGET_FEATURE_preset
+        target = TARGET_FX_preset
         resist_dispel = DISPELLABLE | IGNORE_MAGIC_RESISTANCE
-        savingthrow = SAVINGTHROW_spell
+        savingthrow = FLAG_SAVINGTHROW_spell
         savebonus = savebonus
     END
   END
@@ -468,9 +468,9 @@ COPY_EXISTING_REGEXP GLOB ~^wm_.+\.spl$~ ~override~
   PHP_EACH ab_array AS int => ab_off BEGIN
     GET_OFFSET_ARRAY2 fx_array ab_off SPL_V10_HEAD_EFFECTS
     PHP_EACH fx_array AS int => fx_off BEGIN
-      READ_BYTE (fx_off + FEATURE_probability1) fx_prob1
+      READ_BYTE (fx_off + FX_probability1) fx_prob1
       PATCH_IF fx_prob1 == 100 BEGIN
-        WRITE_BYTE (fx_off + FEATURE_probability1) 99
+        WRITE_BYTE (fx_off + FX_probability1) 99
       END
     END
   END
