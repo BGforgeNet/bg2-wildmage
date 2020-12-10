@@ -1,6 +1,6 @@
 BACKUP ~wildmage/backup~
-AUTHOR ~https://github.com/BGforgeNet/bg2-wildmage/issues~
-VERSION ~v2.0.0~
+AUTHOR ~https://forums.bgforge.net/viewforum.php?f=29~
+VERSION ~v2.1~
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 
