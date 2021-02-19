@@ -1,0 +1,1710 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-1-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: bgforge_po v.1.0.0\n"
+
+#: dialog.tra:0
+msgid ""
+"You open Rhialto's spellbook for the first time. It's an insane mess of "
+"random notes, illegible scribble and childish drawings; all over smeared "
+"with blood, bile and some other stuff you can't (and don't even want to) "
+"recognize. Amazingly, some of the spell entries are still legible."
+msgstr ""
+
+#: dialog.tra:1
+msgid ""
+"Again you risk a look into Rhialto's spellbook. You carefully separate two "
+"sheets that were stuck together, just to discover a nasty drawing of an old "
+"sage with long beard and pointy hat, that seems to glare longingly at "
+"something that looks like a petrified goat."
+msgstr ""
+
+#: dialog.tra:02
+msgid ""
+"You open the spellbook at a random page and notice some scribble you haven't"
+" seen before: \"<CHARNAME>, keep your dirty hands off my spellbook!\""
+msgstr ""
+
+#: dialog.tra:03
+msgid ""
+"When you open Rhialto's spellbook, one of the pages comes loose and falls "
+"out."
+msgstr ""
+
+#: dialog.tra:04
+msgid ""
+"Rhialto's spellbook is still a mess, and his mind must have been quite the "
+"same; you wonder if the same madness could affect you, when you continue to "
+"read his writings."
+msgstr ""
+
+#: dialog.tra:05
+msgid ""
+"Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile "
+"you're getting used to it."
+msgstr ""
+
+#: dialog.tra:06
+msgid "You continue to study Rhialto's spellbook."
+msgstr ""
+
+#: dialog.tra:07
+msgid "Rhialto may have been insane, but his knowledge was great indeed."
+msgstr ""
+
+#: dialog.tra:08
+msgid ""
+"Although you're sure that you've learned every spell from this this "
+"spellbook, you still feel the strong urge to risk another look."
+msgstr ""
+
+#: dialog.tra:09
+msgid "When you open Rhialto's spellbook again, it crumbles to dust."
+msgstr ""
+
+#: dialog.tra:10
+msgid ""
+"Study the spellbook for a while, and see if you can learn something new."
+msgstr ""
+
+#: dialog.tra:11
+msgid "Close the book."
+msgstr ""
+
+#: dialog.tra:12
+msgid ""
+"When you examine this strange spell closer, it proves to be utterly useless."
+" No point in learning it."
+msgstr ""
+
+#: dialog.tra:13
+msgid "You spend some time, browsing trough the book..."
+msgstr ""
+
+#: dialog.tra:14
+msgid "You found something of interest."
+msgstr ""
+
+#: dialog.tra:15
+msgid "You find nothing new."
+msgstr ""
+
+#: dialog.tra:16
+msgid ""
+"You try to learn the spell, but it's too difficult, you need more experience"
+" in the art before you can learn it."
+msgstr ""
+
+#: dialog.tra:17
+msgid "You succeed in learning the spell."
+msgstr ""
+
+#: dialog.tra:18
+msgid ""
+"As much as you try to concentrate, you read a line and forget it in the same"
+" moment; as if someone powerful wipes it from your memory. Obviously someone"
+" doesn't want you to know this spell."
+msgstr ""
+
+#: dialog.tra:19
+msgid "You close the book."
+msgstr ""
+
+#: dialog.tra:20
+msgid "Try to learn the spell \"Random Spell I\"."
+msgstr ""
+
+#: dialog.tra:21
+msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
+msgstr ""
+
+#: dialog.tra:22
+msgid "Try to learn the spell \"Rodent Form\"."
+msgstr ""
+
+#: dialog.tra:23
+msgid "Try to learn the spell \"Blade Shower\"."
+msgstr ""
+
+#: dialog.tra:24
+msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
+msgstr ""
+
+#: dialog.tra:25
+msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
+msgstr ""
+
+#: dialog.tra:26
+msgid "Try to learn the spell \"Vile Word of Discord\"."
+msgstr ""
+
+#: dialog.tra:27
+msgid "Try to learn the spell \"Cellular Regeneration\"."
+msgstr ""
+
+#: dialog.tra:28
+msgid "Try to learn the spell \"Glyph of Wild Magic\"."
+msgstr ""
+
+#: dialog.tra:29
+msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
+msgstr ""
+
+#: dialog.tra:30
+msgid "Try to learn the spell \"Vortex\"."
+msgstr ""
+
+#: dialog.tra:31
+msgid "Try to learn the spell \"Paithan's Fiasco\"."
+msgstr ""
+
+#: dialog.tra:32
+msgid "Try to learn the spell \"Wildstrike\"."
+msgstr ""
+
+#: dialog.tra:33
+msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
+msgstr ""
+
+#: dialog.tra:34
+msgid "Try to learn the spell \"Summon Cow\"."
+msgstr ""
+
+#: dialog.tra:35
+msgid "Try to learn the spell \"Eye of the Beholder\"."
+msgstr ""
+
+#: dialog.tra:36
+msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
+msgstr ""
+
+#: dialog.tra:37
+msgid "Try to learn the spell \"Entropy Shield\"."
+msgstr ""
+
+#: dialog.tra:38
+msgid "Try to learn the spell \"Wild Sphere\"."
+msgstr ""
+
+#: dialog.tra:39
+msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
+msgstr ""
+
+#: dialog.tra:40
+msgid "Try to learn the spell \"Rhialto's Avatar\"."
+msgstr ""
+
+#: dialog.tra:41
+msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
+msgstr ""
+
+#: dialog.tra:42
+msgid "Try to learn the spell \"Summon Wild Horde\"."
+msgstr ""
+
+#: dialog.tra:43
+msgid "Try to learn the spell \"Random Spell II\"."
+msgstr ""
+
+#: dialog.tra:44
+msgid "Try to learn the spell \"Corporeal Instability\"."
+msgstr ""
+
+#: dialog.tra:45
+msgid "Try to learn the spell \"Random Spell III\"."
+msgstr ""
+
+#: dialog.tra:46
+msgid "Try to learn the spell \"Meece's Wild Armour\"."
+msgstr ""
+
+#: dialog.tra:47
+msgid "Try to learn the spell \"Random Spell IV\"."
+msgstr ""
+
+#: dialog.tra:48
+msgid "Try to learn the spell \"Entropy Burst\"."
+msgstr ""
+
+#: dialog.tra:49
+msgid "Try to learn the spell \"Wildfire\"."
+msgstr ""
+
+#: dialog.tra:100
+msgid ""
+"Well, well, well... What do we have here?  Greetings, young one, No doubt "
+"you're honored to meet Rhialto the Marvelous."
+msgstr ""
+
+#: dialog.tra:101
+msgid ""
+"Ah yes, you are perfect. Be honored, young one, for your existence now has a"
+" purpose: Rhialto the Marvelous needs your spleen."
+msgstr ""
+
+#: dialog.tra:102
+msgid ""
+"It will be the final component for the greatest spell that was worked since,"
+" well, since ever!!!  Of course, it needs to be extracted while you're still"
+" alive, otherwise it would be worthless as an ingredient."
+msgstr ""
+
+#: dialog.tra:103
+msgid ""
+"But it won't be too painful... Well, at least it won't take too long.  "
+"Rhialto the Marvelous is a very experienced surgeon, it will only take an "
+"hour or two..."
+msgstr ""
+
+#: dialog.tra:110
+msgid ""
+"So we meet again... You seem to have grown more self-confident since Rhialto"
+" the Marvelous had his little accident. It is just fitting that you, who "
+"caused his downfall by your insolent resistance, brought Rhialto back to "
+"life."
+msgstr ""
+
+#: dialog.tra:111
+msgid ""
+"But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous "
+"really doesn't like it when someone touches his stuff!!!"
+msgstr ""
+
+#: dialog.tra:200
+msgid "Select a Special Ability\n"
+msgstr ""
+
+#: dialog.tra:201
+msgid "Ambidexterity (1st Rank)"
+msgstr ""
+
+#: dialog.tra:202
+msgid "Ambidexterity (2nd Rank)"
+msgstr ""
+
+#: dialog.tra:203
+msgid "Backstabbing (x2)"
+msgstr ""
+
+#: dialog.tra:204
+msgid "Backstabbing Adept (x3)"
+msgstr ""
+
+#: dialog.tra:205
+msgid "Backstabbing Expert (x4)"
+msgstr ""
+
+#: dialog.tra:206
+msgid "Backstabbing Master (x5)"
+msgstr ""
+
+#: dialog.tra:207
+msgid "Combat Speed"
+msgstr ""
+
+#: dialog.tra:208
+msgid "Dagger Specialization"
+msgstr ""
+
+#: dialog.tra:209
+msgid "Dagger Mastery"
+msgstr ""
+
+#: dialog.tra:210
+msgid "Improved Criticals"
+msgstr ""
+
+#: dialog.tra:211
+msgid "Toughness"
+msgstr ""
+
+#: dialog.tra:212
+msgid "Vicious hits"
+msgstr ""
+
+#: dialog.tra:213
+msgid "Rogue High Level Ability: \"Assassination\""
+msgstr ""
+
+#: dialog.tra:214
+msgid "Rogue High Level Ability: \"Avoid Death\""
+msgstr ""
+
+#: dialog.tra:215
+msgid "Rogue High Level Ability: \"Evasion\""
+msgstr ""
+
+#: dialog.tra:216 text.tra:30101
+msgid "Weave Spell"
+msgstr ""
+
+#: dialog.tra:217 text.tra:30201
+msgid "Weaveshear"
+msgstr ""
+
+#: dialog.tra:220
+msgid ""
+"You don't know exactly what just happened, but in the heat of battle you "
+"somehow managed to cast a spell spontaneously."
+msgstr ""
+
+#: dialog.tra:221
+msgid ""
+"Now you feel a strange wave of magical power rising within you. Whatever is "
+"happening, somehow you feel that if you yield to it, you will be changed "
+"forever."
+msgstr ""
+
+#: dialog.tra:222
+msgid "Embrace this new power."
+msgstr ""
+
+#: dialog.tra:223
+msgid "Try to suppress it."
+msgstr ""
+
+#: dialog.tra:224
+msgid "Whatever that was, you were strong enough to suppress it."
+msgstr ""
+
+#: dialog.tra:225
+msgid "A surge of chaotic energy overwhelms you."
+msgstr ""
+
+#: dialog.tra:230
+msgid ""
+"When you give in to the surge of magical power, you feel that your "
+"understanding of the magical Weave changes."
+msgstr ""
+
+#: dialog.tra:231
+msgid ""
+"Once you tried to study the chaos around you, bending it to your will, "
+"drawing your strength from the erratic ebb and flow of wild magic."
+msgstr ""
+
+#: dialog.tra:232
+msgid ""
+"Now you feel a close relation to the Weave. You now are able to tangle the "
+"Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr ""
+
+#: setup.tra:1
+msgid "New Wild Magic Spells"
+msgstr ""
+
+#: setup.tra:2
+msgid "Spellshaper Kit"
+msgstr ""
+
+#: setup.tra:4
+msgid "Misc spell modifications"
+msgstr ""
+
+#: setup.tra:20
+msgid "You must have \"New Wild Magic Spells\" installed!"
+msgstr ""
+
+#: setup.tra:60
+msgid "Ironman"
+msgstr ""
+
+#: setup.tra:61
+msgid "Haughty pansy"
+msgstr ""
+
+#: setup.tra:62
+msgid "Only ToB and EE engines are supported"
+msgstr ""
+
+#: setup.tra:63
+msgid "Original avatar"
+msgstr ""
+
+#: setup.tra:64
+msgid "Changed avatar"
+msgstr ""
+
+#: setup.tra:65
+msgid "Requires BG1 content"
+msgstr ""
+
+#: setup.tra:66
+msgid "Retain Rhialto's items"
+msgstr ""
+
+#: text.tra:10101
+msgid "Wild Magic"
+msgstr ""
+
+#: text.tra:10201
+msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
+msgstr ""
+
+#: text.tra:10301
+msgid "THAC0 Reduced by 1"
+msgstr ""
+
+#: text.tra:10302
+msgid "Backstab Multiplier Increased by 1"
+msgstr ""
+
+#: text.tra:10303
+msgid "Dagger Proficiency raised to 2 (Specialized)"
+msgstr ""
+
+#: text.tra:10304
+msgid "Dagger Proficiency raised to 3 (Master)"
+msgstr ""
+
+#: text.tra:10305
+msgid "Gained Ambidexterity (1st Rank)"
+msgstr ""
+
+#: text.tra:10306
+msgid "Raised Ambidexterity to 2nd Rank"
+msgstr ""
+
+#: text.tra:10307
+msgid "Gained +1 Melee Damage Bonus"
+msgstr ""
+
+#: text.tra:10308
+msgid "Gained 20% Hitpoint Bonus"
+msgstr ""
+
+#: text.tra:10309
+msgid "Attacks per round raised by 1"
+msgstr ""
+
+#: text.tra:10310
+msgid "Critical Hit Range increased by 1"
+msgstr ""
+
+#: text.tra:20101
+msgid "Rhialto's Chaos Conduit"
+msgstr ""
+
+#: text.tra:20102
+msgid ""
+"Rhialto's Chaos Conduit* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2 rounds\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"You found this strange spell in Rhialto's spellbook. Rhialto spent decades with his research on wild magic, and in the end created this spell that allowed him to learn a new way of spellcasting.\n"
+"\n"
+"Rhialto's Chaos Conduit establishes a link between the caster and the chaotic plane of Limbo, and then channels raw chaotic energy right into the caster. The purpose of this process is to open the caster's mind for a different kind of spellcasting.\n"
+"\n"
+"Although the spell's invocation is easy enough to make it available as a 1st level spell, its inner structure is incredible complex and would be appropriate for a spell of 9th, 10th or even higher level. The spell's chaotic nature might partly be responsible for this strange discrepancy.\n"
+"\n"
+"The spell can be cast only once and its effect is irrevocable. The caster's spellcasting capabilities are permanently changed towards a more intuitive way, and the same happens to his personality.\n"
+"\n"
+"These changes don't come from the spell itself, though. Rhialto's Chaos Conduit only frees and amplifies tendencies and interests that are already there. Persons that aren't interested in the gifts this spell has to offer, would be immune against its effects. However, such persons wouldn't even think of casting a spell like this in the first place.\n"
+"\n"
+"No matter if you actually think about casting this spell or not, one thing you know for sure: if you dare to cast the spell, it will change you forever."
+msgstr ""
+
+#: text.tra:20103
+msgid "Spellshaper"
+msgstr ""
+
+#: text.tra:20111
+msgid ""
+"After casting this strange spell, you feel your understanding of the magical"
+" Weave changing. Once you tried to study the chaos around you, bending it to"
+" your will, drawing your strength from the erratic ebb and flow of wild "
+"magic. Now you feel a relation to the Weave. You feel that you are able to "
+"tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
+msgstr ""
+
+#: text.tra:20112
+msgid ""
+"You also feel, that the spell has changed more than just your spellcasting "
+"abilities. Somehow it feels as if the spell freed a part of your soul that "
+"was hidden deep within you until now. There is a bit more individuality, "
+"tolerance, curiosity, but also a bit less discipline and diligence, as well "
+"as a mistrust to authorities. It feel right though, as if it always was "
+"supposed to be like that. You don't feel as if you were changed, though, "
+"it's more like finally waking up from a long, long dream."
+msgstr ""
+
+#: text.tra:20201
+msgid "Rodent Form"
+msgstr ""
+
+#: text.tra:20202
+msgid ""
+"Rodent Form* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points, and additional 2 points against missile weapons. Move speed is also slightly increased. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.\n"
+"\n"
+"Hopefully, the current revision of this spell does NOT change the caster's personality or mentality."
+msgstr ""
+
+#: text.tra:20211
+msgid "One of my spells has changed!"
+msgstr ""
+
+#: text.tra:20212
+msgid "Learned new spell: Ratatosk Shape"
+msgstr ""
+
+#: text.tra:20301
+msgid "Ratatosk Shape"
+msgstr ""
+
+#: text.tra:20302
+msgid ""
+"Ratatosk Shape* (Alteration)\n"
+"Level: 1\n"
+"Range: 0\n"
+"Duration: 1 turn\n"
+"Casting Time: 1\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.\n"
+"\n"
+"Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points, and additional 2 points against missile weapons. Move speed is also slightly increased. On top of that, caster's dexterity is raised by four points. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.\n"
+"\n"
+"The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.\n"
+"\n"
+"Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active."
+msgstr ""
+
+#: text.tra:20401
+msgid "Random Spell I"
+msgstr ""
+
+#: text.tra:20402
+msgid ""
+"Random Spell I* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.\n"
+"\n"
+"In rare cases, an unstable magical energy outburst results in several random effects being created.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+
+#: text.tra:20501
+msgid "Blade Shower"
+msgstr ""
+
+#: text.tra:20502
+msgid ""
+"Blade Shower* (Conjuration)\n"
+"Level: 2\n"
+"Range: 40 yards\n"
+"Duration: 3 rounds/5 levels\n"
+"Casting Time: 1\n"
+"Area of Effect: 1-25 creatures\n"
+"Saving Throw: Special\n"
+"\n"
+"The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.\n"
+"\n"
+"Each single dagger does 1d4 points of piercing damage. At level 5, the daggers get +1 damage bonus. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.\n"
+"\n"
+"The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.\n"
+"\n"
+"Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic."
+msgstr ""
+
+#: text.tra:20511
+msgid "\"Blade Shower\" has been added to your Special Abilities menu"
+msgstr ""
+
+#: text.tra:20601
+msgid "Rhialto's Random Missiles"
+msgstr ""
+
+#: text.tra:20602
+msgid ""
+"Rhialto's Random Missiles* (Evocation)\n"
+"Level: 2\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell is an improved, randomized version of the first-level spell Magic Missile. It creates a random number of missiles that dart forth from the wizard's fingertips and unerringly strike their target, which must be a creature of some sort.\n"
+"\n"
+"The actual number of missiles is dependent on the caster's level of experience: 1d4 at first level,  1d6 at fourth level,  1d8 at eighth level  and 1d10 at 12th level.\n"
+"\n"
+"Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or magical damage. The chaotic nature of the missiles gives them a 25% chance to bypass any natural or magical resistances the target might have."
+msgstr ""
+
+#: text.tra:20701
+msgid "Glyph of Wild Magic"
+msgstr ""
+
+#: text.tra:20702
+msgid ""
+"Glyph of Wild Magic* (Evocation)\n"
+"Level: 4\n"
+"Range: 40 yards\n"
+"Duration: 1 round/10 levels\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"A glyph of wild magic is a powerful inscription magically drawn on the ground or any other surface. The glyph will remain there until someone comes too close, at which point it will explode and create one weave disturbance for each creature within a 30' radius. Each disturbance causes a multitude of wild surges, targeted at random creatures (including the caster, should he still be nearby).\n"
+"\n"
+"For every 10 experience levels of the caster, the disturbances remain in existence for 1 round, though it is possible to dispell them prematurely by causing a distortion with physical or magical means.\n"
+"\n"
+"Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage."
+msgstr ""
+
+#: text.tra:20711
+msgid "Weave Disturbance"
+msgstr ""
+
+#: text.tra:20801
+msgid "Gymlainac's Lightbend"
+msgstr ""
+
+#: text.tra:20802
+msgid ""
+"Gymlainac's Lightbend* (Alteration)\n"
+"Level: 3\n"
+"Range: Touch\n"
+"Duration: 5 rounds + 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This spell was developed by the wild mage Gymlainac, in an effort to create a wild magic version of Invisibility.\n"
+"\n"
+"The spell bends light waves around the recipient, creating an effect similar to the second-level spell Blur and a Cloak of Displacement. The recipient's form is both blurred and sways (regardless of movement), making her much more difficult to hit. When the spell is cast, the recipient gains a bonus of 2d4 to armor class and 1d4 to saving throws. Since the effect of this spell is no illusion but an actual change of the space around the recipient, it can't be dispelled by True Seeing or similar spells."
+msgstr ""
+
+#: text.tra:20901
+msgid "Vile Word of Discord"
+msgstr ""
+
+#: text.tra:20902
+msgid ""
+"Vile Word of Discord* (Enchantment/Charm)\n"
+"Level: 3\n"
+"Range: Visual range of the caster\n"
+"Duration: 2 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This spell, a combination of ventriloquism and confusion magics, is the very essence of discord, with the potential to destroy not only formations but also allegiances.\n"
+"\n"
+"The caster points out a single creature, which then appears to shout insults in a strange, sinister language. The surprise, the unexpected source and the magic hidden within those words hit all bystanders completely unprepared.\n"
+"\n"
+"Everyone within a 30' sphere around the target must save vs. spells at -4 or suffer a randomly chosen effect: attack each other, flee in panic, stand around in confusion, ally with the caster or stumbling around uncontrolled. In addition, there's a 20% chance that some of the victims drop random equipment.\n"
+"\n"
+"The spell affects the caster's allies as well as his enemies; only the caster and the creature which was targeted in the first place are immune to the effect.\n"
+"\n"
+"Usually, this spell can't be backtraced to the caster: the only person, the victims might be angry at, is the spell's original target. Ongoing fights between the affected creatures might continue even after the spell ends."
+msgstr ""
+
+#: text.tra:21001
+msgid "Cellular Regeneration"
+msgstr ""
+
+#: text.tra:21002
+msgid ""
+"Cellular Regeneration* (Necromancy)\n"
+"Level: 4\n"
+"Range: Touch\n"
+"Duration: 6 rounds\n"
+"Casting Time: 4\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"By reshaping a strand of the Weave until it resembles the patterns created by a priest's healing spell, the wild mage can accomplish what was thought to be impossible: an arcane spell that cures wounds.\n"
+"\n"
+"Cellular Regeneration increases the growth rate of the body's various tissues, causing them to mend together faster. Once the recipient is touched, the spell begins to work, restoring damage according to the table below:\n"
+"\n"
+"Round  Healing\n"
+"------------------\n"
+"1           1\n"
+"2           1d4\n"
+"3           1d4 + level/5 (up to 1d4+5)\n"
+"4           1d4 + level/5 (up to 1d4+5)\n"
+"5           1d4\n"
+"6           1\n"
+"\n"
+"The regeneration process is so stressing for the body, that the recipient stays unconscious for the duration of the spell, and looses one point of constitution for one hour thereafter."
+msgstr ""
+
+#: text.tra:21101
+msgid "Vortex"
+msgstr ""
+
+#: text.tra:21102
+msgid ""
+"Vortex* (Evocation)\n"
+"Level: 5\n"
+"Range: 30 yards\n"
+"Duration: 3-15 rounds\n"
+"Casting Time: 5\n"
+"Area of effect: 7-foot-diameter sphere\n"
+"Saving Throw: Half\n"
+"\n"
+"A vortex is a swirling mass of magical energy, barely controllable by the caster. After casting the spell, a 7 foot tall, multicolored sphere appears. From this moment on, the caster must maintain concentration in order for the vortex to remain.\n"
+"\n"
+"Each round, the caster can move the vortex 60 feet. However, control of direction is not perfect. If the caster fails to concentrate just for a moment, the Vortex moves on on its own.\n"
+"\n"
+"The vortex is composed of raw magical energy. Once per round, all creatures close to the vortex suffer 2d6 points of each: stunning, electricity and magic damage. Creatures struck are allowed a saving throw vs. spells to suffer only half damage.\n"
+"\n"
+"The duration of the spell is 3 rounds at level 10, plus one round for each additional level - up to 15 rounds at level 34. The caster is held immobile for the whole duration of the spell; he can't cancel it, even when he completely lost control over the vortex."
+msgstr ""
+
+#. LEAVE empty space in translation
+#: text.tra:21103
+msgctxt "wizeye01"
+msgid " "
+msgstr ""
+
+#. LEAVE empty space in translation
+#: text.tra:21104
+msgctxt "wizeye02"
+msgid " "
+msgstr ""
+
+#: text.tra:21201
+msgid "Paithan's Lucky Streak"
+msgstr ""
+
+#: text.tra:21202
+msgid ""
+"Paithan's Lucky Streak* (Enchantment/Charm)\n"
+"Level: 5\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"This extremely potent spell gives the target a run of good luck. The recipient gains 1d8 points of luck, receiving this amount as bonus to any of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is added to any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 2 or higher, a new 1d8 bonus is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 1, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 16 or higher, the spell does not only continue, but the next round is also a \"Good Luck\" round, in which the recipient gets not only 8 points of luck bonus, but also the almost supernatural ability to avoid death, level drain, and anything that limits his movement.\n"
+"\n"
+"As long as it doesn't expire due to \"Bad Luck\" (1 on D20, then 15 or lower on D20), the spell continues infinitely."
+msgstr ""
+
+#: text.tra:21301
+msgid "Paithan's Fiasco"
+msgstr ""
+
+#: text.tra:21302
+msgid ""
+"Paithan's Fiasco* (Enchantment/Charm)\n"
+"Level: 6\n"
+"Range: Touch\n"
+"Duration: Special\n"
+"Casting Time: 5\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: None\n"
+"\n"
+"Paithan's Fiasco is the reverse version of the level 5 spell Paithan's Lucky Streak. The target, usually an enemy, suffers a run of bad luck. The victim is affected by 1d8 points of bad luck, taking this amount as a penalty to all of his actions. This includes saving throws, to hit chances, thieving skills, etc. In addition, twice the rolled amount is subtracted from any roll the recipient makes on the wild surge chart.\n"
+"\n"
+"At the end of each round, a d20 throw is made to determine if the spell expires. On a roll of 19 or lower, a new 1d8 penalty is rolled, and the spell continues for another round.\n"
+"\n"
+"On a roll of 20, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 5 or lower, the spell does not only continue, but the next round is also a \"Fiasco\" round, in which the victim gets 8 points of bad luck penalty and suffers one of the following things: stumble and drop down to the ground for two rounds,  drop weapon due to a sudden spasm,  fail horrible at parrying and loose all attacks for this round,  hurt himself for 1d20 hitpoints  or getting blinded by splinters from his own weapon for three rounds.\n"
+"\n"
+"As long as it doesn't expire due to \"Good Luck\" (20 on D20, then 6 or higher on D20), the spell continues infinitely."
+msgstr ""
+
+#: text.tra:21311
+msgid "Fiasco"
+msgstr ""
+
+#: text.tra:21401
+msgid "Wildstrike"
+msgstr ""
+
+#: text.tra:21402
+msgid ""
+"Wildstrike* (Conjuration/Summoning)\n"
+"Level: 6\n"
+"Range: 30 yards\n"
+"Duration: 1-15 rounds\n"
+"Casting Time: 3\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"This spell is used primarily against hostile spellcasters. It distorts all attempts at spellcasting, converting spell energy into wild surges. The victim of a wildstrike is allowed a saving throw, to which a -1 modifier is applied for every 10 levels of the caster. If successful, the spell has no effect. If the saving throw is failed, the target is enclosed within a field of wild magic.\n"
+"\n"
+"Each attempt to casts spells or uses a charge from a magical item, automatically creates a wild surge. When determining the effects of this surge, 5 is subtracted from the die roll for every five levels of the wild mage who cast the wildstrike, making the effects of the wild surge more likely to affect the victim.\n"
+"\n"
+"The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35."
+msgstr ""
+
+#: text.tra:21501
+msgid "Hornung's Random Dispatcher"
+msgstr ""
+
+#: text.tra:21502
+msgid ""
+"Hornung's Random Dispatcher* (Abjuration)\n"
+"Level: 7\n"
+"Range: 30 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 2\n"
+"Area of Effect: One creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"With the utterance of a few words, this spell can hurl someone to a random plane and leave him there. The target is allowed a saving throw against spells. If successful, the spell fails. If unsuccessful, the victim and all items carried by him are sent to a random plane.\n"
+"\n"
+"The caster has no control over the destination of the target. The conditions at the destination may kill the target (for example, arriving in the elemental plane of fire), merely make his life difficult, or promise a new life in paradise (literally).\n"
+"\n"
+"Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime."
+msgstr ""
+
+#: text.tra:21511
+msgid "was sent to the Abyss"
+msgstr ""
+
+#: text.tra:21512
+msgid "was sent to Acheron"
+msgstr ""
+
+#: text.tra:21513
+msgid "was sent to the prime world known as Oerth"
+msgstr ""
+
+#: text.tra:21514
+msgid "was sent to the prime world known as Athas"
+msgstr ""
+
+#: text.tra:21515
+msgid "was sent to Arcadia"
+msgstr ""
+
+#: text.tra:21516
+msgid "was sent to the Astral Plane"
+msgstr ""
+
+#: text.tra:21517
+msgid "was sent to the Beastlands"
+msgstr ""
+
+#: text.tra:21518
+msgid "was sent to the Outlands"
+msgstr ""
+
+#: text.tra:21519
+msgid "was sent to the Elemental Plane of Air"
+msgstr ""
+
+#: text.tra:21520
+msgid "was sent to the Elemental Plane of Fire"
+msgstr ""
+
+#: text.tra:21521
+msgid "was sent to the Elemental Plane of Earth"
+msgstr ""
+
+#: text.tra:21522
+msgid "was sent to the Elemental Plane of Water"
+msgstr ""
+
+#: text.tra:21523
+msgid "was sent to Elysium"
+msgstr ""
+
+#: text.tra:21524
+msgid "was sent to the Ethereal Plane"
+msgstr ""
+
+#: text.tra:21525
+msgid "was sent to Gehenna"
+msgstr ""
+
+#: text.tra:21526
+msgid "was sent to Gladsheim"
+msgstr ""
+
+#: text.tra:21527
+msgid "was sent to the Gray Waste"
+msgstr ""
+
+#: text.tra:21528
+msgid "was sent to Limbo"
+msgstr ""
+
+#: text.tra:21529
+msgid "was sent to the Negative Material Plane"
+msgstr ""
+
+#: text.tra:21530
+msgid "was sent to the Quasi-Plane of Vacuum"
+msgstr ""
+
+#: text.tra:21531
+msgid "was sent to the Quasi-Plane of Ash"
+msgstr ""
+
+#: text.tra:21532
+msgid "was sent to the Quasi-Plane of Dust"
+msgstr ""
+
+#: text.tra:21533
+msgid "was sent to the Quasi-Plane of Salt"
+msgstr ""
+
+#: text.tra:21534
+msgid "was sent to the Nine Hells"
+msgstr ""
+
+#: text.tra:21535
+msgid "was sent to Nirvana"
+msgstr ""
+
+#: text.tra:21536
+msgid "was sent to Olympus"
+msgstr ""
+
+#: text.tra:21537
+msgid "was sent to Pandemonium"
+msgstr ""
+
+#: text.tra:21538
+msgid "was sent to the Para-Elemental Plane of Smoke"
+msgstr ""
+
+#: text.tra:21539
+msgid "was sent to the Para-Elemental Plane of Magma"
+msgstr ""
+
+#: text.tra:21540
+msgid "was sent to the Para-Elemental Plane of Ooze"
+msgstr ""
+
+#: text.tra:21541
+msgid "was sent to the Para-Elemental Plane of Ice"
+msgstr ""
+
+#: text.tra:21542
+msgid "was sent to the Positive Material Plane"
+msgstr ""
+
+#: text.tra:21543
+msgid "was sent to the Quasi-Plane of Lightning"
+msgstr ""
+
+#: text.tra:21544
+msgid "was sent to the Quasi-Plane of Radiance"
+msgstr ""
+
+#: text.tra:21545
+msgid "was sent to the Quasi-Plane of Minerals"
+msgstr ""
+
+#: text.tra:21546
+msgid "was sent to the Quasi-Plane of Steam"
+msgstr ""
+
+#: text.tra:21547
+msgid "was sent to the Icewind Dale"
+msgstr ""
+
+#: text.tra:21548
+msgid "was sent to the Seven Heavens"
+msgstr ""
+
+#: text.tra:21549
+msgid "was sent to the Tarterus"
+msgstr ""
+
+#: text.tra:21550
+msgid "was sent to the Twin Paradises"
+msgstr ""
+
+#: text.tra:21601
+msgid "Summon Cow"
+msgstr ""
+
+#: text.tra:21602
+msgid ""
+"Summon Cow* (Summoning)\n"
+"Level: 7\n"
+"Range: Visual range of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 3\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: Special\n"
+"\n"
+"Upon casting this spell, a cow is summoned in the air 50-200 yards above the targeted creature. The exact height is dependent on the caster's level, and determines the damage done to the target.\n"
+"\n"
+"Once summoned, the animal will fall down upon the target. The impact as well as the crash to the ground cause crushing damage equal to 3d10 + 1d10 for every three levels of the caster, up to a maximum total of two times 10d10 at Level 21. There is no saving throw against the physical impact, though a very lucky or agile individual may drop to the ground without taking additional damage.\n"
+"\n"
+"If the targeted creature survives the impact, there's a chance of 10% +10% for every three experience levels of the caster, that the victim drops random equipment while falling. The maximum chance is 80% at Level 21; there is no saving throw.\n"
+"\n"
+"Finally, the whole situation is so confusing and frightening, that the target must save against spells or flee in panic for three rounds. The saving throw starts with a modifier of +2, which is decreased by 1 for every three levels of the caster, until it reaches -5 at 21th level.\n"
+"\n"
+"Warning:\n"
+"Basically, this spell is just a purposeful release of a specific wild surge. As such, there is a chance for unwanted side effects.\n"
+"\n"
+"It is also strongly advised against using this spell in the presence of rangers or druids."
+msgstr ""
+
+#: text.tra:21701
+msgid "Mynoc's Wild Recuperation"
+msgstr ""
+
+#: text.tra:21702
+msgid ""
+"Mynoc's Wild Recuperation* (Evocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"When casting this spell, the wild mage willingly releases raw magical energy in form of a wild surge. If he manages to control the wild surge, he can use the energy to bring back into memory 1d4 spells that have been previously cast. If no spells have been cast yet, then nothing happens, and the spell is wasted.\n"
+"\n"
+"For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less."
+msgstr ""
+
+#: text.tra:21711
+msgid "1 spell restored to memory"
+msgstr ""
+
+#: text.tra:21712
+msgid "2 spells restored to memory"
+msgstr ""
+
+#: text.tra:21713
+msgid "3 spells restored to memory"
+msgstr ""
+
+#: text.tra:21714
+msgid "4 spells restored to memory"
+msgstr ""
+
+#: text.tra:21801
+msgid "Eye of the Beholder"
+msgstr ""
+
+#: text.tra:21802
+msgid ""
+"Eye of the Beholder* (Evocation)\n"
+"Level: 8\n"
+"Range: Visual range of caster\n"
+"Duration: 1 round/5 levels\n"
+"Casting Time: 5\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"When this spell is cast, one of the wild mage's eyeballs pops out, and is transformed into a Beholder's eye stalk.\n"
+"\n"
+"Once per round, the wild mage may use this eyestalk to gaze at a target, causing one of 10 possible effects to shoot forth from the eye. The exact result (including saving throws, range, duration, etc.) are determined at random from among the 10 functions of a beholder's eye stalks: Charm Person, Fear, Disintegrate, Slow, Petrification, Cause Serious Wounds, Hold Person, Lightning Bolt, Paralyze or Death Ray.\n"
+"\n"
+"Usually, the caster's eye returns to its original shape and place after the spell has expired."
+msgstr ""
+
+#: text.tra:21803
+msgid "Beholder's Gaze"
+msgstr ""
+
+#: text.tra:21811
+msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
+msgstr ""
+
+#: text.tra:21901
+msgid "Entropy Shield"
+msgstr ""
+
+#: text.tra:21902
+msgid ""
+"Entropy Shield* (Abjuration)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: 2 turns\n"
+"Casting Time: 9\n"
+"Area of Effect: The caster\n"
+"Saving Throw: None\n"
+"\n"
+"This spell surrounds the caster in a protective field of raw magical energy. This field will absorb the energy of any wild surge and all but the most powerful spells.\n"
+"\n"
+"For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield.\n"
+"\n"
+"In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect."
+msgstr ""
+
+#: text.tra:22001
+msgid "Wild Sphere"
+msgstr ""
+
+#: text.tra:22002
+msgid ""
+"Wild Sphere* (Conjuration/Summoning)\n"
+"Level: 9\n"
+"Range: Visual range of the caster\n"
+"Duration: 6 turns\n"
+"Casting Time: 1 round\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: Special\n"
+"\n"
+"This powerful spell creates a temporary rift in the Weave. The area of effect is a sphere with 30 foot radius; within chaos reigns.\n"
+"\n"
+"Any spell cast within the Wild Sphere automatically causes a wild surge. Effects from magical items that expend charges also cause wild surges when used in the area. Other magical items function normally. Even after a victim left the area of effect, it takes one round for his spell casting capabilities return to normal.\n"
+"\n"
+"In addition, everyone within the area of effect must make a save vs. spells at -5 every round, or cause a weave disturbance that fires multiple wild surges at random targets for one round, comparable to the 4th level spell Glyph of Wild Magic.\n"
+"\n"
+"Vicims that also fail the save vs. spells without modifier, are subject to one of the following random effects: randomly teleported, polymorphed into a squirrel, confused, paralyzed, healed by 1d8 hit points, take 1d8 hit points of damage, rendered unconscious or hasted."
+msgstr ""
+
+#: text.tra:22101
+msgid "Rhialto's Marvelous Reincarnation"
+msgstr ""
+
+#: text.tra:22102
+msgid ""
+"Rhialto's Marvelous Reincarnation* (Alteration)\n"
+"Level: 10\n"
+"Range: Visual range of the caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 10\n"
+"Area of Effect: One creature\n"
+"Saving Throw: None\n"
+"\n"
+"This sinister spell is the legacy of the wild mage that called himself Rhialto the Marvelous.\n"
+"\n"
+"Casting this spell causes fluctuations in the laws of probability, and weakens the fabric of time. These effects last only for a moment, but this is long enough to create an alternate reality.\n"
+"\n"
+"The purpose of this spell is to bring a dead back to life by changing an event in the past and letting another creature (one that still lives in the present) die instead. There is no divine intervention involved: the reincarnated creature isn't raised from the dead, on successful casting of this spell, the fatal event never happened and the spell's beneficiary never has died.\n"
+"\n"
+"Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood."
+msgstr ""
+
+#: text.tra:22201
+msgid "Entropy Burst"
+msgstr ""
+
+#: text.tra:22202
+msgid ""
+"Entropy Burst (Invocation)\n"
+"Level: 8\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: 30' radius\n"
+"Saving Throw: None\n"
+"\n"
+"Invoking the Entropy Burst spell creates magic of tremendous power. The caster acts as a bridge between the material plane and the primal forces of chaos, causing a burst of chaos-stuff centered on the caster and reaching up to a 30' radius.\n"
+"\n"
+"The effect of this spell is completely harmless for chaotic creatures, everyone else is pushed away from the caster for several seconds; creatures of neutral alignment take 1d8 points of magical damage, while lawful creatures take 1d20 points of damage. In addition, one of the following effects applies to a lawful target, according to its level:\n"
+"\n"
+"Hit Dice or levels  --  Effects of Entropy Burst\n"
+"Less than 4  --  Death\n"
+"4 to 7  --  Stunned for 1 turn\n"
+"8 to 11  --  Slowed for 1 turn with 75% chance of spell failure\n"
+"12 and up  --  Deafened for 1 turn with 50% chance of spell failure\n"
+"\n"
+"There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled."
+msgstr ""
+
+#: text.tra:22301
+msgid "Acid Storm"
+msgstr ""
+
+#: text.tra:22302
+msgid ""
+"Acid Storm (Evocation)\n"
+"Level: 7\n"
+"Range: Sight of Caster\n"
+"Duration: 1 turn\n"
+"Casting Time: 7\n"
+"Area of Effect: 20-foot radius\n"
+"Saving Throw: Half\n"
+"This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points of damage each round for the first three rounds, 1-6 hit points for the next three rounds, and 1-8 hit points for the next four rounds. Moving out of the area of effect does not stop the damage - the acid adheres to the skin, and the victims continue to suffer damage as long as the spell duration lasts. Affected creatures may make a saving throw vs. spell every round after they have been hit by the cloud - if successful, they only take half-damage (for that round only)."
+msgstr ""
+
+#: text.tra:22401
+msgid "Summon Wild Horde"
+msgstr ""
+
+#: text.tra:22402
+msgid ""
+"Summon Wild Horde* (Conjuration/Summoning)\n"
+"Level: 2\n"
+"Range: 0\n"
+"Duration: 1 round/level\n"
+"Casting Time: 2\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This summoning spell calls forth 1d20 aggressive rabbits that defend the caster with their lives.\n"
+"\n"
+"The tiny animals don't really pose a threat besides distracting the caster's enemies. When one of the rodents dies, however, there is a 25% chance that it will explode in a fireball, doing 2d4 points of fire damage to everyone within a 20 foot radius (save vs. spell for half)."
+msgstr ""
+
+#: text.tra:22501
+msgid "Corporeal Instability"
+msgstr ""
+
+#: text.tra:22502
+msgid ""
+"Corporeal Instability* (Alteration)\n"
+"Level: 4\n"
+"Range: Visual sight of caster\n"
+"Duration: 1 round/level\n"
+"Casting Time: 3\n"
+"Area of Effect: One Creature\n"
+"Saving Throw: Neg.\n"
+"\n"
+"Corporeal Instability temporarily distorts the various bonds that hold the victim's body together.\n"
+"\n"
+"When the spell is cast on a creature, it has to save vs. spells at -5 or be liquefied. When failing the saving throw, the victim takes 1d20 points of system-shock damage as his body destabilizes into an amorphous, ever-shifting mass. The victim is unable to take any action for 1 round per level of the caster, but is also immune to anything save magical damage."
+msgstr ""
+
+#: text.tra:22601
+msgid "Random Spell II"
+msgstr ""
+
+#: text.tra:22602
+msgid ""
+"Random Spell II* (Invocation/Evocation)\n"
+"Level: 3\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"This is a more powerful version of the 1st level spell Random Spell I. Random spell II, when cast, creates an effect equal to a randomly selected spell of 4th or 5th level.\n"
+"\n"
+"In rare cases, an unstable magical energy outburst results in several random effects being created.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+
+#: text.tra:22701
+msgid "Random Spell III"
+msgstr ""
+
+#: text.tra:22702
+msgid ""
+"Random Spell III* (Invocation/Evocation)\n"
+"Level: 5\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"Similar to the 1st and 3rd level spells, Random Spell III creates an effect equal to a randomly selected spell of 6th or 7th level.\n"
+"\n"
+"In rare cases, an unstable magical energy outburst results in several random effects being created.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+
+#: text.tra:22801
+msgid "Random Spell IV"
+msgstr ""
+
+#: text.tra:22802
+msgid ""
+"Random Spell IV* (Invocation/Evocation)\n"
+"Level: 7\n"
+"Range: 40 yards\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"The most powerful version of Random Spell creates an effect equal to a randomly selected spell of 8th or 9th level.\n"
+"\n"
+"In rare cases, an unstable magical energy outburst results in several random effects being created.\n"
+"\n"
+"The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.\n"
+"\n"
+"The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
+msgstr ""
+
+#: text.tra:22901
+msgid "Wildfire"
+msgstr ""
+
+#: text.tra:22902
+msgid ""
+"Wildfire* (Invocation/Evocation)\n"
+"Level: 9\n"
+"Range: 0\n"
+"Duration: Special\n"
+"Casting Time: 1\n"
+"Area of Effect: Special\n"
+"Saving Throw: Special\n"
+"\n"
+"By means of this spell, the wild mage is able to channel raw magical energy through himself, shaping it into any form or effect he desires.\n"
+"\n"
+"Wildfire allows the caster to create the effect of any wizard spell of 8th level or lower. He need only have general knowledge of the spell and its effects; the spell does not need to be in his own spellbooks."
+msgstr ""
+
+#: text.tra:23001
+msgid "Mynoc's Irresistible Appeal"
+msgstr ""
+
+#: text.tra:23002
+msgid ""
+"Mynoc's Irresistible Appeal* (Invocation/Evocation)\n"
+"Level: 1\n"
+"Range: Visual sight of caster\n"
+"Duration: Instantaneous\n"
+"Casting Time: 1\n"
+"Area of Effect: 1 creature\n"
+"Saving Throw: none\n"
+"\n"
+"Other than its name suggests, this spell has nothing to do with making the caster more attractive. When Mynoc's Irresistible Appeal is cast, a rope consisting of raw magical energy appears; this rope loops itself around the targeted creature and then shortens, drawing the target toward the caster.\n"
+"\n"
+"There is no saving throw against this spell and it bypasses all magic resistances the targeted creature might have. While this spell is mainly used to get friends out of trouble (or learn to know new ones), some wild mages are known to be crazy enough to cast this spell on enemies to force them into melee-combat."
+msgstr ""
+
+#: text.tra:23101
+msgid "Meece's Wildarmor"
+msgstr ""
+
+#: text.tra:23102
+msgid ""
+"Meece's Wildarmor* (Illusion/Phantasm)\n"
+"Level: 6\n"
+"Range: 0\n"
+"Duration: 5 rounds/level\n"
+"Casting Time: 4\n"
+"Area of Effect: The Caster\n"
+"Saving Throw: none\n"
+"\n"
+"This spell was created by the gnomish wild mage Meece Upknot as a means of combat protection. Meece couldn't decide whether stoutness or hiding is the best way to survive a fight, so he made a spell that combines both.\n"
+"\n"
+"The caster of the Wildarmor spell is protected by intense fluctuations in the magical weave around him. This distortion bends the laws of probability to a point where it serves as protection against all forms of damage. For the duration of the spell there is a high probability that any direct attack done to the caster has as smaller effect than it should have; thus all damage intended for the caster is reduced by 20%. However, there is also a 50% chance that the attack distorts the magic field surrounding the caster, causing a wild surge.\n"
+"\n"
+"After the damage done by an attack was reduced, the spell renders the caster invisible to avert further damage. This invisibility lasts for 5 rounds, until dispelled, or until the caster attacks any creature.\n"
+"\n"
+"The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level."
+msgstr ""
+
+#: text.tra:30111
+msgid "1st level"
+msgstr ""
+
+#: text.tra:30112
+msgid "2nd level"
+msgstr ""
+
+#: text.tra:30113
+msgid "3rd level"
+msgstr ""
+
+#: text.tra:30114
+msgid "4th level"
+msgstr ""
+
+#: text.tra:30115
+msgid "5th level"
+msgstr ""
+
+#: text.tra:30116
+msgid "6th level"
+msgstr ""
+
+#: text.tra:30117
+msgid "7th level"
+msgstr ""
+
+#: text.tra:30118
+msgid "8th level"
+msgstr ""
+
+#: text.tra:30119
+msgid "9th level"
+msgstr ""
+
+#: text.tra:30120
+msgid "10th level"
+msgstr ""
+
+#: text.tra:30121
+msgid "You don't have any suitable spells memorized."
+msgstr ""
+
+#: text.tra:30122
+msgid "Wild Magic Backlash"
+msgstr ""
+
+#: text.tra:30301
+msgid "Shape Spell"
+msgstr ""
+
+#: text.tra:30302
+msgid "Shaped Spell"
+msgstr ""
+
+#: text.tra:40101
+msgid "Hand"
+msgstr ""
+
+#: text.tra:40102
+msgid ""
+"As a Spellshaper you have the ability to release the raw magical energy of memorized spells and \"weave\" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.\n"
+"\n"
+"\n"
+"SPELLSHAPER:\n"
+"\n"
+"The spellshaper is a practitioner of wild magic who casts his spells by virtue of raw magical talent or gift, as opposed to a wild mage's academic, systematic approach.\n"
+"\n"
+"Spellshapers share the sorcerer's intuitive understanding for arcane magic. They memorize spells like a wizard, yet have a second resource at their disposal: A Spellshaper has the ability to \"weave\" raw magic energy into spell effects of his desire, without need of preparing those spells ahead of time. This talent is anything but unfailing, and using it on a regular basis requires as much luck as recklessness. Persons who use such a talent aren't very popular among conservative spellcasters.\n"
+"\n"
+"Unlike the sorcerer, the spellshaper may learn spells from scrolls, and memorize and cast them like a wizard. Being opportunists at heart, rarely a spellshaper renounces this relative reliable way of working magic. It's usually reserved for those protective and last-resort spells that really need to work, though. The spellshaper's talent to cast spells spontaneously is so convenient that he prefers to use it whenever possible.\n"
+"\n"
+"Neglecting conventional spellcasting, and focussing on chaotic wild magic doesn't come without a price: A spellshaper can't memorize as many spells as a true mage, and his progress in getting access to new spell levels is much slower.\n"
+"\n"
+"Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character.\n"
+"\n"
+"Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties.\n"
+"\n"
+"One of the spellshaper's more eccentric character-traits is that he refuses any training in the use of missile weapons; for ranged combat, a spellshaper uses magic, and if magic fails he prefers melee.\n"
+"\n"
+"Advantages:\n"
+"-  Wild Magic (Casting level varies up to +- 5)\n"
+"-  THAC0 advancement close to rogue\n"
+"-  5 lore rating per level\n"
+"-  Weave Spell ability\n"
+"-  Weaveshear ability\n"
+"-  Shape Spell ability\n"
+"-  May learn combat-related \"feats\"\n"
+"\n"
+"Disadvantages:\n"
+"-  Wild Magic (Casting level varies up to +- 5)\n"
+"-  5% Chance for Wild Surge\n"
+"-  Much slower spell progression\n"
+"-  Less wizard spell slots\n"
+"-  Can't raise the number of spell slots\n"
+"-  -5 to hit and -2 damage with missiles\n"
+"-  May wear only one ring\n"
+"-  Alignment must be chaotic\n"
+msgstr ""
+
+#: text.tra:40201
+msgid "Skull Bomb"
+msgstr ""
+
+#: text.tra:40202
+msgid ""
+"This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...\n"
+"\n"
+"STATISTICS:\n"
+"Casts the spell \"Skull Trap\" at caster-level 12\n"
+"\n"
+"Not Usable By:\n"
+" Non-chaotic alignments\n"
+" Wizard Slayer"
+msgstr ""
+
+#: text.tra:40301
+msgid "Dead Cat"
+msgstr ""
+
+#: text.tra:40302
+msgid ""
+"This appears to be a dead cat. It is extremely well preserved and looks as "
+"if it is sleeping."
+msgstr ""
+
+#: text.tra:40401
+msgid "Teddy Bear"
+msgstr ""
+
+#: text.tra:40402
+msgid ""
+"Although this cute teddy bear looks quite old, it's still in good condition."
+msgstr ""
+
+#: text.tra:40403
+msgid "Teddy Bear of Protection +2, +4 vs. Demons"
+msgstr ""
+
+#: text.tra:40404
+msgid ""
+"Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'\n"
+"The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.\n"
+"\n"
+"Although Halycron spent much time for his son's safety and education in the arts of magic, he neglected to teach him the necessary discipline and precautionary measures. At the age of six, Halycron's son accidentally summoned a demon while his parents weren't at home. When Halcroyn and his wive returned, the house was burned down, and the babysitter devoured by the demon. In midst of the ruins, they found their son cowering under an almost unscathed table, tightly holding his beloved teddy bear.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Armor Class:  +2 bonus (+4 vs. Demons)\n"
+"Saving Throws:  +2 bonus (+4 vs. Demons)\n"
+"\n"
+"Not Usable By:\n"
+" Wizard Slayer"
+msgstr ""
+
+#: text.tra:40501
+msgid "Rhialto's Spellbook"
+msgstr ""
+
+#: text.tra:40502
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+
+#: text.tra:40503
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"This book is as much a diary and a notebook as it is a spellbook. Although he clearly was a madman when you met him, Rhialto once must have been a genius; not only did he develop new spells, he also was obsessed with learning alternative ways of spellcasting, this is what led him to wild magic in the first place, and most likely caused his insanity in the end.\n"
+"\n"
+"Some of the pages are covered with mystic runes that may be used to invoke the spells inscribed on these pages - a convenient way to cast those spells instantly without having to memorize them. Only a small selection of the spells is prepared like this, though; seems like Rhialto found other ways to cast spells on demand.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"May be used once per day to cast one of the following spells:\n"
+" Armor\n"
+" Chaos Shield\n"
+" Dispel Magic\n"
+" Friends\n"
+" Gymlainac's Lightbend\n"
+" Horror\n"
+" Invisibility\n"
+" Larloch's Minor Drain\n"
+" Rhialto's Random Missiles\n"
+" Wizard Eye\n"
+"\n"
+"Only Usable By:\n"
+" Wild Mage"
+msgstr ""
+
+#: text.tra:40511
+msgid "Read"
+msgstr ""
+
+#: text.tra:50101
+msgid "Rhialto the Marvelous"
+msgstr ""
+
+#: text.tra:50102
+msgid "Rhialto"
+msgstr ""
+
+#: text.tra:50111
+msgid "Wild Surge: Caster changed into a squirrel"
+msgstr ""
+
+#: text.tra:69998
+msgid "Letter"
+msgstr ""
+
+#: text.tra:69999
+msgid ""
+"My dear friend Gorion,\n"
+"\n"
+"be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.\n"
+"\n"
+"E."
+msgstr ""
+
+#: text_ee.tra:40202
+msgid ""
+"This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...\n"
+"\n"
+"STATISTICS:\n"
+"Casts the spell \"Skull Trap\" at caster-level 12"
+msgstr ""
+
+#: text_ee.tra:40404
+msgid ""
+"Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'\n"
+"The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.\n"
+"\n"
+"Although Halycron spent much time for his son's safety and education in the arts of magic, he neglected to teach him the necessary discipline and precautionary measures. At the age of six, Halycron's son accidentally summoned a demon while his parents weren't at home. When Halcroyn and his wive returned, the house was burned down, and the babysitter devoured by the demon. In midst of the ruins, they found their son cowering under an almost unscathed table, tightly holding his beloved teddy bear.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"Armor Class:  +2 bonus (+4 vs. Demons)\n"
+"Saving Throws:  +2 bonus (+4 vs. Demons)"
+msgstr ""
+
+#: text_ee.tra:40502
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells."
+msgstr ""
+
+#: text_ee.tra:40503
+msgid ""
+"This spellbook once belonged to Rhialto \"the Marvelous\". You obtained it after his sudden demise.\n"
+"\n"
+"Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.\n"
+"\n"
+"This book is as much a diary and a notebook as it is a spellbook. Although he clearly was a madman when you met him, Rhialto once must have been a genius; not only did he develop new spells, he also was obsessed with learning alternative ways of spellcasting, this is what led him to wild magic in the first place, and most likely caused his insanity in the end.\n"
+"\n"
+"Some of the pages are covered with mystic runes that may be used to invoke the spells inscribed on these pages - a convenient way to cast those spells instantly without having to memorize them. Only a small selection of the spells is prepared like this, though; seems like Rhialto found other ways to cast spells on demand.\n"
+"\n"
+"The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells.\n"
+"\n"
+"STATISTICS:\n"
+"\n"
+"May be used once per day to cast one of the following spells:\n"
+" Armor\n"
+" Chaos Shield\n"
+" Dispel Magic\n"
+" Friends\n"
+" Gymlainac's Lightbend\n"
+" Horror\n"
+" Invisibility\n"
+" Larloch's Minor Drain\n"
+" Rhialto's Random Missiles\n"
+" Wizard Eye"
+msgstr ""
