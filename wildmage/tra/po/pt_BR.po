@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-20 14:14+0000\n"
+"Last-Translator: Felipe <felipefplzx@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/"
+"infinity-engine/wild-mage-additions/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: dialog.tra:0
 msgid ""
@@ -40,6 +42,8 @@ msgid ""
 "When you open Rhialto's spellbook, one of the pages comes loose and falls "
 "out."
 msgstr ""
+"Quando você abre o livro de feitiços do Rhialto uma das páginas se solta e "
+"cai."
 
 #: dialog.tra:04
 msgid ""
@@ -53,20 +57,25 @@ msgid ""
 "Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile "
 "you're getting used to it."
 msgstr ""
+"De novo você abre o livro de feitiços, ainda é uma bagunça mas enquanto isso "
+"você está se acostumando com ele."
 
 #: dialog.tra:06
 msgid "You continue to study Rhialto's spellbook."
-msgstr ""
+msgstr "Você continua a estudar o livro de feitiços do Rhialto."
 
 #: dialog.tra:07
 msgid "Rhialto may have been insane, but his knowledge was great indeed."
 msgstr ""
+"O Rhialto pode ter sido insano mas o conhecimento dele de fato era ótimo."
 
 #: dialog.tra:08
 msgid ""
 "Although you're sure that you've learned every spell from this this "
 "spellbook, you still feel the strong urge to risk another look."
 msgstr ""
+"Embora você tenha certeza que você aprendeu cada feitiço deste livro de "
+"feitiços você ainda sente o forte impulso de arriscar dar outra olhada."
 
 #: dialog.tra:09
 msgid "When you open Rhialto's spellbook again, it crumbles to dust."
