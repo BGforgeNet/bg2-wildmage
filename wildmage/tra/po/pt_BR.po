@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-20 14:14+0000\n"
+"PO-Revision-Date: 2021-02-21 14:14+0000\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/"
 "infinity-engine/wild-mage-additions/pt_BR/>\n"
@@ -85,10 +85,12 @@ msgstr ""
 msgid ""
 "Study the spellbook for a while, and see if you can learn something new."
 msgstr ""
+"Estude o livro de feitiços por um tempo e veja se você consegue aprender "
+"algo novo."
 
 #: dialog.tra:11
 msgid "Close the book."
-msgstr ""
+msgstr "Feche o livro."
 
 #: dialog.tra:12
 msgid ""
@@ -98,25 +100,27 @@ msgstr ""
 
 #: dialog.tra:13
 msgid "You spend some time, browsing trough the book..."
-msgstr ""
+msgstr "Você passa algum tempo navegando pelo livro..."
 
 #: dialog.tra:14
 msgid "You found something of interest."
-msgstr ""
+msgstr "Você achou algo de interesse."
 
 #: dialog.tra:15
 msgid "You find nothing new."
-msgstr ""
+msgstr "Você não acha nada de novo."
 
 #: dialog.tra:16
 msgid ""
 "You try to learn the spell, but it's too difficult, you need more experience"
 " in the art before you can learn it."
 msgstr ""
+"Você tenta aprender o feitiço mas é muito difícil, você precisa de mais "
+"experiência na arte antes que você possa aprender."
 
 #: dialog.tra:17
 msgid "You succeed in learning the spell."
-msgstr ""
+msgstr "Você foi bem-sucedido em aprender o feitiço."
 
 #: dialog.tra:18
 msgid ""
@@ -127,11 +131,11 @@ msgstr ""
 
 #: dialog.tra:19
 msgid "You close the book."
-msgstr ""
+msgstr "Você fecha o livro."
 
 #: dialog.tra:20
 msgid "Try to learn the spell \"Random Spell I\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Feitiço Aleatório I\"."
 
 #: dialog.tra:21
 msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
@@ -139,15 +143,15 @@ msgstr ""
 
 #: dialog.tra:22
 msgid "Try to learn the spell \"Rodent Form\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Forma de Roedor\"."
 
 #: dialog.tra:23
 msgid "Try to learn the spell \"Blade Shower\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Chuveiro de Espadas\"."
 
 #: dialog.tra:24
 msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Mísseis Aleatórios do Rhialto\"."
 
 #: dialog.tra:25
 msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
@@ -155,15 +159,15 @@ msgstr ""
 
 #: dialog.tra:26
 msgid "Try to learn the spell \"Vile Word of Discord\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Palavra Vil da Discórdia\"."
 
 #: dialog.tra:27
 msgid "Try to learn the spell \"Cellular Regeneration\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Regeneração Celular\"."
 
 #: dialog.tra:28
 msgid "Try to learn the spell \"Glyph of Wild Magic\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Glifo da Mágica Selvagem\"."
 
 #: dialog.tra:29
 msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
@@ -171,11 +175,11 @@ msgstr ""
 
 #: dialog.tra:30
 msgid "Try to learn the spell \"Vortex\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Vórtice\"."
 
 #: dialog.tra:31
 msgid "Try to learn the spell \"Paithan's Fiasco\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Fiasco do Paithan\"."
 
 #: dialog.tra:32
 msgid "Try to learn the spell \"Wildstrike\"."
@@ -187,59 +191,59 @@ msgstr ""
 
 #: dialog.tra:34
 msgid "Try to learn the spell \"Summon Cow\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Invocar Vaca\"."
 
 #: dialog.tra:35
 msgid "Try to learn the spell \"Eye of the Beholder\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Olho do Beholder\"."
 
 #: dialog.tra:36
 msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Recuperação Selvagem do Mynoc\"."
 
 #: dialog.tra:37
 msgid "Try to learn the spell \"Entropy Shield\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Escudo da Entropia\"."
 
 #: dialog.tra:38
 msgid "Try to learn the spell \"Wild Sphere\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Esfera Selvagem\"."
 
 #: dialog.tra:39
 msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Reencarnação Maravilhosa do Rhialto\"."
 
 #: dialog.tra:40
 msgid "Try to learn the spell \"Rhialto's Avatar\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Avatar do Rhialto\"."
 
 #: dialog.tra:41
 msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Apelo Irresístivel do Mynoc\"."
 
 #: dialog.tra:42
 msgid "Try to learn the spell \"Summon Wild Horde\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Invocar Horda Selvagem\"."
 
 #: dialog.tra:43
 msgid "Try to learn the spell \"Random Spell II\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Feitiço Aleatório II\"."
 
 #: dialog.tra:44
 msgid "Try to learn the spell \"Corporeal Instability\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Instabilidade Corpórea\"."
 
 #: dialog.tra:45
 msgid "Try to learn the spell \"Random Spell III\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Feitiço Aleatório III\"."
 
 #: dialog.tra:46
 msgid "Try to learn the spell \"Meece's Wild Armour\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Armadura Selvagem do Meece\"."
 
 #: dialog.tra:47
 msgid "Try to learn the spell \"Random Spell IV\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Feitiço Aleatório IV\"."
 
 #: dialog.tra:48
 msgid "Try to learn the spell \"Entropy Burst\"."
@@ -247,7 +251,7 @@ msgstr ""
 
 #: dialog.tra:49
 msgid "Try to learn the spell \"Wildfire\"."
-msgstr ""
+msgstr "Tentar aprender o feitiço \"Fogo Selvagem\"."
 
 #: dialog.tra:100
 msgid ""
@@ -291,55 +295,55 @@ msgstr ""
 
 #: dialog.tra:200
 msgid "Select a Special Ability\n"
-msgstr ""
+msgstr "Selecione uma Habilidade Especial\n"
 
 #: dialog.tra:201
 msgid "Ambidexterity (1st Rank)"
-msgstr ""
+msgstr "Ambi-destreza (1º Rank)"
 
 #: dialog.tra:202
 msgid "Ambidexterity (2nd Rank)"
-msgstr ""
+msgstr "Ambi-destreza (2º Rank)"
 
 #: dialog.tra:203
 msgid "Backstabbing (x2)"
-msgstr ""
+msgstr "Facada pela Costas (x2)"
 
 #: dialog.tra:204
 msgid "Backstabbing Adept (x3)"
-msgstr ""
+msgstr "Adepto da Facada pela Costas (x3)"
 
 #: dialog.tra:205
 msgid "Backstabbing Expert (x4)"
-msgstr ""
+msgstr "Expert na Facada pela Costas (x4)"
 
 #: dialog.tra:206
 msgid "Backstabbing Master (x5)"
-msgstr ""
+msgstr "Mestre da Facada pela Costas (x5)"
 
 #: dialog.tra:207
 msgid "Combat Speed"
-msgstr ""
+msgstr "Velocidade do Combate"
 
 #: dialog.tra:208
 msgid "Dagger Specialization"
-msgstr ""
+msgstr "Especialização na Adaga"
 
 #: dialog.tra:209
 msgid "Dagger Mastery"
-msgstr ""
+msgstr "Maestria na Adaga"
 
 #: dialog.tra:210
 msgid "Improved Criticals"
-msgstr ""
+msgstr "Críticos Melhorados"
 
 #: dialog.tra:211
 msgid "Toughness"
-msgstr ""
+msgstr "Resistência"
 
 #: dialog.tra:212
 msgid "Vicious hits"
-msgstr ""
+msgstr "Golpes ferozes"
 
 #: dialog.tra:213
 msgid "Rogue High Level Ability: \"Assassination\""
@@ -376,19 +380,20 @@ msgstr ""
 
 #: dialog.tra:222
 msgid "Embrace this new power."
-msgstr ""
+msgstr "Abrace este novo poder."
 
 #: dialog.tra:223
 msgid "Try to suppress it."
-msgstr ""
+msgstr "Tentar suprimí-lo."
 
 #: dialog.tra:224
 msgid "Whatever that was, you were strong enough to suppress it."
 msgstr ""
+"O que quer que seja que isso foi você foi forte o bastante pra suprimí-lo."
 
 #: dialog.tra:225
 msgid "A surge of chaotic energy overwhelms you."
-msgstr ""
+msgstr "Uma onda de energia caótica domina você."
 
 #: dialog.tra:230
 msgid ""
@@ -410,7 +415,7 @@ msgstr ""
 
 #: setup.tra:1
 msgid "New Wild Magic Spells"
-msgstr ""
+msgstr "Novos Feitiços da Mágica Selvagem"
 
 #: setup.tra:2
 msgid "Spellshaper Kit"
@@ -418,15 +423,15 @@ msgstr ""
 
 #: setup.tra:4
 msgid "Misc spell modifications"
-msgstr ""
+msgstr "Modificações mistas dos feitiços"
 
 #: setup.tra:20
 msgid "You must have \"New Wild Magic Spells\" installed!"
-msgstr ""
+msgstr "Você deve ter os \"Novos Feitiços de Mágica Selvagem\" instalado!"
 
 #: setup.tra:60
 msgid "Ironman"
-msgstr ""
+msgstr "Homem de Ferro"
 
 #: setup.tra:61
 msgid "Haughty pansy"
@@ -434,27 +439,27 @@ msgstr ""
 
 #: setup.tra:62
 msgid "Only ToB and EE engines are supported"
-msgstr ""
+msgstr "Só as engines do ToB e da EE são suportadas"
 
 #: setup.tra:63
 msgid "Original avatar"
-msgstr ""
+msgstr "Avatar original"
 
 #: setup.tra:64
 msgid "Changed avatar"
-msgstr ""
+msgstr "Avatar modificado"
 
 #: setup.tra:65
 msgid "Requires BG1 content"
-msgstr ""
+msgstr "Requer conteúdo do BG1"
 
 #: setup.tra:66
 msgid "Retain Rhialto's items"
-msgstr ""
+msgstr "Retém os itens do Rhialto"
 
 #: text.tra:10101
 msgid "Wild Magic"
-msgstr ""
+msgstr "Mágica Selvagem"
 
 #: text.tra:10201
 msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
@@ -462,11 +467,11 @@ msgstr ""
 
 #: text.tra:10301
 msgid "THAC0 Reduced by 1"
-msgstr ""
+msgstr "THAC0 Reduzido em 1"
 
 #: text.tra:10302
 msgid "Backstab Multiplier Increased by 1"
-msgstr ""
+msgstr "Multiplicador da Facada pelas Costas Aumentado em 1"
 
 #: text.tra:10303
 msgid "Dagger Proficiency raised to 2 (Specialized)"
@@ -1634,15 +1639,16 @@ msgstr ""
 
 #: text.tra:40511
 msgid "Read"
-msgstr ""
+msgstr "Leia"
 
 #: text.tra:50101
 msgid "Rhialto the Marvelous"
-msgstr ""
+msgstr "Rhialto O Maravilhoso"
 
 #: text.tra:50102
+#, fuzzy
 msgid "Rhialto"
-msgstr ""
+msgstr "Rhialto"
 
 #: text.tra:50111
 msgid "Wild Surge: Caster changed into a squirrel"
@@ -1650,7 +1656,7 @@ msgstr ""
 
 #: text.tra:69998
 msgid "Letter"
-msgstr ""
+msgstr "Carta"
 
 #: text.tra:69999
 msgid ""
