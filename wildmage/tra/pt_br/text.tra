@@ -1,7 +1,7 @@
-@10101 = ~Wild Magic~
+@10101 = ~Mágica Selvagem~
 @10201 = ~Wild Magic made your dreams come true. (Whatever that's good for...)~
-@10301 = ~THAC0 Reduced by 1~
-@10302 = ~Backstab Multiplier Increased by 1~
+@10301 = ~THAC0 Reduzido em 1~
+@10302 = ~Multiplicador da Facada pelas Costas Aumentado em 1~
 @10303 = ~Dagger Proficiency raised to 2 (Specialized)~
 @10304 = ~Dagger Proficiency raised to 3 (Master)~
 @10305 = ~Gained Ambidexterity (1st Rank)~
@@ -655,11 +655,11 @@ May be used once per day to cast one of the following spells:
 
 Only Usable By:
  Wild Mage~
-@40511 = ~Read~
-@50101 = ~Rhialto the Marvelous~
+@40511 = ~Leia~
+@50101 = ~Rhialto O Maravilhoso~
 @50102 = ~Rhialto~
 @50111 = ~Wild Surge: Caster changed into a squirrel~
-@69998 = ~Letter~
+@69998 = ~Carta~
 @69999 = ~My dear friend Gorion,
 
 be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.
