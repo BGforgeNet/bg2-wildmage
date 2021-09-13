@@ -199,6 +199,14 @@ COPY ~%comp_dir%/spl/wm_bld1.spl~  ~override/wm_bld1.spl~
 COPY ~%comp_dir%/spl/wm_miss.spl~  ~override/wm_miss.spl~    // Wizard Spell: Rhialto's Random Missiles
   SAY NAME1 @20601
   SAY UNIDENTIFIED_DESC @20602
+  // random missiles secondary spell must be instant
+  GET_OFFSET_ARRAY ab_array SPL_V10_HEADERS
+  PHP_EACH ab_array AS int => ab_off BEGIN
+    GET_OFFSET_ARRAY2 fx_array ab_off SPL_V10_HEAD_EFFECTS
+    PHP_EACH fx_array AS int => fx_off BEGIN
+      WRITE_LONG (fx_off + FX_parameter2) CASTING_TYPE_instant
+    END
+  END
 
 COPY ~%comp_dir%/spl/wm_glyph.spl~  ~override/wm_glyph.spl~    // Wizard Spell: Glyph of Wild Magic
   SAY NAME1 @20701
