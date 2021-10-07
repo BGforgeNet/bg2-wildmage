@@ -1,11 +1,17 @@
 ## Changelog
 
+- [Version 2.2](#version-22)
 - [Version 2.1](#version-21)
 - [Version 2](#version-2)
 - [Version 2.beta3](#version-2.beta3)
 - [Version 2.beta2](#version-2.beta2)
 - [Version 2.beta1](#version-2.beta1)
 - [Version 1](#version-1)
+
+### Version 2.2
+- Fix for PI not showing component names properly.
+- Fix Random Missiles being possible to interrupt after been cast (some other spells too).
+- Started Portuguese translation.
 
 ### Version 2.1
 Updated IElib to be compatible with PI.
