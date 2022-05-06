@@ -1,17 +1,17 @@
-@10101 = ~Unbändige Magie~
-@10201 = ~Unbändige Magie machte deine Träume wahr. (Wozu immer das gut ist...)~
+@10101 = ~UnbÃ¤ndige Magie~
+@10201 = ~UnbÃ¤ndige Magie machte deine TrÃ¤ume wahr. (Wozu immer das gut ist...)~
 @10301 = ~ETW0 verringert um 1~
-@10302 = ~Multiplikator für Hinterhältigen Angriff erhöht um 1~
-@10303 = ~Dolch Spezialisierung erhöht auf 2 (Spezialisiert)~
-@10304 = ~Dolch Spezialisierung erhöht auf 2 (Meisterschaft)~
-@10305 = ~Beidhändigkeit erlangt (Stufe 1)~
-@10306 = ~Beidhändigkeit erhöht auf Stufe 2~
+@10302 = ~Multiplikator fÃ¼r HinterhÃ¤ltigen Angriff erhÃ¶ht um 1~
+@10303 = ~Dolch Spezialisierung erhÃ¶ht auf 2 (Spezialisiert)~
+@10304 = ~Dolch Spezialisierung erhÃ¶ht auf 2 (Meisterschaft)~
+@10305 = ~BeidhÃ¤ndigkeit erlangt (Stufe 1)~
+@10306 = ~BeidhÃ¤ndigkeit erhÃ¶ht auf Stufe 2~
 @10307 = ~Nahkampf Schadensbonus +1~
-@10308 = ~Trefferpunkte um 20% erhöht~
-@10309 = ~Angriffe pro Runde um 1 erhöht~
-@10310 = ~Bereich für kritische Treffer um 1 erhöht~
+@10308 = ~Trefferpunkte um 20% erhÃ¶ht~
+@10309 = ~Angriffe pro Runde um 1 erhÃ¶ht~
+@10310 = ~Bereich fÃ¼r kritische Treffer um 1 erhÃ¶ht~
 @20101 = ~Rhialtos Chaosstrom~
-@20102 = ~Rhialtos Chaosstrom* (Veränderung)
+@20102 = ~Rhialtos Chaosstrom* (VerÃ¤nderung)
 Rang: 1
 Reichweite: 0
 Wirkungsdauer: Augenblicklich
@@ -19,20 +19,20 @@ Zeitaufwand: 2 Runden
 Wirkungsbereich: Der Zaubernde
 Rettungswurf: Nein
 
-Dieser seltsame Zauberspruch stammt aus Rhialtos Zauberbuch. Rhialto verbrachte Dekaden damit, die unbändige Magie zu erforschen. Das Resultat dieser Forschungen ist ein Spruch, der ermöglicht eine neue Art von Zaubern zu erlernen, die mehr nach Rhialtos Geschmack war.
+Dieser seltsame Zauberspruch stammt aus Rhialtos Zauberbuch. Rhialto verbrachte Dekaden damit, die unbÃ¤ndige Magie zu erforschen. Das Resultat dieser Forschungen ist ein Spruch, der ermÃ¶glicht eine neue Art von Zaubern zu erlernen, die mehr nach Rhialtos Geschmack war.
 
-Rhialtos Chaosstrom erzeugt eine Verbindung zwischen dem Zaubernden und Limbo, der Ebene des Chaos. Durch diese Verbindung wird rohe chaotische Energie in den Körper des Zaubernden geleitet. Sinn dieser Prozedur ist es den Geist für eine Alternative Art des Zauberns zu öffnen.
+Rhialtos Chaosstrom erzeugt eine Verbindung zwischen dem Zaubernden und Limbo, der Ebene des Chaos. Durch diese Verbindung wird rohe chaotische Energie in den KÃ¶rper des Zaubernden geleitet. Sinn dieser Prozedur ist es den Geist fÃ¼r eine Alternative Art des Zauberns zu Ã¶ffnen.
 
-Obwohl die Ausführung dieses Spruches einfach genug ist um ihn als Spruch des 1. Grades verfügbar zu machen, ist seine innere Struktur doch unglaublich komplex und währe angemessen für einen Spruch des 9. oder 10. Grades, vielleicht sogar höher. Verantwortlich für diesen bemerkenswerten Widerspruch scheint die chaotische Natur des Zauberspruchs zu sein.
+Obwohl die AusfÃ¼hrung dieses Spruches einfach genug ist um ihn als Spruch des 1. Grades verfÃ¼gbar zu machen, ist seine innere Struktur doch unglaublich komplex und wÃ¤hre angemessen fÃ¼r einen Spruch des 9. oder 10. Grades, vielleicht sogar hÃ¶her. Verantwortlich fÃ¼r diesen bemerkenswerten Widerspruch scheint die chaotische Natur des Zauberspruchs zu sein.
 
-Dieser Zauberspruch kann nur einmal gesprochen werden und sein Effekt ist unumkehrbar. Die Magiefähigkeiten des Zaubernden werden permanent zu einer intuitiveren Form hin verändert, und seine Persönlichkeit wird ähnlich beeinflußt.
+Dieser Zauberspruch kann nur einmal gesprochen werden und sein Effekt ist unumkehrbar. Die MagiefÃ¤higkeiten des Zaubernden werden permanent zu einer intuitiveren Form hin verÃ¤ndert, und seine PersÃ¶nlichkeit wird Ã¤hnlich beeinfluÃŸt.
 
-All diese Veränderungen werden nicht wirklich durch den Zauberspruch erzeugt, Rhialtos Chaosstrom befreit und verstärkt nur Tendenzen und Interessen die bereits vorhanden waren. Personen die in keiner Weise daran interessiert sind in den Genuß der versprochenen Fertigkeiten zu kommen, wären vollkommen immun gegen diesen Zauber. Allerdings würden solche Personen sowieso niemals auf die Idee kommen, einen derartigen Spruch zu sprechen.
+All diese VerÃ¤nderungen werden nicht wirklich durch den Zauberspruch erzeugt, Rhialtos Chaosstrom befreit und verstÃ¤rkt nur Tendenzen und Interessen die bereits vorhanden waren. Personen die in keiner Weise daran interessiert sind in den GenuÃŸ der versprochenen Fertigkeiten zu kommen, wÃ¤ren vollkommen immun gegen diesen Zauber. Allerdings wÃ¼rden solche Personen sowieso niemals auf die Idee kommen, einen derartigen Spruch zu sprechen.
 
-Egal ob Du darüber nachdenkst diesen Zauber zu sprechen oder nicht, eines ist gewiß: Wenn du es wagst, dann wird der Spruch Dich für immer verändern.~
-@20103 = ~Sprücheweber~
-@20111 = ~Nachdem Du diesen seltsamen Zauber gesprochen hast, fühlst Du wie sich dein Magieverständnis verändert. Einst hast Du versucht das Chaos um dich herum zu erforschen und ihm Deinen Willen aufzuzwingen. Du hast die unberechenbaren Gezeitenströme der unbändigen Magie zu deinen Gunsten genutzt. Jetzt spürst Du eine intuitive Beziehung zur Magie, Du fühlst das du fähig bist das Gewebe der Magie aufzuwickeln, es umzuformen, es in neue Formen zu "weben", Formen die nur durch deine Vorstellungskraft beschränkt sind.~
-@20112 = ~Du fühlst aber auch, daß dieser Zauber mehr verändert hat als nur deine Magiefertigkeiten. Irgendwie fühlt es sich an, als ob der Zauber einen Teil deiner Seele befreit hat, der bisher tief in Dir verborgen war. Da ist ein bißchen mehr Individualismus, Toleranz, Neugier, aber auch etwas weniger Disziplin und Fleiß. Alles in allem fühlt es sich aber richtig an, als ob es schon immer so hätte sein sollen. Es ist nicht wirklich wie eine Veränderung, mehr wie ein Erwachen aus einem langen, langen Traum.~
+Egal ob Du darÃ¼ber nachdenkst diesen Zauber zu sprechen oder nicht, eines ist gewiÃŸ: Wenn du es wagst, dann wird der Spruch Dich fÃ¼r immer verÃ¤ndern.~
+@20103 = ~SprÃ¼cheweber~
+@20111 = ~Nachdem Du diesen seltsamen Zauber gesprochen hast, fÃ¼hlst Du wie sich dein MagieverstÃ¤ndnis verÃ¤ndert. Einst hast Du versucht das Chaos um dich herum zu erforschen und ihm Deinen Willen aufzuzwingen. Du hast die unberechenbaren GezeitenstrÃ¶me der unbÃ¤ndigen Magie zu deinen Gunsten genutzt. Jetzt spÃ¼rst Du eine intuitive Beziehung zur Magie, Du fÃ¼hlst das du fÃ¤hig bist das Gewebe der Magie aufzuwickeln, es umzuformen, es in neue Formen zu "weben", Formen die nur durch deine Vorstellungskraft beschrÃ¤nkt sind.~
+@20112 = ~Du fÃ¼hlst aber auch, daÃŸ dieser Zauber mehr verÃ¤ndert hat als nur deine Magiefertigkeiten. Irgendwie fÃ¼hlt es sich an, als ob der Zauber einen Teil deiner Seele befreit hat, der bisher tief in Dir verborgen war. Da ist ein biÃŸchen mehr Individualismus, Toleranz, Neugier, aber auch etwas weniger Disziplin und FleiÃŸ. Alles in allem fÃ¼hlt es sich aber richtig an, als ob es schon immer so hÃ¤tte sein sollen. Es ist nicht wirklich wie eine VerÃ¤nderung, mehr wie ein Erwachen aus einem langen, langen Traum.~
 @20201 = ~Nager Form~
 @20202 = ~Rodent Form* (Alteration)
 Level: 1
@@ -45,7 +45,7 @@ Saving Throw: None
 This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points, and additional 2 points against missile weapons. Move speed is also slightly increased. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.
 
 Hopefully, the current revision of this spell does NOT change the caster's personality or mentality.~
-@20211 = ~Einer meiner Zauber hat sich verändert!~
+@20211 = ~Einer meiner Zauber hat sich verÃ¤ndert!~
 @20212 = ~lernte neuen Zauber: Ratatosk Form~
 @20301 = ~Ratatosk Form~
 @20302 = ~Ratatosk Shape* (Alteration)
@@ -63,7 +63,7 @@ Upon casting this spell, the mage is transformed into one of these little fellow
 The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.
 
 Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active.~
-@20401 = ~Zufälliger Zauber I~
+@20401 = ~ZufÃ¤lliger Zauber I~
 @20402 = ~Random Spell I* (Invocation/Evocation)
 Level: 1
 Range: 40 yards
@@ -95,9 +95,9 @@ Each single dagger does 1d4 points of piercing damage. At level 5, the daggers g
 The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.
 
 Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
-@20511 = ~"Klingensturm" wurde den Besonderen Fähigkeiten hinzugefügt~
-@20601 = ~Rhialtos Zufällige Geschosse~
-@20602 = ~Rhialtos Zufällige Geschosse* (Hervorrufung)
+@20511 = ~"Klingensturm" wurde den Besonderen FÃ¤higkeiten hinzugefÃ¼gt~
+@20601 = ~Rhialtos ZufÃ¤llige Geschosse~
+@20602 = ~Rhialtos ZufÃ¤llige Geschosse* (Hervorrufung)
 Rang: 2
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: Augenblicklich
@@ -105,13 +105,13 @@ Zeitaufwand: 1
 Wirkungsbereich: 1 Wesen
 Rettungswurf: Nein
 
-Dieser Zauber ist eine verbesserte, um einen Zufallseffekt erweiterte Version des 1.Rang Zaubers "Magisches Geschoss". Der Zauber erzeugt eine zufällige Anzahl an Geschossen, die aus den Fingerspitzen des Magiers schießen und das Wesen auf das er zeigt automatisch treffen.
+Dieser Zauber ist eine verbesserte, um einen Zufallseffekt erweiterte Version des 1.Rang Zaubers "Magisches Geschoss". Der Zauber erzeugt eine zufÃ¤llige Anzahl an Geschossen, die aus den Fingerspitzen des Magiers schieÃŸen und das Wesen auf das er zeigt automatisch treffen.
 
-Die konkrete Anzahl an Geschossen ist von der Erfahrungsstufe des Magiers abhängig: 1W4 bei Stufe 1, 1W6 bei Stufe 4, 1W8 bei Stufe 8 und 1W10 bei der 12ten Stufe.
+Die konkrete Anzahl an Geschossen ist von der Erfahrungsstufe des Magiers abhÃ¤ngig: 1W4 bei Stufe 1, 1W6 bei Stufe 4, 1W8 bei Stufe 8 und 1W10 bei der 12ten Stufe.
 
-Jedes Geschoss verursacht 1W4 Punkte Säure-, Kälte-, Feuer-, Blitz- oder Magieschaden. Die chaotische Natur der Geschosse bewirkt eine 25% Chance, daß evtl. Resistenzen die das Ziel hat umgangen werden, egal ob sie natürlicher oder magischer Natur sind.~
-@20701 = ~Glyphe der Unbändigen Magie~
-@20702 = ~Glyphe der Unbändigen Magie* (Hervorrufung)
+Jedes Geschoss verursacht 1W4 Punkte SÃ¤ure-, KÃ¤lte-, Feuer-, Blitz- oder Magieschaden. Die chaotische Natur der Geschosse bewirkt eine 25% Chance, daÃŸ evtl. Resistenzen die das Ziel hat umgangen werden, egal ob sie natÃ¼rlicher oder magischer Natur sind.~
+@20701 = ~Glyphe der UnbÃ¤ndigen Magie~
+@20702 = ~Glyphe der UnbÃ¤ndigen Magie* (Hervorrufung)
 
 Rang: 4
 Reichweite: 40 Meter
@@ -120,24 +120,24 @@ Zeitaufwand: 3
 Wirkungsbereich: 30 Meter Radius
 Rettungswurf: Speziell
 
-"Glyphe der Unbändigen Magie" ist eine mächtiges magisches Schriftzeichen das auf dem Boden oder einer beliebigen anderen Oberfläche aufgebracht wird. Dort verbleibt die Glyphe bis ihr jemand zu nahe kommt, woraufhin sie explodiert, und dabei für jedes Wesen innerhalb eines 30 Meter Radius eine Magiestörung hervorruft. Jede einzelne Magiestörung erzeugt eine Vielzahl an unbändigen Wogen die auf beliebige Wesen in der Nähe gerichtet sind. (Einschließlich dem Zaubernden, sollte er immer noch anwesend sein.)
+"Glyphe der UnbÃ¤ndigen Magie" ist eine mÃ¤chtiges magisches Schriftzeichen das auf dem Boden oder einer beliebigen anderen OberflÃ¤che aufgebracht wird. Dort verbleibt die Glyphe bis ihr jemand zu nahe kommt, woraufhin sie explodiert, und dabei fÃ¼r jedes Wesen innerhalb eines 30 Meter Radius eine MagiestÃ¶rung hervorruft. Jede einzelne MagiestÃ¶rung erzeugt eine Vielzahl an unbÃ¤ndigen Wogen die auf beliebige Wesen in der NÃ¤he gerichtet sind. (EinschlieÃŸlich dem Zaubernden, sollte er immer noch anwesend sein.)
 
-Für alle 10 Erfahrungsstufen des Zaubernden, bleiben die Magiestörungen eine Runde erhalten. Es ist allerdings möglich durch physischen oder magischen Mitteln eine Gegenstörung zu verursachen welche die Magiestörung früher beseitigt.
+FÃ¼r alle 10 Erfahrungsstufen des Zaubernden, bleiben die MagiestÃ¶rungen eine Runde erhalten. Es ist allerdings mÃ¶glich durch physischen oder magischen Mitteln eine GegenstÃ¶rung zu verursachen welche die MagiestÃ¶rung frÃ¼her beseitigt.
 
-Natürlich ist das Ergebnis dieses Zaubers vollkommen zufällig. Die Opfer können durch die unbändigen Wogen sowohl gestärkt als auch völlig vernichtet werden. Je größer die Anzahl der Wesen innerhalb des Wirkungsbereichs, desto chaotischer ist das Ergebnis, und desto höher ist die Wahrscheinlichkeit, daß die Glyphe  sehr viel Schaden verursacht.~
-@20711 = ~Magiestörung~
+NatÃ¼rlich ist das Ergebnis dieses Zaubers vollkommen zufÃ¤llig. Die Opfer kÃ¶nnen durch die unbÃ¤ndigen Wogen sowohl gestÃ¤rkt als auch vÃ¶llig vernichtet werden. Je grÃ¶ÃŸer die Anzahl der Wesen innerhalb des Wirkungsbereichs, desto chaotischer ist das Ergebnis, und desto hÃ¶her ist die Wahrscheinlichkeit, daÃŸ die Glyphe  sehr viel Schaden verursacht.~
+@20711 = ~MagiestÃ¶rung~
 @20801 = ~Gymlainacs Lichtbrechung~
-@20802 = ~Gymlainacs Lichtbrechung* (Veränderung)
+@20802 = ~Gymlainacs Lichtbrechung* (VerÃ¤nderung)
 Rang: 3
-Reichweite: Berührung
+Reichweite: BerÃ¼hrung
 Wirkungsdauer: 5 Runden + 1 Runde/Stufe
 Zeitaufwand: 3
 Wirkungsbereich: 1 Wesen
 Rettungswurf: Nein
 
-Dieser Zauber wurde vom Hasardeur Gymlainac entwickelt als er versuchte eine neue, auf unbändige Magie abgestimmte, Version von "Unsichtbarkeit" zu erschaffen.
+Dieser Zauber wurde vom Hasardeur Gymlainac entwickelt als er versuchte eine neue, auf unbÃ¤ndige Magie abgestimmte, Version von "Unsichtbarkeit" zu erschaffen.
 
-Rund um den Empfänger dieses Zaubers werden die Lichtwellen gebogen, was einen Effekt erzeugt der dem 2. Rang Spruch "Verschwimmen" und einem Mantel der Verschiebung sehr ähnlich ist. Die Form des Empfängers verschwimmt und schwankt (Unabhängig ob der Empfänger sich wirklich bewegt oder nicht) wodurch es sehr schwierig wird ihn zu treffen. Wenn der Zauber gesprochen wird, erhält der Empfänger einen 2W4 Bonus auf die Rüstungsklasse und einen 1W4 auf die Rettungswürfe. Da der Zauber keine Illusion erzeugt, sondern tatsächlich den Raum rund um den Empfänger verändert, kann der Gymlainacs Lichtbrechung nicht durch Erkenntniszauber aufgelöst werden.~
+Rund um den EmpfÃ¤nger dieses Zaubers werden die Lichtwellen gebogen, was einen Effekt erzeugt der dem 2. Rang Spruch "Verschwimmen" und einem Mantel der Verschiebung sehr Ã¤hnlich ist. Die Form des EmpfÃ¤ngers verschwimmt und schwankt (UnabhÃ¤ngig ob der EmpfÃ¤nger sich wirklich bewegt oder nicht) wodurch es sehr schwierig wird ihn zu treffen. Wenn der Zauber gesprochen wird, erhÃ¤lt der EmpfÃ¤nger einen 2W4 Bonus auf die RÃ¼stungsklasse und einen 1W4 auf die RettungswÃ¼rfe. Da der Zauber keine Illusion erzeugt, sondern tatsÃ¤chlich den Raum rund um den EmpfÃ¤nger verÃ¤ndert, kann der Gymlainacs Lichtbrechung nicht durch Erkenntniszauber aufgelÃ¶st werden.~
 @20901 = ~Gemeines Wort der Zwietracht~
 @20902 = ~Gemeines Wort der Zwietracht* (Bezauberung/Verzauberung)
 Rang: 3
@@ -147,19 +147,19 @@ Zeitaufwand: 3
 Wirkungsbereich: 30 Meter Radius
 Rettungswurf: Speziell
 
-Dieser Zauber, eine Kombination aus magischem Bauchreden und Verwirrungszaubern, ist wahre Essenz der Zwietracht, mit dem Potential nicht nur Formationen aufzulösen sondern auch Bündnisse und Freundschaften zu zerstören.
+Dieser Zauber, eine Kombination aus magischem Bauchreden und Verwirrungszaubern, ist wahre Essenz der Zwietracht, mit dem Potential nicht nur Formationen aufzulÃ¶sen sondern auch BÃ¼ndnisse und Freundschaften zu zerstÃ¶ren.
 
-Der Zaubernde sucht sich ein Wesen als Ziel aus, das dann scheinbar damit anfängt, Beleidigungen in einer seltsamen, finsteren Sprache zu schreien. Die Überraschung, die Unerwartete Quelle der Beleidigungen und die Magie die sich hinter den Worten versteckt trifft alle Anwesenden völlig unvorbereitet.
+Der Zaubernde sucht sich ein Wesen als Ziel aus, das dann scheinbar damit anfÃ¤ngt, Beleidigungen in einer seltsamen, finsteren Sprache zu schreien. Die Ãœberraschung, die Unerwartete Quelle der Beleidigungen und die Magie die sich hinter den Worten versteckt trifft alle Anwesenden vÃ¶llig unvorbereitet.
 
-Jeder in 30 Meter Umkreis um das als Ziel ausgesuchte Wesen, muss einen Rettungswurf gegen Zauber mit -4 Abzug schaffen, oder steht für 2 Runden unter einem der folgenden Effekte: Nächstbestes Wesen angreifen, Panisch die Flucht ergreifen, Verwirrt herumstehen, sich mit dem Zaubernden verbünden oder unkontrollierbar herum stolpern. Zusätzlich besteht eine 20% Chance daß einige der Opfer zufällige Ausrüstungsteile fallen lassen.
+Jeder in 30 Meter Umkreis um das als Ziel ausgesuchte Wesen, muss einen Rettungswurf gegen Zauber mit -4 Abzug schaffen, oder steht fÃ¼r 2 Runden unter einem der folgenden Effekte: NÃ¤chstbestes Wesen angreifen, Panisch die Flucht ergreifen, Verwirrt herumstehen, sich mit dem Zaubernden verbÃ¼nden oder unkontrollierbar herum stolpern. ZusÃ¤tzlich besteht eine 20% Chance daÃŸ einige der Opfer zufÃ¤llige AusrÃ¼stungsteile fallen lassen.
 
-Der Zauber beeinflußt die Verbündeten des Zaubernden ebenso wie seine Feinde, nur der Zaubernde und das Wesen das ursprünglich Ziel des Zaubers war sind immun gegen die Effekte.
+Der Zauber beeinfluÃŸt die VerbÃ¼ndeten des Zaubernden ebenso wie seine Feinde, nur der Zaubernde und das Wesen das ursprÃ¼nglich Ziel des Zaubers war sind immun gegen die Effekte.
 
-Üblicherweise kann der Zauber nicht mit dem Zaubernden in Verbindung gebracht werden: Die einzige Person die eventuell den Ärger der Opfer ertragen muss ist das ursprüngliche Ziel des Zaubers.~
-@21001 = ~Zelluläre Regeneration~
-@21002 = ~Zelluläre Regeneration* (Nekromantie)
+Ãœblicherweise kann der Zauber nicht mit dem Zaubernden in Verbindung gebracht werden: Die einzige Person die eventuell den Ã„rger der Opfer ertragen muss ist das ursprÃ¼ngliche Ziel des Zaubers.~
+@21001 = ~ZellulÃ¤re Regeneration~
+@21002 = ~ZellulÃ¤re Regeneration* (Nekromantie)
 Rang: 4
-Reichweite: Berührung
+Reichweite: BerÃ¼hrung
 Wirkungsdauer: 6 Runden
 Zeitaufwand: 4
 Wirkungsbereich: Ein Wesen
@@ -167,7 +167,7 @@ Rettungswurf: Nein
 
 Indem ein Strang des magischen Gewebes umgeformt wird, bis es jenen Mustern entspricht, die durch die Heilzauber eines Priesters erzeugt werden, kann der Hasardeur bewirken was undenkbar schien: ein Magierspruch der Wunden heilt.
 
-Zelluläre Regeneration erhöht die Wachstumsrate der verschiedenen Körpergewebe, wodurch das Schließen von Wunden beschleunigt wird. Nachdem der Empfänger berührt wurde beginnt der Zauber zu wirken und heilt Schaden entsprechend der folgenden Tabelle:
+ZellulÃ¤re Regeneration erhÃ¶ht die Wachstumsrate der verschiedenen KÃ¶rpergewebe, wodurch das SchlieÃŸen von Wunden beschleunigt wird. Nachdem der EmpfÃ¤nger berÃ¼hrt wurde beginnt der Zauber zu wirken und heilt Schaden entsprechend der folgenden Tabelle:
 
 Runde  Heilung
 ------------------
@@ -178,7 +178,7 @@ Runde  Heilung
 5           1W4
 6           1
 
-Der Regenerationsprozess erzeugt einen derartigen Streß für den Körper, daß der Empfänger für die Dauer des Zaubers ohnmächtig bleibt und für eine Stunde einen Punkt an Konstitution verliert.~
+Der Regenerationsprozess erzeugt einen derartigen StreÃŸ fÃ¼r den KÃ¶rper, daÃŸ der EmpfÃ¤nger fÃ¼r die Dauer des Zaubers ohnmÃ¤chtig bleibt und fÃ¼r eine Stunde einen Punkt an Konstitution verliert.~
 @21101 = ~Wirbel~
 @21102 = ~Wirbel* (Hervorrufung)
 Rang: 5
@@ -188,50 +188,50 @@ Zeitaufwand: 5
 Wirkungsbereich: Kugel mit 2 Meter Durchmesser
 Rettungswurf: 1/2
 
-Ein Wirbel ist eine herumwirbelnde Masse magischer Energie die nur teilweise unter der Kontrolle des Zaubernden steht. Nachdem der Zauber gesprochen wurde, erscheint der Wirbel in Form einer mannshohen vielfarbigen Kugel. Von diesem Moment an muss der Zaubernde sich ständig darauf konzentrieren, die Kontrolle über den Wirbel zu behalten.
+Ein Wirbel ist eine herumwirbelnde Masse magischer Energie die nur teilweise unter der Kontrolle des Zaubernden steht. Nachdem der Zauber gesprochen wurde, erscheint der Wirbel in Form einer mannshohen vielfarbigen Kugel. Von diesem Moment an muss der Zaubernde sich stÃ¤ndig darauf konzentrieren, die Kontrolle Ã¼ber den Wirbel zu behalten.
 
 Der Wirbel kann mit einer Geschwindigkeit von ca. 20 Meter pro Runde bewegt werden, allerdings ist die Kontrolle nicht perfekt, wenn der Zaubernde sich auch nur einen Moment nicht ausreichend konzentriert, bewegt sich der Wirbel von alleine weiter.
 
-Der Wirbel besteht aus roher magischer Energie. Einmal pro Runde fügt er jedem Wesen in seiner Nähe 2W6 punkte an Lähmungs-, Blitz-, und Magieschaden zu. Schafft ein betroffenes Wesen einen Rettungswurf gegen Zauber wird der Schaden halbiert.
+Der Wirbel besteht aus roher magischer Energie. Einmal pro Runde fÃ¼gt er jedem Wesen in seiner NÃ¤he 2W6 punkte an LÃ¤hmungs-, Blitz-, und Magieschaden zu. Schafft ein betroffenes Wesen einen Rettungswurf gegen Zauber wird der Schaden halbiert.
 
-Die Wirkungsdauer ist 3 Runden bis zu Stufe 10 plus eine Runde für jede Stufe darüber, bis hin zu 15 Runden bei Stufe 34. Der Zaubernde ist für die gesamte Dauer des Zaubers fest an die Stelle gebannt. Es besteht keine Möglichkeit diesen Effekt vorzeitig zu unterbrechen, selbst wenn der Zaubernde vollständig die Kontrolle über den Wirbel verloren hat.~
+Die Wirkungsdauer ist 3 Runden bis zu Stufe 10 plus eine Runde fÃ¼r jede Stufe darÃ¼ber, bis hin zu 15 Runden bei Stufe 34. Der Zaubernde ist fÃ¼r die gesamte Dauer des Zaubers fest an die Stelle gebannt. Es besteht keine MÃ¶glichkeit diesen Effekt vorzeitig zu unterbrechen, selbst wenn der Zaubernde vollstÃ¤ndig die Kontrolle Ã¼ber den Wirbel verloren hat.~
 @21103 = ~~ [wizeye01]
 @21104 = ~~ [wizeye02]
-@21201 = ~Paithans Glückssträhne~
-@21202 = ~Paithans Glückssträhne* (Bezauberung/Verzauberung)
+@21201 = ~Paithans GlÃ¼cksstrÃ¤hne~
+@21202 = ~Paithans GlÃ¼cksstrÃ¤hne* (Bezauberung/Verzauberung)
 Rang: 5
-Reichweite: Berührung
+Reichweite: BerÃ¼hrung
 Wirkungsdauer: Speziell
 Zeitaufwand: 5
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Nein
 
-Der Empfänger dieses extrem mächtigen Zaubers kommt in den Genuß einer Glückssträhne. Er erhält 1W8 Glückspunkte als Bonus auf alle Aktionen. Das betrifft z.B. Trefferwürfe, Rettungswürfe, Würfe auf Diebesfertigkeiten usw.) Zusätzlich wird dieser Bonus verdoppelt und auf Würfe auf die Tabelle für die Unbändige Woge angerechnet.
+Der EmpfÃ¤nger dieses extrem mÃ¤chtigen Zaubers kommt in den GenuÃŸ einer GlÃ¼cksstrÃ¤hne. Er erhÃ¤lt 1W8 GlÃ¼ckspunkte als Bonus auf alle Aktionen. Das betrifft z.B. TrefferwÃ¼rfe, RettungswÃ¼rfe, WÃ¼rfe auf Diebesfertigkeiten usw.) ZusÃ¤tzlich wird dieser Bonus verdoppelt und auf WÃ¼rfe auf die Tabelle fÃ¼r die UnbÃ¤ndige Woge angerechnet.
 
-Am Ende jeder Runde wird ein W20 Wurf gemacht, um festzustellen ob der Zauber endet. Wird eine 2 oder höher geworfen, wird ein neuer 1W8 Bonus ermittelt, und der Zauber dauert eine weitere Runde an.
+Am Ende jeder Runde wird ein W20 Wurf gemacht, um festzustellen ob der Zauber endet. Wird eine 2 oder hÃ¶her geworfen, wird ein neuer 1W8 Bonus ermittelt, und der Zauber dauert eine weitere Runde an.
 
-Wird eine 1 geworfen, besteht noch immer eine 25% Chance daß der Zauber weiter geht: Ist das Resultat eines zweiten W20 Wurf 16 oder höher, dann geht der Zauber nicht nur weiter, die nächste Runde ist auch eine "Glückspilz" Runde, in der der Empfänger nicht nur 8 Punkte an Glücksbonus bekommt, sondern dank übernatürlichem Glück auch vor Tod, Lebenskraftentzug und jeglicher Behinderung der Bewegungsfreiheit geschützt ist.
+Wird eine 1 geworfen, besteht noch immer eine 25% Chance daÃŸ der Zauber weiter geht: Ist das Resultat eines zweiten W20 Wurf 16 oder hÃ¶her, dann geht der Zauber nicht nur weiter, die nÃ¤chste Runde ist auch eine "GlÃ¼ckspilz" Runde, in der der EmpfÃ¤nger nicht nur 8 Punkte an GlÃ¼cksbonus bekommt, sondern dank Ã¼bernatÃ¼rlichem GlÃ¼ck auch vor Tod, Lebenskraftentzug und jeglicher Behinderung der Bewegungsfreiheit geschÃ¼tzt ist.
 
 Solange der Zauber nicht durch "Pech" (1 auf W20 dann 15 oder weniger auf W20) beendet wird, ist seine Wirkungsdauer unendlich.~
 @21301 = ~Paithans Fiasko~
 @21302 = ~Paithans Fiasko* (Bezauberung/Verzauberung)
 Rang: 6
-Reichweite: Berührung
+Reichweite: BerÃ¼hrung
 Wirkungsdauer: Speziell
 Zeitaufwand: 5
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Nein
 
-Paithans Fiasko ist die Umkehrversion des 5.Rang Spruchs Paithans Glückssträhne. Das Ziel, üblicherweise ein Gegner, erleidet eine übernatürliche Pechsträhne. Das Opfer erhält 1W8 Pechpunkte als Abzug auf alle Aktionen. Das betrifft z.B. Trefferwürfe, Rettungswürfe, Würfe auf Diebesfertigkeiten usw.) Zusätzlich wird dieser Abzug verdoppelt von Würfen auf der Tabelle für die Unbändige Woge abgezogen.
+Paithans Fiasko ist die Umkehrversion des 5.Rang Spruchs Paithans GlÃ¼cksstrÃ¤hne. Das Ziel, Ã¼blicherweise ein Gegner, erleidet eine Ã¼bernatÃ¼rliche PechstrÃ¤hne. Das Opfer erhÃ¤lt 1W8 Pechpunkte als Abzug auf alle Aktionen. Das betrifft z.B. TrefferwÃ¼rfe, RettungswÃ¼rfe, WÃ¼rfe auf Diebesfertigkeiten usw.) ZusÃ¤tzlich wird dieser Abzug verdoppelt von WÃ¼rfen auf der Tabelle fÃ¼r die UnbÃ¤ndige Woge abgezogen.
 
 Am Ende jeder Runde wird ein W20 Wurf gemacht, um festzustellen ob der Zauber endet. Wird eine 19 oder tiefer geworfen, wird ein neuer 1W8 Wert ermittelt, und der Zauber dauert eine weitere Runde an.
 
-Wird eine 20 geworfen, besteht noch immer eine 25% Chance daß der Zauber weiter geht: Ist das Resultat eines zweiten W20 Wurf 5 oder niedriger, dann geht der Zauber nicht nur weiter, die nächste Runde ist auch eine "Fiasko" Runde, in der der Pechabzug 8 Punkte beträgt und das Opfer zudem eines der folgenden Dinge passiert: Stolpern und für zwei Runden zu Boden fallen,  Wegen eines plötzlichen Krampfs die Waffen fallen lassen,  Durch einem extremen Parrierfehler alle Attacken für diese Runde verlieren,  Sich selbst 1W20 Schaden zufügen,  Für drei Runden geblendet werden, weil Splitter der eigenen Waffe ins Auge geraten sind.
+Wird eine 20 geworfen, besteht noch immer eine 25% Chance daÃŸ der Zauber weiter geht: Ist das Resultat eines zweiten W20 Wurf 5 oder niedriger, dann geht der Zauber nicht nur weiter, die nÃ¤chste Runde ist auch eine "Fiasko" Runde, in der der Pechabzug 8 Punkte betrÃ¤gt und das Opfer zudem eines der folgenden Dinge passiert: Stolpern und fÃ¼r zwei Runden zu Boden fallen,  Wegen eines plÃ¶tzlichen Krampfs die Waffen fallen lassen,  Durch einem extremen Parrierfehler alle Attacken fÃ¼r diese Runde verlieren,  Sich selbst 1W20 Schaden zufÃ¼gen,  FÃ¼r drei Runden geblendet werden, weil Splitter der eigenen Waffe ins Auge geraten sind.
 
-Solange der Zauber nicht durch "Glück" (20 auf W20 dann 6 oder mehr auf W20) beendet wird, ist seine Wirkungsdauer unendlich.~
+Solange der Zauber nicht durch "GlÃ¼ck" (20 auf W20 dann 6 oder mehr auf W20) beendet wird, ist seine Wirkungsdauer unendlich.~
 @21311 = ~Fiasko~
-@21401 = ~Unbändiger Schlag~
-@21402 = ~Unbändiger Schlag* (Hervorrufung/Anrufung)
+@21401 = ~UnbÃ¤ndiger Schlag~
+@21402 = ~UnbÃ¤ndiger Schlag* (Hervorrufung/Anrufung)
 Rang: 6
 Reichweite: 30 Meter
 Wirkungsdauer: 1-15 Runden
@@ -239,13 +239,13 @@ Zeitaufwand: 3
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Keine Wirkung
 
-Dieser Zauber wird primär gegen feindliche Zauberkundige benutzt. Er verzerrt sämtliche Versuche Magie zu wirken, wobei Spruchenergie in Unbändige Wogen konvertiert wird. Das Opfer eines Unbändigen Schlags darf einen Rettungswurf gegen Zauber machen, auf den für alle 10 Stufen des Zaubernden ein -1 Malus angerechnet wird. Ist der Rettungswurf erfolgreich hat der Zauber keinen Effekt. Schlagt der Rettungswurf fehl ist das Opfer in einem Feld Unbändiger Magie eingeschlossen.
+Dieser Zauber wird primÃ¤r gegen feindliche Zauberkundige benutzt. Er verzerrt sÃ¤mtliche Versuche Magie zu wirken, wobei Spruchenergie in UnbÃ¤ndige Wogen konvertiert wird. Das Opfer eines UnbÃ¤ndigen Schlags darf einen Rettungswurf gegen Zauber machen, auf den fÃ¼r alle 10 Stufen des Zaubernden ein -1 Malus angerechnet wird. Ist der Rettungswurf erfolgreich hat der Zauber keinen Effekt. Schlagt der Rettungswurf fehl ist das Opfer in einem Feld UnbÃ¤ndiger Magie eingeschlossen.
 
-Jeder Versuch einen Spruch zu wirken oder ein magisches Objekt zu benutzen, erzeugt automatisch eine Unbändige Woge. Um den Effekt der Woge zu bestimmen wird vom Wurf auf der Tabelle für Unbändige Wogen für alle 5 Stufen des Zaubernden 5 abgezogen, wodurch es wahrscheinlicher wird, daß die Unbändige Woge hauptsächlich das Opfer trifft.
+Jeder Versuch einen Spruch zu wirken oder ein magisches Objekt zu benutzen, erzeugt automatisch eine UnbÃ¤ndige Woge. Um den Effekt der Woge zu bestimmen wird vom Wurf auf der Tabelle fÃ¼r UnbÃ¤ndige Wogen fÃ¼r alle 5 Stufen des Zaubernden 5 abgezogen, wodurch es wahrscheinlicher wird, daÃŸ die UnbÃ¤ndige Woge hauptsÃ¤chlich das Opfer trifft.
 
 Die Wirkungsdauer ist 1 Runde plus zwei Runden pro 5 Erfahrungsstufen des Zaubernden, bis hin zu einem Maximum von 15 Runden bei Stufe 35.~
-@21501 = ~Hornungs zufälliger Entsender~
-@21502 = ~Hornungs zufälliger Entsender* (Veränderung)
+@21501 = ~Hornungs zufÃ¤lliger Entsender~
+@21502 = ~Hornungs zufÃ¤lliger Entsender* (VerÃ¤nderung)
 Rang: 7
 Reichweite: 30 Meter
 Wirkungsdauer: Augenblicklich
@@ -253,9 +253,9 @@ Zeitaufwand: 2
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Keine Wirkung
 
-Mit nur ein paar Worten kann dieser Zauber jemanden in eine zufällige Dimension schleudern, und dort lassen. Das Opfer hat einen Rettungswurf gegen Zauber, ist dieser erfolgreich schlägt der Zauber fehl. Ansonsten wird das Opfer und sämtliche Gegenstände die es bei sich trägt in eine zufällige Dimension gesandt.
+Mit nur ein paar Worten kann dieser Zauber jemanden in eine zufÃ¤llige Dimension schleudern, und dort lassen. Das Opfer hat einen Rettungswurf gegen Zauber, ist dieser erfolgreich schlÃ¤gt der Zauber fehl. Ansonsten wird das Opfer und sÃ¤mtliche GegenstÃ¤nde die es bei sich trÃ¤gt in eine zufÃ¤llige Dimension gesandt.
 
-Der Zaubernde hat keine Kontrolle darüber wohin das Opfer gesandt wird. Die Umgebungsbedingungen können das Opfer sofort töten (z.B. bei der Ankunft in der Elementarebene des Feuers), nur sein Leben schwer machen oder ihm ein neues Leben im Paradies gewähren (wortwörtlich).
+Der Zaubernde hat keine Kontrolle darÃ¼ber wohin das Opfer gesandt wird. Die Umgebungsbedingungen kÃ¶nnen das Opfer sofort tÃ¶ten (z.B. bei der Ankunft in der Elementarebene des Feuers), nur sein Leben schwer machen oder ihm ein neues Leben im Paradies gewÃ¤hren (wortwÃ¶rtlich).
 
 Wie auch immer, ist dieser Zauber erfolgreich, ist der Zaubernde das Opfer los, und es ist sehr unwahrscheinlich das sich die beiden jemals wieder treffen.~
 @21511 = ~gesandt in die Abyss~
@@ -264,24 +264,24 @@ Wie auch immer, ist dieser Zauber erfolgreich, ist der Zaubernde das Opfer los, 
 @21514 = ~gesandt in die Welt bekannt als Athas~
 @21515 = ~gesandt nach Arcadia~
 @21516 = ~gesandt in die Astral Ebene~
-@21517 = ~gesandt in die Ewigen Jagdgründe~
+@21517 = ~gesandt in die Ewigen JagdgrÃ¼nde~
 @21518 = ~gesandt nach Sigil~
 @21519 = ~gesandt in die Elementarebene der Luft~
 @21520 = ~gesandt in die Elementarebene des Feuers~
 @21521 = ~gesandt in die Elementarebene der Erde~
 @21522 = ~gesandt in die Elementarebene des Wassers~
 @21523 = ~gesandt nach Elysium~
-@21524 = ~gesandt in die Ätherische Ebene~
+@21524 = ~gesandt in die Ã„therische Ebene~
 @21525 = ~gesandt nach Gehenna~
 @21526 = ~gesandt nach Gladsheim~
-@21527 = ~gesandt in das Graue Ödland~
+@21527 = ~gesandt in das Graue Ã–dland~
 @21528 = ~gesandt nach Limbo~
 @21529 = ~gesandt in die Ebene Negativer Materie~
 @21530 = ~gesandt in die Quasi-Ebene des Vakuums~
 @21531 = ~gesandt in die Quasi-Ebene der Asche~
 @21532 = ~gesandt in die Quasi-Ebene des Staubs~
 @21533 = ~gesandt in die Quasi-Ebene des Salzes~
-@21534 = ~gesandt in die Neun Höllen~
+@21534 = ~gesandt in die Neun HÃ¶llen~
 @21535 = ~gesandt nach Nirvana~
 @21536 = ~gesandt nach Olympus~
 @21537 = ~gesandt nach Pandemonium~
@@ -299,7 +299,7 @@ Wie auch immer, ist dieser Zauber erfolgreich, ist der Zaubernde das Opfer los, 
 @21549 = ~gesandt in den Tarterus~
 @21550 = ~gesandt in die Zwillings Paradiese~
 @21601 = ~Kuhruf~
-@21602 = ~Kuhruf* (Herbeirufung/Beschwörung)
+@21602 = ~Kuhruf* (Herbeirufung/BeschwÃ¶rung)
 Rang: 7
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: Augenblicklich
@@ -307,21 +307,21 @@ Zeitaufwand: 3
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Speziell
 
-Dieser Zauber ruft eine Kuh herbei, die in der Luft 50-200 Meter über dem Opfer materialisiert. Die exakte Höhe ist abhängig von der Stufe des Zaubernden, und bestimmt den Schaden der dem Opfer zugefügt wird.
+Dieser Zauber ruft eine Kuh herbei, die in der Luft 50-200 Meter Ã¼ber dem Opfer materialisiert. Die exakte HÃ¶he ist abhÃ¤ngig von der Stufe des Zaubernden, und bestimmt den Schaden der dem Opfer zugefÃ¼gt wird.
 
-Sofort nachdem es erschienen ist, fällt das Tier auf das Opfer. Sowohl der Aufprall, als auch der Sturz zu Boden bewirken Schaden entsprechend  3W10 + 1W10 für alle drei Stufen des Zaubernden, bis zu einem Maximum von zweimal 10W10 Schadenspunkten bei der 21. Erfahrungsstufe. Es gibt keinen Rettungswurf, gegen den Aufprall, allerdings kann ein sehr glückliches oder bewegliches Individuum vermeiden durch den Sturz zusätzlichen Schaden zu nehmen.
+Sofort nachdem es erschienen ist, fÃ¤llt das Tier auf das Opfer. Sowohl der Aufprall, als auch der Sturz zu Boden bewirken Schaden entsprechend  3W10 + 1W10 fÃ¼r alle drei Stufen des Zaubernden, bis zu einem Maximum von zweimal 10W10 Schadenspunkten bei der 21. Erfahrungsstufe. Es gibt keinen Rettungswurf, gegen den Aufprall, allerdings kann ein sehr glÃ¼ckliches oder bewegliches Individuum vermeiden durch den Sturz zusÃ¤tzlichen Schaden zu nehmen.
 
-Überlebt das Opfer den Aufprall, besteht eine 10% Chance daß das Opfer zufällige Ausrüstungsgegenstände fallen läßt wenn es stürzt. Diese Chance erhöht sich um weitere 10% für alle drei Erfahrungsstufen des Zaubernden, bis hin zu einer Maximalchance von 80% bei Stufe 21. Es gibt keinen Rettungswurf gegen diesen Effekt.
+Ãœberlebt das Opfer den Aufprall, besteht eine 10% Chance daÃŸ das Opfer zufÃ¤llige AusrÃ¼stungsgegenstÃ¤nde fallen lÃ¤ÃŸt wenn es stÃ¼rzt. Diese Chance erhÃ¶ht sich um weitere 10% fÃ¼r alle drei Erfahrungsstufen des Zaubernden, bis hin zu einer Maximalchance von 80% bei Stufe 21. Es gibt keinen Rettungswurf gegen diesen Effekt.
 
-Zuletzt ist die gesamte Situation so verwirrend und beängstigend, daß das Opfer einen Rettungswurf gegen Zauber bestehen muss, oder für drei Runden panisch flieht. Der Rettungswurf beginnt mit einem +2 Bonus der für alle drei Stufen des Zaubernden um 1 verringert wird, bis hin zu einem -5 Abzug bei Stufe 21.
+Zuletzt ist die gesamte Situation so verwirrend und beÃ¤ngstigend, daÃŸ das Opfer einen Rettungswurf gegen Zauber bestehen muss, oder fÃ¼r drei Runden panisch flieht. Der Rettungswurf beginnt mit einem +2 Bonus der fÃ¼r alle drei Stufen des Zaubernden um 1 verringert wird, bis hin zu einem -5 Abzug bei Stufe 21.
 
 
 Warnung:
-Im Prinzip ist dieser Zauber nichts weiter als die kontrollierte Freisetzung einer spezifischen Unbändigen Woge. Von daher besteht eine gewisse Chance auf ungewollte Nebeneffekte.
+Im Prinzip ist dieser Zauber nichts weiter als die kontrollierte Freisetzung einer spezifischen UnbÃ¤ndigen Woge. Von daher besteht eine gewisse Chance auf ungewollte Nebeneffekte.
 
-Es wird außerdem dringendst davon abgeraten, diesen Zauberspruch in Gegenwart von Waldläufern oder Druiden zu benutzen.~
-@21701 = ~Mynocs Unbändige Erholung~
-@21702 = ~Mynocs Unbändige Erholung* (Hervorrufung)
+Es wird auÃŸerdem dringendst davon abgeraten, diesen Zauberspruch in Gegenwart von WaldlÃ¤ufern oder Druiden zu benutzen.~
+@21701 = ~Mynocs UnbÃ¤ndige Erholung~
+@21702 = ~Mynocs UnbÃ¤ndige Erholung* (Hervorrufung)
 Rang: 8
 Reichweite: 0
 Wirkungsdauer: Augenblicklich
@@ -329,9 +329,9 @@ Zeitaufwand: 10
 Wirkungsbereich: Der Zaubernde
 Rettungswurf: Nein
 
-Durch das wirken dieses Zaubers setzt der Hasardeur rohe magische Energie in Form einer unbändigen Woge frei. Schafft er es die Woge zu kontrollieren, kann er 1W4 Zauber die er bereits eingesetzt hat erneut benutzen. Wurden bisher noch keine Zauber benutzt passiert nichts, und der Spruch ist verschwendet.
+Durch das wirken dieses Zaubers setzt der Hasardeur rohe magische Energie in Form einer unbÃ¤ndigen Woge frei. Schafft er es die Woge zu kontrollieren, kann er 1W4 Zauber die er bereits eingesetzt hat erneut benutzen. Wurden bisher noch keine Zauber benutzt passiert nichts, und der Spruch ist verschwendet.
 
-Um das Ergebnis der Unbändigen Woge zu bestimmen, erhält der Hasardeur einen +40 Bonus auf Würfe auf der Tabelle für die Unbändige Woge, wodurch es sehr wahrscheinlich wird, das der Zauber zumindest einen positiven Effekt hat. Mynocs Unbändige Erholung kann nur Zauber des 7. oder eines niedrigeren Rangs wiederherstellen.~
+Um das Ergebnis der UnbÃ¤ndigen Woge zu bestimmen, erhÃ¤lt der Hasardeur einen +40 Bonus auf WÃ¼rfe auf der Tabelle fÃ¼r die UnbÃ¤ndige Woge, wodurch es sehr wahrscheinlich wird, das der Zauber zumindest einen positiven Effekt hat. Mynocs UnbÃ¤ndige Erholung kann nur Zauber des 7. oder eines niedrigeren Rangs wiederherstellen.~
 @21711 = ~1 Zauber wiederhergestellt~
 @21712 = ~2 Zauber wiederhergestellt~
 @21713 = ~3 Zauber wiederhergestellt~
@@ -345,13 +345,13 @@ Zeitaufwand: 5
 Wirkungsbereich: Speziell
 Rettungswurf: Speziell
 
-Wird dieser Zauber gesprochen springt einer der Augäpfel des Hasardeurs heraus und verwandelt sich in den Augenstiel eines Betrachters.
+Wird dieser Zauber gesprochen springt einer der AugÃ¤pfel des Hasardeurs heraus und verwandelt sich in den Augenstiel eines Betrachters.
 
-Einmal pro Runde kann der Hasardeur dieses Auge benutzen um ein Ziel anzustarren, was bewirkt daß einer von 10 möglichen Effekten aus dem Auge hervorschießt. Das exakte Resultat (inklusive Rettungswürfe, Reichweite, Wirkungsdauer, etc.) wird aufgrund der 10 möglichen Wirkungen eines Betracherauges zufällig bestimmt: Person Bezaubern, Furcht, Auflösung, Verlangsamen, Versteinerung, Ernsthafte Wunden Erzeugen, Person Festhalten, Blitz, Paralysieren oder Todesstrahl.
+Einmal pro Runde kann der Hasardeur dieses Auge benutzen um ein Ziel anzustarren, was bewirkt daÃŸ einer von 10 mÃ¶glichen Effekten aus dem Auge hervorschieÃŸt. Das exakte Resultat (inklusive RettungswÃ¼rfe, Reichweite, Wirkungsdauer, etc.) wird aufgrund der 10 mÃ¶glichen Wirkungen eines Betracherauges zufÃ¤llig bestimmt: Person Bezaubern, Furcht, AuflÃ¶sung, Verlangsamen, Versteinerung, Ernsthafte Wunden Erzeugen, Person Festhalten, Blitz, Paralysieren oder Todesstrahl.
 
-Üblicherweise kehrt das Auge des Zaubernden in die Ursprüngliche Form zurück wenn der Zauber endet.~
+Ãœblicherweise kehrt das Auge des Zaubernden in die UrsprÃ¼ngliche Form zurÃ¼ck wenn der Zauber endet.~
 @21803 = ~Betrachter Blick~
-@21811 = ~"Betrachter Blick" wurde den Speziellen Fertigkeiten hinzugefügt~
+@21811 = ~"Betrachter Blick" wurde den Speziellen Fertigkeiten hinzugefÃ¼gt~
 @21901 = ~Entropischer Schild~
 @21902 = ~Entropischer Schild* (Bannzauber)
 Rang: 9
@@ -361,13 +361,13 @@ Zeitaufwand: 9
 Wirkungsbereich: Der Zaubernde
 Rettungswurf: Nein
 
-Dieser Zauber ummantelt den Zaubernden mit einem schützenden Feld aus roher magischer Energie. Dieses Feld absorbiert die Energie jeglicher Unbändigen Woge und aller außer den mächtigsten Zaubern.
+Dieser Zauber ummantelt den Zaubernden mit einem schÃ¼tzenden Feld aus roher magischer Energie. Dieses Feld absorbiert die Energie jeglicher UnbÃ¤ndigen Woge und aller auÃŸer den mÃ¤chtigsten Zaubern.
 
-Für die Wirkungsdauer des Zaubers ist der Hasardeur immun gegen alle Zauber 7. oder niedrigeren Ranges. Dies gilt auch für Zauber wie Rubinroter Strahl Der Aufhebung, die speziell dazu entwickelt wurden, Schutzzauber aufzuheben. Nur Zauberschutz Durchdringen und Zauberschlag sind fähig ein Entropisches Schild aufzuheben.
+FÃ¼r die Wirkungsdauer des Zaubers ist der Hasardeur immun gegen alle Zauber 7. oder niedrigeren Ranges. Dies gilt auch fÃ¼r Zauber wie Rubinroter Strahl Der Aufhebung, die speziell dazu entwickelt wurden, Schutzzauber aufzuheben. Nur Zauberschutz Durchdringen und Zauberschlag sind fÃ¤hig ein Entropisches Schild aufzuheben.
 
-Zusätzlich zu dem Schutz vor Magie erhält der Zaubernde einen +100 Bonus auf alle Würfe auf der Tabelle für Unbändige Magie, was bedeutet daß all seine Zauber normal gewirkt werden. Dies gilt auch für Nahals gewagte Hexerei - solange das Entropische Schild aktiv ist kann der Hasardeur immer erfolgreich den gewünschten Sprucheffekt erzeugen.~
-@22001 = ~Unbändige Sphäre~
-@22002 = ~Unbändige Sphäre* (Hervorrufung)
+ZusÃ¤tzlich zu dem Schutz vor Magie erhÃ¤lt der Zaubernde einen +100 Bonus auf alle WÃ¼rfe auf der Tabelle fÃ¼r UnbÃ¤ndige Magie, was bedeutet daÃŸ all seine Zauber normal gewirkt werden. Dies gilt auch fÃ¼r Nahals gewagte Hexerei - solange das Entropische Schild aktiv ist kann der Hasardeur immer erfolgreich den gewÃ¼nschten Sprucheffekt erzeugen.~
+@22001 = ~UnbÃ¤ndige SphÃ¤re~
+@22002 = ~UnbÃ¤ndige SphÃ¤re* (Hervorrufung)
 Rang: 9
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: 6 Phasen
@@ -375,15 +375,15 @@ Zeitaufwand: 1 Runde
 Wirkungsbereich: 10 Meter Radius
 Rettungswurf: Speziell
 
-Dieser mächtige Zauber erzeugt einen temporären Riß im Magiegewebe. Der Wirkungsbereich ist eine Sphäre mit einem Radius von 10 Metern, innerhalb dieses Bereichs herrscht pures Chaos.
+Dieser mÃ¤chtige Zauber erzeugt einen temporÃ¤ren RiÃŸ im Magiegewebe. Der Wirkungsbereich ist eine SphÃ¤re mit einem Radius von 10 Metern, innerhalb dieses Bereichs herrscht pures Chaos.
 
-Jeder Zauber der innerhalb der Unbändigen Sphere gewirkt wird erzeugt automatisch eine unbändige Woge. Dasselbe gilt für das Benutzen von magischen Gegenständen die Ladungen aufbrauchen. Andere magische Gegenstände funktionieren normal. Selbst wenn ein Opfer den Wirkungsbereich verläßt, dauert es eine Runde bis sich seine Magiefertigkeiten normalisiert haben.
+Jeder Zauber der innerhalb der UnbÃ¤ndigen Sphere gewirkt wird erzeugt automatisch eine unbÃ¤ndige Woge. Dasselbe gilt fÃ¼r das Benutzen von magischen GegenstÃ¤nden die Ladungen aufbrauchen. Andere magische GegenstÃ¤nde funktionieren normal. Selbst wenn ein Opfer den Wirkungsbereich verlÃ¤ÃŸt, dauert es eine Runde bis sich seine Magiefertigkeiten normalisiert haben.
 
-Zusätzlich muss jeder innerhalb des Wirkungsbereichs einen Rettungswurf gegen Zauber gegen -5 schaffen oder er verursacht eine Magiestörung die für eine Runde multiple unbändige Wogen erzeugt, vergleichbar mit dem 4. Rang Spruch Glyphe der Unbändigen Magie.
+ZusÃ¤tzlich muss jeder innerhalb des Wirkungsbereichs einen Rettungswurf gegen Zauber gegen -5 schaffen oder er verursacht eine MagiestÃ¶rung die fÃ¼r eine Runde multiple unbÃ¤ndige Wogen erzeugt, vergleichbar mit dem 4. Rang Spruch Glyphe der UnbÃ¤ndigen Magie.
 
-Opfer die den Rettungswurf auch ohne Modifikationen nicht schaffen erleiden einen der folgenden zufälligen Effekte: zufällige Teleportation, Verwandlung in ein Eichhörnchen, Verwirrung, Lähmung, 1W8 Trefferpunkte geheilt, 1W8 Trefferpunkte Schaden, Bewußtlosigkeit, oder Hast.~
+Opfer die den Rettungswurf auch ohne Modifikationen nicht schaffen erleiden einen der folgenden zufÃ¤lligen Effekte: zufÃ¤llige Teleportation, Verwandlung in ein EichhÃ¶rnchen, Verwirrung, LÃ¤hmung, 1W8 Trefferpunkte geheilt, 1W8 Trefferpunkte Schaden, BewuÃŸtlosigkeit, oder Hast.~
 @22101 = ~Rhialtos Fabelhafte Reinkarnation~
-@22102 = ~Rhialtos Fabelhafte Reinkarnation* (Veränderung)
+@22102 = ~Rhialtos Fabelhafte Reinkarnation* (VerÃ¤nderung)
 Rang: 10
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: Augenblicklich
@@ -391,13 +391,13 @@ Zeitaufwand: 10
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Nein
 
-Dieser finstere Zauber ist das Vermächtnis des Hasardeurs der sich selbst "Rhialto der Fabelhafte" nannte.
+Dieser finstere Zauber ist das VermÃ¤chtnis des Hasardeurs der sich selbst "Rhialto der Fabelhafte" nannte.
 
-Wird der Zauber gesprochen löst er Schwankungen in den Gesetzen der Wahrscheinlichkeit aus, und schwächt die Struktur der Zeit. Diese Effekte dauern nur einen Moment an, aber das ist lange genug um eine alternative Realität zu erschaffen.
+Wird der Zauber gesprochen lÃ¶st er Schwankungen in den Gesetzen der Wahrscheinlichkeit aus, und schwÃ¤cht die Struktur der Zeit. Diese Effekte dauern nur einen Moment an, aber das ist lange genug um eine alternative RealitÃ¤t zu erschaffen.
 
-Zweck dieses Zaubers ist es, einen Toten zurück ins Leben zu bringen in dem ein Geschehnis in der Vergangenheit so verändert wird daß ein anderes Wesen (Eines das in der Gegenwart immer noch lebt) an seiner Stelle gestorben ist. Hierbei ist kein göttlicher Eingriff beteiligt: Das Wiedergeborene Wesen steht nicht von den Toten auf, wenn der Zauber erfolgreich war ist das tödliche Ereignis niemals geschehen und der Nutznießer des Zaubers ist nie gestorben.
+Zweck dieses Zaubers ist es, einen Toten zurÃ¼ck ins Leben zu bringen in dem ein Geschehnis in der Vergangenheit so verÃ¤ndert wird daÃŸ ein anderes Wesen (Eines das in der Gegenwart immer noch lebt) an seiner Stelle gestorben ist. Hierbei ist kein gÃ¶ttlicher Eingriff beteiligt: Das Wiedergeborene Wesen steht nicht von den Toten auf, wenn der Zauber erfolgreich war ist das tÃ¶dliche Ereignis niemals geschehen und der NutznieÃŸer des Zaubers ist nie gestorben.
 
-Nachdem das Opfer gewählt wurde wird der Ablauf der Zeit verändert, so daß das Opfer im selben Moment und auf dieselbe Weise starb wie der Nutznießer des Zaubers. Der Nutznießer erscheint daraufhin an der Stelle an der das Opfer eben noch stand.~
+Nachdem das Opfer gewÃ¤hlt wurde wird der Ablauf der Zeit verÃ¤ndert, so daÃŸ das Opfer im selben Moment und auf dieselbe Weise starb wie der NutznieÃŸer des Zaubers. Der NutznieÃŸer erscheint daraufhin an der Stelle an der das Opfer eben noch stand.~
 @22201 = ~Entropie Ausbruch~
 @22202 = ~Entropie Ausbruch (Hervorrufung)
 Rang: 8
@@ -407,28 +407,28 @@ Zeitaufwand: 1
 Wirkungsbereich: 10 Meter Radius
 Rettungswurf: Nein
 
-Dieser Zauber erzeugt einen unglaublich starken Ausbruch magischer Energie. Der Zaubernde erschaft eine Verbindung zwischen sich und den Urkräften des Chaos, und wird so zum Zentrum eines Ausbruchs von Chaosmaterie, die alles im Umkreis von 9 m um den Zaubernden trifft.
+Dieser Zauber erzeugt einen unglaublich starken Ausbruch magischer Energie. Der Zaubernde erschaft eine Verbindung zwischen sich und den UrkrÃ¤ften des Chaos, und wird so zum Zentrum eines Ausbruchs von Chaosmaterie, die alles im Umkreis von 9 m um den Zaubernden trifft.
 
-Die Chaosmaterie ist völlig harmlos für chaotische Wesen, alle anderen werden für mehrere Sekunden vom Zaubernden weggedrängt. Wesen neutraler Gesinnung erleiben dabei 1W8 Punkte Magieschaden, während Rechtschaffene Wesen 1W20 Schadenspunkte erleiden. Auf Rechtschaffene Wesen hat der Zauber weitere Auswirkungen, die von der Stufe des Opfers abhängen:
+Die Chaosmaterie ist vÃ¶llig harmlos fÃ¼r chaotische Wesen, alle anderen werden fÃ¼r mehrere Sekunden vom Zaubernden weggedrÃ¤ngt. Wesen neutraler Gesinnung erleiben dabei 1W8 Punkte Magieschaden, wÃ¤hrend Rechtschaffene Wesen 1W20 Schadenspunkte erleiden. Auf Rechtschaffene Wesen hat der Zauber weitere Auswirkungen, die von der Stufe des Opfers abhÃ¤ngen:
 
-Stufe oder Trefferwürfel --  Auswirkungen
+Stufe oder TrefferwÃ¼rfel --  Auswirkungen
 Weniger als 4  --  Tod
-4 bis 7 --  Gelähmt für 1 Phase
-8 bis 11 --  Verlangsamt für 1 Phase, Zauber scheitern zu 75%
-12 und mehr --  Taubheit für 1 Phase, Zauber scheitern zu 50%
+4 bis 7 --  GelÃ¤hmt fÃ¼r 1 Phase
+8 bis 11 --  Verlangsamt fÃ¼r 1 Phase, Zauber scheitern zu 75%
+12 und mehr --  Taubheit fÃ¼r 1 Phase, Zauber scheitern zu 50%
 
-Gegen den Zauber ist kein Rettungswurf zulässig. Die Auswirkungen treten sofort ein und halten an, bis die Wirkungsdauer endet oder der Zauber gebannt wird.~
-@22301 = ~Säuresturm~
-@22302 = ~Säuresturm (Hervorrufung)
+Gegen den Zauber ist kein Rettungswurf zulÃ¤ssig. Die Auswirkungen treten sofort ein und halten an, bis die Wirkungsdauer endet oder der Zauber gebannt wird.~
+@22301 = ~SÃ¤uresturm~
+@22302 = ~SÃ¤uresturm (Hervorrufung)
 Rang: 7
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: 1 Phase
 Zeitaufwand: 7
 Wirkungsbereich: 7 Meter Radius
 Rettungswurf: Halbiert
-Dieser Zauber erzeugt eine Säurewolke innerhalb des Wirkungsbereichs. Diese verursacht in den ersten drei Runden 1W4 Schadenspunkte pro Runde, 1W6 Schadenspunkte in den nächsten drei Runden, und 1W8 Schadenspunkte in den folgenden vier Runden. Den Wirkungsbereich zu verlassen stoppt die Schadenswirkung nicht - die Säure haftet auf der Haut, und richtet weiterhin Schaden an, bis der Zauber ausläuft. In jeder Runde kann der Schaden mit einen Rettungswurf gegen Zauber halbiert werden (Nur für diese Runde).~
-@22401 = ~Unbändige Horde~
-@22402 = ~Unbändige Horde* (Herbeirufung/Beschwörung)
+Dieser Zauber erzeugt eine SÃ¤urewolke innerhalb des Wirkungsbereichs. Diese verursacht in den ersten drei Runden 1W4 Schadenspunkte pro Runde, 1W6 Schadenspunkte in den nÃ¤chsten drei Runden, und 1W8 Schadenspunkte in den folgenden vier Runden. Den Wirkungsbereich zu verlassen stoppt die Schadenswirkung nicht - die SÃ¤ure haftet auf der Haut, und richtet weiterhin Schaden an, bis der Zauber auslÃ¤uft. In jeder Runde kann der Schaden mit einen Rettungswurf gegen Zauber halbiert werden (Nur fÃ¼r diese Runde).~
+@22401 = ~UnbÃ¤ndige Horde~
+@22402 = ~UnbÃ¤ndige Horde* (Herbeirufung/BeschwÃ¶rung)
 Rang: 2
 Reichweite: 0
 Wirkungsdauer: 1 Runde/Stufe
@@ -436,11 +436,11 @@ Zeitaufwand: 2
 Wirkungsbereich: Speziell
 Rettungswurf: Speziell
 
-Dieser Beschwörungszauber ruft 1W20 aggressive Hasen herbei, die den Zaubernden mit ihrem Leben verteidigen.
+Dieser BeschwÃ¶rungszauber ruft 1W20 aggressive Hasen herbei, die den Zaubernden mit ihrem Leben verteidigen.
 
-Abgesehen von ihrer ablenkenden Wirkung stellen die kleinen Tiere keine wirkliche Bedrohung dar. Wenn einer der Hasen stirbt besteht allerdings eine 25% chance dass er in einem Feuerball explodiert, und jedem innerhalb eines 8 Meter Radius 2W4 punkte Feuerschaden zufügt (rettungswurf gegen Zauber für halben Schaden).~
-@22501 = ~Körperliche Instabilität~
-@22502 = ~Körperliche Instabilität* (Veränderung)
+Abgesehen von ihrer ablenkenden Wirkung stellen die kleinen Tiere keine wirkliche Bedrohung dar. Wenn einer der Hasen stirbt besteht allerdings eine 25% chance dass er in einem Feuerball explodiert, und jedem innerhalb eines 8 Meter Radius 2W4 punkte Feuerschaden zufÃ¼gt (rettungswurf gegen Zauber fÃ¼r halben Schaden).~
+@22501 = ~KÃ¶rperliche InstabilitÃ¤t~
+@22502 = ~KÃ¶rperliche InstabilitÃ¤t* (VerÃ¤nderung)
 Rang: 4
 Reichweite: Sichtweite des Zaubernden
 Wirkungsdauer: 1 Runde/Stufe
@@ -448,10 +448,10 @@ Zeitaufwand: 3
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Keine Wirkung
 
-Dieser Zauber stört vorübergehend die Bindungen die den Körper des Opfers zusammenhalten.
+Dieser Zauber stÃ¶rt vorÃ¼bergehend die Bindungen die den KÃ¶rper des Opfers zusammenhalten.
 
-Wenn der Zauber auf ein Wesen gewirkt wird, muss es einen Rettungswurf gegen Zauber mit -5 Modifikator schaffen oder es wird verflüssigt. Schaft es den Rettungswurf nicht, erleidet das Wesen 1W20 Punkte Schock-Schaden und wird für 1 Runde pro Stufe des Zaubernden in eine schleimige Flüssigkeit verwandelt. Während dieser Zeit ist das Opfer bewußtlos und immun gegen alle Schadensformen ausser Magieschaden.~
-@22601 = ~Zufälliger Zauber II~
+Wenn der Zauber auf ein Wesen gewirkt wird, muss es einen Rettungswurf gegen Zauber mit -5 Modifikator schaffen oder es wird verflÃ¼ssigt. Schaft es den Rettungswurf nicht, erleidet das Wesen 1W20 Punkte Schock-Schaden und wird fÃ¼r 1 Runde pro Stufe des Zaubernden in eine schleimige FlÃ¼ssigkeit verwandelt. WÃ¤hrend dieser Zeit ist das Opfer bewuÃŸtlos und immun gegen alle Schadensformen ausser Magieschaden.~
+@22601 = ~ZufÃ¤lliger Zauber II~
 @22602 = ~Random Spell II* (Invocation/Evocation)
 Level: 3
 Range: 40 yards
@@ -467,7 +467,7 @@ In rare cases, an unstable magical energy outburst results in several random eff
 The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
 
 The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@22701 = ~Zufälliger Zauber III~
+@22701 = ~ZufÃ¤lliger Zauber III~
 @22702 = ~Random Spell III* (Invocation/Evocation)
 Level: 5
 Range: 40 yards
@@ -483,7 +483,7 @@ In rare cases, an unstable magical energy outburst results in several random eff
 The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
 
 The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@22801 = ~Zufälliger Zauber IV~
+@22801 = ~ZufÃ¤lliger Zauber IV~
 @22802 = ~Random Spell IV* (Invocation/Evocation)
 Level: 7
 Range: 40 yards
@@ -499,8 +499,8 @@ In rare cases, an unstable magical energy outburst results in several random eff
 The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
 
 The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@22901 = ~Unbändiges Feuer~
-@22902 = ~Unbändiges Feuer* (Hervorrufung)
+@22901 = ~UnbÃ¤ndiges Feuer~
+@22902 = ~UnbÃ¤ndiges Feuer* (Hervorrufung)
 Rang: 9
 Reichweite: 0
 Wirkungsdauer: Speziell
@@ -508,9 +508,9 @@ Zeitaufwand: 1
 Wirkungsbereich: Speziell
 Rettungswurf: Speziell
 
-Dieser Zauber ermöglicht es dem Hasardeur reine magische Energie zu kanalisieren und nach Belieben in einen Sprucheffekt umzuformen.
+Dieser Zauber ermÃ¶glicht es dem Hasardeur reine magische Energie zu kanalisieren und nach Belieben in einen Sprucheffekt umzuformen.
 
-Unbändiges Feuer erlaubt es dem Zaubernden einen Beliebigen Magierzauber von 8. oder niedrigerem Rang zu wirken. Er braucht nur allgemeine Informationen über den Zauber und seine Wirkung, der Zaubernde muss den Zauber nicht in seinem eigenen Zauberbuch eingetragen haben.~
+UnbÃ¤ndiges Feuer erlaubt es dem Zaubernden einen Beliebigen Magierzauber von 8. oder niedrigerem Rang zu wirken. Er braucht nur allgemeine Informationen Ã¼ber den Zauber und seine Wirkung, der Zaubernde muss den Zauber nicht in seinem eigenen Zauberbuch eingetragen haben.~
 @23001 = ~Mynocs Unwiderstehliche Anziehung~
 @23002 = ~Mynocs Unwiderstehliche Anziehung* (Invocation/Evocation)
 Rang: 1
@@ -520,11 +520,11 @@ Zeitaufwand: 1
 Wirkungsbereich: Ein Wesen
 Rettungswurf: Nein
 
-Anders als der Name vermuten lässt, macht dieser Zauber den Zaubernden nicht attraktiver. Wenn Mynoc's Unwiderstehliche Anziehung gewirkt wird, erscheint ein Seil das aus reiner magischer Energie besteht. Dieses Seil schlingt sich um das Ziel und verkürzt sich dann, so dass das Wessen zum Zaubernden gezogen wird.
+Anders als der Name vermuten lÃ¤sst, macht dieser Zauber den Zaubernden nicht attraktiver. Wenn Mynoc's Unwiderstehliche Anziehung gewirkt wird, erscheint ein Seil das aus reiner magischer Energie besteht. Dieses Seil schlingt sich um das Ziel und verkÃ¼rzt sich dann, so dass das Wessen zum Zaubernden gezogen wird.
 
-Es gibt keinen Rettungswurf gegen diesen Zauber und er umgeht Magieresistenz. Während dieser Zauber hauptsächlich benutzt wird um Freunde aus Schwierigkeiten rauszuholen (oder neue kennenzulernen...) sind manche Hassardeure verrückt genug den Zauber auf Feindliche Wesen zu wirken, um diese in den Nahkampf zu zwingen.~
-@23101 = ~Meeces Unändige Rüstung~
-@23102 = ~Meeces Unändige Rüstung* (Illusion/Hirngespinst)
+Es gibt keinen Rettungswurf gegen diesen Zauber und er umgeht Magieresistenz. WÃ¤hrend dieser Zauber hauptsÃ¤chlich benutzt wird um Freunde aus Schwierigkeiten rauszuholen (oder neue kennenzulernen...) sind manche Hassardeure verrÃ¼ckt genug den Zauber auf Feindliche Wesen zu wirken, um diese in den Nahkampf zu zwingen.~
+@23101 = ~Meeces UnÃ¤ndige RÃ¼stung~
+@23102 = ~Meeces UnÃ¤ndige RÃ¼stung* (Illusion/Hirngespinst)
 Rang: 6
 Reichweite: 0
 Wirkungsdauer: 5 Runden/Stufe
@@ -532,13 +532,13 @@ Zeitaufwand: 4
 Wirkungsbereich: Der Zaubernde
 Rettungswurf: Nein
 
-Der gnomische Hasardeur Meece Upknot erschuf diesen Zauber um sich im Kampf zu schützen. Meece war sich nicht sicher ob der beste Weg einen Kampf heil zu überstehen Zähigkeit war, oder das Talent sich zu verstecken, und so entschied er sich für eine Kombination aus beidem.
+Der gnomische Hasardeur Meece Upknot erschuf diesen Zauber um sich im Kampf zu schÃ¼tzen. Meece war sich nicht sicher ob der beste Weg einen Kampf heil zu Ã¼berstehen ZÃ¤higkeit war, oder das Talent sich zu verstecken, und so entschied er sich fÃ¼r eine Kombination aus beidem.
 
-Der Zaubernde wird durch starke Energieschwankungen im magischen Gewebe um ihn herum geschützt. Diese Störung verzerrt die Regeln der Wahrscheinlichkeit bis zu einem Punkt wo sie for allen Schadensformen schützt. Für die Wirkungsdauer des Zaubers besteht eine hohe Warscheinlichkeit, dass ein direkter Angriff auf den Zaubernden weniger Wirkung zeigt als er sollte: Aller Schaden der dem Zaubernden zugedacht ist wird um 20% verringert. Allerdings besteht ebenfalls eine 50% chance dass der Angriff das den Zaubernden umgebende Magische Feld stört, und eine unbändige Woge auslöst.
+Der Zaubernde wird durch starke Energieschwankungen im magischen Gewebe um ihn herum geschÃ¼tzt. Diese StÃ¶rung verzerrt die Regeln der Wahrscheinlichkeit bis zu einem Punkt wo sie for allen Schadensformen schÃ¼tzt. FÃ¼r die Wirkungsdauer des Zaubers besteht eine hohe Warscheinlichkeit, dass ein direkter Angriff auf den Zaubernden weniger Wirkung zeigt als er sollte: Aller Schaden der dem Zaubernden zugedacht ist wird um 20% verringert. Allerdings besteht ebenfalls eine 50% chance dass der Angriff das den Zaubernden umgebende Magische Feld stÃ¶rt, und eine unbÃ¤ndige Woge auslÃ¶st.
 
-Nachdem der verursachte Schaden reduziert wurde, schützt der Zauber den Zaubernden vor weiterem Schaden indem er ihn unsichtbar macht. Diese Unsichtbarkeit endet nach 5 Runden an, oder bis sie auf magische Weise gebannt wird, oder bis der Zaubernde einen Angriff startet.
+Nachdem der verursachte Schaden reduziert wurde, schÃ¼tzt der Zauber den Zaubernden vor weiterem Schaden indem er ihn unsichtbar macht. Diese Unsichtbarkeit endet nach 5 Runden an, oder bis sie auf magische Weise gebannt wird, oder bis der Zaubernde einen Angriff startet.
 
-Die Wirkungsdauer des Zaubers ist 5 Runden für jede Stufe des Zaubernden, bis hin zu 2 Stunden bei Erreichen der 20. Stufe.~
+Die Wirkungsdauer des Zaubers ist 5 Runden fÃ¼r jede Stufe des Zaubernden, bis hin zu 2 Stunden bei Erreichen der 20. Stufe.~
 @30101 = ~Spruch Weben~
 @30111 = ~1. Rang~
 @30112 = ~2. Rang~
@@ -550,8 +550,8 @@ Die Wirkungsdauer des Zaubers ist 5 Runden für jede Stufe des Zaubernden, bis hi
 @30118 = ~8. Rang~
 @30119 = ~9. Rang~
 @30120 = ~10. Rang~
-@30121 = ~Keine passenden Zauber verfügbar.~
-@30122 = ~Rückschlag - Unbändige Magie~
+@30121 = ~Keine passenden Zauber verfÃ¼gbar.~
+@30122 = ~RÃ¼ckschlag - UnbÃ¤ndige Magie~
 @30201 = ~Magiebruch~
 @30301 = ~Zauber Formen~
 @30302 = ~Geformter Zauber~
@@ -594,52 +594,52 @@ Disadvantages:
 -  May wear only one ring
 -  Alignment must be chaotic
 ~
-@40201 = ~Schädelbombe~
-@40202 = ~Dieser komische Schädel erschien eines Nachts in deinem Inventar. Er platzt beinahe, so vollgestopft ist er mit mystischer Energie. Jede Wette, dass dies das Resultat eines missratenen "Schwebender Schädel" Zaubers ist den irgendjemand irgendwo mal zaubern wollte. Anstatt auf das Ziel zu zufliegen wurde der Schädel in deinen Rucksack teleportiert. Keine Ahnung warum er noch nicht explodiert ist, aber zum Glück ist er's nicht. Am besten wirfst du den Schädel so schnell wie möglich auf jemanden der es wirklich verdient hat...
+@40201 = ~SchÃ¤delbombe~
+@40202 = ~Dieser komische SchÃ¤del erschien eines Nachts in deinem Inventar. Er platzt beinahe, so vollgestopft ist er mit mystischer Energie. Jede Wette, dass dies das Resultat eines missratenen "Schwebender SchÃ¤del" Zaubers ist den irgendjemand irgendwo mal zaubern wollte. Anstatt auf das Ziel zu zufliegen wurde der SchÃ¤del in deinen Rucksack teleportiert. Keine Ahnung warum er noch nicht explodiert ist, aber zum GlÃ¼ck ist er's nicht. Am besten wirfst du den SchÃ¤del so schnell wie mÃ¶glich auf jemanden der es wirklich verdient hat...
 
 STATISTIK:
-Zaubert "Schwebender Schädel" wie ein Magier der 12. Stufe
+Zaubert "Schwebender SchÃ¤del" wie ein Magier der 12. Stufe
 
 Nicht benutzbar von:
  Personen nicht-chaotischer Gesinnung
  Magierkiller~
 @40301 = ~Tote Katze~
-@40302 = ~Schaut aus wie eine tote Katze. Sie ist sehr gut erhalten, als ob sie schlafen würde.~
-@40401 = ~Teddybär~
-@40402 = ~Obwohl dieser süsse Teddy ziemlich alt zu sein scheint, ist er noch in sehr gutem Zustand.~
-@40403 = ~Teddybär des Schutzes +2, +4 gg. Dämonen~
-@40404 = ~Teddybär des Schutzes +2, +4 gg. Dämonen:  'Brummi der Tapfere'
-Der Teddybär des Schutzes würde vom Erzmagier Halycron Maeral für seinen kleinen Sohn erschaffen. Wer den Bär im Arm hält wird geschützt wie durch einen Ring des Schutzes +2.
+@40302 = ~Schaut aus wie eine tote Katze. Sie ist sehr gut erhalten, als ob sie schlafen wÃ¼rde.~
+@40401 = ~TeddybÃ¤r~
+@40402 = ~Obwohl dieser sÃ¼sse Teddy ziemlich alt zu sein scheint, ist er noch in sehr gutem Zustand.~
+@40403 = ~TeddybÃ¤r des Schutzes +2, +4 gg. DÃ¤monen~
+@40404 = ~TeddybÃ¤r des Schutzes +2, +4 gg. DÃ¤monen:  'Brummi der Tapfere'
+Der TeddybÃ¤r des Schutzes wÃ¼rde vom Erzmagier Halycron Maeral fÃ¼r seinen kleinen Sohn erschaffen. Wer den BÃ¤r im Arm hÃ¤lt wird geschÃ¼tzt wie durch einen Ring des Schutzes +2.
 
-Obwohl Halycron viel Zeit damit verbracht hat, seinen Sohn in die Kunst der Magie einzuführen, vernachlässigte er es, ihm auch die notwendigen Sicherheitsvorkehrungen beizubringen. Im Alter von sechs Jahren hat Halcyrons Sohn aus Versehen einen Dämon herbeigerufen, während seine Eltern nicht Zuhause waren. Als Halcyron und seine Frau zurückkehrten, war das Haus nur noch Schutt und Asche, und der Babysitter vom Dämonen verspeist. Inmitten der Ruinen fanden sie ihren Sohn, der sich unter einem praktisch unversehrten Tisch verkrochen hatte, seinen Lieblingsteddy eng umschlungen.
+Obwohl Halycron viel Zeit damit verbracht hat, seinen Sohn in die Kunst der Magie einzufÃ¼hren, vernachlÃ¤ssigte er es, ihm auch die notwendigen Sicherheitsvorkehrungen beizubringen. Im Alter von sechs Jahren hat Halcyrons Sohn aus Versehen einen DÃ¤mon herbeigerufen, wÃ¤hrend seine Eltern nicht Zuhause waren. Als Halcyron und seine Frau zurÃ¼ckkehrten, war das Haus nur noch Schutt und Asche, und der Babysitter vom DÃ¤monen verspeist. Inmitten der Ruinen fanden sie ihren Sohn, der sich unter einem praktisch unversehrten Tisch verkrochen hatte, seinen Lieblingsteddy eng umschlungen.
 
 STATISTIK:
 
-Rüstungsklasse:  +2 Bonus (+4 gg. Dämonen)
-Rettungswürfe:  +2 Bonus (+4 gg. Dämonen)
+RÃ¼stungsklasse:  +2 Bonus (+4 gg. DÃ¤monen)
+RettungswÃ¼rfe:  +2 Bonus (+4 gg. DÃ¤monen)
 
 Nicht benutzbar von:
  Magierkiller~
 @40501 = ~Rhialtos Zauberbuch~
-@40502 = ~Dieses Zauberbuch gehörte einst Rhialto "dem Fabelhaften". Du hast es nach seinem plötzlichen Ableben an Dich genommen.
+@40502 = ~Dieses Zauberbuch gehÃ¶rte einst Rhialto "dem Fabelhaften". Du hast es nach seinem plÃ¶tzlichen Ableben an Dich genommen.
 
-Obwohl das Buch in ausserordentlich schlechtem Zustand ist - Alles voller Flecken, zerrissenen Seiten und blödsinnigem Gekritzel, strahlt es doch immer noch eine große Menge magischer Energie ab.
+Obwohl das Buch in ausserordentlich schlechtem Zustand ist - Alles voller Flecken, zerrissenen Seiten und blÃ¶dsinnigem Gekritzel, strahlt es doch immer noch eine groÃŸe Menge magischer Energie ab.
 
-Die Auswahl an Zaubersprüchen in diesem Buch ist recht ungewöhnlich, vielleicht kannst Du einige dieser Zauber lernen.
+Die Auswahl an ZaubersprÃ¼chen in diesem Buch ist recht ungewÃ¶hnlich, vielleicht kannst Du einige dieser Zauber lernen.
 
 STATISTIK:
 
 Nur benutzbar durch:
  Hasardeur~
-@40503 = ~Dieses Zauberbuch gehörte einst Rhialto "dem Fabelhaften". Du hast es nach seinem plötzlichen Ableben an Dich genommen.
+@40503 = ~Dieses Zauberbuch gehÃ¶rte einst Rhialto "dem Fabelhaften". Du hast es nach seinem plÃ¶tzlichen Ableben an Dich genommen.
 
-Obwohl das Buch in ausserordentlich schlechtem Zustand ist - Alles voller Flecken, zerrissenen Seiten und blödsinnigem Gekritzel, strahlt es doch immer noch eine große Menge magischer Energie ab.
+Obwohl das Buch in ausserordentlich schlechtem Zustand ist - Alles voller Flecken, zerrissenen Seiten und blÃ¶dsinnigem Gekritzel, strahlt es doch immer noch eine groÃŸe Menge magischer Energie ab.
 
-Dieses Buch ist sowohl Zauberbuch als auch Tagebuch und Notizblock. Obwohl er ganz klar verrückt war, als Du ihn trafst, muss Rhialto doch einst ein Genie gewesen sein. Er hat nicht nur neue Zaubersprüche entwickelt, er war auch davon besessen, alternative Wege zu finden Magie zu wirken. Dies brachte ihn zum Studium der unbändigen Magie, und war am Ende wohl auch für seinen Wahnsinn verantwortlich.
+Dieses Buch ist sowohl Zauberbuch als auch Tagebuch und Notizblock. Obwohl er ganz klar verrÃ¼ckt war, als Du ihn trafst, muss Rhialto doch einst ein Genie gewesen sein. Er hat nicht nur neue ZaubersprÃ¼che entwickelt, er war auch davon besessen, alternative Wege zu finden Magie zu wirken. Dies brachte ihn zum Studium der unbÃ¤ndigen Magie, und war am Ende wohl auch fÃ¼r seinen Wahnsinn verantwortlich.
 
-Einige Seiten dieses Buches sind mit mystischen Runen überzogen, die dazu genutzt werden können, die Zauber die sich auf diesen Seiten befinden sofort zu sprechen ohne sie sich vorher einprägen zu müssen. Allerdings wurde nur eine kleine Auswahl an Zaubern derartig vorbereitet - scheint so als ob Rhialto andere Wege gefunden hat, seine Zauber je nach Bedarf zu wirken.
+Einige Seiten dieses Buches sind mit mystischen Runen Ã¼berzogen, die dazu genutzt werden kÃ¶nnen, die Zauber die sich auf diesen Seiten befinden sofort zu sprechen ohne sie sich vorher einprÃ¤gen zu mÃ¼ssen. Allerdings wurde nur eine kleine Auswahl an Zaubern derartig vorbereitet - scheint so als ob Rhialto andere Wege gefunden hat, seine Zauber je nach Bedarf zu wirken.
 
-Die Auswahl an Zaubersprüchen in diesem Buch ist recht ungewöhnlich, vielleicht kannst Du einige dieser Zauber lernen.
+Die Auswahl an ZaubersprÃ¼chen in diesem Buch ist recht ungewÃ¶hnlich, vielleicht kannst Du einige dieser Zauber lernen.
 
 STATISTIK:
 
@@ -652,7 +652,7 @@ Kann einmal pro Tag benutzt werden, um einen der folgenden Zauber zu wirken:
  Schrecken
  Unsichtbarkeit
  Larlochs Geringerer Lebenskraftentzug
- Rhialtos Zufällige Geschosse
+ Rhialtos ZufÃ¤llige Geschosse
  Zauberauge
 
 Nur benutzbar durch:
@@ -660,10 +660,10 @@ Nur benutzbar durch:
 @40511 = ~Lesen~
 @50101 = ~Rhialto der Fabelhafte~
 @50102 = ~Rhialto~
-@50111 = ~Unbändige Woge: Der Zaubernde verwandelt sich in ein Eichhörnchen~
+@50111 = ~UnbÃ¤ndige Woge: Der Zaubernde verwandelt sich in ein EichhÃ¶rnchen~
 @69998 = ~Brief~
 @69999 = ~Mein lieber Freund Gorion,
 
-Ihr müsst bei Eurer Abreise gut aufpassen, außerhalb der Mauern von Kerzenburg treibt sich ein Hasardeur herum. Wir kennen nicht seine Absichten. Habt Ihr Kerzenburg sicher verlassen, kehrt nicht dorthin zurück.
+Ihr mÃ¼sst bei Eurer Abreise gut aufpassen, auÃŸerhalb der Mauern von Kerzenburg treibt sich ein Hasardeur herum. Wir kennen nicht seine Absichten. Habt Ihr Kerzenburg sicher verlassen, kehrt nicht dorthin zurÃ¼ck.
 
 E.~
