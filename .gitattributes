@@ -1,18 +1,18 @@
-wildmage/tra/french/**.tra     working-tree-encoding=cp1252    git-encoding=cp1252
-wildmage/tra/german/**.tra     working-tree-encoding=cp1252    git-encoding=cp1252
-wildmage/tra/hungarian/**.tra  working-tree-encoding=cp1250    git-encoding=cp1250
-wildmage/tra/italian/**.tra    working-tree-encoding=cp1252    git-encoding=cp1252
-wildmage/tra/korean/**.tra     working-tree-encoding=cp949     git-encoding=cp949
-wildmage/tra/polish/**.tra     working-tree-encoding=cp1250    git-encoding=cp1250
-wildmage/tra/portuguese/**.tra working-tree-encoding=cp1252    git-encoding=cp1252
-wildmage/tra/russian/**.tra    working-tree-encoding=cp1251    git-encoding=cp1251
-wildmage/tra/spanish/**.tra    working-tree-encoding=cp1252    git-encoding=cp1252
-wildmage/tra/schinese/**.tra   working-tree-encoding=cp936     git-encoding=cp936
-wildmage/tra/tchinese/**.tra   working-tree-encoding=cp950     git-encoding=cp950
-wildmage/tra/ukrainian/**.tra  working-tree-encoding=cp1251    git-encoding=cp1251
+wildmage/tra/french/**.tra     working-tree-encoding=cp1252
+wildmage/tra/german/**.tra     working-tree-encoding=cp1252
+wildmage/tra/hungarian/**.tra  working-tree-encoding=cp1250
+wildmage/tra/italian/**.tra    working-tree-encoding=cp1252
+wildmage/tra/korean/**.tra     working-tree-encoding=cp949
+wildmage/tra/polish/**.tra     working-tree-encoding=cp1250
+wildmage/tra/portuguese/**.tra working-tree-encoding=cp1252
+wildmage/tra/russian/**.tra    working-tree-encoding=cp1251
+wildmage/tra/spanish/**.tra    working-tree-encoding=cp1252
+wildmage/tra/schinese/**.tra   working-tree-encoding=cp936
+wildmage/tra/tchinese/**.tra   working-tree-encoding=cp950
+wildmage/tra/ukrainian/**.tra  working-tree-encoding=cp1251
 
-wildmage/tra/**/ee.tra         working-tree-encoding=utf8      git-encoding=utf8
-wildmage/tra/**/*_ee.tra       working-tree-encoding=utf8      git-encoding=utf8
+wildmage/tra/**/ee.tra         working-tree-encoding=utf8
+wildmage/tra/**/*_ee.tra       working-tree-encoding=utf8
 
-wildmage/tra/russian/**/setup.tra       working-tree-encoding=cp866    git-encoding=cp866
-wildmage/tra/ukrainian/**/install.tra   working-tree-encoding=cp866    git-encoding=cp866
+wildmage/tra/russian/**/setup.tra       working-tree-encoding=cp866
+wildmage/tra/ukrainian/**/install.tra   working-tree-encoding=cp866
