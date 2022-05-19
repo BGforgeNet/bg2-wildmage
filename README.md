@@ -1,12 +1,14 @@
 # Wild Mage additions mod for Baldur's Gate 2
 
-[![Translation status](https://tra.bgforge.net/widgets/infinity-engine/-/wild-mage-additions/svg-badge.svg)](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
+[![Translation status](https://hive.bgforge.net/widgets/infinity-engine/-/wild-mage-additions/svg-badge.svg)](https://hive.bgforge.net/projects/infinity-engine/wild-mage-additions/)
 [![Build Status](https://golem.bgforge.net/mods/wild-mage-additions/status.svg)](https://golem.bgforge.net/mods/wild-mage-additions)
-[![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
+[![Telegram](https://img.shields.io/badge/telegram-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange?logo=telegram)](https://t.me/bgforge)
+[![Discord](https://img.shields.io/discord/420268540700917760?logo=discord&label=discord&color=blue&logoColor=FEE75C)](https://discord.gg/4Yqfggm)
+[![IRC](https://img.shields.io/badge/%23IRC-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange)](https://bgforge.net/irc)
 
 [__Download__](https://github.com/BGforgeNet/bg2-wildmage/releases/latest)
 | [__Discuss__](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
-| [__Translate__](https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/)
+| [__Translate__](https://hive.bgforge.net/projects/infinity-engine/wild-mage-additions/)
 | [__Report issues__](#report-issues)
 
 This mod expands on Wild Magic and Wild Mages. Fixed version, based on [original by JOG](http://mods.jo-ge.net/bg/shaper.htm).
