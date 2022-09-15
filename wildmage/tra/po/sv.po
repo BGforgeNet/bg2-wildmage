@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-08 15:30+0000\n"
+"PO-Revision-Date: 2022-09-15 15:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: dialog.tra:211
 msgid "Toughness"
-msgstr ""
+msgstr "Tuffhet"
 
 #: dialog.tra:212
 msgid "Vicious hits"
@@ -427,7 +427,7 @@ msgstr ""
 
 #: setup.tra:60
 msgid "Ironman"
-msgstr ""
+msgstr "Järnman"
 
 #: setup.tra:61
 msgid "Haughty pansy"
@@ -654,7 +654,7 @@ msgstr ""
 
 #: text.tra:20601
 msgid "Rhialto's Random Missiles"
-msgstr ""
+msgstr "Rhialtos Slumpmässiga Missiler"
 
 #: text.tra:20602
 msgid ""
@@ -744,7 +744,7 @@ msgstr ""
 
 #: text.tra:21001
 msgid "Cellular Regeneration"
-msgstr ""
+msgstr "Cellregenerering"
 
 #: text.tra:21002
 msgid ""
@@ -774,7 +774,7 @@ msgstr ""
 
 #: text.tra:21101
 msgid "Vortex"
-msgstr ""
+msgstr "Vortex"
 
 #: text.tra:21102
 msgid ""
@@ -832,7 +832,7 @@ msgstr ""
 
 #: text.tra:21301
 msgid "Paithan's Fiasco"
-msgstr ""
+msgstr "Paithans fiasko"
 
 #: text.tra:21302
 msgid ""
@@ -1061,7 +1061,7 @@ msgstr ""
 
 #: text.tra:21601
 msgid "Summon Cow"
-msgstr ""
+msgstr "Kalla På Ko"
 
 #: text.tra:21602
 msgid ""
