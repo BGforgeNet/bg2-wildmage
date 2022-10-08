@@ -8,6 +8,7 @@ wildmage/tra/polish/**.tra     working-tree-encoding=cp1250
 wildmage/tra/portuguese/**.tra working-tree-encoding=cp1252
 wildmage/tra/russian/**.tra    working-tree-encoding=cp1251
 wildmage/tra/spanish/**.tra    working-tree-encoding=cp1252
+wildmage/tra/swedish/**        working-tree-encoding=cp1252
 wildmage/tra/schinese/**.tra   working-tree-encoding=cp936
 wildmage/tra/tchinese/**.tra   working-tree-encoding=cp950
 wildmage/tra/ukrainian/**.tra  working-tree-encoding=cp1251
