@@ -1,0 +1,668 @@
+@10101 = ~Dzika Magia~
+@10201 = ~Dzika Magia sprawiła że twoje sny stały się rzeczywistością. (Cokolwiek by to oznaczało...)~
+@10301 = ~TRAK0 obniżone o 1~
+@10302 = ~Modyfikator Obrażeń od Ciosu w Plecy Zwiększony o 1~
+@10303 = ~Poziom biegłości w Sztyletach zwiększony do 2 (Specjalizacja)~
+@10304 = ~Poziom biegłości w Sztyletach zwiększony do 3 (Mistrz)~
+@10305 = ~Uzyskujesz Oburęczność (1 stopień)~
+@10306 = ~Uzyskujesz Oburęczność (2 stopień)~
+@10307 = ~Uzyskujesz +1 do obrażeń w walce wręcz~
+@10308 = ~Uzyskujesz bonus 20% do Punktów Życia~
+@10309 = ~Uzyskujesz dodatkowy atak na rundę~
+@10310 = ~Zakres zagrożenia ciosem krytycznym zwiększony o 1~
+@20101 = ~Przewód Chaosu Rhialto~
+@20102 = ~Przewód Chaosu Rhialto* (Przemiany) 
+Poziom: 1
+Zasięg: 0
+Czas działania: natychmiastowy
+Czas rzucania: 2 rundy
+Obszar działania: rzucający
+Rzut obronny: Brak
+
+Znalazłeś ten dziwny czar w księdze czarów Rhialto. Spędził on dekady na badaniach nad dziką magią, i na końcu stworzył ten czar, który pozwolił mu opanować nowy sposób rzucania czarów.
+
+Przewód Chaosu Rhialto nawiązuje więź między rzucającym a strefą chaosu Limbo, następnie ukierunkowuje surową, chaotyczną energię wprost na maga. Przeznaczeniem tego zabiegu jest otwarcie umysłu rzucającego na inny sposób rzucania czarów.
+
+Mimo iż recytacja jest wystarczająco łatwa by mogła być dostępna jako czar 1 poziomu, jego wewnętrzna struktura jest nieprawdopodobnie skomplikowana i byłaby odpowiednia dla czarów 9, 10 lub nawet wyższych poziomów. Chaotyczna natura czaru może być częściowo odpowiedzialna za tą dziwną rozbieżność.
+
+Czar może zostać rzucony tylko raz, a jego efekt jest nieodwracalny. Zdolności rzucania czaru maga zmieniają się na stałe w stronę bardziej intuicyjną, to samo dzieje się z jego osobowością.
+
+Te zmiany nie są jednakże efektem samego czaru. Przewód Chaosu Rhialto jedynie uwalnia i wzmacnia tendencje i cele, które już w magu są. Osoba która nie jest zainteresowana darem jaki daje ten czar będzie odporna na jego efekt. Jednakże taka osoba po pierwsze nie myślała by nawet o rzucaniu czaru takiego jak ten.
+
+Bez względu na to czy myślisz o rzuceniu tego czaru czy nie, bądź pewien jednej rzeczy: Jeśli ośmielisz się go rzucić, zmieni cię on na zawsze.~
+@20103 = ~Czarotwórca~
+@20111 = ~Kiedy rzuciłeś ten czar, czujesz że twoje zrozumienie tworzenia magii zmieniło się. Spróbowałeś pojąć chaos otaczający cię, podporządkowując go twej woli, czerpiąc siłę z nieobliczalności, niestałości i ciągłego ruchu dzikiej magii. Jesteś teraz w stanie okiełznać struktury magii, ukształtować ją, "utkać" ją w cokolwiek sobie wyobrazisz.~
+@20112 = ~Czujesz także, że czar ten zmienił więcej niż jedynie twoje zdolności do rzucania czarów. Czujesz jakby czar uwolnił głęboko ukrytą część twojej świadomości. Jest w tobie więcej indywidualizmu, tolerancji, ciekawości, lecz także mniej dyscypliny i pilności, pojawił się brak zaufania do władzy. Jednak uczucie wydaje się znajome, jakby zawsze tam było i teraz zostało ujawnione. To nie uczucie zmiany, lecz bardziej ostatecznego przebudzenia po długim śnie.~
+@20201 = ~Przemiana w gryzonia~
+@20202 = ~Przemiana w gryzonia* (Przemiany) 
+Poziom: 1
+Zasięg: 0
+Czas działania: 1 tura
+Czas rzucania: 1 
+Obszar działania: rzucający
+Rzut obronny: Brak
+
+Czar ten przemienia rzucającego w słodką małą wiewiórkę. Ze względu na mały rozmiar gryzonia otrzymuje premie do Klasy Pancerza +2 oraz dodatkowo+4 przeciw pociskom. Szybkość ruchu również zostaje zwiększona. W przeciwieństwie do innych polimorficznych czarów rzucający zachowuje swoje umiejętności rzucania czarów w formie gryzonia. 
+
+Obecna wersja czaru NIE POWINNA wpłynąć na osobowość i mentalność rzucającego.~
+@20211 = ~Jeden z moich czarów się zmienił!~
+@20212 = ~Nauczyłeś się nowego czaru: Przemiana w Ratatoska~
+@20301 = ~Przemiana w Ratatoska~
+@20302 = ~Przemiana w Ratatoska* (Przemiany) 
+Poziom: 1
+Zasięg: 0
+Czas działania: 1 tura
+Czas rzucania: 1 
+Obszar działania: rzucający
+Rzut obronny: Brak
+
+Ratatoski są jedną z ras rozumnych wiewiórek-wojowników charakterystycznych dla Yggdrasil, Jesionu Świata, wielkiego boskiego drzewa, którego gałęzie i korzenie spowijają całe zewnętrzne kręgi.
+
+Po rzuceniu czaru, mag przechodzi transformacje w jednego z tych malutkich stworzonek. Ze względu na mały rozmiar gryzonia otrzymuje premie do Klasy Pancerza +3 w walce wręcz i +5 przeciw pociskom. Szybkość ruchu również zostaje zwiększona. Zręczność rzucającego zwiększa się o 4 punkty. Ewentualne bonusy do klasy pancerza ze względu na wysoką zręczność są dodawane do tych pochodzących od rozmiaru.
+
+Rzucający otrzymuje także niektóre umiejętności bojowe Ratatoska: dodatkowy atak na rundę, pazurki traktowane jako broń +5 pod każdym względem za wyjątkiem obrażeń. Pazury zadają 1k4+1 obrażeń siecznych.
+
+W przeciwieństwie do innych polimorficznych czarów rzucający zachowuje swoje umiejętności rzucania czarów w formie Ratatoska.~
+@20401 = ~Losowy Czar I~
+@20402 = ~Losowy Czar I* (Inwokacje/Wywołania)
+Poziom: 1
+Zasięg: 40 jardów
+Czas działania: natychmiastowy
+Czas rzucania: 1 
+Obszar działania: specjalny
+Rzut obronny: specjalny
+
+Ten ryzykowny czar korzysta z chaosu magii w celu uformowania magicznej energiiw czar potężniejszy niż dziki mag mógłby normalnie rzucić. Losowy Czar I ma efekt losowo wybranego czaru z czarów 2 i 3 poziomu.
+
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
+
+Rzucający wybiera jedną istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucającego czar.
+
+Zaletą Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadą jest fakt iż rzucający nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy.~
+@20501 = ~Deszcz Ostrzy~
+@20502 = ~Deszcz Ostrzy* (Przywołania)
+Poziom: 2
+Zasięg: 40 jardów
+Czas działania: 3 rundy/5 poziomów
+Czas rzucania: 1 
+Obszar działania: 1-25 istot
+Rzut obronny: specjalny
+
+Czar tworzy zestaw magicznych sztyletów które unoszą się w powietrzu dopóki nie zostaną wystrzelone do celu. Od 1 do 5 poziomu tworzony jest jeden sztylet na poziom, następnie dodatkowy zestaw 5 sztyletów na każde 5 poziomów rzucającego, do maksymalnie 25 sztyletów na 25 poziomie. Każdy zestaw jest wystrzeliwany naraz do 1-5 celów wybranych przez rzucającego czar. Sztylety są wykonane z materii chaosu i znikają po upływie czasu działania czaru, na każdy zestaw czarów czas działania jest wysłużony o 3 rundy.
+
+Każdy sztylet zadaje 1k4 kłutych obrażeń. Na 5 poziomie sztylety otrzymują +1 pod względem obrażeń. Ten bonus zwiększa się o 1 co każde 5 poziomów rzucającego: +2 na 10 poziomie, +3 na 15, do maksymalnie +5 na 25 poziomie.
+
+Sztylety wykonane są z czystego chaosu, omijają wszelkie fizyczne oraz czary obronne i zawsze trafiają w cel. Jednakże nadal mogą być zatrzymane przez osłony typu Kamienna Skóra lub Żelazna Skóra. Osłony oraz odporności pochodzące z magicznych przedmiotów nie mają znaczenia. 
+
+Co więcej, rzucający rzuca d20 za każdy pojedynczy sztylet, aby określić krytyczne trafienie lub jego brak. W przypadku krytycznego chybienia sztylet nie zadaje żadnych obrażeń. W przypadku trafienia krytycznego sztylet zadaje podwójne obrażenia i cel musi wykonać rzut obronny przeciw czarom, lub przez 5 rund będzie ofiarą następujących efektów: Uciszenie, Zamęt, Strach, Sen, Dzika Magia.~
+@20511 = ~"Deszcz Ostrzy" został dodany do twoich umiejętności specjalnych~
+@20601 = ~Losowe Pociski Rhialto~
+@20602 = ~Losowe Pociski Rhialto* (Inwokacje) 
+Poziom: 2
+Zasięg: zasięg widzenia rzucającego 
+Czas działania: natychmiastowy
+Czas rzucania: 1 
+Obszar działania: 1 istota
+Rzut obronny: Brak
+
+Czar ten jest ulepszoną i chaotyczną wersją czaru 1 poziomu Magiczny Pocisk. Tworzy on losową liczbę pocisków które wystrzeliwują z palców czarodzieja i bezbłędnie trafiają w cel, który może być jakąkolwiek istotą. 
+
+Dokładna liczba pocisków jest zależna od poziomu rzucającego czar: 1k4 na 1 poziomie, 1k6 na poziomie 4, 1k8 na 8 poziomie i 1k10 na 12 poziomie
+
+Każdy pociska zadaje 1k4+1 obrażeń od (losowo) kwasu, zimna, ognia, elektryczności lub magii. Chaotyczna natura pocisków daje im 25% szanse na ominięcie jakiejkolwiek naturalnej lub magicznej odporności celu.~
+@20701 = ~Glif z Dzikiej Magii~
+@20702 = ~Glif z Dzikiej Magii* (Inwokacje) 
+Poziom: 4
+Zasięg: 40 jardów
+Czas działania: 1 rund/10 poziomów
+Czas rzucania: 3
+Obszar działania: promień 30 stóp
+Rzut obronny: specjalny
+
+Glif z dzikiem magii jest potężną inskrypcją magicznie nakreśloną na ziemi lub innej powierzchni. Glif pozostanie tam dopóki ktoś nie podejdzie za blisko. Wtedy eksploduje i spowoduje fale zakłócającą strukturę magii każdej istocie w promieniu 30 stóp. Każde zakłócenie powoduje mnóstwo fal dzikiej magii skupionych na losowych istotach (wliczając w to rzucającego czar jeśli jest w pobliżu).
+
+Na każde 10 poziomów doświadczenia rzucającego, zakłócenia pozostają przez dodatkową rundę, jednak jest możliwe rozproszenie ich przedwcześnie przez zniekształcenie, w sposób fizyczny lub mentalny. 
+
+Oczywiście efekt czaru jest całkowicie losowy, ofiary mogą zostać wzmocnione przez dzikie fale lub całkowicie unicestwione. Im więcej istot na obszarze działania tym ciekawsze efekty da czar i tym większe prawdopodobieństwo że glif zada wysokie obrażenia.~
+@20711 = ~Zakłócenie Struktury Magii~
+@20801 = ~Zagięcie Światła Gymlainaca~
+@20802 = ~Zagięcie Światła Gymlainaca* (Przemiany)
+Poziom: 3
+Zasięg: Dotyk
+Czas działania: 5 rund + 1 runda/poziom
+Czas rzucani: 3
+Obszar działania: 1 istota
+Rzut obronny: Brak
+
+Czar został opracowany przez dzikiego maga imieniem Gymlainac, w celu stworzenia dzikiej wersji czaru Niewidzialność.
+
+Czar zagina światło dookoła celu, tworząc efekt podobny do czaru 2 poziomu Rozmycie i działania Płaszcza Przemieszczenia. Kontury postaci stają się zniekształcone i chwiejne, czyniąc ją trudniejszą do trafienia. Kiedy czar zostaje rzucony cel otrzymuje bonus +2k4 do Klasy Pancerza i 1k4 do rzutów obronnych. Czar ten nie jest iluzją, lecz faktycznie powoduje zakrzywienie przestrzeni wokół celu, nie może więc zostać rozproszony przez czary takie jak Prawdziwe Widzenie.~
+@20901 = ~Nikczemne Słowo Niezgody~
+@20902 = ~Nikczemne Słowo Niezgody* (Zaczarowania/Zauroczenia) 
+Poziom: 3
+Zasięg: zasięg widzenia rzucającego
+Czas działania: 2 rundy
+Czas rzucani: 3 
+Obszar działania: promień 30 stóp 
+Rzut obronny: specialny 
+
+Czar ten jest kombinacją brzuchomówstwa i magii zauroczeń, jest esencją niezgody i posiada potencjał nie tylko niszczenia formacji wroga lecz także posłuszeństwa.
+
+Rzucający wskazuje 1 istotę, która następnie wygląda jakby krzyczała przekleństwa w dziwnym, plugawym języku. Zaskoczenie, nieoczekiwane źródło przekleństw i magia ukryta w słowach wywierają wrażenie na nieprzygotowanych świadkach.
+
+Wszyscy w promieniu 30 stóp wokół celu muszą wykonać rzut obronny przeciw czarom z modyfikatorem -4 lub wystąpią u nich jeden z losowo wybranych efektów: zaatakują się nawzajem, uciekną w panice, będą stać osłupieni, sprzymierzą się z czarującym, lub będą się zataczać bez kontroli nad własnym ciałem. Dodatkowo istnieje 20% szansa że ofiara upuści losowy przedmiot z ekwipunku.
+
+Czar działa zarówno na sprzymierzeńców czarującego jak i na wrogów, jedynie mag i początkowy cel czaru są odporni na efekty.
+
+Zazwyczaj nie da się ustalić kto rzucił czar: jedyną osobą na którą ofiary mogą być złe jest pierwszy cel czaru krzyczący przekleństwa. Ewentualna walka może trwać także po zakończeniu działania czaru.~
+@21001 = ~Komórkowa Regeneracja~
+@21002 = ~Komórkowa Regeneracja* (Necromancja)
+Poziom: 4
+Zasięg: Dotyk
+Czas działania: 6 rundy
+Czas rzucani: 4
+Obszar działania: 1 istota
+Rzut obronny: Brak
+
+Przez kształtowanie struktury magii dopóki nie przyjmie ona kształtu na wzór kapłańskiego czaru leczenia, dziki mag może dokonać tego co było uważane za niemożliwe: stworzyć czar leczący rany.
+
+Komórkowa Regeneracja zwiększa tempo przyrostu różnych tkanek ciała, sprawiając że łączą się ze sobą znacznie szybciej. Z chwilą gdy cel zostaje dotknięty czar zaczyna działać, przywracając Punkty Życia według tabeli poniżej:
+
+Runda   Uleczone PŻ
+------------------
+1           1
+2           1k4
+3           1k4 + poziom/5 (do 1k4+5)
+4           1k4 + poziom/5 (do 1k4+5)
+5           1k4
+6           1
+
+Proces regeneracji jest tak wyczerpujący dla ciała, że cel pozostaje nieprzytomny na czas działania czaru i na godzinę traci 1 punkt Kondycji.~
+@21101 = ~Wir~
+@21102 = ~Wir* (Inwokacje)
+Poziom: 5
+Zasięg: 30 jardów
+Czas działania: 3-15 rund
+Czas rzucani: 5
+Obszar działania: Kula o promieniu 7 stóp
+Rzut obronny: 1/2
+
+Wir to kłębiąca się masa energii magicznej, raczej niemożliwa do kontrolowania przez rzucającego. Po rzuceniu czaru pojawia się wysoka na 7 stóp wielokolorowa kula. Od  tego momentu rzucający musi się koncentrować by utrzymać wir przy istnieniu.
+
+Podczas każdej rundy mag może przemieścić wir o 60 stóp. Jednak kontrola nad kierunkiem ruchu nie jest idealna. Jeśli mag nie skoncentruje się wystarczająco, wir sam zadecyduje gdzie się przemieścić. 
+
+Wir jest stworzony z czystej energii magicznej. Raz na rundę wszystkie istoty w pobliżu wiru otrzymują po 2k6 obrażeń od (łącznie): ogłuszenia, elektryczności i magii. Powalone istoty mogą wykonać rzut obronny przeciw czarom i cierpią jedynie połowę obrażeń. 
+
+Czas trwania czaru wynosi 3 rundy na poziomie 10  i dodatkowo jedną rundę co drugi dodatkowy poziom, aż do maksymalnie 15 rund na poziomie 34. Mag nie może się w trakcie trwania czaru poruszać, nie może także przerwać czaru, nawet jeśli całkowicie utracił kontolę nad wirem.~
+@21103 = ~~ [wizeye01]
+@21104 = ~~ [wizeye02]
+@21201 = ~Promień Szczęścia Paithana~
+@21202 = ~Promień Szczęścia Paithana* (Zaczarowania/Zauroczenia)
+Poziom: 5
+Zasięg: Dotyk
+Czas działania: specialny
+Czas rzucani: 5
+Obszar działania: 1 istota
+Rzut obronny: Brak
+
+Ten niezwykle silny czar zapewnia celowi przypływ szczęścia. Wskazana istota otrzymuje bonus 1k8 punktów szczęścia do każdej wykonywanej czynności. Wlicza się w to rzuty obronne, rzuty na trafienie, umiejętności złodziejskie itd. Dodatkowo podwojona suma punktów dodawana jest do każdego rzutu kostką w tabeli dzikiej magii. 
+
+Na koniec każdej rundy wykonywany jest rzut kostką k20 decydujący o tym czy czar zakończy swoje działanie. W przypadku wyniku 2 lub większego wykonywany jest ponowny rzut kostką 1k8 określający liczbę dodawanych punktów szczęścia i czar trwa przez następną rundę. 
+
+W przypadku gdy wypadnie 1 wciąż istnieje 25% prawdopodobieństwo że czar będzie trwać dalej: Jeśli wynik kolejnego rzutu k20 wyniesie 16 lub więcej, czar nie tylko trwa dalej, lecz dodatkowo następna runda jest "Szczęśliwa" co oznacza że cel dostaje +8 punktów szczęścia oraz nadnaturalną zdolność uniknięcia śmierci, wyssania poziomu i swobody ruchów.
+ 
+O ile czar nie przestanie działać w wyniku "Pechu" (1 przy rzucie k20 a następnie 15 lub mniej przy kolejnym rzucie k20) czar może trwać nieskończenie długo.~
+@21301 = ~Fiasko Paithana~
+@21302 = ~Fiasko Paithana* (Zaczarowania/Zauroczenia)
+Poziom: 6
+Zasięg: Dotyk
+Czas działania: specialny
+Czas rzucani: 5
+Obszar działania: 1 istota
+Rzut obronny: Brak
+
+Fiasko Paithana to odwrócona wersja czaru 5 poziomu Promień Szczęścia Paithana. Cel, zazwyczaj wróg, przeżywa pasmo niepowodzeń. Ofierze celu zostaje obniżone szczęście o 1k8 punktów do każdej wykonywanej czynności. Wlicza się w to rzuty obronne, rzuty na trafienie, umiejętności złodziejskie itd. Dodatkowo podwojona suma punktów odejmowana jest od każdego rzutu kostką w tabeli dzikiej magii. 
+
+Na koniec każdej rundy wykonywany jest rzut kostką k20 decydujący o tym czy czar zakończy swoje działanie. W przypadku wyniku 19 lub mniejszego wykonywany jest ponowny rzut kostką 1k8 określający liczbę odejmowanych punktów szczęścia i czar trwa przez następną rundę. 
+
+W przypadku wyniku 20, wciąż jest 25% szansa że czar będzie trwać dalej: Jeśli rezultat kolejnego rzutu k20 będzie wynosił 5 lub mniej, czar nie tylko kontynuuje swoje działanie, lecz dodatkowo następna runda jest rundą "Fiaska", ofiara otrzymuje ujemny modyfikator 8 punktów do szczęścia, oraz występują u niej następujące efekty: potyka się i upada na 2 rundy, upuszcza broń w wyniku gwałtownego ataku kaszlu, nie jest w stanie parować ciosów i traci wszystkie ataki na tą rundę, zadaje sobie sama 1k20 punktów obrażeń lub oślepia się drzazgą z własnej broni na trzy rundy.
+ 
+O ile czar nie przestanie działać w wyniku "Szczęścia" (20 przy rzucie k20 a następnie 6 lub więcej przy kolejnym rzucie k20) czar może trwać nieskończenie długo.~
+@21311 = ~Fiasko~
+@21401 = ~Dzikie Czarowanie~
+@21402 = ~Dzikie Czarowanie* (Przywołania/Sprowadzenia) 
+Poziom: 6
+Zasięg: 30 jardów
+Czas działania: 1-15 rund
+Czas rzucani: 3
+Obszar działania: 1 istota
+Rzut obronny: Neg.
+
+Czar ten jest używany zazwyczaj przeciwko wrogim magom. Niweczy on wszelkie próby rzucenia czaru, przemieniając energię czaru w dziką falę. Ofiara Dzikiego Czarowania może wykonać rzut obronny z modyfikatorem -1 na każdy poziom rzucającego Dzikkie Czarowanie. Jeśli rzut obronny okaże się skuteczny, czar nie ma efektu, jeśli się nie uda cel zostaje otoczony polem dzikiej magii.
+
+Każda próba rzucenia czaru lub użycia magicznego przedmiotu automatycznie wywołuje dziką falę. Przy określaniu efektu dzikiej fali z tabeli, odejmowane jest 5 punktów od wyrzuconej wartości na każde 5 poziomów dzikiego maga który rzucił Dzikie Czarowanie sprawiając że efekty dzikiej fali częściej będą dotyczyć ofiary.
+
+Czas trwania czaru wynosi 1 rundę, plus dodatkowe 2 rundy za każde pięć poziomów czarującego, aż do maksymalnie 15 rund na poziomie 35.~
+@21501 = ~Losowe Odesłanie Hornunga~
+@21502 = ~Losowe Odesłanie Hornunga* (Odrzucanie) 
+Poziom: 7
+Zasięg: 30 jardów
+Czas działania: natychmiastowy
+Czas rzucani: 2 
+Obszar działania: 1 istota
+Rzut obronny: Neg.
+
+Czar ten przez wymówienie kilku słów może przenieść kogoś do losowej sfery i zostawić go tam. Cel może wykonać rzut obronny, który w przypadku powodzenia całkowicie niweluje działanie czaru. W przeciwnym wypadku ofiara i wszystkie przedmioty, które przy sobie ma, zostają wysłane do losowej sfery.
+
+Rzucający nie ma kontroli nad tym gdzie odesłana zostanie ofiara. Warunki panujące w miejscu gdzie cel się znajdzie mogą go zabić (na przykład, jeśli pojawi się w Sferze Żywiołu Ognia), sprawić że jego życie będzie trudne, lub też cel może znaleźć się w raju (dosłownie). 
+
+Jakkolwiek by się nie stało, jeśli czar się powiedzie, mag pozbywa się celu i jest raczej mało prawdopodobne że spotkają się ponownie w tym życiu.~
+@21511 = ~został wysłany do Otchłani~
+@21512 = ~został wysłany do Acheronu~
+@21513 = ~został wysłany do pierwszej sfery materialnej: Oerth~
+@21514 = ~został wysłany do pierwszej sfery materialnej: Athas~
+@21515 = ~został wysłany do Arkadii~
+@21516 = ~został wysłany do Sfery Astralnej~
+@21517 = ~został wysłany do Krainy Zwierząt~
+@21518 = ~został wysłany do Krain Zewnętrznych~
+@21519 = ~został wysłany do Sfery Żywiołu Powietrza~
+@21520 = ~został wysłany do Sfery Żywiołu Ognia~
+@21521 = ~został wysłany do Sfery Żywiołu Ziemi~
+@21522 = ~został wysłany do Sfery Żywiołu Wody~
+@21523 = ~został wysłany do Elisjum~
+@21524 = ~został wysłany do Planu Eterycznego~
+@21525 = ~został wysłany do Gehenny~
+@21526 = ~został wysłany do Ysgard~
+@21527 = ~został wysłany do Szarych Pustkowii~
+@21528 = ~został wysłany do Limbo~
+@21529 = ~został wysłany do Sfery Energii Negatywnej~
+@21530 = ~został wysłany do Sfery Quasi-Żywiołu Pary~
+@21531 = ~został wysłany do Sfery Quasi-Żywiołu Popiołu~
+@21532 = ~został wysłany do Sfery Quasi-Żywiołu Pyłu~
+@21533 = ~został wysłany do Sfery Quasi-Żywiołu Soli~
+@21534 = ~został wysłany do Baatoru~
+@21535 = ~został wysłany do Nirvany~
+@21536 = ~został wysłany na Niebiański Szczyt~
+@21537 = ~został wysłany do Pandemonium~
+@21538 = ~został wysłany do Sfery Parażywiołu Dymu~
+@21539 = ~został wysłany do Sfery Parażywiołu Magmy~
+@21540 = ~został wysłany do Sfery Parażywiołu Szlamu~
+@21541 = ~został wysłany do Sfery Parażywiołu Lodu~
+@21542 = ~został wysłany do Sfery Energii Pozytywnej~
+@21543 = ~został wysłany do Sfery Quasi-Żywiołu Błyskawic~
+@21544 = ~został wysłany do Sfery Quasi-Żywiołu Błysku~
+@21545 = ~został wysłany do Sfery Quasi-Żywiołu Minerałów~
+@21546 = ~został wysłany do Sfery Quasi-Żywiołu Próżni~
+@21547 = ~został wysłany do Icewind Dale~
+@21548 = ~został wysłany do Aboreii~
+@21549 = ~został wysłany do Tataru~
+@21550 = ~został wysłany do Dwutopii~
+@21601 = ~Przywołanie Krowy~
+@21602 = ~Przywołanie Krowy* (Sprowadzenie) 
+Poziom: 7
+Zasięg: zasięg widzenia rzucającego 
+Czas działania: Natychmiastowy
+Czas rzucani: 3 
+Obszar działania: 1 istota
+Rzut obronny: specjalny
+
+Czar jak sama nazwa wskazuje przywołuje krowę. 50-200 jardów nad celem czaru. Dokładna wysokość zależy od poziomu rzucającego czar i decyduje o obrażeniach jakie otrzyma cel.
+
+Po przywołani zwierzę spadnie na ofiarę. Siła uderzenia w ziemie powoduje miażdżące obrażenia, równe 3k10 + 1k10 na każde 3 poziomy maga, do maksimum 10k10 na poziomie 21. Nie ma rzutu obronnego chroniącego przed obrażeniami, jednak bardzo szczęśliwe, lub zręczne osoby mogą upaść na ziemię bez otrzymania dodatkowych obrażeń.
+
+Jeśli cel przeżyje uderzenie, istnieje 10% szansa (+dodatkowe 10% na każde 3 poziomy rzucającego) że upuści losową rzecz z ekwipunku. Maksymalna szansa wynosi 80% na 21 poziomie i nie ma rzutu obronnego.
+
+Dodatkowo, cała sytuacja jest żenująca i straszna, cel musi wykonać rzut obronny przeciw czarom, lub ucieknie w panice na 3 rundy. Rzut obronny wykonywany jest z modyfikatorem +2 który jest obniżany o 1 na każde 3 poziomy rzucającego, dopóki nie osiągnie -5 na 21 poziomie.
+
+Uwaga:
+Czar ten jest w istocie celowym wywołaniem specyficznego efektu dzikiej fali. Jako taki może spowodować niechciane skutki uboczne.
+
+Jednocześnie jest zalecane aby nie używać tego czaru w obecności łowców i druidów.~
+@21701 = ~Dzikie Przypomnienie Mynoca~
+@21702 = ~Dzikie Przypomnienie Mynoca* (Inwokacje)
+Poziom: 8
+Zasięg: 0
+Czas działania: natychmiastowy
+Czas rzucani: 10 
+Obszar działania: rzucający
+Rzut obronny: Brak
+
+Rzucając ten czar dziki mag celowo uwalnia czystą energię magiczną zawartą w dzikiej fali. Jeśli zdoła przejąć kontrolę nad falą, używa energii do przywrócenia 1k4 już rzuconych czarów w pamięci. Jeśli wcześniej nie rzucił żadnego czaru, nic się nie dzieje i czar jest zmarnowany.
+
+Przy określaniu efektu dzikiej fali mag zyskuje bonus +40 do rzutów kostką w tabeli dzikiej magii, sprawiając że istnieje spora szansa że czar będzie miał w przypadku niepowodzenia chociaż trochę wspomagający efekt. Dzikie Przypomnienie Mynoca może przywrócić tylko czary 7 lub niższych poziomów.~
+@21711 = ~1 przypomniany czar~
+@21712 = ~2 przypomniane czary~
+@21713 = ~3 przypomniane czary~
+@21714 = ~4 przypomniane czary~
+@21801 = ~Oko Obserwatora~
+@21802 = ~Oko Obserwatora* (Inwokacje)
+Poziom: 8
+Zasięg: zasięg widzenia rzucającego
+Czas działania: 1 rund/5 poziomów
+Czas rzucani: 5
+Obszar działania: specjalny
+Rzut obronny: specjalny
+
+Kiedy czar zostanie rzucony, oko dzikiego maga wyskakuje z oczodołów i zostaje przekształcone w czółkę Obserwatora z okiem na samym czubku.
+
+Raz na rundę dziki mag może użyć swojego Oka i wysłać promień w wybranym przez siebie kierunku, powodując jeden z 10 losowych efektów. Dokładne efekty (wliczając w to rzuty obronne, zasięg, czas trwania itd. ) są zależne od rodzaju promienia którym strzelił mag, efekty mogą być następujące: Zauroczenie osoby, Strach, Dezintegracja, Spowolnienie, Petryfikacja, Zadawanie Poważnych Ran, Unieruchomienie Osoby, Błyskawica, Paraliż, Promień Śmierci.
+
+Zazwyczaj oko maga wraca do poprzedniego kształtu i miejsca po upłynięciu czasu działania czaru.~
+@21803 = ~Promień Obserwatora~
+@21811 = ~"Promień Obserwatora" został dodany do twoich Umiejętności Specjalnych~
+@21901 = ~Tarcza Entropii~
+@21902 = ~Tarcza Entropii* (Odrzucanie)
+Poziom: 9
+Zasięg: 0
+Czas działania: 2 tury
+Czas rzucani: 9
+Obszar działania: rzucający
+Rzut obronny: Brak
+
+Czar otacza rzucającego ochronnym polem surowej energii magicznej. Pole to absorbuje energię dzikich fal i każdego czaru, oprócz tych najpotężniejszych.
+
+Na czas trwania czaru rzucający zyskuje niewrażliwość na wszystkie czary poziomu 7 lub niższych, wliczając w to czary takie jak Rubinowy Promień Odwrócenia i inne mające na celu rozproszenie magicznych osłon. Jedynie Przebicie Tarczy i Uderzenie Czaru mają wystarczającą moc do rozproszenia Tarczy Entropii. 
+
+Dodatkowo, rzucający zyskuje bonus +100 do rzutów kostką w tabeli dzikiej magii, zapewniając sobie tym samym że każdy czar zostanie rzucony normalnie, wliczając w to Lekkomyślne Zaklęcie Nahala - tak długo jak Tarcza Entropii jest aktywna rzucającemu zawsze powiedzie się wywołanie pożądanego efektu.~
+@22001 = ~Dzika Sfera~
+@22002 = ~Dzika Sfera* (Przywołania/Sprowadzenia) 
+Poziom: 9
+Zasięg: zasięg widzenia rzucającego
+Czas działania: 6 tur
+Czas rzucani: 1 runda
+Obszar działania: promień 30 stóp
+Rzut obronny: specjalny
+
+Ten potężny czar tworzy tymczasową szczelinę w strukturze magii o promieniu 30 stóp w środku której niepodzielnie panuje chaos. 
+
+Każdy czar rzucony w obszarze Dzikiej Sfery wywołuje dziką falę. Użycie magicznych przedmiotów zużywających ładunki także powoduje dziką falę, inne magiczne przedmioty (na przykład działające stale) funkcjonują normalnie. Jeśli ofiara opuści obszar działania czaru jeszcze przez rundę będzie pod jego wpływem, po upływie tego czasu jej zdolności rzucania czarów wracają do normy. 
+
+Dodatkowo każdy w obszarze działania czaru musi wykonać rzut obronny przeciw czarom z modyfikatorem -5 lub spowoduje zakłócenie struktury magii, które wystrzeli liczne dzikie fale w losowych kierunkach przez jedną rundę, efekt jest porównywalny z tym spowodowanym przez 4-poziomowy czar Glif z Dzikiej Magii.
+
+Osoby którym nie powiedzie się rzut obronny przeciwko czarom bez modyfikatora, zostają poddane następującym losowo wybranym efektom: teleportowane w losowe miejsce, zamienione w wiewiórkę, ulegają zamętowi, paraliżowi, mają uleczone 1k8 PŻ, dostają 1k8 punktów obrażeń, tracą przytomność lub zostają przyspieszone.~
+@22101 = ~Reinkarnacja Rhialto Cudownego~
+@22102 = ~Reinkarnacja Rhialto Cudownego* (Przemiany) 
+Poziom: 10
+Zasięg: zasięg widzenia rzucającego
+Czas działania: natychmiastowy
+Czas rzucani: 10 
+Obszar działania: 1 istota
+Rzut obronny: Brak
+
+Ten plugawy czar to spuścizna po dzikim magu który sam siebie nazwał Rhialto Cudownym.
+
+Rzucenie tego czaru powoduje fluktuacje w prawach prawdopodobieństwa i osłabia okowy czasu. Efekty te trwają jedynie przez moment, lecz wystarczająco długo by stworzyć alternatywną rzeczywistość.
+
+Przeznaczeniem tego czaru jest przywrócenie martwej osoby do życia poprzez zmianę wydarzeń w przeszłości i sprawienie by umarł za nią ktoś inny (ktoś kto obecnie żyje). Nie ma tu miejsca żadna boska interwencja: przywrócona do życia osoba nie jest wskrzeszona - po rzuceniu tego czaru, jej śmierć nigdy nie miała miejsca.
+
+Rzucający wskazuje ofiarę, która po rzuceniu czaru znika, zajmuje miejsce osoby przywracanej do życia i umiera w tym samym momencie, miejscu i w ten sam sposób co ona. W miejscu ofiary pojawia się przywrócony do życia cel.~
+@22201 = ~Wybuch Entropii~
+@22202 = ~Wybuch Entropii (Inwokacje)
+Poziom: 8
+Zasięg: 0
+Czas działania: specjalny
+Czas rzucani: 1
+Obszar działania: promień 30 stóp
+Rzut obronny: Brak
+
+Wybuch Entropii wywołuje magię o straszliwej mocy. Rzucający służy jako pomost między sferą materialną a siłami chaosu, powodując wybuch chaotycznej energii o promieniu 30 stóp w centrum którego jest rzucający czar.
+
+Efekt czaru jest całkowicie nieszkodliwy dla istot o chaotycznej naturze, każdy inny jest odrzucany od czarodzieja na kilka sekund; istoty o neutralnym charakterze otrzymują 1k8 obrażeń, podczas gdy istoty praworządne 1k20. Dodatkowo istoty praworządne ulegają następującym efektom, w zależności od poziomu:
+
+Kostki lub poziomy  --  Efekty Wybuchu Entropii
+mniej niż 4  		--  Śmierć
+4 do 7  			--  Unieruchomienie na 1 turę
+8 do 11  			--  Spowolnienie na 1 turę i 75% na nieudane rzucenie czaru
+12 i więcej  		--  Ogłuszenie na 1 turę i 50% na nieudane rzucenie czaru
+
+Nie ma rzutu obronnego przeciw temu czarowi, efekty są natychmiastowe i trwają dopóki nie minie ich czas lub nie zostaną rozproszone.~
+@22301 = ~Nawałnica Kwasu~
+@22302 = ~Nawałnica Kwasu (Wywołania)
+Poziom: 7
+Zasięg: zasięg widzenia rzucającego
+Czas działania: 1 tura
+Czas rzucani: 7
+Obszar działania: promień 20 stóp
+Rzut obronny: 1/2
+Czar uwalnia chmurę kwasu na obszarze swojego działania, która zadaje 1-4 punktów obrażeń co rundę przez pierwsze 3 rundy, 1-6 punktów obrażeń przez następne 3 rundy i 1-8 punktów obrażeń przez następne 4 rundy. Wyjście z obszaru nie zatrzymuje obrażeń - kwas znajduje się na skórze ofiary i cierpi ona tak długo jak trwa czar. Ofiary mogą co rundę wykonać rzut obronny przeciw czarom i otrzymają połowę obrażeń (przez tą rundę).~
+@22401 = ~Przywołanie Dzikiej Hordy~
+@22402 = ~Przywołanie Dzikiej Hordy* (Przywołania/Sprowadzenia)
+Poziom: 2
+Zasięg: 0
+Czas działania: 1 runda/poziom
+Czas rzucani: 2 
+Obszar działania: specjalny 
+Rzut obronny: specjalny
+
+Czar przywołuje 1k20 agresywnych królików, które będą walczyć do końca w obronie maga.
+
+Małe zwierzątka nie stanowią raczej zagrożenia i raczej tylko rozpraszają przeciwników rzucających czary. Jednakże kiedy jeden z gryzoni umiera, istnieje 25% szansy że eksploduje kulą ognia, zadając 2k4 obrażeń wszystkim w promieniu 20 stóp (połowę przy udanym rzucie obronnym przeciw czarom).~
+@22501 = ~Cielesna Niestabilność~
+@22502 = ~Cielesna Niestabilność* (Przemiany)
+Poziom: 4
+Zasięg: zasięg widzenia rzucającego
+Czas działania: 1 runda/poziom
+Czas rzucani: 3 
+Obszar działania: 1 istota
+Rzut obronny: Neg.
+
+Cielesna Niestabilność niweluje łączenia trzymające ciało ofiary w jednym kawałku.
+
+Kiedy czar jest rzucony, ofiara musi wykonać rzut obronny przeciw czarom z modyfikatorem -5 lub zostanie upłynniona. W takim przypadku otrzymuje 1k20 punktów obrażeń z powodu szoku systemu nerwowego, gdyż jego ciało zamienia się w amorficzną masę. Ofiara nie może wykonać żadnego ruchu przez 1 rundę na poziom rzucającego, lecz jest także odporna na każde obrażenia oprócz magicznych.~
+@22601 = ~Losowy Czar II~
+@22602 = ~Losowy Czar II* (Inwokacje/Wywołania)
+Poziom: 3
+Zasięg: 40 jardów
+Czas działania: natychmiastowy
+Czas rzucani: 1 
+Obszar działania: specjalny
+Rzut obronny: specjalny
+
+To potężniejsza wersja czaru 1 poziomu Losowy Czar I. Losowy Czar II tworzy po rzuceniu efekt losowo wybrany spośród czarów 4 i 5 poziomu.
+
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
+
+Rzucający wybiera jedną istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucającego czar.
+
+Zaletą Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadą jest fakt iż rzucający nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy.~
+@22701 = ~Losowy Czar III~
+@22702 = ~Losowy Czar III* (Inwokacje/Wywołania)
+Poziom: 5
+Zasięg: 40 jardów
+Czas działania: natychmiastowy
+Czas rzucani: 1 
+Obszar działania: specjalny
+Rzut obronny: specjalny
+
+Podobnie jak losowy czar z 1 i 3 poziomu, Losowy Czar III tworzy efekt odpowiadający losowemu czarowi wybranemu z pośród 6 lub 7 poziomu.
+
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
+
+Rzucający wybiera jedną istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucającego czar.
+
+Zaletą Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadą jest fakt iż rzucający nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy.~
+@22801 = ~Losowy Czar IV~
+@22802 = ~Losowy Czar IV* (Inwokacje/Wywołania)
+Poziom: 7
+Zasięg: 40 jardów
+Czas działania: natychmiastowy
+Czas rzucani: 1 
+Obszar działania: specjalny
+Rzut obronny: specjalny
+
+Jest to najsilniejsza wersja Losowego Czaru, tworzy losowy efekt czaru 9 poziomu.
+
+W rzadkich przypadkach niestabilny wybuch magicznej energii powoduje powstanie kilku losowych efektów
+
+Rzucający wybiera jedną istotę w zasięgu 40 jardów na cel czaru. Uzyskany efekt będzie wycentrowany na tej istocie, chyba że ma on wpływ jedynie na rzucającego czar.
+
+Zaletą Losowego Czaru jest czas rzucania który zawsze wynosi 1, zasięg, który zawsze ma 40 jardów, niezależnie od efektu wylosowanego czaru, oraz fakt że dziki mag nie musi być w stanie rzucić czaru, lub nawet mieć go w swojej księdze czarów. Wadą jest fakt iż rzucający nie ma żadnego wpływu na to jaki czar zostanie rzucony, ani też na to czy efekt będzie przyjazny czy szkodliwy.~
+@22901 = ~Dziki Czar~
+@22902 = ~Dziki Czar* (Inwokacje/Wywołania)
+Poziom: 9
+Zasięg: 0
+Czas działania: specjalny
+Czas rzucani: 1 
+Obszar działania: specjalny
+Rzut obronny: specjalny
+
+Poprzez ten czar dziki mag jest w stanie skanalizować surową magiczną energię przez siebie, kształtując ją w cokolwiek tylko zechce.
+
+Dziki Czar pozwala rzucającemu utworzyć efekt jakiegokolwiek czaru poziomu 8 lub niższego. Musi on jedynie posiadać ogólną wiedzę na temat jego efektów; czar nie musi być w jego księdze czarów.~
+@23001 = ~Nieodparty Urok Mynoca~
+@23002 = ~Nieodparty Urok Mynoca* (Inwokacje/Wywołania)
+Poziom: 1
+Zasięg: zasięg widzenia rzucającego
+Czas działania: natychmiastowy
+Czas rzucani: 1 
+Obszar działania: 1 istota
+Rzut obronny: Brak
+
+W przeciwieństwie do tego co sugeruje nazwa, czar ten nie ma nic wspólnego z czynieniem maga bardziej atrakcyjnym. Kiedy rzucony zostaje Nieodparty Urok Mynoca, lina stworzona z surowej magii pojawia się; zapętla się ona wokół maga i wskazanej istoty a następnie skraca, przyciągając cel do maga.
+
+Czar nie ma rzutu obronnego i omija wszelkie magiczne odporności jakie może mieć istota. Czar jest zazwyczaj używany do wyciągania przyjaciół z tarapatów; niektórzy dzicy magowie są na tyle szaleni by przyciągać do siebie wrogów zmuszając ich (i siebie) do walki wręcz.~
+@23101 = ~Dziki Pancerz Meece~
+@23102 = ~Dziki Pancerz Meece* (Iluzje)
+Poziom: 6
+Zasięg: 0
+Czas działania: 5 rund/poziom
+Czas rzucani: 4 
+Obszar działania: rzucający
+Rzut obronny: brak
+
+Czar ten został stworzony przez gnomiego maga Meece Upknota i miał służyć jako ochrona bojowa. Meece nie mógł zadecydować czy zwinność czy ukrywanie jest najlepszą metodą na przeżycie walki, więc stworzył czar który łączy w sobie obie te rzeczy.
+
+Mag rzucający Dziki Pancerz zostaje chroniony przez intensywne fluktuacje magicznych struktur dookoła niego. Te zniekształcenia naginają prawa prawdopodobieństwa do punktu w którym zaczynają one służyć ochronie przed każdego rodzaju obrażeniami. Na czas trwania czaru istnieje duże prawdopodobieństwo że wykonany na maga atak będzie miał mniejszy efekt niż powinien, ponieważ wszystkie obrażenia zostają zredukowane o 20%. Istnieje jednak prawdopodobieństwo 50% że atak zakłucił magiczne pole otaczające maga, wywołując dziką falę.
+
+Po otrzymaniu zredukowanych obrażeń, Dziki Pancerz czyni maga niewidzialnym, by uniknął dalszych obrażeń. Niewidzialność trwa przez 5 rund, lub do czasu gdy zostanie rozproszona lub mag kogoś zaatakuje.
+
+Czas trwania czaru wynosi 5 rund na poziom maga, aż do maksymalnie 2 godzin na 20 poziomie.~
+@30101 = ~Tkanie Czaru~
+@30111 = ~1 poziom~
+@30112 = ~2 poziom~
+@30113 = ~3 poziom~
+@30114 = ~4 poziom~
+@30115 = ~5 poziom~
+@30116 = ~6 poziom~
+@30117 = ~7 poziom~
+@30118 = ~8 poziom~
+@30119 = ~9 poziom~
+@30120 = ~10 poziom~
+@30121 = ~Nie masz zapamiętanych żadnych odpowiednich czarów.~
+@30122 = ~Podmuch Dzikiej Fali~
+@30201 = ~Rozerwanie Struktur~
+@30301 = ~Kształtuj Czar~
+@30302 = ~Ukształtowany Czar~
+@40101 = ~Dłoń~
+@40102 = ~Jako Czarotwórca masz umiejętność uwalniania dzikiej, surowej energii magicznej zapamiętanych czarów i kształtowania jej w inne czary. Kształt magicznej mocy jest limitowany jedynie twoją wyobraźnią. Nosząc pierścień na tej ręce mógłbyś mieć nie tylko skrępowane ruchy, lecz mogłoby to zakłócać przepływ magii, uniemożliwiając ci korzystanie z twoich unikalnych zdolności
+
+
+Czarotwórca:
+
+Czarotwórca jest użytkownikiem dzikiej magii, który rzuca czary korzystając z talentu lub daru, w przeciwieństwie do systematycznego i akademickiego podejścia innych magów.
+
+Podobnie jak Czarownik, Czarotwórca pojmuje arkana magii w intuicyjny sposób. Zapamiętuje czary jak mag, lecz ma do dyspozycji także drugie ich źródło: Czarotwórca ma umiejętność "Tkania" surowej magicznej energii w kształt efektu jakiego sobie życzy, bez potrzeby uprzedniego zapamiętywania tych czarów. O tym talencie można powiedzieć wszystko ale nie to że jest niezawodny, używanie go na co dzień wymaga tyleż lekkomyślności co szczęścia. Osoby obdarzone takim talentem nie są popularne wśród konserwatywnych magów.
+
+W przeciwieństwie do Czarownika, Czarotwórca może uczyć się czarów ze zwojów i zapamiętywać je i rzucać podobnie jak mag. Będąc oportunistą Czarotwórca rzadko rezygnuje z relatywnie przewidywalnego działania magii. Rezerwuje jednak ten sposób dla czarów ochronnych i ostatniej szansy, na których musi polegać i być pewnym powodzenia. Jego talent do spontanicznego rzucania czarów jest na tyle przydatny, że woli go używać kiedy tylko to możliwe.
+
+Pominięcie konwencjonalnej formy czarowania i skupienie się na chaotycznej dzikiej magii ma swoją cenę: Czarotwórca nie może zapamiętać tak wielu czarów jak prawdziwy mag, a jego postęp w poznawaniu nowych poziomów czarów jest znacznie wolniejszy.
+
+Osoby tej profesji zwykły być również nieco ekscentryczne: Ich niezdyscyplinowana natura pozwoliła im opanować alternatywną metodę rzucania czarów, jednocześnie też ciągły kontakt z chaotyczną magią wpłynął na ich osobowość jeszcze bardziej. Podobnie jak Bard, Czarotwórca ma wiele zainteresowań: Intuicyjnie uczy się po trochu wszystkiego co napotyka na swojej drodze, lecz brak mu dyscypliny by stać się w którejś z tych dziedzin konkurencyjny dla osób skupionych na niej.
+
+Czarotwórca jest na tyle mądry by nie polegać całkowicie na swoich groźnych i nieprzewidywalnych zdolnościach. Dzieli czas na ćwiczenia mentalne i bojowe. Nie są wojownikami, lecz ich zdolności w walce wręcz można porównać do tych prezentowanych przez złodziei. Wraz z rozwojem Czarotwórca może nauczyć się specjalnych zdolności zwiększających jego umiejętności bojowe, wliczając w to sztyletowanie, mistrzostwo w sztyletach, czy unikalną zdolność walki dwoma broniami na raz bez żadnych przeszkód.
+
+Jedną z najbardziej ekscentrycznych cech charakterystycznych jest ta że Czarotwórca nie specjalizuje się nigdy w broniach strzeleckich; do walki dystansowej używa magii, a jeśli ta zawiedzie, preferuje walkę wręcz.
+
+
+Zalety:		
+-  Dzika Magia (zmiana poziomu przy rzucaniu czarów +- 5)
+-  przyrost TRAK0 podobny do tego u łotrzyków
+-  5 punktów wiedzy na poziom
+-  Umiejętność Tkania Czarów
+-  Umiejętność Rozerwania Struktur magii 
+-  Umiejętność Kształtowania Czarów
+-  Może się nauczyć kilku umiejętności do walki wręcz
+		
+Wady:	
+-  Dzika Magia (zmiana poziomu przy rzucaniu czarów +- 5)
+-  5% szansy na Dziką Falę
+-  Wolny postęp w poznawaniu czarów
+-  Mniej czarów/dzień niż mag
+-  Nie może zwiększać ilości czarów możliwych do zapamiętania
+-  -5 do trafienia i -2 do obrażeń pociskami
+-  Może nosić tylko 1 pierścień
+-  Charakter musi być chaotyczny
+~
+@40201 = ~Eksplodująca czaszka~
+@40202 = ~Ta dziwna czaszka pewnej nocy pojawiła się w twoim ekwipunku. Drży od magicznej energii. Mógłbyś się założyć że wygląda tak samo jak ta pojawiająca się przy rzucaniu czaru Eksplodująca Czaszka. Jednak zamiast unosić się w powietrzu, leży ona sobie spokojnie w twojej kieszeni. Nie masz pojęcia dlaczego jeszcze nie wybuchła jednak z jakiegoś powodu cię to cieszy. Najlepiej będzie jeśli rzucisz nią w jakiegoś łajdaka i to jak najszybciej...
+
+PARAMETRY:
+Rzuca "Eksplodującą Czaszkę" z efektem 12-poziomowego maga
+
+Nie może używać:
+ Nie chaotyczne osoby
+ Zabójca Magów~
+@40301 = ~Martwy Kot~
+@40302 = ~Ten kot wygląda na martwego. Jest doskonale zachowany i wygląda zupełnie tak jakby spał.~
+@40401 = ~Pluszowy Miś~
+@40402 = ~Miś jest w dobrym stanie, mimo iż wygląda na dosyć starego.~
+@40403 = ~Pluszowy Miś Ochrony +2, +4 przeciw Demonom~
+@40404 = ~Pluszowy Miś Ochrony +2, +4 przeciw Demonom:  'Dzielny Pooki'
+Pluszowy miś obrony został wykonany przez arcymaga Halycron Maeral dla swojego nieślubnego syna. Ktokolwiek posiada misia uzyskuje ochronę jaką zapewnia Pierścień ochrony +2.
+
+Mimo iż Halycorn spędził sporo czasu nad zapewnieniem synowi bezpieczeństwa i edukacji magicznej, nie nauczył go koniecznej dyscypliny i oceny sytuacji. W wieku sześciu lat jego syn przypadkowo przywołał demona pod nieobecność rodziców. Kiedy arcymag wrócił, dom był spalony a opiekunka do dzieci ogłuszona przez demona. Pośród rumowiska znalazł syna ukrytego pod niemal nietkniętym stołem, mocno trzymającego swojego pluszowego misia.
+
+PARAMETRY:
+
+Klasa pancerza:  +2 (+4 przeciw Demons)
+Rzuty obronne:  +2 (+4 przeciw Demons)
+
+Nie może uzywać:
+ Zabójca Magów~
+@40501 = ~Księga czarów Rhialto~
+@40502 = ~Księga ta należała do Rhialto "Cudownego". Zdobyłeś ją tuż po jego gwałtownym zgonie.
+
+Choć książka jest raczej w złym stanie - wyrwane kartki, szalone notatki pojawiające się wszędzie, wciąż promieniuje magiczną mocą. 
+
+Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłbyś spróbować nauczyć się rzucania niektórych z nich.
+
+PARAMETRY:
+ 
+Może używać:
+ Dziki Mag~
+@40503 = ~Księga ta należała do Rhialto "Cudownego". Zdobyłeś ją tuż po jego gwałtownym zgonie.
+
+Choć książka jest raczej w złym stanie - wyrwane kartki, szalone notatki pojawiające się wszędzie, wciąż promieniuje magiczną mocą.  
+
+Księga ta przypomina bardziej pamiętnik lub notatnik niż księgę czarów. Rhialto z pewnością był szaleńcem kiedy go spotkałeś, lecz kiedyś musiał być geniuszem; nie tylko wynalazł nowe czary, ale był też opętany nauką nowej formy sposobu rzucania czarów, co najpierw skłoniło go do dzikiej magii, a następnie szaleństwa.
+
+Niektóre strony są pokryte mistycznymi runami mogącymi wywołać czary zapisane na kartach - wygodny sposób natychmiastowego rzucenia czarów bez konieczności zapamiętywania ich. Jedynie niewielka część czarów w księdze posiada te runy, wygląda na to że Rhialto znalazł inny sposób rzucania czarów bez zapamiętywania ich.
+
+Dobór czarów zawartych w całej księdze jest raczej niecodzienny, mógłbyś spróbować nauczyć się rzucania niektórych z nich.
+
+PARAMETRY:
+
+Może zostać użyta raz dziennie do rzucenia jednego z następujących czarów:
+ Zbroja
+ Tarcza Chaosu
+ Rozproszenie magii
+ Przyjaciele
+ Zagięcie Światła Gymlainaca
+ Groza
+ Niewidzialność
+ Pomniejsze drążenie Larlocha
+ Losowe Pociski Rhialto
+ Oko czarodzieja
+ 
+Może używać:
+Dziki Mag~
+@40511 = ~Przeczytaj~
+@50101 = ~Rhialto Cudowny~
+@50102 = ~Rhialto~
+@50111 = ~Dzika fala: rzucający zamienia się w wiewiórkę~
+@69998 = ~List~
+@69999 = ~Mój drogi przyjacielu Gorionie,
+
+uważaj podczas swojego wyjazdu, gdzieś za ścianami Candlekeep przesiaduje dziki mag. Jego intencje są nieznane; kiedy już opuścisz twierdzę, lepiej natychmiast udaj się na szlak.
+
+E.~
