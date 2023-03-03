@@ -9,10 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Poify/Unpoify
         uses: BGforgeNet/msg2po@dev
         with:
-          poify: "true"
-          unpoify: "true"
-          push: "true"
+          poify: true
+          unpoify: true
+          push: true
+          dir2msgstr: true
+          single_commit: true
+          handle_charsets: true
+          handle_charsets_tra_path: wildmage/tra
+          handle_charsets_out_path: wildmage/tra_ee
+          handle_charsets_from_utf8: false
+          handle_charsets_split_console: true
