@@ -25,7 +25,7 @@ It's designed for BG series. It might work on other IE games, but that's unteste
 
 ### New wild magic spells
 - [Ironman](#ironman)
-- [Haugthy pansy](#haugthy-pansy)
+- [Haughty pansy](#Haughty-pansy)
 
 This component features 27 new wild magic spells and an unique cast-once spell. See [SPELLS.PDF](wildmage/docs/spells.pdf) for detailed description.
 
@@ -34,8 +34,8 @@ You will meet a wild mage and gain access to his spellbook, from which you will 
 #### Ironman
 On Ironman, to meet the mage, rest outdoors. You can also rest in an inn and leave the inn right thereafter.
 
-#### Haugthy pansy
-On haugthy pansy (available in BG1 only), the mage will be waiting outside Candlekeep's walls.
+#### Haughty pansy
+On Haughty pansy (available in BG1 only), the mage will be waiting outside Candlekeep's walls.
 
 ### Retain Rhialto's inventory
 Certain items are available to the player only if Rhialto is killed fast enough. This component removes that restriction and lets you have all the loot (which might be cheaty/overpowered, depending on your taste).
