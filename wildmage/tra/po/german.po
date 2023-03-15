@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 1970-1-01 00:00+0000\n"
+"POT-Creation-Date: 2023-03-15-07:50+0000\n"
 "PO-Revision-Date: 2018-06-18 07:22+0000\n"
 "Last-Translator: Henry Lavinder <henryklavinder@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -481,7 +481,9 @@ msgid "Ironman"
 msgstr "Eisenmann"
 
 #: setup.tra:61
-msgid "Haughty pansy"
+#, fuzzy
+#| msgid "Haughty pansy"
+msgid "Haugthy pansy"
 msgstr "Schönling"
 
 #: setup.tra:62

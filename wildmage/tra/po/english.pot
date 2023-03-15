@@ -3,15 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-15-07:50+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"X-Generator: BGforge/msg2po v.1.1.12\n"
 
 #: dialog.tra:0
 msgid ""
@@ -420,7 +419,7 @@ msgid "Ironman"
 msgstr ""
 
 #: setup.tra:61
-msgid "Haughty pansy"
+msgid "Haugthy pansy"
 msgstr ""
 
 #: setup.tra:62

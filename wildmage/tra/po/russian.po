@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 1970-1-01 00:00+0000\n"
+"POT-Creation-Date: 2023-03-15-07:50+0000\n"
 "PO-Revision-Date: 2020-01-04 18:44+0000\n"
 "Last-Translator: Magus <magus@bgforge.net>\n"
 "Language-Team: Russian <https://tra.bgforge.net/projects/infinity-engine/wild-mage-additions/ru/>\n"
@@ -483,7 +483,9 @@ msgid "Ironman"
 msgstr "Стальная воля"
 
 #: setup.tra:61
-msgid "Haughty pansy"
+#, fuzzy
+#| msgid "Haughty pansy"
+msgid "Haugthy pansy"
 msgstr "Тютя"
 
 #: setup.tra:62
