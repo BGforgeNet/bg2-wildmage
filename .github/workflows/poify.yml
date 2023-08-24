@@ -3,6 +3,9 @@ on:
   push:
     paths:
       - "wildmage/tra/**"
+  pull_request:
+    paths:
+      - "wildmage/tra/**"
 
 jobs:
   build:
