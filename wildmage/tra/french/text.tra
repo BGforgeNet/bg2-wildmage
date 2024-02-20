@@ -34,67 +34,67 @@ Peu importe que vous ayez l'intention de lancer ce sort ou pas, une chose est ce
 @20111 = ~Après avoir lancé ce sort étrange, vous sentez changer votre compréhension de la Toile magique. Vous essayez pour la première fois d'étudier le chaos autour de vous, le pliant à votre volonté, puisant votre force du reflux et du flot imprévisibles de la magie entropique. Vous ressentez maintenant une relation étroite avec la Toile. Vous êtes à présent capable d'emmêler la Toile, la refaçonner, la tisser au gré de votre imagination.~
 @20112 = ~Vous sentez aussi que le sort a changé plus que votre façon d'incanter. D'une certaine façon, vous avez l'impression que le sort a libéré une part de votre âme qui était cachée au plus profond de votre être jusqu'à maintenant. Vous montrez un peu plus d'individualité, de tolérance, de curiosité, mais aussi un peu moins de discipline et de diligence, ainsi qu'une certaine méfiance à l'égard des autorités. Cela vous semble pourtant juste, comme si les choses auraient toujours dû se passer comme cela. Vous n'avez pourtant pas l'impression d'avoir été changé, mais plutôt de vous réveiller enfin d'un long, long sommeil.~
 @20201 = ~Forme de Rongeur~
-@20202 = ~Rodent Form* (Alteration)
-Level: 1
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+@20202 = ~Forme de Rongeur* (Altération) 
+Niveau : 1
+Portée : le jeteur de sorts
+Durée : 1 tour
+Temps d'incantation : 1 
+Zone d'effet : Le jeteur de sorts 
+Jet de sauvegarde : aucun
 
-This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points, and additional 2 points against missile weapons. Move speed is also slightly increased. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.
+Ce sort transforme le lanceur de sorts en un adorable petit écureuil. Étant donné la taille minuscule du rongeur, le lanceur de sorts gagne un bonus de -2 à la Classe d'Armure contre les armes normales, et -2 supplémentaire contre les projectiles. Contrairement aux autres sorts de métamorphose, le jeteur de sorts garde sa capacité à lancer des sorts sous forme de rongeur.
 
-Hopefully, the current revision of this spell does NOT change the caster's personality or mentality.~
+Heureusement, la révision récente de ce sort ne change PAS la personnalité du lanceur de sorts, ni sa mentalité.~
 @20211 = ~Un de mes sorts a changé !~
 @20212 = ~Nouveau sort appris : Forme de Ratatosk~
 @20301 = ~Forme de Ratatosk~
-@20302 = ~Ratatosk Shape* (Alteration)
-Level: 1
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+@20302 = ~Forme de Ratatosk* (Altération) 
+Niveau : 1
+Portée : le jeteur de sorts
+Durée : 1 tour
+Temps d'incantation : 1 
+Zone d'effet : Le jeteur de sorts 
+Jet de sauvegarde : aucun
 
-The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.
+Les Ratatosk sont une race extraplanaire de guerriers écureuils doués de sens, natifs d'Yggdrasil, le Frêne du Monde, le grand arbre divin dont les branches et les racines s'étendent dans tous les plans extérieurs.
 
-Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points, and additional 2 points against missile weapons. Move speed is also slightly increased. On top of that, caster's dexterity is raised by four points. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.
+En lançant ce sort, le magicien est transformé en une de ces petites créatures. Étant donné la taille minuscule d'un Ratatosk, le lanceur de sorts gagne un bonus de -3 à la classe d'armure contre les armes normales, et de -2 supplémentaire contre les projectiles. La dextérité du lanceur de sorts est aussi augmentée de quatre points pendant la durée du sort. Tout bonus à la classe d'armure acquis grâce à la modification de la dextérité est cumulé avec ceux dûs à la taille.
 
-The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.
+Pendant la durée du sort, le lanceur de sorts gagne aussi quelques capacités de combat propre au Ratatosk : une attaque supplémentaire par round, Avec des griffes considérées comme +5 qui infligent 1d4+1 points de dégâts tranchants.
 
-Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active.~
+Contrairement aux autres sorts de transformation, le jeteur de sorts garde sa capacité à lancer des sorts pendant que ce sort est actif.~
 @20401 = ~Sort Aléatoire I~
-@20402 = ~Random Spell I* (Invocation/Evocation)
-Level: 1
-Range: 40 yards
-Duration: Instantaneous
-Casting Time: 1
-Area of Effect: Special
-Saving Throw: Special
+@20402 = ~Sort Aléatoire I* (Invocation/Évocation)
+Niveau : 1
+Portée : 40 mètres
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
 
-This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.
+Ce sort hasardeux fait appel au chaos de la magie pour donner à de l'énergie magique une forme de sortilège plus puissante que ce que l'entropiste pourrait normalement lancer. Quand il est lancé, Sort Aléatoire génère un effet équivalent à un sort de niveau 2 ou 3, choisi aléatoirement.
 
-In rare cases, an unstable magical energy outburst results in several random effects being created.
+Dans de rares cas, une explosion d'énergie magique instable entraîne la création de plusieurs effets aléatoires.
 
-The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+Le lanceur de sorts choisit une créature dans un rayon de 40 mètres comme étant la cible du sort. Le sort créé sera centré sur cette créature, sauf si c'est un sort qui n'affecte que le lanceur de sorts.
 
-The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
+Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. D'un autre côté, le lanceur de sorts ne sait rien du sort qui va être dupliqué, pas même si celui-ci sera dangereux ou bénéfique.~
 @20501 = ~Douche de Lames~
-@20502 = ~Blade Shower* (Conjuration)
-Level: 2
-Range: 40 yards
-Duration: 3 rounds/5 levels
-Casting Time: 1
-Area of Effect: 1-25 creatures
-Saving Throw: Special
+@20502 = ~Douche de Lames* (Conjuration) 
+Niveau : 2
+Portée : 40 mètres
+Durée : 3 rounds/5 niveaux
+Temps d'incantation : 1 
+Zone d'effet : 1-25 créatures
+Jet de sauvegarde : spécial
 
-The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.
+Ce sort crée un ensemble de dagues magiques qui flottent dans l'air jusqu'à ce qu'elles soient projetées sur leur cibles. Pour un magicien de niveau 1 à 5, une dague par niveau est créée et il apparaît ensuite un ensemble supplémentaire de cinq dagues tous les cinq niveaux, avec un maximum de 25 dagues au niveau 25. Chaque ensemble de dagues est envoyé en une seule fois sur une à cinq cibles choisies par le lanceur de sorts. Les dagues sont formées d'une matière chaotique instable, et se dissolvent une fois que le sort expire ; pour chaque ensemble supplémentaire de dagues créé, la durée du sort est augmentée de 3 rounds.
 
-Each single dagger does 1d4 points of piercing damage. At level 5, the daggers get +1 damage bonus. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.
+Chaque dague inflige 1d4 points de dégâts perçants. Au niveau 5, les dagues sont considérées comme des armes +1 pour la détermination des bonus aux dégâts, et si une créature peut être touchée. Ce bonus est augmenté de 1 tous les 5 niveaux : +2 au niveau 10, +3 au niveau 15, jusqu'à un maximum de +5 au niveau 25.
 
-The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.
+Les dagues étant faites de matière brute du chaos, elles contournent toutes les défenses physiques et les sorts et atteignent toujours la cible. Cependant, elles peuvent toujours être arrêtées par des protections de combat telles que la Peau de pierre ou la Peau de fer. Les protections ou immunités contre les armes magiques n'ont aucun effet.
 
-Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
+De plus, le lanceur de sorts lance d20 pour chaque dague afin de déterminer s'il s'agit d'un coup critique ou d'un échec. Lors d'un échec critique, la cible ne subit aucun dégât. Lors d'un coup critique, la dague inflige le double de dégâts et la cible doit réussir un jet de sauvegarde contre les sorts ou subir un des effets suivants : Silence, Confusion, Horreur, Sommeil, Magie Entropique.~
 @20511 = ~"Douche de Lames" a été ajouté à votre menu de Capacités Spéciales~
 @20601 = ~Projectiles Aléatoires de Rhialto~
 @20602 = ~Projectiles Aléatoires de Rhialto* (Évocation)
@@ -451,53 +451,53 @@ Instabilité Corporelle déforme temporairement les différentes liaisons qui pe
 
 Quand le sort est lancé sur une créature, celle-ci doit réussir un jet de sauvegarde contre les sorts avec un malus de -5 ou être liquéfiée. Si le jet de sauvegarde est raté, la victime subit 1d20 points de dégâts dûs au choc métabolique et son corps se transforme en une masse amorphe, changeant continuellement de forme. La victime est incapable de faire quoi que ce soit pour une durée d'un round par niveau du lanceur de sorts, mais est aussi immunisée à tout hormis les dégâts magiques.~
 @22601 = ~Sort Aléatoire II~
-@22602 = ~Random Spell II* (Invocation/Evocation)
-Level: 3
-Range: 40 yards
-Duration: Instantaneous
-Casting Time: 1
-Area of Effect: Special
-Saving Throw: Special
+@22602 = ~Sort Aléatoire II* (Invocation/Évocation)
+Niveau : 3
+Portée : 40 mètres
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
 
-This is a more powerful version of the 1st level spell Random Spell I. Random spell II, when cast, creates an effect equal to a randomly selected spell of 4th or 5th level.
+Ce sort est une version plus puissante du sort de niveau 1, Sort Aléatoire I. Sort Aléatoire II, une fois lancé, provoque un effet semblable à un sort aléatoirement choisi de niveau 4 ou 5.
 
-In rare cases, an unstable magical energy outburst results in several random effects being created.
+Dans de rares cas, une explosion d'énergie magique instable entraîne la création de plusieurs effets aléatoires.
 
-The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+Le lanceur de sorts choisit comme cible une créature dans un rayon de 40 mètres. Le sort est alors centré sur cette créature, sauf dans le cas d'un sort qui n'affecte que le lanceur de sorts.
 
-The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
+Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. Le revers de la médaille étant que le lanceur de sorts n'a aucune idée du sort qui va être dupliqué, ni même si le sort est néfaste ou bénéfique~
 @22701 = ~Sort Aléatoire III~
-@22702 = ~Random Spell III* (Invocation/Evocation)
-Level: 5
-Range: 40 yards
-Duration: Instantaneous
-Casting Time: 1
-Area of Effect: Special
-Saving Throw: Special
+@22702 = ~Sort Aléatoire III* (Invocation/Évocation)
+Niveau : 5
+Portée : 40 mètres
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet: spéciale
+Jet de sauvegarde : spécial
 
-Similar to the 1st and 3rd level spells, Random Spell III creates an effect equal to a randomly selected spell of 6th or 7th level.
+Similaire aux sorts de niveaux 1 et 3, Sort Aléatoire III cause un effet semblable à un sort aléatoirement choisi de niveau 6 ou 7.
 
-In rare cases, an unstable magical energy outburst results in several random effects being created.
+Dans de rares cas, une explosion d'énergie magique instable entraîne la création de plusieurs effets aléatoires.
 
-The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+Le lanceur de sorts choisit comme cible une créature dans un rayon de 40 mètres. Le sort est alors centré sur cette créature, sauf dans le cas d'un sort qui n'affecte que le lanceur de sorts.
 
-The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
+Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. Le revers de la médaille étant que le lanceur de sorts n'a aucune idée du sort qui va être dupliqué, ni même si le sort est néfaste ou bénéfique.~
 @22801 = ~Sort Aléatoire IV~
-@22802 = ~Random Spell IV* (Invocation/Evocation)
-Level: 7
-Range: 40 yards
-Duration: Instantaneous
-Casting Time: 1
-Area of Effect: Special
-Saving Throw: Special
+@22802 = ~Sort Aléatoire IV* (Invocation/Évocation)
+Niveau : 7
+Portée : 40 mètres
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
 
-The most powerful version of Random Spell creates an effect equal to a randomly selected spell of 8th or 9th level.
+La plus puissante version du Sort Aléatoire cause un effet semblable à un sort aléatoirement choisi de niveau 8 ou 9.
 
-In rare cases, an unstable magical energy outburst results in several random effects being created.
+Dans de rares cas, une explosion d'énergie magique instable entraîne la création de plusieurs effets aléatoires.
 
-The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+Le lanceur de sorts choisit comme cible une créature dans un rayon de 40 mètres. Le sort est alors centré sur cette créature, sauf dans le cas d'un sort qui n'affecte que le lanceur de sorts.
 
-The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
+Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. Le revers de la médaille étant que le lanceur de sorts n'a aucune idée du sort qui va être dupliqué, ni même si le sort est néfaste ou bénéfique.~
 @22901 = ~Feu Entropique~
 @22902 = ~Feu Entropique* (Invocation/Évocation)
 Niveau : 9
@@ -555,46 +555,44 @@ Le sort dure 5 rounds pour chaque niveau du lanceur de sorts, avec un maximum de
 @30301 = ~Modeler un Sort~
 @30302 = ~Sort Modelé~
 @40101 = ~Main~
-@40102 = ~As a Spellshaper you have the ability to release the raw magical energy of memorized spells and "weave" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.
+@40102 = ~En tant que Tisseur de Sorts, vous avez la possibilité de libérer l'énergie magique brute des sorts mémorisés et de la retisser en un nouvel effet de sort. La forme que peut prendre le pouvoir magique n'est limitée que par votre imagination. Porter un anneau sur cette main serait non seulement une entrave à votre technique, mais perturberait aussi le flux magique, ce qui diminuerait nettement votre capacité à tisser les sorts.
 
 
-SPELLSHAPER:
+TISSEUR DE SORTS :
 
-The spellshaper is a practitioner of wild magic who casts his spells by virtue of raw magical talent or gift, as opposed to a wild mage's academic, systematic approach.
+Le Tisseur de sorts est un praticien de la magie entropique qui lance ses sorts grâce à un talent inné ou à un don en magie brute, à l'opposé de l'approche académique et systématique de l'entropiste.
 
-Spellshapers share the sorcerer's intuitive understanding for arcane magic. They memorize spells like a wizard, yet have a second resource at their disposal: A Spellshaper has the ability to "weave" raw magic energy into spell effects of his desire, without need of preparing those spells ahead of time. This talent is anything but unfailing, and using it on a regular basis requires as much luck as recklessness. Persons who use such a talent aren't very popular among conservative spellcasters.
+Les Tisseurs de sorts partagent avec les sorciers une compréhension intuitive de la magie des arcanes. Ils mémorisent les sorts comme les magiciens, mais disposent d'une autre ressource : un tisseur de sorts a la capacité de "tisser" l'énergie magique brute en l'effet de sort qu'il désire, sans avoir besoin de préparer ces sorts à l'avance. Ce talent est tout sauf fiable, et son utilisation de manière régulière requiert autant de chance que de témérité. Les personnes qui utilisent un tel talent ne sont pas très populaires chez les lanceurs de sorts classiques.
 
-Unlike the sorcerer, the spellshaper may learn spells from scrolls, and memorize and cast them like a wizard. Being opportunists at heart, rarely a spellshaper renounces this relative reliable way of working magic. It's usually reserved for those protective and last-resort spells that really need to work, though. The spellshaper's talent to cast spells spontaneously is so convenient that he prefers to use it whenever possible.
+Contrairement au sorcier, le Tisseur de sorts peut apprendre des sorts à partir de parchemins, les mémoriser et les lancer comme le ferait un magicien. Étant opportuniste dans l'âme, il est rare qu'un Tisseur de sorts renonce à cette utilisation de la magie relativement fiable. Elle est cependant généralement réservée aux sorts de protection et de dernier recours, qui doivent à tout prix fonctionner correctement. Mais le don du Tisseur de sorts de lancer spontanément ses sortilèges est tellement pratique qu'il préfère l'utiliser dès que possible.
 
-Neglecting conventional spellcasting, and focussing on chaotic wild magic doesn't come without a price: A spellshaper can't memorize as many spells as a true mage, and his progress in getting access to new spell levels is much slower.
+Négliger l'incantation conventionnelle et se concentrer sur la chaotique magie entropique ne se fait pas sans contrepartie : un Tisseur de sorts ne peut mémoriser autant de sorts qu'un véritable mage, et sa progression dans l'acquisition de nouveaux sorts est bien plus lente.
 
-Persons of this profession also tend to be a bit eccentric: Their undisciplined nature was what led them to their alternative way of spellcasting in the first place, and constant contact with chaotic wild magic affects the spellshaper's personality even more. Similar to a bard, a spellshaper has a lot of interests: He intuitively learns a bit of everything that crosses his path, but lacks the discipline to master these things to the same extend as a more focused character.
+Les gens de cette profession ont aussi tendance à être un peu excentriques : leur nature indisciplinée constitue ce qui les a conduits à choisir cette façon alternative d'incanter, et un contact constant avec la magie entropique chaotique affecte encore plus la personnalité d'un Tisseur de sorts. De manière similaire à un barde, un Tisseur de sorts a beaucoup de centres d'intérêts : il apprend un peu de tout ce qui croise son chemin, mais manque de constance pour maîtriser ce savoir de la même façon qu'un personnage discipliné.
 
-Most spellshapers have the wisdom not to rely exclusively on their dangerous and unpredictable spell ability. They hedge their bets by learning physical combat as well. They aren't warriors, but a spellshaper's abilities in melee combat are close to those of a thief. As he gets more experienced, the spellshaper may learn special abilities that improve his combat techniques even more, these abilities include backstabbing, mastery in the dagger proficiency and the unique ability to fight with two weapons at once without facing any penalties.
+La plupart des Tisseurs de sorts ont la sagesse de ne pas compter uniquement sur leur dangereuse et imprévisible magie. Ils assurent leurs arrières en apprenant à se battre. Ce ne sont pas des guerriers, mais l'efficacité d'un Tisseur de sorts au corps au corps est proche de celle d'un voleur. En accumulant de l'expérience, le lanceur de sorts peut apprendre des capacités spéciales qui améliorent encore plus ses techniques de combat ; ces capacités incluant l'attaque sournoise, la maîtrise de la dague et la faculté unique de se battre avec deux armes sans pénalité. 
 
-One of the spellshaper's more eccentric character-traits is that he refuses any training in the use of missile weapons; for ranged combat, a spellshaper uses magic, and if magic fails he prefers melee.
+Un des traits de caractère des plus excentriques des tisseurs de sorts est qu'ils refusent tout entraînement dans l'utilisation d'armes à projectiles ; pour le combat à distance, le Tisseur de sorts use de sa magie et si celle-ci échoue, il préfère le corps à corps.
 
-Advantages:
--  Wild Magic (Casting level varies up to +- 5)
--  THAC0 advancement close to rogue
--  5 lore rating per level
--  Weave Spell ability
--  Weaveshear ability
--  Shape Spell ability
--  May learn combat-related "feats"
-
-Disadvantages:
--  Wild Magic (Casting level varies up to +- 5)
--  5% Chance for Wild Surge
--  Much slower spell progression
--  Less wizard spell slots
--  Can't raise the number of spell slots
--  -5 to hit and -2 damage with missiles
--  May wear only one ring
--  Alignment must be chaotic
-~
+Avantages :		
+-  Progression du TAC0 proche du roublard
+-  +5 points de connaissance par niveau
+-  Capacité de Tisser les sorts 
+-  Capacité : Explosion Entropique 
+-  Capacité de Modeler les sorts
+-  Peut apprendre des "dons" relatifs au combat
+		
+Inconvénients :	
+-  Magie Entropique (Le niveau de lanceur de sorts varie de +/- 5)
+-  5% de chance d'occasionner un Hiatus Entropique
+-  Progression en sorts bien plus lente
+-  Moins d'emplacements de sorts de mage
+-  Ne peut augmenter le nombre d'emplacement de sorts
+-  -5 au toucher et -2 aux dégâts avec les projectiles
+-  Ne peut porter qu'un seul anneau
+-  L'alignement doit être chaotique~
 @40201 = ~Crâne Bombe~
-@40202 = ~Cette étrange bombe en forme de crâne est apparue une nuit dans votre inventaire. Elle est tellement chargée d'énergie magique qu'elle semble sur le point d'exploser. Vous gagez que c'est le résultat d'un sort de Piège à Crânes raté. Au lieu de voler vers sa cible, le crâne s'est matérialisé dans vos poches. Vous ne savez absolument pas pourquoi il n'a - heureusement - pas encore explosé. Vous feriez bien de le lancer sur un adversaire dès que possible...
+@40202 = ~Cet étrange crâne est apparu une nuit dans votre inventaire. Il est tellement chargé d'énergie magique qu'il semble sur le point d'exploser. Vous gagez que c'est le résultat d'un sort de Piège à Crânes raté. Au lieu de voler vers sa cible, le crâne s'est matérialisé dans vos poches. Vous ne savez absolument pas pourquoi il n'a - heureusement - pas encore explosé. Vous feriez bien de le lancer sur un adversaire dès que possible...
 
 PARAMETRES :
 
