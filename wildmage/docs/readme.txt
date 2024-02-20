@@ -37,12 +37,12 @@ Chaotic Magic is fun, I always liked worlds like Moorcock's where magic
 is something incredible powerful and dangerous for opponents, friends
 and the caster alike.
 
-Wild Magic brings some of that fun into the D&D universe, 
+Wild Magic brings some of that fun into the D&D universe,
 where magic usually is a reliable science with strict rules and rituals.
 
 Throne of Bhaal introduced the wild mage, but didn't feature much wild magic.
 When playing a wild mage in TOB you end up casting Nahal's Reckless Dweomer
-time and again, and more often than not, you save/reload, until it works out 
+time and again, and more often than not, you save/reload, until it works out
 as you intended (Well, at least I did...)
 
 The sorcerer on the other hand is neat and has the much-desired ability to
@@ -59,7 +59,7 @@ the Sorcerer, but the Wizard's spellcasting abilities can be crippled by destroy
 or stealing his spellbook, while the Sorcerer always has access to his spells...
 
 In Baldur's Gate, a wizard always has access to every spell he "knows", while the
-Sorcerer is still bound to his P&P restrictions. When a game features 204 spells 
+Sorcerer is still bound to his P&P restrictions. When a game features 204 spells
 to which one kind of mage has full access but must memorize them, there isn't much
 point in playing another kind of mage that may cast spells on demand but can learn
 only 45 of those 204 spells, without a way to exchange a spell when learning it
@@ -78,19 +78,19 @@ grew more and more. So I decided to make 2 spells for each spell-level and give
 all wild mages the opportunity to learn them.
 
 
-************************************************************************** 
+**************************************************************************
 
 2.       COMPONENTS
 
 
 2.1      WILD MAGIC SPELLS
-         
+
          This component features 27 new wild magic spells and an unique cast-once spell.
          See "SPELLS.PDF" for detailed spell descriptions.
 
          After installation, rest outdoors. You can also rest in an inn and leave
          the inn right thereafter. You will meet a wild mage and gain access to his
-         spellbook, from which you will be able to learn one spell per level of 
+         spellbook, from which you will be able to learn one spell per level of
          experience. If there are no wild mages in your party then the mod ends at
          this point. You can sell the spellbook - only wild mages can use it.
 
@@ -105,20 +105,20 @@ all wild mages the opportunity to learn them.
          the Spellshaper has combat abilities comparable to a rogue, and more often than
          not solves "problems" by mundane means, saving his magic as a last-resort tool.
 
-	 All in all, the spellshaper is a heedless opportunist, to whom magic is a 
-         powerful but unreliable tool - no more and no less valuable than a good 
+	 All in all, the spellshaper is a heedless opportunist, to whom magic is a
+         powerful but unreliable tool - no more and no less valuable than a good
          melee weapon. Imagine Elric fighting with two daggers instead of a great sword
-         and you know the base concept of the Spellshaper class. 
-         
+         and you know the base concept of the Spellshaper class.
+
          See "SPELLSHAPER.PDF" for more details.
 
-         
+
          There are two ways to become a Spellshaper:
- 
+
          1. When the protagonist is a non-lawful Wild Mage, he'll have the chance
             to become a Spellshaper in the midst of combat, when he gets badly hurt.
 
-         2. Lawful protagonists and other party members need to study Rhialto's spellbook   
+         2. Lawful protagonists and other party members need to study Rhialto's spellbook
             One of the spells - "Rhialto's Chaos Conduit" forces the same changes
             upon the caster, that happen spontaneously to a non-lawful protagonist.
 
@@ -133,7 +133,7 @@ all wild mages the opportunity to learn them.
          This component changes the character's avatar when he becomes a Spellshaper:
 
          Female Spellshapers use the Thief avatar
-         Male Spellshapers use the Cleric avatar 
+         Male Spellshapers use the Cleric avatar
 
 
 
@@ -142,16 +142,16 @@ all wild mages the opportunity to learn them.
 
          This component is independent of the other components, and modifies some of
          the original spells:
- 
-         "Magic Missiles" 
+
+         "Magic Missiles"
            The missiles now always do 1d4+1 points of damage, as they're supposed to.
            Originally it was 2d2 at level 3-8 and 2d2+1 at levels 1,2 and 9+
 
-         "Dimension Door" 
+         "Dimension Door"
            Like dozens of other wizards in the game, you now can target any nearby place
-           you've already visited. There no longer needs to be a clear path within the 
+           you've already visited. There no longer needs to be a clear path within the
            caster's viewing distance that leads to the destination-area. You can select
-           any place within the area where you've been already. (This component doesn't 
+           any place within the area where you've been already. (This component doesn't
            include scrolls to learn the spell, if you don't play a spellshaper you need
            another mod, or use Shadowkeeper to learn the spell or get the scroll)
 
@@ -160,7 +160,7 @@ all wild mages the opportunity to learn them.
 
 2.5	 STATIONARY BG1-RHIALTO (HAUGHTY PANSY MODE) - (BG1-tutu and BGT only)
 
-	 Some people seem to have a problem with a lone level 1 mage having to run 
+	 Some people seem to have a problem with a lone level 1 mage having to run
          away from a vastly overpowered opponent. Still, the same people love to rest
          in the wilderness right after Gorion's dead.
 
@@ -169,10 +169,10 @@ all wild mages the opportunity to learn them.
          Instead, Rhialto waits for you on a fixed position outside Candlekeep's walls,
          you can face him on your own terms.
 
-         Just remember: Rhialto was never meant to be killed by an equal opponent. 
-         The whole mod and especially the confrontation was made for a 1st level Mage 
+         Just remember: Rhialto was never meant to be killed by an equal opponent.
+         The whole mod and especially the confrontation was made for a 1st level Mage
          who just left Candlekeep, and you miss out the fun of the lower level Wild Mage
-         spells when you confront him just before you go after Sarevok.  
+         spells when you confront him just before you go after Sarevok.
 
 
 **************************************************************************
@@ -181,9 +181,9 @@ all wild mages the opportunity to learn them.
 
  This mod requires Throne of Bhaal.
  It is designed to run with BG2 SOA/TOB as well as BG1TUTU
- (See "COMPATIBILITY.PDF" for detailed info) 
+ (See "COMPATIBILITY.PDF" for detailed info)
 
- The mod works fine with multiplayer games. Several wild mages in a 
+ The mod works fine with multiplayer games. Several wild mages in a
  multiplayer game are also supported.
 
  A character that uses Sorvan's "Spellweaver" kit may learn the new wild magic spells,
@@ -196,28 +196,28 @@ all wild mages the opportunity to learn them.
 
  The Spellshaper "Kit" works fine with mods that change the wizard's spell progression
  to the correct Pen&Paper values. Nonetheless, a Spellshaper's spell-slot penalty
- is designed for the BG2-tables where a loss of 2 spell slots equals 33% of the 
- maximum available. If you play with core-rules spell progression, high-level 
+ is designed for the BG2-tables where a loss of 2 spell slots equals 33% of the
+ maximum available. If you play with core-rules spell progression, high-level
  Spellshapers will be a lot more powerful than intended.
 
 **************************************************************************
 
 4.       KNOWN INCOMPATIBILITIES / BUGS
 
- - Other mods that change the override script are incompatible with the 
+ - Other mods that change the override script are incompatible with the
    spellshaper's character script.
- 
+
  - "Weave Spell" acts a bit strange with wizard spells from other mods:
    As long as you still have original Bioware-spells or spells from this mod
    memorized, using "Weave Spell" will drain the modded spells from memory
    just like the others, but when there are only modded spells memorized,
-   you can't use the "Weave Spell" ability. 
+   you can't use the "Weave Spell" ability.
 
  - Multiclass Spellshapers get their Spellshaper abilities from the highest
    level. A "Wild Mage/Thief" may become a Spellshaper but will be quite cheesy.
    (Well, a multiclass Wild Mage is cheated anyway...)
 
- - Spellshapers that dual-classed from wild mage to another class will 
+ - Spellshapers that dual-classed from wild mage to another class will
    continue to gain Spellshaper abilities when they advance in the new class.
    (Thus, a mod that allows wild mages to dual class might be considered a "cheat")
 
@@ -226,8 +226,8 @@ all wild mages the opportunity to learn them.
    This seems to be an engine-glitch, and I have no idea how to fix it.
    The solution is simply NOT to wear such items (they definitely don't work
    for a Spellshaper)
-   
- - When a Spellshaper is level-drained, he may get bonus-spell-slots, 
+
+ - When a Spellshaper is level-drained, he may get bonus-spell-slots,
    when the game resets his number of spells. Once he is restored to the old
    level, the number of spells is also restored. The only way to "fix" this
    seems to grant the Spellshaper permanent immunity to level-drain...
@@ -240,14 +240,14 @@ all wild mages the opportunity to learn them.
    This happens on purpose, to prevent you from equipping a Ring of Wizardry
    while the "Hand"-item (which normally prevents you from using Metamagic items)
    is exchanged in order to actualize the char's number of memorizable spells.
- 
- - "Hornung's Random Dispatcher" is a level 7 spell on purpose. You can't 
+
+ - "Hornung's Random Dispatcher" is a level 7 spell on purpose. You can't
    use it for planar-traveling in Baldur's Gate, so basically it's just
    a fancy "Disintegrate" - no reason to make it a Level 8 spell.
 
- - Some of the other spells also weren't realized completely true 
-   to their original descriptions. This was either "artistic freedom" 
-   or neccessary due to engine restrictions and/or balancing reasons. 
+ - Some of the other spells also weren't realized completely true
+   to their original descriptions. This was either "artistic freedom"
+   or neccessary due to engine restrictions and/or balancing reasons.
 
  - "Summon Cow" occasionally damages every creature in the whole area.
    this seems to be hard-coded and intended by Bioware. It also happens
@@ -255,7 +255,7 @@ all wild mages the opportunity to learn them.
 
 -  Rhialto is a hard opponent for a level 1 mage and is supposed to be.
    This mod was made for BG1Tutu, not BG2. Rhialto is much too easy in a BG2
-   game with full party. So delaying 
+   game with full party. So delaying
 
 
 
@@ -264,16 +264,16 @@ all wild mages the opportunity to learn them.
 
 5.       HINTS/MISC
 
- - Agreed, Rhialto is a very powerful foe. Nonetheless you can beat him 
+ - Agreed, Rhialto is a very powerful foe. Nonetheless you can beat him
    with a lone 1st level mage that has only 4 hitpoints. I've done it
    dozens of times while testing this mod.
 
-   The secret is to flee and hope that he might have an accident while 
+   The secret is to flee and hope that he might have an accident while
    chasing you. In fact, it's harder to fight him with a full party,
    because he really enjoys watching what Glyph of Wild Magic does to
    your little army...
 
-   
+
  - If you really need to rest and want to delay Rhialto's appearance,
    pause the game while resting, and after resting Quicksave and Reload
    without unpausing the game.
@@ -292,11 +292,11 @@ all wild mages the opportunity to learn them.
  * BGT-Compatibility and Stationary BG1-Rhialto by White Agnus of the BiG World Project (Thanks!)
 
  * Special thanks go to Sovran
-   
+
    Sorvan's "The Art of Weaving" <http://www.rpgdungeon.net/weaver>
    was the main source of inspiration for this mod.
 
-   I'd like to thank her not only for making "The Art of Weaving", 
+   I'd like to thank her not only for making "The Art of Weaving",
    but also for allowing me to use some of it's contents:
 
    - The icons used by "Entropy Shield", "Weave Spell" and "Wildstrike"
@@ -307,7 +307,7 @@ all wild mages the opportunity to learn them.
  --------------------------------------
  * Spell sources:
 
-   TOME OF VAST KNOWLEDGE 
+   TOME OF VAST KNOWLEDGE
      <http://www.istari.org/gnba/progs/html/util.html>
 
     - "Cellular Regeneration"
@@ -316,36 +316,36 @@ all wild mages the opportunity to learn them.
     - "Random Spell"
 
 
-   THE NET.LIBRAM OF WILD MAGIC 
-     <http://gnba.netdemons.com/books/olik/Spells_Magic.html> 
+   THE NET.LIBRAM OF WILD MAGIC
+     <http://gnba.netdemons.com/books/olik/Spells_Magic.html>
 
     - "Paithan's Lucky Streak"
     - "Paithan's Fiasco"
 
 
-   PLANEWALKER.COM <www.planewalker.com> 
+   PLANEWALKER.COM <www.planewalker.com>
 
     - "Blade Shower" by "Rhys"
 
 
-   "TOME OF MAGIC" (TSR) <www.tsr.com> 
+   "TOME OF MAGIC" (TSR) <www.tsr.com>
 
     - "Hornung's Random Dispatcher"
     - "Vortex"
     - "Wildfire"
-    - "Wildstrike"   
+    - "Wildstrike"
 
 
    "WILD SPELLCRAFT" (Natural 20 Press)
-    
-    - Corporeal Instability 
+
+    - Corporeal Instability
 
  --------------------------------------
  * Item sources:
 
-   TOME OF VAST KNOWLEDGE 
+   TOME OF VAST KNOWLEDGE
      <http://www.istari.org/gnba/progs/html/util.html>
- 
+
     - "Teddy Bear of Protection"
 
 
@@ -376,7 +376,7 @@ all wild mages the opportunity to learn them.
 28.Oct.2005 (v1.0)
 
  + "Spellweaver" renamed to "Spellshaper" to avoid mistakening him with
-   Sovran's Spellweaver Kit (a "Wild Sorcerer") or the D&D3 prestige class 
+   Sovran's Spellweaver Kit (a "Wild Sorcerer") or the D&D3 prestige class
    (a scientific Spellcaster with an almost religious dedication)
 
  + Spellshaper is no longer called "Wild Mage" in Records Screen
@@ -387,7 +387,7 @@ all wild mages the opportunity to learn them.
    1st-level spells at experience-level 1-5 are now 1,2,2,3,3 instead of 0,1,1,2,3
 
  + "Weave Spell" no longer provides extra spells that can be cast in addition
-   to conventional spells. The ability now drains memorized wizard spells, 
+   to conventional spells. The ability now drains memorized wizard spells,
    and may be used as long as there are still spells memorized.
 
  + Optimized Spellshaper's THAC0 and Feat progress to favor lower levels
@@ -399,14 +399,14 @@ all wild mages the opportunity to learn them.
 
  - Skull Bomb may no longer be used by Wizard Slayer
 
- - When Rhialto casts Glyph of Wild Magic, and injures/kills 
-   innoccent bystanders, they no longer blame the party. 
+ - When Rhialto casts Glyph of Wild Magic, and injures/kills
+   innoccent bystanders, they no longer blame the party.
 
  - Spellshaper didn't get the 66% lore bonus - fixed
 
  - Removed the permanent Swirling Lights effect caused by Weave Spell (what the...)
 
- - A Spellshaper can no longer equip a ring of wizardry while advancing to 20th 
+ - A Spellshaper can no longer equip a ring of wizardry while advancing to 20th
    and 45th level to have his number of spell-slots raised.
 
 
@@ -438,23 +438,23 @@ all wild mages the opportunity to learn them.
 
  + Spellshaper: Cosmetics: Added advantages and disadvantages to in-game Kit-description
 
- 
+
  + Spellshaper: Fixed a bug, where sometimes the feat-gaining dialogue interrupted the
                 Levelup process (No damage was done just weird behavior)
 
 
  + Spellshaper: "Shape Spell" is no longer a Feat but learned automatically at 5th level.
 
-    
+
  + Spellshaper: Modified "Weave Spell" functionality:
 
-    1. Number of uses per day is now limited depending on level (once per day per 2/3 levels)   
+    1. Number of uses per day is now limited depending on level (once per day per 2/3 levels)
        (Additional uses per day may be chosen as a feat)
 
     2. Weave Spell is now (again) in the "Cast Spell" Menu and may be selected as Quick Spell
 
     3. It's now possible to switch to other spell-levels in the spell selection-menu.
-       Going to spell levels that require an additional spell to be removed from memory 
+       Going to spell levels that require an additional spell to be removed from memory
        will drain the highest memorized spell, going back from a higher spell level to one
        that requires less spells to be drained will only restore a 1st level spell, though.
 
@@ -469,13 +469,13 @@ all wild mages the opportunity to learn them.
     * Added 1st level spell "Special Snare" (Trap: 1d10 damage + Held for 2 Rounds/5 Levels)
     * Added 7th level spell "Acid Storm" (As described in "Tome of Magic")
     * Added 7th level spell "Teleport Portal" (Dimension door for whole party, needs no LOS!)
-    * Added 8th level spell "Entropy Burst" ((Un)holy word against lawful creatures)              
+    * Added 8th level spell "Entropy Burst" ((Un)holy word against lawful creatures)
 
 
 
 08.Jan.2006 (v1.3)
 
- - Fix: Spellshaper: Class wasn't displayed on top of Character sheet 
+ - Fix: Spellshaper: Class wasn't displayed on top of Character sheet
 
  - Fix: Spellshaper: "Find Traps" from Weave Spell ability had no Icon (used the one from BG1TuTu)
 
@@ -486,13 +486,13 @@ all wild mages the opportunity to learn them.
  - Fix: "Rodent Form" and it's twin now prevent the caster from casting them several times.
         (thus it's no longer possible to gain cummulative effects...)
 
- - Tweak: Tuned down "Vortex". Now it does only 2d6 points of electricity, magic and shock 
+ - Tweak: Tuned down "Vortex". Now it does only 2d6 points of electricity, magic and shock
           damage (safe for half). Most enemies now ignore the Vortex (it's "invisible")
 
  - Tweak: "Cellular Regeneration" now allows a saving throw vs. death when cast on enemies
           (Can no longer be abused as a guaranted way to knock out enemies...)
 
- 
+
 
 17.Feb.2006 (v1.4)
 
@@ -506,7 +506,7 @@ all wild mages the opportunity to learn them.
  - Tweak: Cosmetics: "Teleport Portal" and "Dimension Door" graphically improved
 
  - Tweak: reduced casting time of "Wildstrike" from 6 to 3 for balancing reasons.
- 
+
  - Tweak: reduced casting time of "Wild Sphere" from 12 to 6 for balancing reasons.
 
 
@@ -516,7 +516,7 @@ all wild mages the opportunity to learn them.
 
     * Changed Level 30+ feat progress to 1/3 levels, and required max int. to 19
 
-    * Removed the -1 Saving Throw penalty 
+    * Removed the -1 Saving Throw penalty
       (too confusing in records screen and not that much of a disadvantage)
 
     * May no longer spend 3 points in Dagger profiency, maximum is now 2.
@@ -525,20 +525,20 @@ all wild mages the opportunity to learn them.
 
     * "Shape Spell": Fix: Ability can no longer fail due to magic resistance
                      Spellshaper gains this Ability now at 10th level.
-                     Changed Shape Spell progression to max out at 35th level. 
+                     Changed Shape Spell progression to max out at 35th level.
 
     * "Weave Spell": Ability now also works when only spells from this mod are memorized
-                     Ability can now create 10th level spells. 
- 
+                     Ability can now create 10th level spells.
 
- 
+
+
 01.Jun.2006 (v1.4a)
 
  - Fix: Spellshaper: Class-name wasn't displayed on top of Character sheet (again...)
 
 
- 
-26.Dec.2007 (v1.5)  
+
+26.Dec.2007 (v1.5)
 
  + Added Polish translation (Thanks to Maciek F)
 
@@ -572,5 +572,5 @@ all wild mages the opportunity to learn them.
 
  - Fix: Spellshaper: Removed undocumented prerequisite of Dex 17 for Improved Criticals.
 
-  
+
 

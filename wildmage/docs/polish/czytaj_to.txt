@@ -34,15 +34,15 @@ Spis rzeczy:
 
 1.       Wstęp
 
-Magia Chaosu jest fajna, zawsze lubiłem światy takie jak Moorcock (?) 
+Magia Chaosu jest fajna, zawsze lubiłem światy takie jak Moorcock (?)
 magia jest czymś niesamowicie potężnym i niebezpiecznym dla przeciwników,
 przyjaciół i czarującego zarazem.
 
 Dzika Magia wprowadza część tego elementu do uniwersum D&D, gdzie magia
 zazwyczaj polega na nauce, ścisłych regułach i rytuałach.
 
-Tron Bhaala wprowadził dziką magię, ale skupił się na jej rozinięciu. 
-Grając Dzikim magiem w TOB skończysz na ciągłymrzucaniu Lekkomyślnego 
+Tron Bhaala wprowadził dziką magię, ale skupił się na jej rozinięciu.
+Grając Dzikim magiem w TOB skończysz na ciągłymrzucaniu Lekkomyślnego
 zaklęcia Nahala i wczytywaniu/zapisywaniu, dopóki nie uzyskasz efektu
 takiego jaki chcesz (przynajmniej ja tak robiłem...)
 
@@ -54,17 +54,17 @@ D&D, ale nie w Baldur's Gate:
 W pamierowym D&D mag potrzebuje drogich i grubych ksąg, które mogą zawierać
 jedynie limitowaną liczbę czarów. Większość czarów które zna są bezpieczne
 na półce w jego domu w kilku kolejnych księgach czarów ładnie na niej ułożonych.
-Nie ma możliwości zapamiętania tych czarów dopóki nie wróci do domu po tą 
+Nie ma możliwości zapamiętania tych czarów dopóki nie wróci do domu po tą
 księgę... Więc w P&P (papierowej wersji) mag "w podróży" ma dostęp do, może
-50% więcej czarów niż Czarownik, ale umiejętności rzucania czarów Maga mogą 
+50% więcej czarów niż Czarownik, ale umiejętności rzucania czarów Maga mogą
 zostać uszkodzone poprzez zniszczenie lub skradnięcie jego księgi, podczas gdy
 Czarownik zawsze ma dostęp do swoich czarów...
 
 W Baldur's Gate, mag zawsze ma dostęp do każdego czaru który "zna", podczas gdy
 Czarownik wciąż jest limitowany zasadami P&P. Gra zapewnia dostęp do 204 czarów
-do których zwykły Mag ma pełny dostęp lecz musi je zapamiętywać, nie ma więc 
+do których zwykły Mag ma pełny dostęp lecz musi je zapamiętywać, nie ma więc
 sensu grania innym rodzajem czarodzieja, który może rzucać czary na zawołanie,
-ale może nauczyć się jedynie 45 z tych 204 czarów, bez żadnej możliwości zmiane 
+ale może nauczyć się jedynie 45 z tych 204 czarów, bez żadnej możliwości zmiane
 w przypadku kiedy nauka konkretnego czaru okazała się być pomyłką...
 
 Mod Sovran'a "Art of Weaving" zainspirował mnie do stworzenia jeszcze innego typu
@@ -79,13 +79,13 @@ magii. Najpierw zrobiłem kilka czarów, których Spellshaper uczył się automa
 jednak ich liczba rosła. Zdecydowałęm więc zrobić po 2 czary na każdy ich
 poziom i dać dzikim magom możliwość nauczenia się ich.
 
-************************************************************************** 
+**************************************************************************
 
 2.       KOMPONENTY
 
 
 2.1      CZARY DZIKIEJ MAGII
-         
+
          Ten składnik zawiera 27 nowych czarów dzikiej magii i 1 unikalny rzucany raz
 		 czar. Zajżyj do "SPELLS.PDF" po szczegółowy opis. (obecnie tylko w j. angielskim,
 		 w grze czary są przetłumaczone)
@@ -102,7 +102,7 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
          Spellshaper nie może polegać na swojej magii tak bardzo jak Mag - jego zdolność
 		 rzucania czarów jest porównywalna do tej posiadanej przez Barda, a jego umiejętności
-		 tkania czarów mogą nie wypalić. Ma on dostęp do szerokiego wachlarza czarów 
+		 tkania czarów mogą nie wypalić. Ma on dostęp do szerokiego wachlarza czarów
 		 (niektóre z nich nie są dostępne dla zwykłego Maga lub zwykłego Dzikiego Maga)
 		 jednak nie może ich rzucać zbyt często. W zamian Spellshaper ma zdolności
 		 bojowe porównywalne z prezentowanymi przez łotrzyków, i częściej rozwiązuje
@@ -112,14 +112,14 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 		 nieprzewidywalna - nie lepsza i nie gorsza niż dobra broń do walki wręcz.
 		 Wyobraźcię sobie Elric'a walczacego 2ma sztyletami zamiast wielkim mieczem i
 		 będziecie wiedzieli jaki mniej więcej jest typ Spellshapera.
-		 
+
 		 Zajżyj do "SPELLSHAPER.PDF" po szczegółowy opis.
-         
+
 
          Są 2 sposoby na zostanie Spellshaperem:
 		 1. Jeśli główny bohater jest nie-praworządnym Dzikim Magiem ma szansę stać się
 			Spellshaperem w trakcie walki, jeśli zostanie poważnie zraniony.
-		 
+
 		 2.	Praworządny główny bohater lub inny członek drużyny może przeczytać księgę
 			czarów Rhialto. Jeden z czarów - Przewód Chaosu Rhialto powoduje te same
 			zmiany jakie przydażają się nie-praworządnemu głównemu bohaterowi.
@@ -131,9 +131,9 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
          Spellshaper został pomyślany jako "łotrzykowy" mag (lub "magowy" łotrzyk)
 		 a nie typ maga fantasy "szata i szpiczasty kapelusz".
 		 Avatar maga nie pasuje do tej postaci (przynajmniej nie tej którą ja gram)
-		 
+
 		 Ten składnik zmienia avatara kiedy stajesz się Spellshaperem:
-		 
+
 		 Kobiety używają avatara Złodziejki
 		 Mężczyźni avatara Kapłana
 
@@ -144,15 +144,15 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
 		Ten składnij jest niezależny od innych i zmienia niektóre czary obecne w
 		oryginalnej wersji gry:
-		
+
 		"Magiczny Pocisk"
 		Pociski zadają teraz zawsze 1k4+1 obrażeń, tak jak powinny. Przedtem było
 		to 2k2 na poziomach 3-8 i 2k2+1 na poziomach 1,2 i 9+.
-		
+
 		"Drzwi przez wymiary"
-			Tak jak mnóstwo innych magów w grze, teraz i ty możesz się teleportować w 
+			Tak jak mnóstwo innych magów w grze, teraz i ty możesz się teleportować w
 			pobliskie miejsce które już odwiedziłeś. Nie musi już więcej istniej do
-			niego proste dojście widoczne w polu widzenia. Możesz wybrać miejsce na 
+			niego proste dojście widoczne w polu widzenia. Możesz wybrać miejsce na
 			obszarze na którym już byłeś. (Ten składnik nie zawiera zwojów do nauki
 			czaru, jeśli nie grasz Spellshaperem, będziesz musiał użyć innego moda,
 			lub użyć programu Shadowkeeper by nauczyć się czaru lub dodać zwój)
@@ -165,21 +165,21 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
 	Mod wymaga Tronu Bhalla
 	Jest stworzony do gry zarówno na BG2 CA/TB jak i BG1TUTU
-	
- (Zobacz "COMPATIBILITY.PDF" po szczegółowy opis) 
- 
+
+ (Zobacz "COMPATIBILITY.PDF" po szczegółowy opis)
+
  Mod działa dobrze w grach multiplayer. Kilka dzikich magów w drużynie
  też da radę.
- 
- Postać używająca podklasy "Spellweaver" z modu Sorvan'a może się nauczyć 
- czarów dzikiej magii, ale kiedy wybierze podklasę Spellshapere mod Sorovan'a 
+
+ Postać używająca podklasy "Spellweaver" z modu Sorvan'a może się nauczyć
+ czarów dzikiej magii, ale kiedy wybierze podklasę Spellshapere mod Sorovan'a
  przestanie działać i nie będzie już zdobywać nowych umiejętnośći.
 
  Dwu i wieloklasowi dzicy magowie także mogą zostać Spellshaperami, jest
  jednak kosmetyczny problem (obie klasy będą podpisane "Spellshaper" w
  karcie postaci). Również niektóre kombinacje mogą okazać się troszkę
  zbyt potężne i łatwe w rozgrywce. (zobacz poniżej)
- 
+
  podklasa Spellshapera dobrze działa z modami które zmieniają postęp
  w zdobywaniu czarów. Jednakże obniżenie zdolności Spellshapera o 2 sloty
  zrobione jest na posdstawie tabel BG2 gdzie strata ich równa jest 33%
@@ -196,21 +196,21 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 	O ile wciąż masz jedynie oryginalne czary i te dodane przez ten dodatek
 	będą zużywane także te dodane przez mody, ale jeśli masz zapamiętane
 	jedynie modyfikowane czary, nie będziesz mógł użyć "Tkania Czaru"
-	
+
 - Wieloklasowi Spellshaperzy dostają dodatkowe umiejętności według najwyższego
 	obecnie poziomu. "Dziki Mag/Złodziej" może zostać Spellshaperem, ale
 	będzie nieco zbyt silny. (Choć wieloklasowy Dziki Mag to i tak cheat...)
-	
-- Spellshaper stając się dwuklasowcem będzie dalej dostawać dodatkowe 
+
+- Spellshaper stając się dwuklasowcem będzie dalej dostawać dodatkowe
 	umiejętnośći zdobywając poziomy nową klasą. (Jednakże mod pozwalający
 	Dzikim Magom na dwuklasowość może też być uznawany za cheat)
-	
+
 - Przedmioty podnoszące liczbe slotów w księdze czarów, noszone przez
 	Spellshapera sprawiają że zapommina wszystkie czary z modyfikowanego
 	poziomu podczas snu. Wygląda to na błąd engine, nie mam pojęcia jak to
 	naprawić. Rozwiązaniem jest po prostu NIE NOSZENIE takich przedmiotów.
 	(one definitywnie nie działają na Spellshapera)
-	
+
 - Kiedy Spellshaper ma wyssany poziom może dostać bonusowy slot na czar
 	kiedy gra resetuje liczbę jego slotów. Kiedy poziom zostaje przywrócony,
 	liczba czarów także. Jedynym sposobem na "naprawę" tego wydaje się być
@@ -219,22 +219,22 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
 
  TO NIE SĄ BUGI:
- 
+
  - Zaraz po awansie na 20 poziom, zostaje ogłuszony na sekundę. Jest to celowe
 	i zapobiega założeniu Pierścienia Magii, podczas gdy "Dłoń" (która normalnie
-	chroni cię przed używaniem metamagicznych przedmiotów) jest zamieniana w celu 
+	chroni cię przed używaniem metamagicznych przedmiotów) jest zamieniana w celu
 	zaktualizowania liczby czarów możliwych do zapamiętania.
-	
+
 - "Losowe Odesłanie Hornunga" jest celowo czarem 7 poziomu. Nie możesz go użyć do
 	podróżowania między sferami w Baldur's Gate, więc jest to raczej efektowna
 	wersja czaru Dezintegracja i nie ma powodu robić z niej czaru 8 poziomu.
-	
-- Niektóre czary nie zostały przeniesione do gry do końca zgodnie z ich 
+
+- Niektóre czary nie zostały przeniesione do gry do końca zgodnie z ich
 	oryginalnym opisem. Była to albo "artystyczna interpretacja" lub
-	konieczność ze względu na ograniczenia engine i względy równowagi. 
-	
-- Przywołanie krowy czasami zadaje obrażenia każdej istocie na całym 
-	obszarze. Wygląda to na zamierzone przez Bioware. Zdaża się to 
+	konieczność ze względu na ograniczenia engine i względy równowagi.
+
+- Przywołanie krowy czasami zadaje obrażenia każdej istocie na całym
+	obszarze. Wygląda to na zamierzone przez Bioware. Zdaża się to
 	także w przypadku dzikiej fali i ukrytego czaru 2 poziomu.
 
 
@@ -243,14 +243,14 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 5.       PORADY/TAKIE TAM
 
 - Zgoda, Rhialto jest bardzo potężnym przeciwnikiem. Można go jednak pokonać
-	samotnym magiem 1 poziomu z 4 punktami życia. Dokonałem tego wiele 
+	samotnym magiem 1 poziomu z 4 punktami życia. Dokonałem tego wiele
 	razy testując ten mod.
 
 	Sekret tkwi w uciekaniu i czekaniu aż być może będzie miał wypadek podczas
 	ścigania cię. W rzeczywistości trudniej jest walczyć z nim całą
-	drużyną, bo uwielbia on patrzeć co Glif z Dzikiej Magii robo z 
+	drużyną, bo uwielbia on patrzeć co Glif z Dzikiej Magii robo z
 	twojej małej armii...
-   
+
  - Jeśli naprawde musisz odpocząć, a chcesz opóźnić pojawienie się Rhialto,
 	zapałzuj grę podczas opoczynku a po nim użyj Quicksave i Quickload
 	bez zwalniania pauzy.
@@ -259,9 +259,9 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 **************************************************************************
 
 6.       OD TŁUMACZA
- 
+
  Tłumaczenie jak zapewne widać w grze jest zrobione na potrzeby własne, uznałem jednak że może warto się nim podzielić
- ze światem. Przetłumaczone jest niemal wszystko, znaczącym wyjątkiem może być nazwa klasy, której nie mogłem znaleźć odpowiednika w języku polskim, zostawiłem więc jak jest. Nazwy czarów są przetłumaczone przeze mnie, mam nadzieje że twórcy D&D nie przewracają się w grobie, nie dysponuje jednak żadnym podręcznikiem. 
+ ze światem. Przetłumaczone jest niemal wszystko, znaczącym wyjątkiem może być nazwa klasy, której nie mogłem znaleźć odpowiednika w języku polskim, zostawiłem więc jak jest. Nazwy czarów są przetłumaczone przeze mnie, mam nadzieje że twórcy D&D nie przewracają się w grobie, nie dysponuje jednak żadnym podręcznikiem.
  Życzę miłej gry każdemu kto jeszcze gra w Baldur's Gate II ;)
 
 
@@ -270,11 +270,11 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 7.       CREDITS
 
  * Special thanks go to Sovran
-   
+
    Sorvan's "The Art of Weaving" <http://www.rpgdungeon.net/weaver>
    was the main source of inspiration for this mod.
 
-   I'd like to thank her not only for making "The Art of Weaving", 
+   I'd like to thank her not only for making "The Art of Weaving",
    but also for allowing me to use some of it's contents:
 
    - The icons used by "Entropy Shield", "Weave Spell" and "Wildstrike"
@@ -285,7 +285,7 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
  --------------------------------------
  * Spell sources:
 
-   TOME OF VAST KNOWLEDGE 
+   TOME OF VAST KNOWLEDGE
      <http://www.istari.org/gnba/progs/html/util.html>
 
     - "Cellular Regeneration"
@@ -294,36 +294,36 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
     - "Random Spell"
 
 
-   THE NET.LIBRAM OF WILD MAGIC 
-     <http://public.www.planetmirror.com/pub/gnba/books/olik/Spells_Magic.html> 
+   THE NET.LIBRAM OF WILD MAGIC
+     <http://public.www.planetmirror.com/pub/gnba/books/olik/Spells_Magic.html>
 
     - "Paithan's Lucky Streak"
     - "Paithan's Fiasco"
 
 
-   PLANEWALKER.COM <www.planewalker.com> 
+   PLANEWALKER.COM <www.planewalker.com>
 
     - "Blade Shower" by "Rhys"
 
 
-   "TOME OF MAGIC" (TSR) <www.tsr.com> 
+   "TOME OF MAGIC" (TSR) <www.tsr.com>
 
     - "Hornung's Random Dispatcher"
     - "Vortex"
     - "Wildfire"
-    - "Wildstrike"   
+    - "Wildstrike"
 
 
    "WILD SPELLCRAFT" (Natural 20 Press)
-    
-    - Corporeal Instability 
+
+    - Corporeal Instability
 
  --------------------------------------
  * Item sources:
 
-   TOME OF VAST KNOWLEDGE 
+   TOME OF VAST KNOWLEDGE
      <http://www.istari.org/gnba/progs/html/util.html>
- 
+
     - "Teddy Bear of Protection"
 
 
@@ -354,7 +354,7 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 28.Oct.2005 (v1.0)
 
  + "Spellweaver" renamed to "Spellshaper" to avoid mistakening him with
-   Sovran's Spellweaver Kit (a "Wild Sorcerer") or the D&D3 prestige class 
+   Sovran's Spellweaver Kit (a "Wild Sorcerer") or the D&D3 prestige class
    (a scientific Spellcaster with an almost religious dedication)
 
  + Spellshaper is no longer called "Wild Mage" in Records Screen
@@ -365,7 +365,7 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
    1st-level spells at experience-level 1-5 are now 1,2,2,3,3 instead of 0,1,1,2,3
 
  + "Weave Spell" no longer provides extra spells that can be cast in addition
-   to conventional spells. The ability now drains memorized wizard spells, 
+   to conventional spells. The ability now drains memorized wizard spells,
    and may be used as long as there are still spells memorized.
 
  + Optimized Spellshaper's THAC0 and Feat progress to favor lower levels
@@ -377,14 +377,14 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
  - Skull Bomb may no longer be used by Wizard Slayer
 
- - When Rhialto casts Glyph of Wild Magic, and injures/kills 
-   innoccent bystanders, they no longer blame the party. 
+ - When Rhialto casts Glyph of Wild Magic, and injures/kills
+   innoccent bystanders, they no longer blame the party.
 
  - Spellshaper didn't get the 66% lore bonus - fixed
 
  - Removed the permanent Swirling Lights effect caused by Weave Spell (what the...)
 
- - A Spellshaper can no longer equip a ring of wizardry while advancing to 20th 
+ - A Spellshaper can no longer equip a ring of wizardry while advancing to 20th
    and 45th level to have his number of spell-slots raised.
 
 
@@ -416,23 +416,23 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
  + Spellshaper: Cosmetics: Added advantages and disadvantages to in-game Kit-description
 
- 
+
  + Spellshaper: Fixed a bug, where sometimes the feat-gaining dialogue interrupted the
                 Levelup process (No damage was done just weird behavior)
 
 
  + Spellshaper: "Shape Spell" is no longer a Feat but learned automatically at 5th level.
 
-    
+
  + Spellshaper: Modified "Weave Spell" functionality:
 
-    1. Number of uses per day is now limited depending on level (once per day per 2/3 levels)   
+    1. Number of uses per day is now limited depending on level (once per day per 2/3 levels)
        (Additional uses per day may be chosen as a feat)
 
     2. Weave Spell is now (again) in the "Cast Spell" Menu and may be selected as Quick Spell
 
     3. It's now possible to switch to other spell-levels in the spell selection-menu.
-       Going to spell levels that require an additional spell to be removed from memory 
+       Going to spell levels that require an additional spell to be removed from memory
        will drain the highest memorized spell, going back from a higher spell level to one
        that requires less spells to be drained will only restore a 1st level spell, though.
 
@@ -447,13 +447,13 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
     * Added 1st level spell "Special Snare" (Trap: 1d10 damage + Held for 2 Rounds/5 Levels)
     * Added 7th level spell "Acid Storm" (As described in "Tome of Magic")
     * Added 7th level spell "Teleport Portal" (Dimension door for whole party, needs no LOS!)
-    * Added 8th level spell "Entropy Burst" ((Un)holy word against lawful creatures)              
+    * Added 8th level spell "Entropy Burst" ((Un)holy word against lawful creatures)
 
 
 
 08.Jan.2006 (v1.3)
 
- - Fix: Spellshaper: Class wasn't displayed on top of Character sheet 
+ - Fix: Spellshaper: Class wasn't displayed on top of Character sheet
 
  - Fix: Spellshaper: "Find Traps" from Weave Spell ability had no Icon (used the one from BG1TuTu)
 
@@ -464,13 +464,13 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
  - Fix: "Rodent Form" and it's twin now prevent the caster from casting them several times.
         (thus it's no longer possible to gain cummulative effects...)
 
- - Tweak: Tuned down "Vortex". Now it does only 2d6 points of electricity, magic and shock 
+ - Tweak: Tuned down "Vortex". Now it does only 2d6 points of electricity, magic and shock
           damage (safe for half). Most enemies now ignore the Vortex (it's "invisible")
 
  - Tweak: "Cellular Regeneration" now allows a saving throw vs. death when cast on enemies
           (Can no longer be abused as a guaranted way to knock out enemies...)
 
- 
+
 
 17.Feb.2006 (v1.4)
 
@@ -484,7 +484,7 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
  - Tweak: Cosmetics: "Teleport Portal" and "Dimension Door" graphically improved
 
  - Tweak: reduced casting time of "Wildstrike" from 6 to 3 for balancing reasons.
- 
+
  - Tweak: reduced casting time of "Wild Sphere" from 12 to 6 for balancing reasons.
 
 
@@ -494,7 +494,7 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
     * Changed Level 30+ feat progress to 1/3 levels, and required max int. to 19
 
-    * Removed the -1 Saving Throw penalty 
+    * Removed the -1 Saving Throw penalty
       (too confusing in records screen and not that much of a disadvantage)
 
     * May no longer spend 3 points in Dagger profiency, maximum is now 2.
@@ -503,20 +503,20 @@ poziom i dać dzikim magom możliwość nauczenia się ich.
 
     * "Shape Spell": Fix: Ability can no longer fail due to magic resistance
                      Spellshaper gains this Ability now at 10th level.
-                     Changed Shape Spell progression to max out at 35th level. 
+                     Changed Shape Spell progression to max out at 35th level.
 
     * "Weave Spell": Ability now also works when only spells from this mod are memorized
-                     Ability can now create 10th level spells. 
+                     Ability can now create 10th level spells.
 
- 
- 
+
+
 01.Jun.2006 (v1.4a)
 
  - Fix: Spellshaper: Class wasn't displayed on top of Character sheet (again...)
- 
- 
- 
-26.Dec.2007 (v1.5)  
+
+
+
+26.Dec.2007 (v1.5)
 
  + Added Polish translation (Thanks to Maciek F)
 
