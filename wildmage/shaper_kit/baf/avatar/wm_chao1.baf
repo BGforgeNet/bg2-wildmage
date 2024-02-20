@@ -16,7 +16,7 @@ THEN
     ApplySpellRES("WM_CHAO",Myself)
     ReallyForceSpellRES("wm_shear",Myself)
     DropInventory()
-    DisplayStringHead(Myself,@20111)  
+    DisplayStringHead(Myself,@20111)
     PlayDead(350)
                 GiveItemCreate("wm_chaos",Myself,1,1,0)
     FillSlot(SLOT_RING_LEFT)
@@ -60,7 +60,7 @@ IF
   Alignment(Myself,MASK_GOOD)
 THEN
   RESPONSE #100
-    Changealignment(Myself,CHAOTIC_GOOD)  
+    Changealignment(Myself,CHAOTIC_GOOD)
     SetGlobal("wm_level","LOCALS",-2)
     Continue()
 END
@@ -70,7 +70,7 @@ IF
   Alignment(Myself,MASK_GENEUTRAL)
 THEN
   RESPONSE #100
-    Changealignment(Myself,CHAOTIC_NEUTRAL)  
+    Changealignment(Myself,CHAOTIC_NEUTRAL)
     SetGlobal("wm_level","LOCALS",-2)
     Continue()
 END
@@ -80,7 +80,7 @@ IF
   Alignment(Myself,MASK_EVIL)
 THEN
   RESPONSE #100
-    Changealignment(Myself,CHAOTIC_EVIL)  
+    Changealignment(Myself,CHAOTIC_EVIL)
     SetGlobal("wm_level","LOCALS",-2)
     Continue()
 END

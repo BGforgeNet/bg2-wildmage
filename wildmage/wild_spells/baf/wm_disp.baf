@@ -29,9 +29,9 @@ THEN
     Help()
     Shout(99)     // Non-Enemies, even party members, alert guards...
     Continue()
-END  
+END
 
-  
+
 
 //---------------------------------------------------------------------------------
 // And give approximate XP. (A bit more, it's quite the experience, after all...)

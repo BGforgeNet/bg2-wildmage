@@ -3,7 +3,7 @@ IF
 THEN
   RESPONSE #100
     Destroyself()
-END  
+END
 
 IF
   See([ANYONE])

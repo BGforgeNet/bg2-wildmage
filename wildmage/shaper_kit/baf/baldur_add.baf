@@ -1,6 +1,6 @@
 //----------------------------------------
 // If Protagonist is a Non-Lawful Wild Mage,
-// he spontaneous casts a spell when he 
+// he spontaneous casts a spell when he
 // looses 50% of his Hitpoints
 //----------------------------------------
 
@@ -20,7 +20,7 @@ IF
 THEN
   RESPONSE #100
           ActionOverride(Player1,ForceSpell(LastAttackerOf(Myself),WIZARD_LARLOCH_MINOR_DRAIN))
-    SmallWait(15) 
+    SmallWait(15)
     SetGlobal("wm_spellshaper","GLOBAL",1)
     ActionOverride(Player1,Startdialog("WM_LEVEL",Myself))
 END
