@@ -1,5 +1,6 @@
 ## Changelog
 
+- [Version 2.3](#version-23)
 - [Version 2.2](#version-22)
 - [Version 2.1](#version-21)
 - [Version 2](#version-2)
@@ -8,7 +9,7 @@
 - [Version 2.beta1](#version-2.beta1)
 - [Version 1](#version-1)
 
-### Version 2.3 (WIP)
+### Version 2.3
 
 Updated French translation by Deratiseur.
 
