@@ -1,4 +1,6 @@
-OUTER_SPRINT comp_dir ~%MOD_FOLDER%/shaper_kit~ //component directory
+/** @tra text.tra */
+
+OUTER_SPRINT comp_dir ~%MOD_FOLDER%/shaper_kit~  // component directory
 
 //------------------------------------------------------
 //    Mod-start in Baldur.bcs
@@ -10,7 +12,7 @@ EXTEND_BOTTOM ~baldur25.bcs~ ~%comp_dir%/baf/baldur_add.baf~
 //   Spellbook now contains "Rhialto's Chaos Conduit"
 //------------------------------------------------------
 COMPILE ~%comp_dir%/dialog/wm_sbook.d~
-  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
+  USING ~%lang_dir%/dialog.tra~
 
 
 //------------------------------------------------------
@@ -25,7 +27,7 @@ ADD_PROJECTILE ~%comp_dir%/spl/wm_cf_15.pro~
 //        Spellshaper Class Abilities
 //------------------------------------------------------
 COMPILE ~%comp_dir%/dialog/wm_level.d~
-  USING ~%MOD_FOLDER%/tra/%s/dialog.tra~
+  USING ~%lang_dir%/dialog.tra~
 
 
 //------------------------------------------------------

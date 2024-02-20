@@ -1,3 +1,4 @@
+/** @tra setup.tra */
 BACKUP ~wildmage/backup~
 AUTHOR ~https://forums.bgforge.net/viewforum.php?f=29~
 VERSION ~v2.2~
@@ -5,61 +6,59 @@ NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 
 ALWAYS
-  ACTION_IF ENGINE_IS ~bgee bg2ee eet iwdee pstee~ BEGIN
-    ACTION_DEFINE_ARRAY charsetsNoConvertArray BEGIN setup weidu END
-    ACTION_DEFINE_ARRAY charsetsReloadArray BEGIN text END
-    LAF ~HANDLE_CHARSETS~
-      INT_VAR
-        infer_charsets = 1
-      STR_VAR
-        tra_path = ~%MOD_FOLDER%/tra~
-        iconv_path = ~%MOD_FOLDER%/tools/iconv~
-        noconvert_array = charsetsNoConvertArray
-        reload_array = charsetsReloadArray
-    END
-    LOAD_TRA ~%MOD_FOLDER%/tra/%LANGUAGE%/text_ee.tra~
+  ACTION_IF GAME_IS ~bgee bg2ee eet iwdee pstee~ BEGIN
+    OUTER_SPRINT lang_dir ~%MOD_FOLDER%/tra_ee/%LANGUAGE%~
+  END ELSE BEGIN
+    OUTER_SPRINT lang_dir ~%MOD_FOLDER%/tra/%LANGUAGE%~
   END
+  LOAD_TRA ~%lang_dir%/text.tra~
+
+  ACTION_IF GAME_IS ~bgee bg2ee eet iwdee pstee~ BEGIN
+    LOAD_TRA ~%lang_dir%/text_ee.tra~
+  END
+
   OUTER_SPRINT BGFORGE_LIB_DIR "%MOD_FOLDER%/lib/bgforge"
   INCLUDE ~%BGFORGE_LIB_DIR%/main.tpa~
 END
 
-LANGUAGE ~English~ ~english~ ~wildmage/tra/english/text.tra~ ~wildmage/tra/english/setup.tra~
-LANGUAGE ~Deutsch~ ~german~ ~wildmage/tra/german/text.tra~ ~wildmage/tra/german/setup.tra~
-LANGUAGE ~Polski (Maciek F)~ ~polish~ ~wildmage/tra/polish/text.tra~ ~wildmage/tra/polish/setup.tra~
-LANGUAGE ~Russian (aerie.ru)~ ~russian~ ~wildmage/tra/russian/text.tra~ ~wildmage/tra/russian/setup.tra~
-LANGUAGE ~Francais (d'Oghmatiques)~ ~french~ ~wildmage/tra/french/text.tra~ ~wildmage/tra/french/setup.tra~ ~wildmage/tra/french/weidu.tra~
-LANGUAGE ~Portuguese~ ~portuguese~ ~wildmage/tra/portuguese/text.tra~ ~wildmage/tra/portuguese/setup.tra~ ~wildmage/tra/portuguese/weidu.tra~
+LANGUAGE ~English~                    ~english~     ~%MOD_FOLDER%/tra_ee/english/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Deutsch~                    ~german~      ~%MOD_FOLDER%/tra_ee/german/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Francais (d'Oghmatiques)~   ~french~      ~%MOD_FOLDER%/tra_ee/french/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Polski (Maciek F)~          ~polish~      ~%MOD_FOLDER%/tra_ee/polish/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Brazilian Portuguese~       ~portuguese~  ~%MOD_FOLDER%/tra_ee/portuguese/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Russian (aerie.ru)~         ~russian~     ~%MOD_FOLDER%/tra_ee/russian/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Swedish~                    ~swedish~     ~%MOD_FOLDER%/tra_ee/swedish/setup-%WEIDU_OS%.tra~
 
-BEGIN @60 //Ironman
-SUBCOMPONENT @1 //New Wild Magic Spells
-REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62 //Only ToB or EE engine supported
+BEGIN @60  // Ironman
+SUBCOMPONENT @1  // New Wild Magic Spells
+REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62  // Only ToB or EE engine supported
 OUTER_SET pansy = 0
 INCLUDE ~%MOD_FOLDER%/wild_spells/main.tpa~
 
-BEGIN @61 //Haughty pansy
+BEGIN @61  // Haughty pansy
 SUBCOMPONENT @1
-REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62 //Only ToB or EE engine supported
-REQUIRE_PREDICATE GAME_INCLUDES ~bg1~ @65 //Requires BG1 content
+REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62  // Only ToB or EE engine supported
+REQUIRE_PREDICATE GAME_INCLUDES ~bg1~ @65  // Requires BG1 content
 OUTER_SET pansy = 1
 INCLUDE ~%MOD_FOLDER%/wild_spells/main.tpa~
 
 
-BEGIN @66 //Retain Rhialto's items
-REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20 //You must have "New Wild Magic Spells" installed!
+BEGIN @66  // Retain Rhialto's items
+REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20  // You must have "New Wild Magic Spells" installed!
 INCLUDE ~%MOD_FOLDER%/rhialto_items/main.tpa~
 
 
-BEGIN @63 //Original avatar
-SUBCOMPONENT @2 //Spellshaper kit
-REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20 //You must have "New Wild Magic Spells" installed!
+BEGIN @63  // Original avatar
+SUBCOMPONENT @2  // Spellshaper kit
+REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20  // You must have "New Wild Magic Spells" installed!
 OUTER_SET avatar = 0
 INCLUDE ~%MOD_FOLDER%/shaper_kit/main.tpa~
 
-BEGIN @64 //Changed avatar
+BEGIN @64  // Changed avatar
 SUBCOMPONENT @2
 REQUIRE_PREDICATE FILE_EXISTS_IN_GAME "wm_rhia1.cre" @20
 OUTER_SET avatar = 1
 INCLUDE ~%MOD_FOLDER%/shaper_kit/main.tpa~
 
-BEGIN @4 //Misc Spell Modifications
+BEGIN @4  // Misc Spell Modifications
 COPY ~%MOD_FOLDER%/misc_spells/copy~ ~override~
