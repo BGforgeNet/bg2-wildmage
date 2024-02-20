@@ -34,12 +34,12 @@ Peu importe que vous ayez l'intention de lancer ce sort ou pas, une chose est ce
 @20111 = ~Après avoir lancé ce sort étrange, vous sentez changer votre compréhension de la Toile magique. Vous essayez pour la première fois d'étudier le chaos autour de vous, le pliant à votre volonté, puisant votre force du reflux et du flot imprévisibles de la magie entropique. Vous ressentez maintenant une relation étroite avec la Toile. Vous êtes à présent capable d'emmêler la Toile, la refaçonner, la tisser au gré de votre imagination.~
 @20112 = ~Vous sentez aussi que le sort a changé plus que votre façon d'incanter. D'une certaine façon, vous avez l'impression que le sort a libéré une part de votre âme qui était cachée au plus profond de votre être jusqu'à maintenant. Vous montrez un peu plus d'individualité, de tolérance, de curiosité, mais aussi un peu moins de discipline et de diligence, ainsi qu'une certaine méfiance à l'égard des autorités. Cela vous semble pourtant juste, comme si les choses auraient toujours dû se passer comme cela. Vous n'avez pourtant pas l'impression d'avoir été changé, mais plutôt de vous réveiller enfin d'un long, long sommeil.~
 @20201 = ~Forme de Rongeur~
-@20202 = ~Forme de Rongeur* (Altération) 
+@20202 = ~Forme de Rongeur* (Altération)
 Niveau : 1
 Portée : le jeteur de sorts
 Durée : 1 tour
-Temps d'incantation : 1 
-Zone d'effet : Le jeteur de sorts 
+Temps d'incantation : 1
+Zone d'effet : Le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Ce sort transforme le lanceur de sorts en un adorable petit écureuil. Étant donné la taille minuscule du rongeur, le lanceur de sorts gagne un bonus de -2 à la Classe d'Armure contre les armes normales, et -2 supplémentaire contre les projectiles. Contrairement aux autres sorts de métamorphose, le jeteur de sorts garde sa capacité à lancer des sorts sous forme de rongeur.
@@ -48,12 +48,12 @@ Heureusement, la révision récente de ce sort ne change PAS la personnalité du
 @20211 = ~Un de mes sorts a changé !~
 @20212 = ~Nouveau sort appris : Forme de Ratatosk~
 @20301 = ~Forme de Ratatosk~
-@20302 = ~Forme de Ratatosk* (Altération) 
+@20302 = ~Forme de Ratatosk* (Altération)
 Niveau : 1
 Portée : le jeteur de sorts
 Durée : 1 tour
-Temps d'incantation : 1 
-Zone d'effet : Le jeteur de sorts 
+Temps d'incantation : 1
+Zone d'effet : Le jeteur de sorts
 Jet de sauvegarde : aucun
 
 Les Ratatosk sont une race extraplanaire de guerriers écureuils doués de sens, natifs d'Yggdrasil, le Frêne du Monde, le grand arbre divin dont les branches et les racines s'étendent dans tous les plans extérieurs.
@@ -68,7 +68,7 @@ Contrairement aux autres sorts de transformation, le jeteur de sorts garde sa ca
 Niveau : 1
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -80,11 +80,11 @@ Le lanceur de sorts choisit une créature dans un rayon de 40 mètres comme éta
 
 Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de 1, la portée qui est toujours de 40 mètres quelle que soit la portée originale du sort dupliqué, et le fait que l'entropiste n'a pas besoin d'être capable de lancer ce sort ou même de l'avoir dans son livre de sorts. D'un autre côté, le lanceur de sorts ne sait rien du sort qui va être dupliqué, pas même si celui-ci sera dangereux ou bénéfique.~
 @20501 = ~Douche de Lames~
-@20502 = ~Douche de Lames* (Conjuration) 
+@20502 = ~Douche de Lames* (Conjuration)
 Niveau : 2
 Portée : 40 mètres
 Durée : 3 rounds/5 niveaux
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : 1-25 créatures
 Jet de sauvegarde : spécial
 
@@ -455,7 +455,7 @@ Quand le sort est lancé sur une créature, celle-ci doit réussir un jet de sau
 Niveau : 3
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -471,7 +471,7 @@ Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de
 Niveau : 5
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet: spéciale
 Jet de sauvegarde : spécial
 
@@ -487,7 +487,7 @@ Les avantages de Sort Aléatoire sont le temps d'incantation qui est toujours de
 Niveau : 7
 Portée : 40 mètres
 Durée : instantanée
-Temps d'incantation : 1 
+Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -570,19 +570,19 @@ Négliger l'incantation conventionnelle et se concentrer sur la chaotique magie 
 
 Les gens de cette profession ont aussi tendance à être un peu excentriques : leur nature indisciplinée constitue ce qui les a conduits à choisir cette façon alternative d'incanter, et un contact constant avec la magie entropique chaotique affecte encore plus la personnalité d'un Tisseur de sorts. De manière similaire à un barde, un Tisseur de sorts a beaucoup de centres d'intérêts : il apprend un peu de tout ce qui croise son chemin, mais manque de constance pour maîtriser ce savoir de la même façon qu'un personnage discipliné.
 
-La plupart des Tisseurs de sorts ont la sagesse de ne pas compter uniquement sur leur dangereuse et imprévisible magie. Ils assurent leurs arrières en apprenant à se battre. Ce ne sont pas des guerriers, mais l'efficacité d'un Tisseur de sorts au corps au corps est proche de celle d'un voleur. En accumulant de l'expérience, le lanceur de sorts peut apprendre des capacités spéciales qui améliorent encore plus ses techniques de combat ; ces capacités incluant l'attaque sournoise, la maîtrise de la dague et la faculté unique de se battre avec deux armes sans pénalité. 
+La plupart des Tisseurs de sorts ont la sagesse de ne pas compter uniquement sur leur dangereuse et imprévisible magie. Ils assurent leurs arrières en apprenant à se battre. Ce ne sont pas des guerriers, mais l'efficacité d'un Tisseur de sorts au corps au corps est proche de celle d'un voleur. En accumulant de l'expérience, le lanceur de sorts peut apprendre des capacités spéciales qui améliorent encore plus ses techniques de combat ; ces capacités incluant l'attaque sournoise, la maîtrise de la dague et la faculté unique de se battre avec deux armes sans pénalité.
 
 Un des traits de caractère des plus excentriques des tisseurs de sorts est qu'ils refusent tout entraînement dans l'utilisation d'armes à projectiles ; pour le combat à distance, le Tisseur de sorts use de sa magie et si celle-ci échoue, il préfère le corps à corps.
 
-Avantages :		
+Avantages :
 -  Progression du TAC0 proche du roublard
 -  +5 points de connaissance par niveau
--  Capacité de Tisser les sorts 
--  Capacité : Explosion Entropique 
+-  Capacité de Tisser les sorts
+-  Capacité : Explosion Entropique
 -  Capacité de Modeler les sorts
 -  Peut apprendre des "dons" relatifs au combat
-		
-Inconvénients :	
+
+Inconvénients :
 -  Magie Entropique (Le niveau de lanceur de sorts varie de +/- 5)
 -  5% de chance d'occasionner un Hiatus Entropique
 -  Progression en sorts bien plus lente
