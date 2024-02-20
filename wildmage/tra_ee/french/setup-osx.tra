@@ -1,13 +1,13 @@
-// Do not edit manually. This file is generated automatically by handle-charsets. Your changes will be lost.
+// Do not edit. This file is generated automatically by handle-charsets. Your changes will be lost.
 
-@1 = ~New Wild Magic Spells~
-@2 = ~Spellshaper Kit~
+@1 = ~Nouveaux Sorts de Magie Entropique~
+@2 = ~Kit de tisseur de sorts~
 @4 = ~Diverses Modifications de Sorts~
-@20 = ~You must have "New Wild Magic Spells" installed!~
-@60 = ~Ironman~
-@61 = ~Haugthy pansy~
-@62 = ~Only ToB and EE engines are supported~
-@63 = ~Original avatar~
-@64 = ~Changed avatar~
-@65 = ~Requires BG1 content~
-@66 = ~Retain Rhialto's items~
+@20 = ~Vous devez avoir installe "Nouveaux Sorts de Magie Entropique" !~
+@60 = ~Rhialto vous trouvera n'importe ou~
+@61 = ~Emplacement fixe de Rhialto dans BG1~
+@62 = ~Seuls les moteurs ToB et EE sont pris en charge~
+@63 = ~Avatar original~
+@64 = ~Avatar alternatif~
+@65 = ~Necessite le contenu de BG1~
+@66 = ~Conserver les objets de Rhialto~
