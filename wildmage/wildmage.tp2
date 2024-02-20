@@ -1,7 +1,7 @@
 /** @tra setup.tra */
 BACKUP ~wildmage/backup~
 AUTHOR ~https://forums.bgforge.net/viewforum.php?f=29~
-VERSION ~v2.2~
+VERSION ~v2.3~
 NO_IF_EVAL_BUG
 AUTO_EVAL_STRINGS
 

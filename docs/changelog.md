@@ -8,6 +8,10 @@
 - [Version 2.beta1](#version-2.beta1)
 - [Version 1](#version-1)
 
+### Version 2.3 (WIP)
+
+Updated French translation by Deratiseur.
+
 ### Version 2.2
 
 - Fix for PI not showing component names properly.
