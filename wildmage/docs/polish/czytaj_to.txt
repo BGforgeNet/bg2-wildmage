@@ -1,5 +1,5 @@
 Dodateg do Dzikiego Maga
- Pseudo podklasa / Kolekcja czarów do Baldur's Gate II: Tron Bhaala
+ Pseudo podklasa / Kolekcja czarÃ³w do Baldur's Gate II: Tron Bhaala
 
 Author:   JOG (Jochen Gehring, jo.ge@gmx.net)
 Version:  1.5 (26.Dec.2007)
@@ -9,7 +9,7 @@ Homepage: http://mods.jo-ge.net/bg
 
 Spis rzeczy:
 
-1. Wstêp
+1. WstÄ™p
 
 2. Komponenty
     2.1 Czary Dzikiej Magii
@@ -17,13 +17,13 @@ Spis rzeczy:
     2.3 Spellshaper - zmiana avatara
     2.4 Niewielkie modyfikacje w czarach
 
-3. Kompatybilnoœæ
+3. KompatybilnoÅ›Ä‡
 
-4. Znane bugi i przypadki niekompatybilnoœci
+4. Znane bugi i przypadki niekompatybilnoÅ›ci
 
 5. Porady/Takie tam
 
-6. Od t³umacza
+6. Od tÅ‚umacza
 
 7. Credits
 
@@ -32,52 +32,52 @@ Spis rzeczy:
 
 **************************************************************************
 
-1.       Wstêp
+1.       WstÄ™p
 
-Magia Chaosu jest fajna, zawsze lubi³em œwiaty takie jak Moorcock (?) 
-magia jest czymœ niesamowicie potê¿nym i niebezpiecznym dla przeciwników,
-przyjació³ i czaruj¹cego zarazem.
+Magia Chaosu jest fajna, zawsze lubiÅ‚em Å›wiaty takie jak Moorcock (?) 
+magia jest czymÅ› niesamowicie potÄ™Å¼nym i niebezpiecznym dla przeciwnikÃ³w,
+przyjaciÃ³Å‚ i czarujÄ…cego zarazem.
 
-Dzika Magia wprowadza czêœæ tego elementu do uniwersum D&D, gdzie magia
-zazwyczaj polega na nauce, œcis³ych regu³ach i rytua³ach.
+Dzika Magia wprowadza czÄ™Å›Ä‡ tego elementu do uniwersum D&D, gdzie magia
+zazwyczaj polega na nauce, Å›cisÅ‚ych reguÅ‚ach i rytuaÅ‚ach.
 
-Tron Bhaala wprowadzi³ dzik¹ magiê, ale skupi³ siê na jej roziniêciu. 
-Graj¹c Dzikim magiem w TOB skoñczysz na ci¹g³ymrzucaniu Lekkomyœlnego 
-zaklêcia Nahala i wczytywaniu/zapisywaniu, dopóki nie uzyskasz efektu
-takiego jaki chcesz (przynajmniej ja tak robi³em...)
+Tron Bhaala wprowadziÅ‚ dzikÄ… magiÄ™, ale skupiÅ‚ siÄ™ na jej roziniÄ™ciu. 
+GrajÄ…c Dzikim magiem w TOB skoÅ„czysz na ciÄ…gÅ‚ymrzucaniu LekkomyÅ›lnego 
+zaklÄ™cia Nahala i wczytywaniu/zapisywaniu, dopÃ³ki nie uzyskasz efektu
+takiego jaki chcesz (przynajmniej ja tak robiÅ‚em...)
 
-Czarownik z drugiej strony jest udany i ma wysoce po¿¹dan¹ umiejêtnoœæ
-czarowania na zawo³anie, jednak brak mu elastycznoœci maga w nauce
-nowych czarów. Gra Czarownikiem jest przyjemna w papierowym wydaniu
+Czarownik z drugiej strony jest udany i ma wysoce poÅ¼Ä…danÄ… umiejÄ™tnoÅ›Ä‡
+czarowania na zawoÅ‚anie, jednak brak mu elastycznoÅ›ci maga w nauce
+nowych czarÃ³w. Gra Czarownikiem jest przyjemna w papierowym wydaniu
 D&D, ale nie w Baldur's Gate:
 
-W pamierowym D&D mag potrzebuje drogich i grubych ks¹g, które mog¹ zawieraæ
-jedynie limitowan¹ liczbê czarów. Wiêkszoœæ czarów które zna s¹ bezpieczne
-na pó³ce w jego domu w kilku kolejnych ksiêgach czarów ³adnie na niej u³o¿onych.
-Nie ma mo¿liwoœci zapamiêtania tych czarów dopóki nie wróci do domu po t¹ 
-ksiêgê... Wiêc w P&P (papierowej wersji) mag "w podró¿y" ma dostêp do, mo¿e
-50% wiêcej czarów ni¿ Czarownik, ale umiejêtnoœci rzucania czarów Maga mog¹ 
-zostaæ uszkodzone poprzez zniszczenie lub skradniêcie jego ksiêgi, podczas gdy
-Czarownik zawsze ma dostêp do swoich czarów...
+W pamierowym D&D mag potrzebuje drogich i grubych ksÄ…g, ktÃ³re mogÄ… zawieraÄ‡
+jedynie limitowanÄ… liczbÄ™ czarÃ³w. WiÄ™kszoÅ›Ä‡ czarÃ³w ktÃ³re zna sÄ… bezpieczne
+na pÃ³Å‚ce w jego domu w kilku kolejnych ksiÄ™gach czarÃ³w Å‚adnie na niej uÅ‚oÅ¼onych.
+Nie ma moÅ¼liwoÅ›ci zapamiÄ™tania tych czarÃ³w dopÃ³ki nie wrÃ³ci do domu po tÄ… 
+ksiÄ™gÄ™... WiÄ™c w P&P (papierowej wersji) mag "w podrÃ³Å¼y" ma dostÄ™p do, moÅ¼e
+50% wiÄ™cej czarÃ³w niÅ¼ Czarownik, ale umiejÄ™tnoÅ›ci rzucania czarÃ³w Maga mogÄ… 
+zostaÄ‡ uszkodzone poprzez zniszczenie lub skradniÄ™cie jego ksiÄ™gi, podczas gdy
+Czarownik zawsze ma dostÄ™p do swoich czarÃ³w...
 
-W Baldur's Gate, mag zawsze ma dostêp do ka¿dego czaru który "zna", podczas gdy
-Czarownik wci¹¿ jest limitowany zasadami P&P. Gra zapewnia dostêp do 204 czarów
-do których zwyk³y Mag ma pe³ny dostêp lecz musi je zapamiêtywaæ, nie ma wiêc 
-sensu grania innym rodzajem czarodzieja, który mo¿e rzucaæ czary na zawo³anie,
-ale mo¿e nauczyæ siê jedynie 45 z tych 204 czarów, bez ¿adnej mo¿liwoœci zmiane 
-w przypadku kiedy nauka konkretnego czaru okaza³a siê byæ pomy³k¹...
+W Baldur's Gate, mag zawsze ma dostÄ™p do kaÅ¼dego czaru ktÃ³ry "zna", podczas gdy
+Czarownik wciÄ…Å¼ jest limitowany zasadami P&P. Gra zapewnia dostÄ™p do 204 czarÃ³w
+do ktÃ³rych zwykÅ‚y Mag ma peÅ‚ny dostÄ™p lecz musi je zapamiÄ™tywaÄ‡, nie ma wiÄ™c 
+sensu grania innym rodzajem czarodzieja, ktÃ³ry moÅ¼e rzucaÄ‡ czary na zawoÅ‚anie,
+ale moÅ¼e nauczyÄ‡ siÄ™ jedynie 45 z tych 204 czarÃ³w, bez Å¼adnej moÅ¼liwoÅ›ci zmiane 
+w przypadku kiedy nauka konkretnego czaru okazaÅ‚a siÄ™ byÄ‡ pomyÅ‚kÄ…...
 
-Mod Sovran'a "Art of Weaving" zainspirowa³ mnie do stworzenia jeszcze innego typu
+Mod Sovran'a "Art of Weaving" zainspirowaÅ‚ mnie do stworzenia jeszcze innego typu
 czarodzieja:
-Spellshaper mo¿e rzucaæ czary spontanicznie jak Czarownik, ale zamiast cierpieæ
-z powodu ograniczeñ co do liczby poznanych czarów, ma mocno ograniczon¹ liczbê
-czarów jakie mog¹ zostaæ rzucone w trakcie jednego dnia, jak równie¿ szybkoœæ
-z jak¹ zdobywa dostêp do kolejnych poziomów czarów.
+Spellshaper moÅ¼e rzucaÄ‡ czary spontanicznie jak Czarownik, ale zamiast cierpieÄ‡
+z powodu ograniczeÅ„ co do liczby poznanych czarÃ³w, ma mocno ograniczonÄ… liczbÄ™
+czarÃ³w jakie mogÄ… zostaÄ‡ rzucone w trakcie jednego dnia, jak rÃ³wnieÅ¼ szybkoÅ›Ä‡
+z jakÄ… zdobywa dostÄ™p do kolejnych poziomÃ³w czarÃ³w.
 
-Podczas testowania tej podklasy zauwa¿y³em ¿e w grze wci¹¿ brak czaró dzikiej
-magii. Najpierw zrobi³em kilka czarów, których Spellshaper uczy³ siê automatycznie
-jednak ich liczba ros³a. Zdecydowa³êm wiêc zrobiæ po 2 czary na ka¿dy ich
-poziom i daæ dzikim magom mo¿liwoœæ nauczenia siê ich.
+Podczas testowania tej podklasy zauwaÅ¼yÅ‚em Å¼e w grze wciÄ…Å¼ brak czarÃ³ dzikiej
+magii. Najpierw zrobiÅ‚em kilka czarÃ³w, ktÃ³rych Spellshaper uczyÅ‚ siÄ™ automatycznie
+jednak ich liczba rosÅ‚a. ZdecydowaÅ‚Ä™m wiÄ™c zrobiÄ‡ po 2 czary na kaÅ¼dy ich
+poziom i daÄ‡ dzikim magom moÅ¼liwoÅ›Ä‡ nauczenia siÄ™ ich.
 
 ************************************************************************** 
 
@@ -86,183 +86,183 @@ poziom i daæ dzikim magom mo¿liwoœæ nauczenia siê ich.
 
 2.1      CZARY DZIKIEJ MAGII
          
-         Ten sk³adnik zawiera 27 nowych czarów dzikiej magii i 1 unikalny rzucany raz
-		 czar. Zaj¿yj do "SPELLS.PDF" po szczegó³owy opis. (obecnie tylko w j. angielskim,
-		 w grze czary s¹ przet³umaczone)
+         Ten skÅ‚adnik zawiera 27 nowych czarÃ³w dzikiej magii i 1 unikalny rzucany raz
+		 czar. ZajÅ¼yj do "SPELLS.PDF" po szczegÃ³Å‚owy opis. (obecnie tylko w j. angielskim,
+		 w grze czary sÄ… przetÅ‚umaczone)
 
-		 Po instalacji odpocznij na zewn¹trz. Mo¿esz te¿ odpocz¹æ w gospodzie i wyjœæ
-		 póŸniej na zewn¹trz. Spotkasz dzikiego maga i uzyskasz dostêp do jego
-		 ksiêgi czarów, z której bêdziesz móg³ siê nauczyæ jednego czaru na poziom
-		 doœwiadczenia. Jeœli w dru¿ynie nie ma dzikich magów, mod koñczy siê w tym
-		 momencie. Mo¿esz sprzedaæ ksiêgê - tylko Dziki Mag mo¿e jej u¿ywaæ.
+		 Po instalacji odpocznij na zewnÄ…trz. MoÅ¼esz teÅ¼ odpoczÄ…Ä‡ w gospodzie i wyjÅ›Ä‡
+		 pÃ³Åºniej na zewnÄ…trz. Spotkasz dzikiego maga i uzyskasz dostÄ™p do jego
+		 ksiÄ™gi czarÃ³w, z ktÃ³rej bÄ™dziesz mÃ³gÅ‚ siÄ™ nauczyÄ‡ jednego czaru na poziom
+		 doÅ›wiadczenia. JeÅ›li w druÅ¼ynie nie ma dzikich magÃ³w, mod koÅ„czy siÄ™ w tym
+		 momencie. MoÅ¼esz sprzedaÄ‡ ksiÄ™gÄ™ - tylko Dziki Mag moÅ¼e jej uÅ¼ywaÄ‡.
 
 
 
 2.2      SPELLSHAPER
 
-         Spellshaper nie mo¿e polegaæ na swojej magii tak bardzo jak Mag - jego zdolnoœæ
-		 rzucania czarów jest porównywalna do tej posiadanej przez Barda, a jego umiejêtnoœci
-		 tkania czarów mog¹ nie wypaliæ. Ma on dostêp do szerokiego wachlarza czarów 
-		 (niektóre z nich nie s¹ dostêpne dla zwyk³ego Maga lub zwyk³ego Dzikiego Maga)
-		 jednak nie mo¿e ich rzucaæ zbyt czêsto. W zamian Spellshaper ma zdolnoœci
-		 bojowe porównywalne z prezentowanymi przez ³otrzyków, i czêœciej rozwi¹zuje
-		 problemy poprzez walkê wrêcz, zachowuj¹c swoj¹ magiê jako ostateczny œrodek.
+         Spellshaper nie moÅ¼e polegaÄ‡ na swojej magii tak bardzo jak Mag - jego zdolnoÅ›Ä‡
+		 rzucania czarÃ³w jest porÃ³wnywalna do tej posiadanej przez Barda, a jego umiejÄ™tnoÅ›ci
+		 tkania czarÃ³w mogÄ… nie wypaliÄ‡. Ma on dostÄ™p do szerokiego wachlarza czarÃ³w 
+		 (niektÃ³re z nich nie sÄ… dostÄ™pne dla zwykÅ‚ego Maga lub zwykÅ‚ego Dzikiego Maga)
+		 jednak nie moÅ¼e ich rzucaÄ‡ zbyt czÄ™sto. W zamian Spellshaper ma zdolnoÅ›ci
+		 bojowe porÃ³wnywalne z prezentowanymi przez Å‚otrzykÃ³w, i czÄ™Å›ciej rozwiÄ…zuje
+		 problemy poprzez walkÄ™ wrÄ™cz, zachowujÄ…c swojÄ… magiÄ™ jako ostateczny Å›rodek.
 
-		 Spellshaper jest nieostro¿nym oportunist¹, którego magia jest potê¿na lecz
-		 nieprzewidywalna - nie lepsza i nie gorsza ni¿ dobra broñ do walki wrêcz.
-		 WyobraŸciê sobie Elric'a walczacego 2ma sztyletami zamiast wielkim mieczem i
-		 bêdziecie wiedzieli jaki mniej wiêcej jest typ Spellshapera.
+		 Spellshaper jest nieostroÅ¼nym oportunistÄ…, ktÃ³rego magia jest potÄ™Å¼na lecz
+		 nieprzewidywalna - nie lepsza i nie gorsza niÅ¼ dobra broÅ„ do walki wrÄ™cz.
+		 WyobraÅºciÄ™ sobie Elric'a walczacego 2ma sztyletami zamiast wielkim mieczem i
+		 bÄ™dziecie wiedzieli jaki mniej wiÄ™cej jest typ Spellshapera.
 		 
-		 Zaj¿yj do "SPELLSHAPER.PDF" po szczegó³owy opis.
+		 ZajÅ¼yj do "SPELLSHAPER.PDF" po szczegÃ³Å‚owy opis.
          
 
-         S¹ 2 sposoby na zostanie Spellshaperem:
-		 1. Jeœli g³ówny bohater jest nie-praworz¹dnym Dzikim Magiem ma szansê staæ siê
-			Spellshaperem w trakcie walki, jeœli zostanie powa¿nie zraniony.
+         SÄ… 2 sposoby na zostanie Spellshaperem:
+		 1. JeÅ›li gÅ‚Ã³wny bohater jest nie-praworzÄ…dnym Dzikim Magiem ma szansÄ™ staÄ‡ siÄ™
+			Spellshaperem w trakcie walki, jeÅ›li zostanie powaÅ¼nie zraniony.
 		 
-		 2.	Praworz¹dny g³ówny bohater lub inny cz³onek dru¿yny mo¿e przeczytaæ ksiêgê
-			czarów Rhialto. Jeden z czarów - Przewód Chaosu Rhialto powoduje te same
-			zmiany jakie przyda¿aj¹ siê nie-praworz¹dnemu g³ównemu bohaterowi.
+		 2.	PraworzÄ…dny gÅ‚Ã³wny bohater lub inny czÅ‚onek druÅ¼yny moÅ¼e przeczytaÄ‡ ksiÄ™gÄ™
+			czarÃ³w Rhialto. Jeden z czarÃ³w - PrzewÃ³d Chaosu Rhialto powoduje te same
+			zmiany jakie przydaÅ¼ajÄ… siÄ™ nie-praworzÄ…dnemu gÅ‚Ã³wnemu bohaterowi.
 
 
 
 2.3	 SPELLSHAPER - ZMIANA AVATARA
 
-         Spellshaper zosta³ pomyœlany jako "³otrzykowy" mag (lub "magowy" ³otrzyk)
+         Spellshaper zostaÅ‚ pomyÅ›lany jako "Å‚otrzykowy" mag (lub "magowy" Å‚otrzyk)
 		 a nie typ maga fantasy "szata i szpiczasty kapelusz".
-		 Avatar maga nie pasuje do tej postaci (przynajmniej nie tej któr¹ ja gram)
+		 Avatar maga nie pasuje do tej postaci (przynajmniej nie tej ktÃ³rÄ… ja gram)
 		 
-		 Ten sk³adnik zmienia avatara kiedy stajesz siê Spellshaperem:
+		 Ten skÅ‚adnik zmienia avatara kiedy stajesz siÄ™ Spellshaperem:
 		 
-		 Kobiety u¿ywaj¹ avatara Z³odziejki
-		 Mê¿czyŸni avatara Kap³ana
+		 Kobiety uÅ¼ywajÄ… avatara ZÅ‚odziejki
+		 MÄ™Å¼czyÅºni avatara KapÅ‚ana
 
 
 
 
 2.4	 NIEWIELKIE MODYFIKACJE W CZARACH
 
-		Ten sk³adnij jest niezale¿ny od innych i zmienia niektóre czary obecne w
+		Ten skÅ‚adnij jest niezaleÅ¼ny od innych i zmienia niektÃ³re czary obecne w
 		oryginalnej wersji gry:
 		
 		"Magiczny Pocisk"
-		Pociski zadaj¹ teraz zawsze 1k4+1 obra¿eñ, tak jak powinny. Przedtem by³o
+		Pociski zadajÄ… teraz zawsze 1k4+1 obraÅ¼eÅ„, tak jak powinny. Przedtem byÅ‚o
 		to 2k2 na poziomach 3-8 i 2k2+1 na poziomach 1,2 i 9+.
 		
 		"Drzwi przez wymiary"
-			Tak jak mnóstwo innych magów w grze, teraz i ty mo¿esz siê teleportowaæ w 
-			pobliskie miejsce które ju¿ odwiedzi³eœ. Nie musi ju¿ wiêcej istniej do
-			niego proste dojœcie widoczne w polu widzenia. Mo¿esz wybraæ miejsce na 
-			obszarze na którym ju¿ by³eœ. (Ten sk³adnik nie zawiera zwojów do nauki
-			czaru, jeœli nie grasz Spellshaperem, bêdziesz musia³ u¿yæ innego moda,
-			lub u¿yæ programu Shadowkeeper by nauczyæ siê czaru lub dodaæ zwój)
+			Tak jak mnÃ³stwo innych magÃ³w w grze, teraz i ty moÅ¼esz siÄ™ teleportowaÄ‡ w 
+			pobliskie miejsce ktÃ³re juÅ¼ odwiedziÅ‚eÅ›. Nie musi juÅ¼ wiÄ™cej istniej do
+			niego proste dojÅ›cie widoczne w polu widzenia. MoÅ¼esz wybraÄ‡ miejsce na 
+			obszarze na ktÃ³rym juÅ¼ byÅ‚eÅ›. (Ten skÅ‚adnik nie zawiera zwojÃ³w do nauki
+			czaru, jeÅ›li nie grasz Spellshaperem, bÄ™dziesz musiaÅ‚ uÅ¼yÄ‡ innego moda,
+			lub uÅ¼yÄ‡ programu Shadowkeeper by nauczyÄ‡ siÄ™ czaru lub dodaÄ‡ zwÃ³j)
 
 
 
 **************************************************************************
 
-3.       KOMPATYBILNOŒÆ
+3.       KOMPATYBILNOÅšÄ†
 
 	Mod wymaga Tronu Bhalla
-	Jest stworzony do gry zarówno na BG2 CA/TB jak i BG1TUTU
+	Jest stworzony do gry zarÃ³wno na BG2 CA/TB jak i BG1TUTU
 	
- (Zobacz "COMPATIBILITY.PDF" po szczegó³owy opis) 
+ (Zobacz "COMPATIBILITY.PDF" po szczegÃ³Å‚owy opis) 
  
- Mod dzia³a dobrze w grach multiplayer. Kilka dzikich magów w dru¿ynie
- te¿ da radê.
+ Mod dziaÅ‚a dobrze w grach multiplayer. Kilka dzikich magÃ³w w druÅ¼ynie
+ teÅ¼ da radÄ™.
  
- Postaæ u¿ywaj¹ca podklasy "Spellweaver" z modu Sorvan'a mo¿e siê nauczyæ 
- czarów dzikiej magii, ale kiedy wybierze podklasê Spellshapere mod Sorovan'a 
- przestanie dzia³aæ i nie bêdzie ju¿ zdobywaæ nowych umiejêtnoœæi.
+ PostaÄ‡ uÅ¼ywajÄ…ca podklasy "Spellweaver" z modu Sorvan'a moÅ¼e siÄ™ nauczyÄ‡ 
+ czarÃ³w dzikiej magii, ale kiedy wybierze podklasÄ™ Spellshapere mod Sorovan'a 
+ przestanie dziaÅ‚aÄ‡ i nie bÄ™dzie juÅ¼ zdobywaÄ‡ nowych umiejÄ™tnoÅ›Ä‡i.
 
- Dwu i wieloklasowi dzicy magowie tak¿e mog¹ zostaæ Spellshaperami, jest
- jednak kosmetyczny problem (obie klasy bêd¹ podpisane "Spellshaper" w
- karcie postaci). Równie¿ niektóre kombinacje mog¹ okazaæ siê troszkê
- zbyt potê¿ne i ³atwe w rozgrywce. (zobacz poni¿ej)
+ Dwu i wieloklasowi dzicy magowie takÅ¼e mogÄ… zostaÄ‡ Spellshaperami, jest
+ jednak kosmetyczny problem (obie klasy bÄ™dÄ… podpisane "Spellshaper" w
+ karcie postaci). RÃ³wnieÅ¼ niektÃ³re kombinacje mogÄ… okazaÄ‡ siÄ™ troszkÄ™
+ zbyt potÄ™Å¼ne i Å‚atwe w rozgrywce. (zobacz poniÅ¼ej)
  
- podklasa Spellshapera dobrze dzia³a z modami które zmieniaj¹ postêp
- w zdobywaniu czarów. Jednak¿e obni¿enie zdolnoœci Spellshapera o 2 sloty
- zrobione jest na posdstawie tabel BG2 gdzie strata ich równa jest 33%
- dostêpnego maksimum. Jeœli grasz na ustawieniach P&P Spellshaper bêdzie
- na wy¿szym poziomie du¿o potê¿niejszy ni¿ powinien.
+ podklasa Spellshapera dobrze dziaÅ‚a z modami ktÃ³re zmieniajÄ… postÄ™p
+ w zdobywaniu czarÃ³w. JednakÅ¼e obniÅ¼enie zdolnoÅ›ci Spellshapera o 2 sloty
+ zrobione jest na posdstawie tabel BG2 gdzie strata ich rÃ³wna jest 33%
+ dostÄ™pnego maksimum. JeÅ›li grasz na ustawieniach P&P Spellshaper bÄ™dzie
+ na wyÅ¼szym poziomie duÅ¼o potÄ™Å¼niejszy niÅ¼ powinien.
 
 **************************************************************************
 
-4.       ZNANE BUGI I PRZYPADKI NIEKOPMATYBILNOŒÆI
+4.       ZNANE BUGI I PRZYPADKI NIEKOPMATYBILNOÅšÄ†I
 
-- Inne mody które zmieniaj¹ skrypt override s¹ niekompatybilne
+- Inne mody ktÃ³re zmieniajÄ… skrypt override sÄ… niekompatybilne
 
-- "Tkanie Czaru" dzia³a dziwnie z czarami dodanymi przez inne mody:
-	O ile wci¹¿ masz jedynie oryginalne czary i te dodane przez ten dodatek
-	bêd¹ zu¿ywane tak¿e te dodane przez mody, ale jeœli masz zapamiêtane
-	jedynie modyfikowane czary, nie bêdziesz móg³ u¿yæ "Tkania Czaru"
+- "Tkanie Czaru" dziaÅ‚a dziwnie z czarami dodanymi przez inne mody:
+	O ile wciÄ…Å¼ masz jedynie oryginalne czary i te dodane przez ten dodatek
+	bÄ™dÄ… zuÅ¼ywane takÅ¼e te dodane przez mody, ale jeÅ›li masz zapamiÄ™tane
+	jedynie modyfikowane czary, nie bÄ™dziesz mÃ³gÅ‚ uÅ¼yÄ‡ "Tkania Czaru"
 	
-- Wieloklasowi Spellshaperzy dostaj¹ dodatkowe umiejêtnoœci wed³ug najwy¿szego
-	obecnie poziomu. "Dziki Mag/Z³odziej" mo¿e zostaæ Spellshaperem, ale
-	bêdzie nieco zbyt silny. (Choæ wieloklasowy Dziki Mag to i tak cheat...)
+- Wieloklasowi Spellshaperzy dostajÄ… dodatkowe umiejÄ™tnoÅ›ci wedÅ‚ug najwyÅ¼szego
+	obecnie poziomu. "Dziki Mag/ZÅ‚odziej" moÅ¼e zostaÄ‡ Spellshaperem, ale
+	bÄ™dzie nieco zbyt silny. (ChoÄ‡ wieloklasowy Dziki Mag to i tak cheat...)
 	
-- Spellshaper staj¹c siê dwuklasowcem bêdzie dalej dostawaæ dodatkowe 
-	umiejêtnoœæi zdobywaj¹c poziomy now¹ klas¹. (Jednak¿e mod pozwalaj¹cy
-	Dzikim Magom na dwuklasowoœæ mo¿e te¿ byæ uznawany za cheat)
+- Spellshaper stajÄ…c siÄ™ dwuklasowcem bÄ™dzie dalej dostawaÄ‡ dodatkowe 
+	umiejÄ™tnoÅ›Ä‡i zdobywajÄ…c poziomy nowÄ… klasÄ…. (JednakÅ¼e mod pozwalajÄ…cy
+	Dzikim Magom na dwuklasowoÅ›Ä‡ moÅ¼e teÅ¼ byÄ‡ uznawany za cheat)
 	
-- Przedmioty podnosz¹ce liczbe slotów w ksiêdze czarów, noszone przez
-	Spellshapera sprawiaj¹ ¿e zapommina wszystkie czary z modyfikowanego
-	poziomu podczas snu. Wygl¹da to na b³¹d engine, nie mam pojêcia jak to
-	naprawiæ. Rozwi¹zaniem jest po prostu NIE NOSZENIE takich przedmiotów.
-	(one definitywnie nie dzia³aj¹ na Spellshapera)
+- Przedmioty podnoszÄ…ce liczbe slotÃ³w w ksiÄ™dze czarÃ³w, noszone przez
+	Spellshapera sprawiajÄ… Å¼e zapommina wszystkie czary z modyfikowanego
+	poziomu podczas snu. WyglÄ…da to na bÅ‚Ä…d engine, nie mam pojÄ™cia jak to
+	naprawiÄ‡. RozwiÄ…zaniem jest po prostu NIE NOSZENIE takich przedmiotÃ³w.
+	(one definitywnie nie dziaÅ‚ajÄ… na Spellshapera)
 	
-- Kiedy Spellshaper ma wyssany poziom mo¿e dostaæ bonusowy slot na czar
-	kiedy gra resetuje liczbê jego slotów. Kiedy poziom zostaje przywrócony,
-	liczba czarów tak¿e. Jedynym sposobem na "naprawê" tego wydaje siê byæ
-	zapewnienie mu sta³ej ochrony przed wyssaniem poziomów...
+- Kiedy Spellshaper ma wyssany poziom moÅ¼e dostaÄ‡ bonusowy slot na czar
+	kiedy gra resetuje liczbÄ™ jego slotÃ³w. Kiedy poziom zostaje przywrÃ³cony,
+	liczba czarÃ³w takÅ¼e. Jedynym sposobem na "naprawÄ™" tego wydaje siÄ™ byÄ‡
+	zapewnienie mu staÅ‚ej ochrony przed wyssaniem poziomÃ³w...
 
 
 
- TO NIE S¥ BUGI:
+ TO NIE SÄ„ BUGI:
  
- - Zaraz po awansie na 20 poziom, zostaje og³uszony na sekundê. Jest to celowe
-	i zapobiega za³o¿eniu Pierœcienia Magii, podczas gdy "D³oñ" (która normalnie
-	chroni ciê przed u¿ywaniem metamagicznych przedmiotów) jest zamieniana w celu 
-	zaktualizowania liczby czarów mo¿liwych do zapamiêtania.
+ - Zaraz po awansie na 20 poziom, zostaje ogÅ‚uszony na sekundÄ™. Jest to celowe
+	i zapobiega zaÅ‚oÅ¼eniu PierÅ›cienia Magii, podczas gdy "DÅ‚oÅ„" (ktÃ³ra normalnie
+	chroni ciÄ™ przed uÅ¼ywaniem metamagicznych przedmiotÃ³w) jest zamieniana w celu 
+	zaktualizowania liczby czarÃ³w moÅ¼liwych do zapamiÄ™tania.
 	
-- "Losowe Odes³anie Hornunga" jest celowo czarem 7 poziomu. Nie mo¿esz go u¿yæ do
-	podró¿owania miêdzy sferami w Baldur's Gate, wiêc jest to raczej efektowna
-	wersja czaru Dezintegracja i nie ma powodu robiæ z niej czaru 8 poziomu.
+- "Losowe OdesÅ‚anie Hornunga" jest celowo czarem 7 poziomu. Nie moÅ¼esz go uÅ¼yÄ‡ do
+	podrÃ³Å¼owania miÄ™dzy sferami w Baldur's Gate, wiÄ™c jest to raczej efektowna
+	wersja czaru Dezintegracja i nie ma powodu robiÄ‡ z niej czaru 8 poziomu.
 	
-- Niektóre czary nie zosta³y przeniesione do gry do koñca zgodnie z ich 
-	oryginalnym opisem. By³a to albo "artystyczna interpretacja" lub
-	koniecznoœæ ze wzglêdu na ograniczenia engine i wzglêdy równowagi. 
+- NiektÃ³re czary nie zostaÅ‚y przeniesione do gry do koÅ„ca zgodnie z ich 
+	oryginalnym opisem. ByÅ‚a to albo "artystyczna interpretacja" lub
+	koniecznoÅ›Ä‡ ze wzglÄ™du na ograniczenia engine i wzglÄ™dy rÃ³wnowagi. 
 	
-- Przywo³anie krowy czasami zadaje obra¿enia ka¿dej istocie na ca³ym 
-	obszarze. Wygl¹da to na zamierzone przez Bioware. Zda¿a siê to 
-	tak¿e w przypadku dzikiej fali i ukrytego czaru 2 poziomu.
+- PrzywoÅ‚anie krowy czasami zadaje obraÅ¼enia kaÅ¼dej istocie na caÅ‚ym 
+	obszarze. WyglÄ…da to na zamierzone przez Bioware. ZdaÅ¼a siÄ™ to 
+	takÅ¼e w przypadku dzikiej fali i ukrytego czaru 2 poziomu.
 
 
 **************************************************************************
 
 5.       PORADY/TAKIE TAM
 
-- Zgoda, Rhialto jest bardzo potê¿nym przeciwnikiem. Mo¿na go jednak pokonaæ
-	samotnym magiem 1 poziomu z 4 punktami ¿ycia. Dokona³em tego wiele 
-	razy testuj¹c ten mod.
+- Zgoda, Rhialto jest bardzo potÄ™Å¼nym przeciwnikiem. MoÅ¼na go jednak pokonaÄ‡
+	samotnym magiem 1 poziomu z 4 punktami Å¼ycia. DokonaÅ‚em tego wiele 
+	razy testujÄ…c ten mod.
 
-	Sekret tkwi w uciekaniu i czekaniu a¿ byæ mo¿e bêdzie mia³ wypadek podczas
-	œcigania ciê. W rzeczywistoœci trudniej jest walczyæ z nim ca³¹
-	dru¿yn¹, bo uwielbia on patrzeæ co Glif z Dzikiej Magii robo z 
-	twojej ma³ej armii...
+	Sekret tkwi w uciekaniu i czekaniu aÅ¼ byÄ‡ moÅ¼e bÄ™dzie miaÅ‚ wypadek podczas
+	Å›cigania ciÄ™. W rzeczywistoÅ›ci trudniej jest walczyÄ‡ z nim caÅ‚Ä…
+	druÅ¼ynÄ…, bo uwielbia on patrzeÄ‡ co Glif z Dzikiej Magii robo z 
+	twojej maÅ‚ej armii...
    
- - Jeœli naprawde musisz odpocz¹æ, a chcesz opóŸniæ pojawienie siê Rhialto,
-	zapa³zuj grê podczas opoczynku a po nim u¿yj Quicksave i Quickload
+ - JeÅ›li naprawde musisz odpoczÄ…Ä‡, a chcesz opÃ³ÅºniÄ‡ pojawienie siÄ™ Rhialto,
+	zapaÅ‚zuj grÄ™ podczas opoczynku a po nim uÅ¼yj Quicksave i Quickload
 	bez zwalniania pauzy.
 
 
 **************************************************************************
 
-6.       OD T£UMACZA
+6.       OD TÅUMACZA
  
- T³umaczenie jak zapewne widaæ w grze jest zrobione na potrzeby w³asne, uzna³em jednak ¿e mo¿e warto siê nim podzieliæ
- ze œwiatem. Przet³umaczone jest niemal wszystko, znacz¹cym wyj¹tkiem mo¿e byæ nazwa klasy, której nie mog³em znaleŸæ odpowiednika w jêzyku polskim, zostawi³em wiêc jak jest. Nazwy czarów s¹ przet³umaczone przeze mnie, mam nadzieje ¿e twórcy D&D nie przewracaj¹ siê w grobie, nie dysponuje jednak ¿adnym podrêcznikiem. 
- ¯yczê mi³ej gry ka¿demu kto jeszcze gra w Baldur's Gate II ;)
+ TÅ‚umaczenie jak zapewne widaÄ‡ w grze jest zrobione na potrzeby wÅ‚asne, uznaÅ‚em jednak Å¼e moÅ¼e warto siÄ™ nim podzieliÄ‡
+ ze Å›wiatem. PrzetÅ‚umaczone jest niemal wszystko, znaczÄ…cym wyjÄ…tkiem moÅ¼e byÄ‡ nazwa klasy, ktÃ³rej nie mogÅ‚em znaleÅºÄ‡ odpowiednika w jÄ™zyku polskim, zostawiÅ‚em wiÄ™c jak jest. Nazwy czarÃ³w sÄ… przetÅ‚umaczone przeze mnie, mam nadzieje Å¼e twÃ³rcy D&D nie przewracajÄ… siÄ™ w grobie, nie dysponuje jednak Å¼adnym podrÄ™cznikiem. 
+ Å»yczÄ™ miÅ‚ej gry kaÅ¼demu kto jeszcze gra w Baldur's Gate II ;)
 
 
 **************************************************************************
