@@ -1,6 +1,7 @@
 ## Not bugs / known issues
+
 - "Summon Cow" occasionally damages every creature in the whole area. This seems to be hard-coded and intended by Bioware. It also happens with the wild surge and the original 2nd level "Easter Egg"-spell.
-- Spellshaper *does not* get extra attacks from weapon specialization. If you're unhappy with that, post [here](https://github.com/BGforgeNet/bg2-wildmage/issues/2)
+- Spellshaper _does not_ get extra attacks from weapon specialization. If you're unhappy with that, post [here](https://github.com/BGforgeNet/bg2-wildmage/issues/2)
 - "Weave Spell" acts a bit strange with wizard spells from other mods: as long as you still have original Bioware-spells or spells from this mod memorized, using "Weave Spell" will drain the modded spells from memory just like the others, but when there are only modded spells memorized, you can't use the "Weave Spell" ability.
 - Items that raise the number of Spell-Slots, when worn by a Spellshaper, might cause him to forget all spells of tbe modified level upon resting. This seems to be an engine-glitch, and I have no idea how to fix it. The solution is simply NOT to wear such items (they definitely don't work for a Spellshaper)
 - When a Spellshaper is level-drained, he may get bonus-spell-slots, when the game resets his number of spells. Once he is restored to the old level, the number of spells is also restored. The only way to "fix" this seems to grant the Spellshaper permanent immunity to level-drain...

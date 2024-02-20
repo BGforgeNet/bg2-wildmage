@@ -6,10 +6,10 @@
 [![Discord](https://img.shields.io/discord/420268540700917760?logo=discord&label=discord&color=blue&logoColor=FEE75C)](https://discord.gg/4Yqfggm)
 [![IRC](https://img.shields.io/badge/%23IRC-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange)](https://bgforge.net/irc)
 
-[__Download__](https://github.com/BGforgeNet/bg2-wildmage/releases/latest)
-| [__Discuss__](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
-| [__Translate__](https://hive.bgforge.net/projects/infinity-engine/wild-mage-additions/)
-| [__Report issues__](#report-issues)
+[**Download**](https://github.com/BGforgeNet/bg2-wildmage/releases/latest)
+| [**Discuss**](https://forums.bgforge.net/viewtopic.php?f=4&t=17)
+| [**Translate**](https://hive.bgforge.net/projects/infinity-engine/wild-mage-additions/)
+| [**Report issues**](#report-issues)
 
 This mod expands on Wild Magic and Wild Mages. Fixed version, based on [original by JOG](http://mods.jo-ge.net/bg/shaper.htm).
 It's designed for BG series. It might work on other IE games, but that's untested.
@@ -24,6 +24,7 @@ It's designed for BG series. It might work on other IE games, but that's unteste
 - [License](docs/license.md)
 
 ### New wild magic spells
+
 - [Ironman](#ironman)
 - [Haughty pansy](#Haughty-pansy)
 
@@ -32,15 +33,19 @@ This component features 27 new wild magic spells and an unique cast-once spell. 
 You will meet a wild mage and gain access to his spellbook, from which you will be able to learn one spell per level of experience. If there are no wild mages in your party then the mod ends at this point. You can sell the spellbook - only wild mages can use it.
 
 #### Ironman
+
 On Ironman, to meet the mage, rest outdoors. You can also rest in an inn and leave the inn right thereafter.
 
 #### Haughty pansy
+
 On Haughty pansy (available in BG1 only), the mage will be waiting outside Candlekeep's walls.
 
 ### Retain Rhialto's inventory
+
 Certain items are available to the player only if Rhialto is killed fast enough. This component removes that restriction and lets you have all the loot (which might be cheaty/overpowered, depending on your taste).
 
 ### Spellshaper kit
+
 - [Original avatar](#original-avatar)
 - [Changed avatar](#changed-avatar)
 
@@ -56,22 +61,28 @@ There are two ways to become a Spellshaper:
 The Spellshaper is meant to be a kind of "rogueish" mage (or a "magey" rogue) as opposed to the standard "robe & pointy hat" fantasy wizard. The mage-avatar isn't fitting for this character (at least not for the Spellshaper I'm playing). So, you have an option to change it:
 
 #### Original avatar
+
 The Spellshaper will look like a regular mage.
 
 #### Changed avatar
+
 - Female Spellshapers use the Thief avatar
 - Male Spellshapers use the Cleric avatar
 
 ### Misc spell changes
+
 This component is independent of the other components, and modifies some of the original spells:
 
 #### Magic Missiles
+
 The missiles now always do 1d4+1 points of damage, as they're supposed to. Originally it was 2d2 at level 3-8 and 2d2+1 at levels 1,2 and 9+.
 
 #### Dimension Door
+
 Like dozens of other wizards in the game, you now can target any nearby place you've already visited. There no longer needs to be a clear path within the caster's viewing distance that leads to the destination-area. You can select any place within the area where you've been already. (This component doesn't include scrolls to learn the spell, if you don't play a spellshaper you need another mod, or use Shadowkeeper to learn the spell or get the scroll).
 
 ### Report issues
+
 - Check [not bugs/known issues](docs/known_issues.md).
 - Check [reported issues](https://github.com/BGforgeNet/bg2-wildmage/issues?utf8=%E2%9C%93&q=is%3Aissue).
 - If it's not present there, file a new one.
