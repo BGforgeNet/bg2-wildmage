@@ -28,6 +28,7 @@ LANGUAGE ~Polski (Maciek F)~          ~polish~      ~%MOD_FOLDER%/tra_ee/polish/
 LANGUAGE ~Brazilian Portuguese~       ~portuguese~  ~%MOD_FOLDER%/tra_ee/portuguese/setup-%WEIDU_OS%.tra~
 LANGUAGE ~Russian (aerie.ru)~         ~russian~     ~%MOD_FOLDER%/tra_ee/russian/setup-%WEIDU_OS%.tra~
 LANGUAGE ~Swedish~                    ~swedish~     ~%MOD_FOLDER%/tra_ee/swedish/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Simplified Chinese~                    ~schinese~     ~%MOD_FOLDER%/tra_ee/schinese/setup-%WEIDU_OS%.tra~
 
 BEGIN @60  // Ironman
 SUBCOMPONENT @1  // New Wild Magic Spells
