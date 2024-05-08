@@ -19,6 +19,8 @@ msgid ""
 "with blood, bile and some other stuff you can't (and don't even want to) "
 "recognize. Amazingly, some of the spell entries are still legible."
 msgstr ""
+" "
+"你第一次翻开了瑞奥托的魔法书。书里的记载潦草凌乱，字迹模糊难以辨认，有些地方还有幼稚的插画。几乎所有的地方都涂满了血迹，有些魔法你根本无法（你甚至不想去）辨认。令人惊讶的是，有一些魔法还是可以辨认的。"
 
 #: dialog.tra:1
 msgid ""
@@ -27,243 +29,244 @@ msgid ""
 "sage with long beard and pointy hat, that seems to glare longingly at "
 "something that looks like a petrified goat."
 msgstr ""
+"你再一次冒险翻开了瑞奥托的魔法书。你小心翼翼的拆开沾在一起的两页纸，发现了一副肮脏的老人的画像，老人有着长长的胡子，带着一顶尖帽子，怒目盯着什么东西，看起来好像是一只被石化的山羊。"
 
 #: dialog.tra:02
 msgid ""
 "You open the spellbook at a random page and notice some scribble you haven't"
 " seen before: \"<CHARNAME>, keep your dirty hands off my spellbook!\""
-msgstr ""
+msgstr "你随手翻开魔法书，突然看到你以前没有注意到的记录：\"<CHARNAME>, 把你脏手的拿开，离我的魔法书远点!\""
 
 #: dialog.tra:03
 msgid ""
 "When you open Rhialto's spellbook, one of the pages comes loose and falls "
 "out."
-msgstr ""
+msgstr "当你打开瑞奥托的魔法书，其中一页掉了出来。"
 
 #: dialog.tra:04
 msgid ""
 "Rhialto's spellbook is still a mess, and his mind must have been quite the "
 "same; you wonder if the same madness could affect you, when you continue to "
 "read his writings."
-msgstr ""
+msgstr "瑞奥托的魔法书一片凌乱，他的脑子也一定乱的和浆糊一样，当你继续阅读这本魔法书的时候，甚至怀疑他的疯狂会影响到你。"
 
 #: dialog.tra:05
 msgid ""
 "Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile "
 "you're getting used to it."
-msgstr ""
+msgstr "你再一次打开了瑞奥托的魔法书，它仍然很凌乱，但同时你也习惯了。"
 
 #: dialog.tra:06
 msgid "You continue to study Rhialto's spellbook."
-msgstr ""
+msgstr "你继续学习瑞奥托的魔法书。"
 
 #: dialog.tra:07
 msgid "Rhialto may have been insane, but his knowledge was great indeed."
-msgstr ""
+msgstr "瑞奥托很可能是疯了，但他的学识绝对是伟大的。"
 
 #: dialog.tra:08
 msgid ""
 "Although you're sure that you've learned every spell from this this "
 "spellbook, you still feel the strong urge to risk another look."
-msgstr ""
+msgstr "尽管你已经确信从这本魔法书中学习了所有的魔法，但是你仍然有强烈的冲动再次翻开看看。"
 
 #: dialog.tra:09
 msgid "When you open Rhialto's spellbook again, it crumbles to dust."
-msgstr ""
+msgstr "当你再次翻开瑞奥托的魔法书，它突然间化为灰烬。"
 
 #: dialog.tra:10
 msgid ""
 "Study the spellbook for a while, and see if you can learn something new."
-msgstr ""
+msgstr "你翻开魔法书学习，看看能不能掌握点新的东西。"
 
 #: dialog.tra:11
 msgid "Close the book."
-msgstr ""
+msgstr "合上魔法书。"
 
 #: dialog.tra:12
 msgid ""
 "When you examine this strange spell closer, it proves to be utterly useless."
 " No point in learning it."
-msgstr ""
+msgstr "当你仔细研究这个奇怪的魔法后发现，它好像是完全无用的，根本不需要学习。"
 
 #: dialog.tra:13
 msgid "You spend some time, browsing trough the book..."
-msgstr ""
+msgstr "你花了一些时间浏览魔法书..."
 
 #: dialog.tra:14
 msgid "You found something of interest."
-msgstr ""
+msgstr "你发现了一些很有意思的东西。"
 
 #: dialog.tra:15
 msgid "You find nothing new."
-msgstr ""
+msgstr "你没有发现任何新东西。"
 
 #: dialog.tra:16
 msgid ""
 "You try to learn the spell, but it's too difficult, you need more experience"
 " in the art before you can learn it."
-msgstr ""
+msgstr "你试着学习这条魔法，但是它太难了，再学习它之前你需要更高的经验等级。"
 
 #: dialog.tra:17
 msgid "You succeed in learning the spell."
-msgstr ""
+msgstr "你成功的学习了魔法。"
 
 #: dialog.tra:18
 msgid ""
 "As much as you try to concentrate, you read a line and forget it in the same"
 " moment; as if someone powerful wipes it from your memory. Obviously someone"
 " doesn't want you to know this spell."
-msgstr ""
+msgstr "尽管你集中了所有的精力去研读这条魔法，可同时你就遗忘了它，就好像被人从你的记忆中擦掉了，很显然，有人不希望你掌握这个法术。"
 
 #: dialog.tra:19
 msgid "You close the book."
-msgstr ""
+msgstr "你合上了法术书。"
 
 #: dialog.tra:20
 msgid "Try to learn the spell \"Random Spell I\"."
-msgstr ""
+msgstr "试着学习魔法\"混乱法术 I 级\"。"
 
 #: dialog.tra:21
 msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
-msgstr ""
+msgstr "试着学习魔法\"瑞奥托混乱魔法喷泉\"。"
 
 #: dialog.tra:22
 msgid "Try to learn the spell \"Rodent Form\"."
-msgstr ""
+msgstr "试着学习魔法\"啮齿动物形态\"。"
 
 #: dialog.tra:23
 msgid "Try to learn the spell \"Blade Shower\"."
-msgstr ""
+msgstr "试着学习魔法\"刀刃雨\"。"
 
 #: dialog.tra:24
 msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
-msgstr ""
+msgstr "试着学习魔法\"瑞奥托随机魔法飞弹\"。"
 
 #: dialog.tra:25
 msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
-msgstr ""
+msgstr "试着学习魔法\"吉姆莱纳斯光线扭曲\"。"
 
 #: dialog.tra:26
 msgid "Try to learn the spell \"Vile Word of Discord\"."
-msgstr ""
+msgstr "试着学习魔法\"不和谐恶言\"。"
 
 #: dialog.tra:27
 msgid "Try to learn the spell \"Cellular Regeneration\"."
-msgstr ""
+msgstr "试着学习魔法\"细胞再生\"。"
 
 #: dialog.tra:28
 msgid "Try to learn the spell \"Glyph of Wild Magic\"."
-msgstr ""
+msgstr "试着学习魔法\"狂乱魔法印记\"。"
 
 #: dialog.tra:29
 msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
-msgstr ""
+msgstr "试着学习魔法\"派坦之幸运\"。"
 
 #: dialog.tra:30
 msgid "Try to learn the spell \"Vortex\"."
-msgstr ""
+msgstr "试着学习魔法\"旋风术\"。"
 
 #: dialog.tra:31
 msgid "Try to learn the spell \"Paithan's Fiasco\"."
-msgstr ""
+msgstr "T试着学习魔法\"派坦之厄运\"。 "
 
 #: dialog.tra:32
 msgid "Try to learn the spell \"Wildstrike\"."
-msgstr ""
+msgstr "试着学习魔法\"狂乱重击\"。"
 
 #: dialog.tra:33
 msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
-msgstr ""
+msgstr "试着学习魔法\"昊昂随机遣送\"。"
 
 #: dialog.tra:34
 msgid "Try to learn the spell \"Summon Cow\"."
-msgstr ""
+msgstr "试着学习魔法\"召唤母牛\"。 "
 
 #: dialog.tra:35
 msgid "Try to learn the spell \"Eye of the Beholder\"."
-msgstr ""
+msgstr "试着学习魔法\"眼魔之目\"。"
 
 #: dialog.tra:36
 msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
-msgstr ""
+msgstr "试着学习魔法\"米诺克狂乱恢复\"。"
 
 #: dialog.tra:37
 msgid "Try to learn the spell \"Entropy Shield\"."
-msgstr ""
+msgstr "试着学习魔法\"熵护盾\"。"
 
 #: dialog.tra:38
 msgid "Try to learn the spell \"Wild Sphere\"."
-msgstr ""
+msgstr "试着学习魔法\"狂乱法球\"。"
 
 #: dialog.tra:39
 msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
-msgstr ""
+msgstr "试着学习魔法\"瑞奥托非凡化身\"。"
 
 #: dialog.tra:40
 msgid "Try to learn the spell \"Rhialto's Avatar\"."
-msgstr ""
+msgstr "试着学习魔法\"瑞奥托下凡\"。 "
 
 #: dialog.tra:41
 msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
-msgstr ""
+msgstr "试着学习魔法\"米诺克不可抗拒吸引力\"。"
 
 #: dialog.tra:42
 msgid "Try to learn the spell \"Summon Wild Horde\"."
-msgstr ""
+msgstr "试着学习魔法\"召唤野蛮部落\"。 "
 
 #: dialog.tra:43
 msgid "Try to learn the spell \"Random Spell II\"."
-msgstr ""
+msgstr "试着学习魔法\"混乱法术 II 级\"。"
 
 #: dialog.tra:44
 msgid "Try to learn the spell \"Corporeal Instability\"."
-msgstr ""
+msgstr "试着学习魔法\"不稳定物质\"。 "
 
 #: dialog.tra:45
 msgid "Try to learn the spell \"Random Spell III\"."
-msgstr ""
+msgstr "试着学习魔法\"混乱法术 III 级\"。"
 
 #: dialog.tra:46
 msgid "Try to learn the spell \"Meece's Wild Armour\"."
-msgstr ""
+msgstr "试着学习魔法\"米西野蛮盔甲\"。"
 
 #: dialog.tra:47
 msgid "Try to learn the spell \"Random Spell IV\"."
-msgstr ""
+msgstr "试着学习魔法\"混乱法术 IV 级\"。"
 
 #: dialog.tra:48
 msgid "Try to learn the spell \"Entropy Burst\"."
-msgstr ""
+msgstr "试着学习魔法\"熵喷发\"。."
 
 #: dialog.tra:49
 msgid "Try to learn the spell \"Wildfire\"."
-msgstr ""
+msgstr "试着学习魔法\"狂乱火焰\"。"
 
 #: dialog.tra:100
 msgid ""
 "Well, well, well... What do we have here?  Greetings, young one, No doubt "
 "you're honored to meet Rhialto the Marvelous."
-msgstr ""
+msgstr "等等...看看我碰到了谁！你好，年轻人，不用怀疑，你很荣幸的遇到了非凡的瑞奥托！"
 
 #: dialog.tra:101
 msgid ""
 "Ah yes, you are perfect. Be honored, young one, for your existence now has a"
 " purpose: Rhialto the Marvelous needs your spleen."
-msgstr ""
+msgstr "啊，是的，你非常完美。年轻人，你应该感到荣幸，你的存在有了意义：瑞奥托需要你的脾。"
 
 #: dialog.tra:102
 msgid ""
 "It will be the final component for the greatest spell that was worked since,"
 " well, since ever!!!  Of course, it needs to be extracted while you're still"
 " alive, otherwise it would be worthless as an ingredient."
-msgstr ""
+msgstr "你的脾是非凡的瑞奥托所研究的最伟大魔法的最后一个成分，有史以来最伟大的。它必须在你活着的时候被摘取下来，否则就失去作用了。"
 
 #: dialog.tra:103
 msgid ""
 "But it won't be too painful... Well, at least it won't take too long.  "
 "Rhialto the Marvelous is a very experienced surgeon, it will only take an "
 "hour or two..."
-msgstr ""
+msgstr "但是这不会很痛苦的...,至少不会花费很长时间。非凡的瑞奥托是非常有经验的，只需要一到两小时..."
 
 #: dialog.tra:110
 msgid ""
@@ -272,227 +275,228 @@ msgid ""
 "caused his downfall by your insolent resistance, brought Rhialto back to "
 "life."
 msgstr ""
+"我们又见面了...,自从非凡的瑞奥托上次碰到了点小意外，你看起来更有自信了。你傲慢无礼的抵抗使非凡的瑞奥托丧生，现在使瑞奥托复生是非常合适的时机。 "
 
 #: dialog.tra:111
 msgid ""
 "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous "
 "really doesn't like it when someone touches his stuff!!!"
-msgstr ""
+msgstr "但是要想让瑞奥托复生，你必须朗读他的魔法书。从瑞奥托的尸体上找到魔法书，虽然非凡的瑞奥托并不喜欢被别人碰!!!"
 
 #: dialog.tra:200
 msgid "Select a Special Ability\n"
-msgstr ""
+msgstr "选择一个特殊能力\n"
 
 #: dialog.tra:201
 msgid "Ambidexterity (1st Rank)"
-msgstr ""
+msgstr "灵巧异常 (1 级)"
 
 #: dialog.tra:202
 msgid "Ambidexterity (2nd Rank)"
-msgstr ""
+msgstr "灵巧异常 (2 级)"
 
 #: dialog.tra:203
 msgid "Backstabbing (x2)"
-msgstr ""
+msgstr "背刺 初学者 (x2)"
 
 #: dialog.tra:204
 msgid "Backstabbing Adept (x3)"
-msgstr ""
+msgstr "背刺 熟练者 (x3)"
 
 #: dialog.tra:205
 msgid "Backstabbing Expert (x4)"
-msgstr ""
+msgstr "背刺 专家   (x4)"
 
 #: dialog.tra:206
 msgid "Backstabbing Master (x5)"
-msgstr ""
+msgstr "背刺 宗师   (x5)"
 
 #: dialog.tra:207
 msgid "Combat Speed"
-msgstr ""
+msgstr "格斗速度"
 
 #: dialog.tra:208
 msgid "Dagger Specialization"
-msgstr ""
+msgstr "匕首专精"
 
 #: dialog.tra:209
 msgid "Dagger Mastery"
-msgstr ""
+msgstr "匕首专家"
 
 #: dialog.tra:210
 msgid "Improved Criticals"
-msgstr ""
+msgstr "改善致命一击"
 
 #: dialog.tra:211
 msgid "Toughness"
-msgstr ""
+msgstr "健壮"
 
 #: dialog.tra:212
 msgid "Vicious hits"
-msgstr ""
+msgstr "恶意打击"
 
 #: dialog.tra:213
 msgid "Rogue High Level Ability: \"Assassination\""
-msgstr ""
+msgstr "盗贼高级技能: \"刺杀\""
 
 #: dialog.tra:214
 msgid "Rogue High Level Ability: \"Avoid Death\""
-msgstr ""
+msgstr "盗贼高级技能: \"九死一生\""
 
 #: dialog.tra:215
 msgid "Rogue High Level Ability: \"Evasion\""
-msgstr ""
+msgstr "盗贼高级技能: \"闪躲\""
 
 #: dialog.tra:216 text.tra:30101
 msgid "Weave Spell"
-msgstr ""
+msgstr "编织魔法"
 
 #: dialog.tra:217 text.tra:30201
 msgid "Weaveshear"
-msgstr ""
+msgstr "魔法冲击"
 
 #: dialog.tra:220
 msgid ""
 "You don't know exactly what just happened, but in the heat of battle you "
 "somehow managed to cast a spell spontaneously."
-msgstr ""
+msgstr "你并不确切的知道刚刚发生了什么，但是在战斗中你本能的施展了一个魔法。"
 
 #: dialog.tra:221
 msgid ""
 "Now you feel a strange wave of magical power rising within you. Whatever is "
 "happening, somehow you feel that if you yield to it, you will be changed "
 "forever."
-msgstr ""
+msgstr "现在你感觉到体内有一股魔法波动正在增强。不知何故，你感觉到如果向它屈服，就会被它永久改变。"
 
 #: dialog.tra:222
 msgid "Embrace this new power."
-msgstr ""
+msgstr "拥抱这新的力量吧。"
 
 #: dialog.tra:223
 msgid "Try to suppress it."
-msgstr ""
+msgstr "试着压制这股力量。"
 
 #: dialog.tra:224
 msgid "Whatever that was, you were strong enough to suppress it."
-msgstr ""
+msgstr "不管这股魔法波动是什么，你成功的压制了它。"
 
 #: dialog.tra:225
 msgid "A surge of chaotic energy overwhelms you."
-msgstr ""
+msgstr "一股汹涌而来的混乱能量压倒了你。"
 
 #: dialog.tra:230
 msgid ""
 "When you give in to the surge of magical power, you feel that your "
 "understanding of the magical Weave changes."
-msgstr ""
+msgstr "当你向这股魔法能量屈服后，你感觉到了自己向魔法编织者的的蜕变。"
 
 #: dialog.tra:231
 msgid ""
 "Once you tried to study the chaos around you, bending it to your will, "
 "drawing your strength from the erratic ebb and flow of wild magic."
-msgstr ""
+msgstr "你试着学习这包围你的混乱能量，使它向你的意志屈服，从这盛衰无定的狂乱魔法能量中汲取力量。"
 
 #: dialog.tra:232
 msgid ""
 "Now you feel a close relation to the Weave. You now are able to tangle the "
 "Weave, reshape it, \"weave\" it into anything you can imagine."
-msgstr ""
+msgstr "现在你意识到了自己与魔法能量的紧密联系，你可以按照自己的意志\"编织\"这魔法能量。"
 
 #: setup.tra:1
 msgid "New Wild Magic Spells"
-msgstr ""
+msgstr "新的狂魔法法术"
 
 #: setup.tra:2
 msgid "Spellshaper Kit"
-msgstr ""
+msgstr "塑形师宗派"
 
 #: setup.tra:4
 msgid "Misc spell modifications"
-msgstr ""
+msgstr "杂项法术修改"
 
 #: setup.tra:20
 msgid "You must have \"New Wild Magic Spells\" installed!"
-msgstr ""
+msgstr "你必须安装“新的狂魔法法术”！"
 
 #: setup.tra:60
 msgid "Ironman"
-msgstr ""
+msgstr "铁人"
 
 #: setup.tra:61
 msgid "Haugthy pansy"
-msgstr ""
+msgstr "傲慢的草包"
 
 #: setup.tra:62
 msgid "Only ToB and EE engines are supported"
-msgstr ""
+msgstr "仅支持ToB和EE引擎"
 
 #: setup.tra:63
 msgid "Original avatar"
-msgstr ""
+msgstr "原版化身"
 
 #: setup.tra:64
 msgid "Changed avatar"
-msgstr ""
+msgstr "修改的化身"
 
 #: setup.tra:65
 msgid "Requires BG1 content"
-msgstr ""
+msgstr "需要BG1内容"
 
 #: setup.tra:66
 msgid "Retain Rhialto's items"
-msgstr ""
+msgstr "保留瑞奥托的物品"
 
 #: text.tra:10101
 msgid "Wild Magic"
-msgstr ""
+msgstr "狂乱魔法"
 
 #: text.tra:10201
 msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
-msgstr ""
+msgstr "狂乱魔法使你实现了梦想。(不管这是不是值得...)"
 
 #: text.tra:10301
 msgid "THAC0 Reduced by 1"
-msgstr ""
+msgstr "零级命中值 -1"
 
 #: text.tra:10302
 msgid "Backstab Multiplier Increased by 1"
-msgstr ""
+msgstr "背刺伤害倍数 +1"
 
 #: text.tra:10303
 msgid "Dagger Proficiency raised to 2 (Specialized)"
-msgstr ""
+msgstr "匕首熟练度升级为2星(专精)"
 
 #: text.tra:10304
 msgid "Dagger Proficiency raised to 3 (Master)"
-msgstr ""
+msgstr "匕首熟练度升级为3星(专家)"
 
 #: text.tra:10305
 msgid "Gained Ambidexterity (1st Rank)"
-msgstr ""
+msgstr "获得灵巧异常技能(1 级)"
 
 #: text.tra:10306
 msgid "Raised Ambidexterity to 2nd Rank"
-msgstr ""
+msgstr "获得灵巧异常技能(2 级)"
 
 #: text.tra:10307
 msgid "Gained +1 Melee Damage Bonus"
-msgstr ""
+msgstr "近战伤害 +1 "
 
 #: text.tra:10308
 msgid "Gained 20% Hitpoint Bonus"
-msgstr ""
+msgstr "获得20％生命值"
 
 #: text.tra:10309
 msgid "Attacks per round raised by 1"
-msgstr ""
+msgstr "每回合攻击次数 +1"
 
 #: text.tra:10310
 msgid "Critical Hit Range increased by 1"
-msgstr ""
+msgstr "致命一击掷骰 +1有利"
 
 #: text.tra:20101
 msgid "Rhialto's Chaos Conduit"
-msgstr ""
+msgstr "瑞奥托混乱魔法喷泉"
 
 #: text.tra:20102
 msgid ""
@@ -516,10 +520,29 @@ msgid ""
 "\n"
 "No matter if you actually think about casting this spell or not, one thing you know for sure: if you dare to cast the spell, it will change you forever."
 msgstr ""
+"瑞奥托混乱魔法喷泉* (改变系)\n"
+"等级: 1\n"
+"有效距离: 0\n"
+"持续时间: 立即\n"
+"施法时间: 2 轮\n"
+"影响范围: 施法者\n"
+"豁免率检定: 无\n"
+"\n"
+"你在瑞奥托的魔法书内发现了这个法术。瑞奥托花费了十年的时间研究狂乱魔法，最后创造了它，能够让他用新的方式进行施法。\n"
+"\n"
+"瑞奥托混乱魔法喷泉能够在施法者与地狱边境的卫面之间建立一个链接，使原始的狂乱能量传输到施法者体内。这个过程的目的是开启施法者的心智来获得一种不同的施法方式。\n"
+"\n"
+"尽管这个魔法的符咒简单到只是一个一级魔法，但是它的内部结构有着难以置信的复杂程度，可以媲美9级、10级甚至更高等级的法术，魔法本身的混乱本质可能是造成这个奇怪的反差的原因。\n"
+"\n"
+"这个法术只能被施展一次，但它的效果是不可取消的。施法者的个性和施法能力都会永久的向着靠直觉施法的方向改变。\n"
+"\n"
+"这个改变不是来自于法术本身，瑞奥托混乱魔法喷泉只是释放并且增大已经存在于施法者体内的魔法兴趣和魔法趋势。对这个法术所提供的天赋不感兴趣的施法者则会对法术效果完全免疫，当然这样的施法者甚至不会去施展这个法术。\n"
+"\n"
+"不管你是否决定施展这个法术，有件事情你要了解并且牢记：如果你施展了这个法术，它会永久的改变你。"
 
 #: text.tra:20103
 msgid "Spellshaper"
-msgstr ""
+msgstr "魔法塑造者"
 
 #: text.tra:20111
 msgid ""
@@ -529,6 +552,7 @@ msgid ""
 "magic. Now you feel a relation to the Weave. You feel that you are able to "
 "tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
 msgstr ""
+"施展了这个奇怪的法术之后，你感觉到了自己向魔法塑造者的的蜕变。你试着学习这包围你的混乱能量，使它向你的意志屈服，从这盛衰无定的狂乱魔法能量中汲取力量。现在你意识到了自己与魔法能量的紧密联系，你可以按照自己的意志\"编织\"和重塑这魔法能量。"
 
 #: text.tra:20112
 msgid ""
@@ -540,10 +564,11 @@ msgid ""
 "supposed to be like that. You don't feel as if you were changed, though, "
 "it's more like finally waking up from a long, long dream."
 msgstr ""
+"同时你也感觉到这个魔法不仅仅改变了你的施法能力，不知何故它好像释放了你灵魂深处隐藏最深的一部分东西，不仅有一点的个性、宽容、好奇，还有一点约束、勤奋和对权威者的猜疑。你感觉很好，好像本来就应该是这个样子，你没有感觉到什么改变，更像是终于从一个长长的梦境中醒来。"
 
 #: text.tra:20201
 msgid "Rodent Form"
-msgstr ""
+msgstr "啮齿动物形态"
 
 #: text.tra:20202
 msgid ""
@@ -559,18 +584,29 @@ msgid ""
 "\n"
 "Hopefully, the current revision of this spell does NOT change the caster's personality or mentality."
 msgstr ""
+"啮齿动物形态* (改变系)\n"
+"等级: 1\n"
+"有效距离: 0\n"
+"持续时间: 1 回合\n"
+"施法时间: 1\n"
+"影响范围: 施法者\n"
+"豁免检定: 无\n"
+"\n"
+"这个法术能够使施法者变成一个可爱的小松鼠。由于啮齿动物微小的身躯，施法者对普通武器的防御等级+2改善，对远程武器的防御等级+4改善。不同于其他变形法术，施法者在变形后仍然保持着施法能力。\n"
+"\n"
+"幸运的是，这个法术并不改变施法者的个性和心智。"
 
 #: text.tra:20211
 msgid "One of my spells has changed!"
-msgstr ""
+msgstr "我的一个魔法被改变了!"
 
 #: text.tra:20212
 msgid "Learned new spell: Ratatosk Shape"
-msgstr ""
+msgstr "学习新魔法: 阿塔托斯克变形"
 
 #: text.tra:20301
 msgid "Ratatosk Shape"
-msgstr ""
+msgstr "阿塔托斯克变形"
 
 #: text.tra:20302
 msgid ""
@@ -590,10 +626,25 @@ msgid ""
 "\n"
 "Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active."
 msgstr ""
+"阿塔托斯克变形* (改变系)\n"
+"等级: 1\n"
+"有效距离: 0\n"
+"持续时间: 1 回合\n"
+"施法时间: 1\n"
+"影响范围: 施法者\n"
+"豁免检定: 无\n"
+"\n"
+"阿塔托斯克是一个外界位面的松鼠战士种族，它们来自于伊格挝休，灰烬世界，根须和枝叶遍布所有外界位面的神圣之树。\n"
+"\n"
+"施展这个法术时候，法师能够变形成为阿塔托斯克族的一个小战士。由于阿塔托斯克战士微小的身躯，施法者对普通武器的防御等级+3改善，对远程武器的防御等级+5改善，施法者的敏捷也会在法术有效时间内得到4点提升。由敏捷带来的防御等级加值和体型带来的防御等级加值可以叠加。\n"
+"\n"
+"在法术持续期间内，施法者也能得到阿塔托斯克族的战斗技能：每轮攻击次数+1，爪子被认定为+5的武器，其伤害力为1d4+1，伤害类型为挥砍。\n"
+"\n"
+"不同于其他变形法术，施法者在变形后仍然保持着施法能力。"
 
 #: text.tra:20401
 msgid "Random Spell I"
-msgstr ""
+msgstr "混乱法术 I 级"
 
 #: text.tra:20402
 msgid ""
@@ -613,10 +664,23 @@ msgid ""
 "\n"
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
+"混乱法术 I 级* (塑能系)\n"
+"等级: 1\n"
+"有效距离: 40 码\n"
+"持续时间: 立即\n"
+"施法时间: 1\n"
+"影响范围: 特殊\n"
+"豁免检定: 特殊\n"
+"\n"
+"这个危险的魔法能够利用魔法的混乱能量形成一个比狂乱法师用其它方式施展的强大得多的法术。当混乱法术 I 级被施展时，会随机产生一个2级或3级法术的效果。\n"
+"\n"
+"施法者在40码的范围内选择一个生物作为法术目标，法术就会以这个生物作为法术中心，除非产生的是只影响施法者的效果。\n"
+"\n"
+"混乱法术的优点是它的施法时间永远是1，而它40码的有效距离会取代原本法术的有效距离，事实上产生的法术效果可能根本不是抄写在狂乱法师魔法书中的。相反，施法者根本不清楚哪一个法术效果会被复制出来，甚至不清楚法术的效果是有害的还是有益的。"
 
 #: text.tra:20501
 msgid "Blade Shower"
-msgstr ""
+msgstr "刀刃雨"
 
 #: text.tra:20502
 msgid ""
@@ -636,14 +700,29 @@ msgid ""
 "\n"
 "Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic."
 msgstr ""
+"刀刃雨* (咒法系)\n"
+"等级: 2\n"
+"有效距离: 40 码\n"
+"持续时间: 3 轮/5 级\n"
+"施法时间: 1\n"
+"影响范围: 1-25 生物\n"
+"豁免检定: 特殊\n"
+"\n"
+"这个法术能够在空气中创造出一组魔法匕首，直到它们找到目标。施法者等级为1－5级时可以创造一组魔法匕首，然后每5个施法者等级可以多创造5把魔法匕首，最多在25级时可以创造25把魔法匕首。每组匕首可以立即射向施法者选择的目标。魔法匕首本身由不稳定的混乱物质组成，当法术结束后就会溶解消失；每创造出一组魔法匕首，法术就会多持续3轮。\n"
+"\n"
+"每一把魔法匕首可以造成 1d4 点穿刺伤害。在等级5时，魔法匕首被认定为+1的武器，并且有命中和伤害修正。这个修正每5个施法者等级会提高1点：10级 +2，15级 +3，最高到25级 +5。\n"
+"\n"
+"由于魔法匕首是由混乱物质组成，它会穿过所有物理和魔法防御，从而总是击中目标。尽管如此，施法者必须对每一把魔法匕首作攻击掷骰来决定是否出现致命失误和致命一击。\n"
+"\n"
+"当出现致命失误，目标不受任何伤害，当出现致命一击，魔法匕首的伤害加倍，而且目标必须通过对法术的豁免率检定，否则就会遭受5轮惩罚，惩罚效果是下面5种中的一种：沉默、混乱、恐惧、睡眠、狂乱魔法。"
 
 #: text.tra:20511
 msgid "\"Blade Shower\" has been added to your Special Abilities menu"
-msgstr ""
+msgstr "\"刀刃雨\" 已经增加到你的特殊能力菜单中"
 
 #: text.tra:20601
 msgid "Rhialto's Random Missiles"
-msgstr ""
+msgstr "瑞奥托随机魔法飞弹"
 
 #: text.tra:20602
 msgid ""
@@ -661,10 +740,23 @@ msgid ""
 "\n"
 "Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or magical damage. The chaotic nature of the missiles gives them a 25% chance to bypass any natural or magical resistances the target might have."
 msgstr ""
+"瑞奥托随机魔法飞弹* (塑能系)\n"
+"等级: 2\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 立即\n"
+"施法时间: 1\n"
+"影响范围: 1 生物\n"
+"豁免检定: 无\n"
+"\n"
+"这个法术是一级法术魔法飞弹的改良和随机版，它会创造出随机数目的魔法飞弹从法师的指尖射出，并且准确的打击目标。\n"
+"\n"
+"具体的魔法飞弹数目取决于施法者的经验等级：1级开始会有 1d4 个魔法飞弹，4级开始 1d6 个，8级开始 1d8 个，12级开始 1d10 个。\n"
+"\n"
+"每个飞弹会造成 1d4+1 点伤害，伤害类型可能是酸液、寒冷、火焰、电击或者魔法，这个魔法的混乱本质使得它有25％的几率穿透目标天生的或者后天的魔法防御。"
 
 #: text.tra:20701
 msgid "Glyph of Wild Magic"
-msgstr ""
+msgstr "狂乱魔法印记"
 
 #: text.tra:20702
 msgid ""
@@ -682,14 +774,27 @@ msgid ""
 "\n"
 "Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage."
 msgstr ""
+"狂乱魔法印记* (塑能系)\n"
+"等级: 4\n"
+"有效距离: 40 码\n"
+"持续时间: 1 轮/10 级\n"
+"施法时间: 3\n"
+"影响范围: 30' 半径\n"
+"豁免检定: 特殊\n"
+"\n"
+"狂乱魔法印记会在地面或其它表面留下一个强大的魔法印记。它会一直停留在那里直到有人靠近，此时魔法印记就会爆炸并产生魔法织物，在30'半径内干扰每一个生物。每次魔法干扰都会产生多重狂乱波动，并且以随机数目的生物为目标（包括在附近的施法者）。\n"
+"\n"
+"施法者的每10个经验等级，魔法干扰会多持续1轮，虽然可能通过物质或魔法的方式来驱散这个法术影响。\n"
+"\n"
+"自然的, 这个法术效果完全是随机的。受害者有可能被狂乱波动增强，也可能被立刻杀死。影响区域中生物越多，更多的混乱效果就越会体现出来，魔法印记造成更多伤害的可能性也就越大。"
 
 #: text.tra:20711
 msgid "Weave Disturbance"
-msgstr ""
+msgstr "魔法干扰"
 
 #: text.tra:20801
 msgid "Gymlainac's Lightbend"
-msgstr ""
+msgstr "吉姆莱纳斯光线扭曲"
 
 #: text.tra:20802
 msgid ""
@@ -705,10 +810,21 @@ msgid ""
 "\n"
 "The spell bends light waves around the recipient, creating an effect similar to the second-level spell Blur and a Cloak of Displacement. The recipient's form is both blurred and sways (regardless of movement), making her much more difficult to hit. When the spell is cast, the recipient gains a bonus of 2d4 to armor class and 1d4 to saving throws. Since the effect of this spell is no illusion but an actual change of the space around the recipient, it can't be dispelled by True Seeing or similar spells."
 msgstr ""
+"吉姆莱纳斯光线扭曲* (改变系)\n"
+"等级: 3\n"
+"有效距离: 触碰\n"
+"持续时间: 5 轮 + 1 轮/级\n"
+"施法时间: 3\n"
+"影响范围: 1 生物\n"
+"豁免检定: 无\n"
+"\n"
+"吉姆莱纳斯光线扭曲被狂乱法师吉姆莱纳斯发展出来，目的是创造一个狂乱版本的隐身术。\n"
+"\n"
+"这个法术会使受术者周围的光线扭曲，创造出类似于2级模糊术和位移斗篷的效果。受术者的形态会变得模糊并且左右摆动（不管受术者是否移动），使他不容易被击中。当法术被施展后，受术者的防御等级会得到 2d4 的改善，豁免率检定也会得到 1d4 的改善。因为这个法术的效果不是幻术，而是实实在在的改变受术者周围的空间物质组成，所以真实视觉或是类似法术不能够驱散它的效果。"
 
 #: text.tra:20901
 msgid "Vile Word of Discord"
-msgstr ""
+msgstr "不和谐恶言"
 
 #: text.tra:20902
 msgid ""
@@ -730,10 +846,27 @@ msgid ""
 "\n"
 "Usually, this spell can't be backtraced to the caster: the only person, the victims might be angry at, is the spell's original target. Ongoing fights between the affected creatures might continue even after the spell ends."
 msgstr ""
+"不和谐恶言* (附魔系/魅惑系)\n"
+"等级: 3\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 2 轮\n"
+"施法时间: 3\n"
+"影响范围: 30' 半径\n"
+"豁免检定: 特殊\n"
+"\n"
+"这个法术结合了腹语术和混乱魔法，具有摧毁忠诚的潜质，本质就是不和谐。\n"
+"\n"
+"施法者选定一个生物，然后向它喊出这奇怪而险恶的语言，令人惊讶的，潜藏在这些语言中的魔法力量就会立即影响受术者周围那些毫无准备的旁观者。\n"
+"\n"
+"在受术者30' 半径内的每个生物必须以 -4 不利对法术豁免率进行检定，否则会出现下面某一种随机效果：相互攻击、惊恐逃离、原地呆呆站立、与施法者同盟或者是无法控制而跌倒，而且有 20% 的几率一些受害人会随机掉落物品。\n"
+"\n"
+"这个法术也会影响施法者的队友，只有施法者和第一个被法术选定的目标对此法术免疫。\n"
+"\n"
+"这个法术无法追溯到施法者本身：被受害人憎恨的通常是第一个被法术选定的目标。被法术影响的生物之间的战斗甚至在法术结束之后都有可能继续。"
 
 #: text.tra:21001
 msgid "Cellular Regeneration"
-msgstr ""
+msgstr "细胞再生"
 
 #: text.tra:21002
 msgid ""
@@ -760,10 +893,32 @@ msgid ""
 "\n"
 "The regeneration process is so stressing for the body, that the recipient stays unconscious for the duration of the spell, and looses one point of constitution for one hour thereafter."
 msgstr ""
+"细胞再生* (死灵系)\n"
+"等级: 4\n"
+"有效距离: 触碰\n"
+"持续时间: 6 轮\n"
+"施法时间: 4\n"
+"影响范围: 1 生物\n"
+"豁免检定: 无\n"
+"\n"
+"经过对魔法织物的改造，直到它形成一个类似于牧师医疗术的模版，狂乱法师终于完成了一个不可思议的法术：神秘的治疗伤害的法术。\n"
+"\n"
+"细胞再生能够提升身体组织的再生能力，能够使它们更快速的自愈。当受术者被触碰后，法术开始发挥作用，按照下面列表回复生命值：\n"
+"\n"
+"轮         治疗\n"
+"------------------\n"
+"1           1\n"
+"2           1d4\n"
+"3           1d4 + 级/5 (最多 1d4+5)\n"
+"4           1d4 + 级/5 (最多 1d4+5)\n"
+"5           1d4\n"
+"6           1\n"
+"\n"
+"这个再生过程对受术者的身体来说有很大的负担，在法术持续过程内受术者只能毫无意识的站在那里，并在接下来的1小时内暂时性失去1点体质。"
 
 #: text.tra:21101
 msgid "Vortex"
-msgstr ""
+msgstr "旋风术"
 
 #: text.tra:21102
 msgid ""
@@ -783,6 +938,21 @@ msgid ""
 "\n"
 "The duration of the spell is 3 rounds at level 10, plus one round for each additional level - up to 15 rounds at level 34. The caster is held immobile for the whole duration of the spell; he can't cancel it, even when he completely lost control over the vortex."
 msgstr ""
+"旋风术* (塑能系)\n"
+"等级: 5\n"
+"有效距离: 30 码\n"
+"持续时间: 3-15 轮\n"
+"施法时间: 5\n"
+"影响范围: 7英尺直径的球体\n"
+"豁免检定: 通过则减半\n"
+"\n"
+"旋风术能形成一片魔法能量的涡流，并且刚刚能够被施法者控制。当法术被施展后，一个7英尺高，多彩的球体被创造出来，从这一刻开始，施法者必须集中心神以使旋风术持续下去。\n"
+"\n"
+"每一轮，施法者能够使涡流移动60尺，然而，移动方向的控制并不能很完美。如果施法者在集中注意力的过程中失败，涡流的移动则会不受控制。\n"
+"\n"
+"这个涡流由阴冷的魔法能量组成，每一轮，所有接近涡流的生物都会遭受击晕、电击和魔法伤害各 2d6 点，如果通过了对法术的豁免率检定伤害减半。\n"
+"\n"
+"在施法者等级为10时，法术的持续时间是3轮，然后每提升一个经验等级多持续一轮，最多到34级时持续15轮。施法者在法术持续期间内无法移动，他也无法取消法术，即便已经失去了对涡流的控制。"
 
 #. LEAVE empty space in translation
 #: text.tra:21103
@@ -798,7 +968,7 @@ msgstr ""
 
 #: text.tra:21201
 msgid "Paithan's Lucky Streak"
-msgstr ""
+msgstr "派坦之幸运"
 
 #: text.tra:21202
 msgid ""
@@ -818,10 +988,25 @@ msgid ""
 "\n"
 "As long as it doesn't expire due to \"Bad Luck\" (1 on D20, then 15 or lower on D20), the spell continues infinitely."
 msgstr ""
+"派坦之幸运* (附魔系/魅惑系)\n"
+"等级: 5\n"
+"有效距离: 触碰\n"
+"持续时间: 特殊\n"
+"施法时间: 5\n"
+"影响范围: 1 生物\n"
+"豁免检定: 无\n"
+"\n"
+"这个极其有效的魔法能够给受术者一段时间的好运。受术者得到 1d8 点幸运点数，这个点数可以加到受术者的豁免率、命中和盗贼技能等检定中，同时两倍的点数值被加到受术者狂乱波动检定列表中。\n"
+"\n"
+"每轮结束后，掷一个20面的骰子来决定法术是否继续下去，如果掷到2或更高的点数，一个新的 1d8 的幸运点数被掷出，法术也会再持续一轮。\n"
+"\n"
+"如果掷到1点，仍然有 25% 的几率使法术持续下去：再次掷一个20面的骰子，如果掷出16或更高，法术不但会持续下去，而且下一轮还会是\"幸运\"轮，受术者不仅得到8点幸运点数，而且还会免疫死亡、吸取等级和一些限制移动的法术效果。\n"
+"\n"
+"只要你的运气不是很差（20面骰子掷出1，再次掷骰15点及以下），这个法术就会无限的持续下去。"
 
 #: text.tra:21301
 msgid "Paithan's Fiasco"
-msgstr ""
+msgstr "派坦之厄运"
 
 #: text.tra:21302
 msgid ""
@@ -841,14 +1026,29 @@ msgid ""
 "\n"
 "As long as it doesn't expire due to \"Good Luck\" (20 on D20, then 6 or higher on D20), the spell continues infinitely."
 msgstr ""
+"派坦之厄运* (附魔系/魅惑系)\n"
+"等级: 6\n"
+"有效距离: 触碰\n"
+"持续时间: 特殊\n"
+"施法时间: 5\n"
+"影响范围: 1 生物\n"
+"豁免检定: 无\n"
+"\n"
+"派坦之厄运是一个和5级法术派坦之幸运相反的版本。受术者，通常是敌人，会在一段时间内遭受厄运。受害人会得到 1d8 点厄运运点数，这个点数从受害人的豁免率、命中和盗贼技能等检定中减去，同时两倍的点数值从受害人狂乱波动检定列表中减去。\n"
+"\n"
+"每轮结束后，掷一个20面的骰子来决定法术是否继续下去，如果掷到19或更低的点数，一个新的 1d8 的厄运点数被掷出，法术也会再持续一轮。\n"
+"\n"
+"如果掷到20点，仍然有 25% 的几率使法术持续下去：再次掷一个20面的骰子，如果掷出5或更低，法术不但会持续下去，而且下一轮还会是\"厄运\"轮，受害人不仅得到8点厄运点数，而且还会受到下面某种效果的惩罚：被绊倒在地2轮，突然间肌肉痉挛而掉落武器，由于恐惧本轮无法攻击，伤害自己 1d20 点生命值或者是被自己武器的小碎片迷住了眼睛而目盲3轮。\n"
+"\n"
+"你的运气必须足够好（20面骰子掷出20，再次掷骰6点及以上），否则这个法术就会无限的持续下去。 "
 
 #: text.tra:21311
 msgid "Fiasco"
-msgstr ""
+msgstr "厄运"
 
 #: text.tra:21401
 msgid "Wildstrike"
-msgstr ""
+msgstr "狂乱重击"
 
 #: text.tra:21402
 msgid ""
@@ -866,10 +1066,23 @@ msgid ""
 "\n"
 "The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35."
 msgstr ""
+"狂乱重击* (咒法系/召来系)\n"
+"等级: 6\n"
+"有效距离: 30 码\n"
+"持续时间: 1-15 轮\n"
+"施法时间: 3\n"
+"影响范围: 1 生物\n"
+"豁免检定: 通过则无效\n"
+"\n"
+"这个法术起初是为了对付敌对法师的，它会扭曲对方所有的施法企图，把魔法能量转变成狂乱波动。受术者被允许以每10个施法者等级 -1 的不利进行豁免率检定，如果成功，法术无效，如果失败，受术者则被狂乱魔法包围。\n"
+"\n"
+"受术者每一次施展法术或者使用魔法物品都会自动产生狂乱波动。施法者每5个经验等级会从受术者的掷骰中减去5来决定狂乱波动的效果，使狂乱波动更有可能影响受害人。\n"
+"\n"
+"此法术的基本持续时间是1轮，然后施法者每2个经验等级可以使法术多持续1轮，最多在35级时法术可以持续15轮。"
 
 #: text.tra:21501
 msgid "Hornung's Random Dispatcher"
-msgstr ""
+msgstr "昊昂随机遣送"
 
 #: text.tra:21502
 msgid ""
@@ -887,170 +1100,183 @@ msgid ""
 "\n"
 "Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime."
 msgstr ""
+"昊昂随机遣送* (防护系)\n"
+"等级: 7\n"
+"有效距离: 30 码\n"
+"持续时间: 立即\n"
+"施法时间: 2\n"
+"影响范围: 1 生物\n"
+"豁免检定: 通过则无效\n"
+"\n"
+"随着几句咒语，这个法术能把生物传送到一个随机的位面，并把它留在那里。目标被允许进行对法术的豁免率检定，如果成功，法术无效，如果失败，受害者和它身上的物品就被传送到一个随机的位面。\n"
+"\n"
+"施法者无法控制传送的目的地，目的地的环境可能会使受术者死亡（例如到达火元素位面），也可能令他的生存有点困难，或者能帮助受术者在天堂得到新生。\n"
+"\n"
+"无论如何，当法术成功后，施法者就摆脱了目标的纠缠，而且有生之年他们不太可能再见面了。"
 
 #: text.tra:21511
 msgid "was sent to the Abyss"
-msgstr ""
+msgstr "被传送到深渊"
 
 #: text.tra:21512
 msgid "was sent to Acheron"
-msgstr ""
+msgstr "被传送到地狱"
 
 #: text.tra:21513
 msgid "was sent to the prime world known as Oerth"
-msgstr ""
+msgstr "被传送到奥斯世界"
 
 #: text.tra:21514
 msgid "was sent to the prime world known as Athas"
-msgstr ""
+msgstr "被传送到阿塔斯世界"
 
 #: text.tra:21515
 msgid "was sent to Arcadia"
-msgstr ""
+msgstr "被传送到世外桃源阿卡狄亚"
 
 #: text.tra:21516
 msgid "was sent to the Astral Plane"
-msgstr ""
+msgstr "被传送到星形位面"
 
 #: text.tra:21517
 msgid "was sent to the Beastlands"
-msgstr ""
+msgstr "被传送到野兽大陆"
 
 #: text.tra:21518
 msgid "was sent to the Outlands"
-msgstr ""
+msgstr "被传送到世界尽头"
 
 #: text.tra:21519
 msgid "was sent to the Elemental Plane of Air"
-msgstr ""
+msgstr "被传送到气元素位面"
 
 #: text.tra:21520
 msgid "was sent to the Elemental Plane of Fire"
-msgstr ""
+msgstr "被传送到火元素位面"
 
 #: text.tra:21521
 msgid "was sent to the Elemental Plane of Earth"
-msgstr ""
+msgstr "被传送到土元素位面"
 
 #: text.tra:21522
 msgid "was sent to the Elemental Plane of Water"
-msgstr ""
+msgstr "被传送到水元素位面"
 
 #: text.tra:21523
 msgid "was sent to Elysium"
-msgstr ""
+msgstr "被传送到极乐世界"
 
 #: text.tra:21524
 msgid "was sent to the Ethereal Plane"
-msgstr ""
+msgstr "被传送到空中位面"
 
 #: text.tra:21525
 msgid "was sent to Gehenna"
-msgstr ""
+msgstr "被传送到焦热地狱"
 
 #: text.tra:21526
 msgid "was sent to Gladsheim"
-msgstr ""
+msgstr "被传送到格莱赛姆"
 
 #: text.tra:21527
 msgid "was sent to the Gray Waste"
-msgstr ""
+msgstr "被传送到灰色荒芜世界"
 
 #: text.tra:21528
 msgid "was sent to Limbo"
-msgstr ""
+msgstr "被传送到地狱边界"
 
 #: text.tra:21529
 msgid "was sent to the Negative Material Plane"
-msgstr ""
+msgstr "被传送到负界物质位面"
 
 #: text.tra:21530
 msgid "was sent to the Quasi-Plane of Vacuum"
-msgstr ""
+msgstr "被传送到真空位面"
 
 #: text.tra:21531
 msgid "was sent to the Quasi-Plane of Ash"
-msgstr ""
+msgstr "被传送到灰烬位面"
 
 #: text.tra:21532
 msgid "was sent to the Quasi-Plane of Dust"
-msgstr ""
+msgstr "被传送到灰尘位面"
 
 #: text.tra:21533
 msgid "was sent to the Quasi-Plane of Salt"
-msgstr ""
+msgstr "被传送到食盐位面"
 
 #: text.tra:21534
 msgid "was sent to the Nine Hells"
-msgstr ""
+msgstr "被传送到第九地狱"
 
 #: text.tra:21535
 msgid "was sent to Nirvana"
-msgstr ""
+msgstr "被传送到涅槃天堂"
 
 #: text.tra:21536
 msgid "was sent to Olympus"
-msgstr ""
+msgstr "被传送到奥林匹斯山"
 
 #: text.tra:21537
 msgid "was sent to Pandemonium"
-msgstr ""
+msgstr "被传送到混乱战场"
 
 #: text.tra:21538
 msgid "was sent to the Para-Elemental Plane of Smoke"
-msgstr ""
+msgstr "被传送到烟尘元素位面"
 
 #: text.tra:21539
 msgid "was sent to the Para-Elemental Plane of Magma"
-msgstr ""
+msgstr "被传送到岩浆元素位面"
 
 #: text.tra:21540
 msgid "was sent to the Para-Elemental Plane of Ooze"
-msgstr ""
+msgstr "被传送到软泥元素位面"
 
 #: text.tra:21541
 msgid "was sent to the Para-Elemental Plane of Ice"
-msgstr ""
+msgstr "被传送到冰冻元素位面"
 
 #: text.tra:21542
 msgid "was sent to the Positive Material Plane"
-msgstr ""
+msgstr "被传送到正界物质位面"
 
 #: text.tra:21543
 msgid "was sent to the Quasi-Plane of Lightning"
-msgstr ""
+msgstr "被传送到闪电元素位面"
 
 #: text.tra:21544
 msgid "was sent to the Quasi-Plane of Radiance"
-msgstr ""
+msgstr "被传送到辐射元素位面"
 
 #: text.tra:21545
 msgid "was sent to the Quasi-Plane of Minerals"
-msgstr ""
+msgstr "被传送到矿石元素位面"
 
 #: text.tra:21546
 msgid "was sent to the Quasi-Plane of Steam"
-msgstr ""
+msgstr "被传送到蒸汽元素位面"
 
 #: text.tra:21547
 msgid "was sent to the Icewind Dale"
-msgstr ""
+msgstr "被传送到冰封溪谷"
 
 #: text.tra:21548
 msgid "was sent to the Seven Heavens"
-msgstr ""
+msgstr "被传送到七层天堂"
 
 #: text.tra:21549
 msgid "was sent to the Tarterus"
-msgstr ""
+msgstr "被传送到塔特鲁斯"
 
 #: text.tra:21550
 msgid "was sent to the Twin Paradises"
-msgstr ""
+msgstr "被传送到孪生天堂"
 
 #: text.tra:21601
 msgid "Summon Cow"
-msgstr ""
+msgstr "召唤母牛"
 
 #: text.tra:21602
 msgid ""
@@ -1075,10 +1301,31 @@ msgid ""
 "\n"
 "It is also strongly advised against using this spell in the presence of rangers or druids."
 msgstr ""
+"召唤母牛* (召来系)\n"
+"等级: 7\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 立即\n"
+"施法时间: 3\n"
+"影响范围: 1 生物\n"
+"豁免率检定: 特殊\n"
+"\n"
+"施展这个法术，一头母牛会以50到200码的高度从空中落下，砸向施法目标。施法者的等级决定了母牛在空中下落的具体高度，从而也决定了伤害。\n"
+"\n"
+"被召唤后，母牛会径直从空中砸向目标，这个猛烈冲击会造成 3d10 + 1d10 / 3 级 点敲砸伤害，最多到21级时能造成两次 10d10 点伤害。这个物理冲击所造成的伤害是不需要检定的，幸运的人被砸倒在地后可能不会受到额外伤害。\n"
+"\n"
+"如果目标在强烈冲击下活了下来，那么有 10% +10% / 3级 的几率，受术者会随机掉落装备而跌倒。施法者21级时这个几率达到最大的 80% ，这是不需要进行豁免检定的。\n"
+"\n"
+"最后，由于整个场景极其混乱和突然，目标必须进行对法术的豁免率检定，否则就会恐惧3轮。最初受害人会在 +2 有利的情况下进行豁免率检定，每3个施法者等级使这个调整参数 -1 ，最多在21级时 -5。\n"
+"\n"
+"注意:\n"
+"\n"
+"基本上，这个法术只是令一个特殊的狂乱波动进行有目的的释放，同样的，也会有几率产生意想不到的效果。\n"
+"\n"
+"强烈建议不要在一个德鲁伊面前施展此法术。"
 
 #: text.tra:21701
 msgid "Mynoc's Wild Recuperation"
-msgstr ""
+msgstr "米诺克狂乱恢复"
 
 #: text.tra:21702
 msgid ""
@@ -1094,26 +1341,37 @@ msgid ""
 "\n"
 "For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less."
 msgstr ""
+"米诺克狂乱恢复* (塑能系)\n"
+"等级: 8\n"
+"有效距离: 0\n"
+"持续时间: 立即\n"
+"施法时间: 10\n"
+"影响范围: 施法者\n"
+"豁免率检定: 无\n"
+"\n"
+"当施展这个法术之后，狂乱法师会自动释放一些具有狂乱波动效果的原始魔法能量。如果施法者设法控制了狂乱波动，他能够使 1d4 个已经被施展过的法术恢复记忆。如果之前没有法术被施展过，那么什么都不会发生，这个法术也就被浪费掉了。\n"
+"\n"
+"决定狂乱波动效果时，狂乱法师会在波动列表中获得40点加值，使这个法术至少会产生一些良好的效果。 米诺克狂乱恢复只能使1－7级的魔法恢复记忆。"
 
 #: text.tra:21711
 msgid "1 spell restored to memory"
-msgstr ""
+msgstr "1 个魔法恢复记忆"
 
 #: text.tra:21712
 msgid "2 spells restored to memory"
-msgstr ""
+msgstr "2 个魔法恢复记忆"
 
 #: text.tra:21713
 msgid "3 spells restored to memory"
-msgstr ""
+msgstr "3 个魔法恢复记忆"
 
 #: text.tra:21714
 msgid "4 spells restored to memory"
-msgstr ""
+msgstr "4 个魔法恢复记忆"
 
 #: text.tra:21801
 msgid "Eye of the Beholder"
-msgstr ""
+msgstr "眼魔之目"
 
 #: text.tra:21802
 msgid ""
@@ -1131,18 +1389,31 @@ msgid ""
 "\n"
 "Usually, the caster's eye returns to its original shape and place after the spell has expired."
 msgstr ""
+"眼魔之目* (塑能系)\n"
+"等级: 8\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 1 轮/5 级\n"
+"施法时间: 5\n"
+"影响范围: 特殊\n"
+"豁免率检定: 特殊\n"
+"\n"
+"当这个法术被施展后，狂乱法师的一个眼球会突出来形成眼魔的眼柄。\n"
+"\n"
+"每一轮，狂乱法师可以用这个眼柄凝视目标，造成一种随机效果。确切的结果（包括豁免率检定，有效距离，持续时间等）从下面10种效果中随机决定：魅惑人类、恐惧、解离、缓慢、石化、造成严重伤害、定身、闪电术、麻痹和死亡射线。\n"
+"\n"
+"通常，施法者的眼睛在法术结束后可以回复原形。"
 
 #: text.tra:21803
 msgid "Beholder's Gaze"
-msgstr ""
+msgstr "眼魔的凝视"
 
 #: text.tra:21811
 msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
-msgstr ""
+msgstr "\"眼魔的凝视\" 已经增加到你的特殊能力菜单中"
 
 #: text.tra:21901
 msgid "Entropy Shield"
-msgstr ""
+msgstr "熵护盾"
 
 #: text.tra:21902
 msgid ""
@@ -1160,10 +1431,23 @@ msgid ""
 "\n"
 "In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect."
 msgstr ""
+"熵护盾* (防护系)\n"
+"等级: 9\n"
+"有效距离: 0\n"
+"持续时间: 2 回合\n"
+"施法时间: 9\n"
+"影响范围: 施法者\n"
+"豁免率检定: 无\n"
+"\n"
+"这个法术使施法者包围在防护性的原始魔法能量领域中。除了最为强大的法术，这个魔法领域可以吸收任何狂乱波动的能量。\n"
+"\n"
+"在法术持续期间，施法者免疫1－7级法术，包括红宝石逆转射线等去除魔法防护的法术。只有识破护盾和法术重击能够瓦解熵护盾。\n"
+"\n"
+"额外的，施法者在狂乱波动列表中能得到100点加值，使他能正常施展所有魔法，这100点加值也对那哈莽行咒起作用。只要开启了熵护盾，施法者就可以成功创造任何他所期望的法术效果。"
 
 #: text.tra:22001
 msgid "Wild Sphere"
-msgstr ""
+msgstr "狂乱法球"
 
 #: text.tra:22002
 msgid ""
@@ -1183,10 +1467,25 @@ msgid ""
 "\n"
 "Vicims that also fail the save vs. spells without modifier, are subject to one of the following random effects: randomly teleported, polymorphed into a squirrel, confused, paralyzed, healed by 1d8 hit points, take 1d8 hit points of damage, rendered unconscious or hasted."
 msgstr ""
+"狂乱法球* (咒法系/召来系)\n"
+"等级: 9\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 6 回合\n"
+"施法时间: 1 轮\n"
+"影响范围: 30' 半径\n"
+"豁免率检定: 特殊\n"
+"\n"
+"这个强大的魔法能创造一个暂时性的魔法裂缝，影响区域为半径30尺的球体。\n"
+"\n"
+"任何在狂乱法球内部所施展的魔法会自动产生狂乱波动，即便是在狂乱发球内部使用魔法物品也不利外。就算施法者离开狂乱法球的作用范围，也要再经过1轮才能恢复正常的施法能力。\n"
+"\n"
+"另外，在法球内部的每个人每轮都要以 －5 的不利对法术进行豁免率检定，否则产生魔法干扰，而使随机的目标产生多重狂乱波动，就如同4级法术狂乱魔法印记的效果。\n"
+"\n"
+"受害者如果在不做任何修正的情况下没有通过对法术的豁免率检定，则会出现下列其中一种随机效果：随机传送、变形为松鼠、困惑、麻痹、回复 1d8 点生命值、受到 1d8 点伤害、不省人事或者加速。"
 
 #: text.tra:22101
 msgid "Rhialto's Marvelous Reincarnation"
-msgstr ""
+msgstr "瑞奥托非凡化身"
 
 #: text.tra:22102
 msgid ""
@@ -1206,10 +1505,25 @@ msgid ""
 "\n"
 "Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood."
 msgstr ""
+"瑞奥托非凡化身* (改变系)\n"
+"等级: 10\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 立即\n"
+"施法时间: 10\n"
+"影响范围: 1 生物\n"
+"豁免率检定: 无\n"
+"\n"
+"这个险恶的法术是自称为瑞奥托的狂乱法师的遗物。\n"
+"\n"
+"施展法术后能够引起机遇率的波动和时间织物的脆弱。这个效果虽然只能持续一小会儿，但是也足够创造一个替换体了。\n"
+"\n"
+"这个法术的目的是通过改变过去的事件或是让另外一个生物死去（当前仍然活着的生物），而使一名死者回复生命。这个法术和神的干涉没有关系：受益人并不是从死亡中回复生命，而是以前造成致命伤害的事件没有发生过，也就是法术的受益人根本没有死去过。\n"
+"\n"
+"一旦受害者被选定，时间之绳就会被重新编织，同时受害人死亡而受益人复生。受益人会出现在受害者站立的地方。"
 
 #: text.tra:22201
 msgid "Entropy Burst"
-msgstr ""
+msgstr "熵喷射"
 
 #: text.tra:22202
 msgid ""
@@ -1233,10 +1547,30 @@ msgid ""
 "\n"
 "There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled."
 msgstr ""
+"熵喷射 (塑能系)\n"
+"等级: 8\n"
+"有效距离: 0\n"
+"持续时间: 特殊\n"
+"施法时间: 1\n"
+"影响范围: 30' 半径\n"
+"豁免率检定: 无\n"
+"\n"
+"熵喷射能够产生极大的魔法能量。施法者作为连接物质位面和混乱力量的桥梁，可以使自身周围30尺半径内的区域产生混乱物质喷发。\n"
+"\n"
+"这个法术产生的效果对混乱生物来说是完全无害的，而其它阵营的生物会被推离施法者几秒钟：中立阵营生物受到 1d8 点魔法伤害，守序阵营生物受到 1d20 点伤害。另外，守序阵营生物还会依据等级产生如下效果：\n"
+"\n"
+"生命骰数或等级     --     效果\n"
+"\n"
+"小于 4          --     死亡\n"
+"4 到 7          --    晕眩1回合\n"
+"8 到 11         --  缓慢1回合，75%几率施法失败\n"
+"12 及以上        --  耳聋1回合，50%几率施法失败\n"
+"\n"
+"这个法术不需要进行豁免率检定，效果是即时的，持续到法术结束或者被驱散。"
 
 #: text.tra:22301
 msgid "Acid Storm"
-msgstr ""
+msgstr "酸液风暴"
 
 #: text.tra:22302
 msgid ""
@@ -1249,10 +1583,19 @@ msgid ""
 "Saving Throw: Half\n"
 "This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points of damage each round for the first three rounds, 1-6 hit points for the next three rounds, and 1-8 hit points for the next four rounds. Moving out of the area of effect does not stop the damage - the acid adheres to the skin, and the victims continue to suffer damage as long as the spell duration lasts. Affected creatures may make a saving throw vs. spell every round after they have been hit by the cloud - if successful, they only take half-damage (for that round only)."
 msgstr ""
+"酸液风暴 (塑能系)\n"
+"等级: 7\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 1 回合\n"
+"施法时间: 7\n"
+"影响范围: 20尺半径\n"
+"豁免率检定: 通过则减半\n"
+"\n"
+"这个法术在选定区域释放酸性云雾，前3轮中每轮造成 1d4 点伤害，接下来3轮中每轮造成 1d6 点伤害，最后4轮中每轮造成 1d8 点伤害。离开法术影响区域并不会停止受伤：酸液沾在皮肤上，受害人在法术持续时间内会持续遭受伤害。受影响的生物每轮都要做一次对法术的豁免率检定，如果通过则伤害减半（只限此轮）。"
 
 #: text.tra:22401
 msgid "Summon Wild Horde"
-msgstr ""
+msgstr "召唤野蛮部落"
 
 #: text.tra:22402
 msgid ""
@@ -1268,10 +1611,21 @@ msgid ""
 "\n"
 "The tiny animals don't really pose a threat besides distracting the caster's enemies. When one of the rodents dies, however, there is a 25% chance that it will explode in a fireball, doing 2d4 points of fire damage to everyone within a 20 foot radius (save vs. spell for half)."
 msgstr ""
+"召唤野蛮部落* (咒法系/召来系)\n"
+"等级: 2\n"
+"有效距离: 0\n"
+"持续时间: 1 轮/级\n"
+"施法时间: 2\n"
+"影响范围: 特殊\n"
+"豁免率检定: 特殊\n"
+"\n"
+"这个法术会召唤 1d20 只好斗的，会用它们的生命来保护施法者的野兔。\n"
+"\n"
+"这些小动物并不会吓倒施法者的敌人，而是转移他们的注意力。当一个野兔死后，有 25% 的几率会爆炸出火球术，在20尺半径内造成 2d4 点火焰伤害(通过对法术的豁免率检定减半)。"
 
 #: text.tra:22501
 msgid "Corporeal Instability"
-msgstr ""
+msgstr "不稳定物质"
 
 #: text.tra:22502
 msgid ""
@@ -1287,10 +1641,21 @@ msgid ""
 "\n"
 "When the spell is cast on a creature, it has to save vs. spells at -5 or be liquefied. When failing the saving throw, the victim takes 1d20 points of system-shock damage as his body destabilizes into an amorphous, ever-shifting mass. The victim is unable to take any action for 1 round per level of the caster, but is also immune to anything save magical damage."
 msgstr ""
+"不稳定物质* (改变系)\n"
+"等级: 4\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 1 轮/级\n"
+"施法时间: 3\n"
+"影响范围: 1 生物\n"
+"豁免率检定: 通过则无效\n"
+"\n"
+"这个法术能够暂时扭曲各种魔法枷锁来限制受害者的身体行动。\n"
+"\n"
+"当法术向1个生物施放后，目标必须以 -5 的不利对法术进行豁免率检定，否则就会被溶解。如果没有通过豁免率检定，受害者受到 1d20 点伤害，他的身体也会变成不定形的状态。施法者的每个经验等级可以使受害者无法进行任何动作1轮，但是也会使受害者除魔法伤害外免疫所有伤害。"
 
 #: text.tra:22601
 msgid "Random Spell II"
-msgstr ""
+msgstr "混乱法术 II 级"
 
 #: text.tra:22602
 msgid ""
@@ -1310,10 +1675,23 @@ msgid ""
 "\n"
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
+"混乱法术 II 级* (塑能系)\n"
+"等级: 3\n"
+"有效距离: 40 码\n"
+"持续时间: 立即\n"
+"施法时间: 1\n"
+"影响范围: 特殊\n"
+"豁免率检定: 特殊\n"
+"\n"
+"这是\"混乱法术 I 级\"的高级版本。当混乱法术 II 级被施展时，会随机产生一个4级或5级法术的效果。\n"
+"\n"
+"施法者在40码的范围内选择一个生物作为法术目标，法术就会以这个生物作为法术中心，除非产生的是只影响施法者的效果。\n"
+"\n"
+"混乱法术的优点是它的施法时间永远是1，而它40码的有效距离会取代原本法术的有效距离，事实上产生的法术效果可能根本不是抄写在狂乱法师魔法书中的。相反，施法者根本不清楚哪一个法术效果会被复制出来，甚至不清楚法术的效果是有害的还是有益的。"
 
 #: text.tra:22701
 msgid "Random Spell III"
-msgstr ""
+msgstr "混乱法术 III 级"
 
 #: text.tra:22702
 msgid ""
@@ -1333,10 +1711,23 @@ msgid ""
 "\n"
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
+"混乱法术 III 级* (塑能系)\n"
+"等级: 5\n"
+"有效距离: 40 码\n"
+"持续时间: 立即\n"
+"施法时间: 1\n"
+"影响范围: 特殊\n"
+"豁免率检定: 特殊\n"
+"\n"
+"同第1级和第3级的混乱法术类似，当混乱法术 III 级被施展时，会随机产生一个6级或7级法术的效果。\n"
+"\n"
+"施法者在40码的范围内选择一个生物作为法术目标，法术就会以这个生物作为法术中心，除非产生的是只影响施法者的效果。\n"
+"\n"
+"混乱法术的优点是它的施法时间永远是1，而它40码的有效距离会取代原本法术的有效距离，事实上产生的法术效果可能根本不是抄写在狂乱法师魔法书中的。相反，施法者根本不清楚哪一个法术效果会被复制出来，甚至不清楚法术的效果是有害的还是有益的。"
 
 #: text.tra:22801
 msgid "Random Spell IV"
-msgstr ""
+msgstr "混乱法术 IV 级"
 
 #: text.tra:22802
 msgid ""
@@ -1356,10 +1747,23 @@ msgid ""
 "\n"
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
+"混乱法术 IV 级* (塑能系)\n"
+"等级: 7\n"
+"有效距离: 40 码\n"
+"持续时间: 立即\n"
+"施法时间: 1\n"
+"影响范围: 特殊\n"
+"豁免率检定: 特殊\n"
+"\n"
+"这个最强大版本的混乱法术被施展时，会随机产生一个8级或9级法术的效果。\n"
+"\n"
+"施法者在40码的范围内选择一个生物作为法术目标，法术就会以这个生物作为法术中心，除非产生的是只影响施法者的效果。\n"
+"\n"
+"混乱法术的优点是它的施法时间永远是1，而它40码的有效距离会取代原本法术的有效距离，事实上产生的法术效果可能根本不是抄写在狂乱法师魔法书中的。相反，施法者根本不清楚哪一个法术效果会被复制出来，甚至不清楚法术的效果是有害的还是有益的。"
 
 #: text.tra:22901
 msgid "Wildfire"
-msgstr ""
+msgstr "狂乱火焰"
 
 #: text.tra:22902
 msgid ""
@@ -1375,10 +1779,21 @@ msgid ""
 "\n"
 "Wildfire allows the caster to create the effect of any wizard spell of 8th level or lower. He need only have general knowledge of the spell and its effects; the spell does not need to be in his own spellbooks."
 msgstr ""
+"狂乱火焰* (塑能系)\n"
+"等级: 9\n"
+"有效距离: 0\n"
+"持续时间: 特殊\n"
+"施法时间: 1\n"
+"影响范围: 特殊\n"
+"豁免率检定: 特殊\n"
+"\n"
+"通过这个魔法，狂乱法师能够为原始魔法能量打开一条通道,然后按照自己的意志利用它们。\n"
+"\n"
+"狂乱火焰允许狂乱法师模拟任何一种8级以下魔法的效果。狂乱法师根本不需要在魔法书中记载这些魔法，他只需要对魔法效果有一点点常识就可以了。"
 
 #: text.tra:23001
 msgid "Mynoc's Irresistible Appeal"
-msgstr ""
+msgstr "米诺克不可抗拒吸引力"
 
 #: text.tra:23002
 msgid ""
@@ -1394,10 +1809,21 @@ msgid ""
 "\n"
 "There is no saving throw against this spell and it bypasses all magic resistances the targeted creature might have. While this spell is mainly used to get friends out of trouble (or learn to know new ones), some wild mages are known to be crazy enough to cast this spell on enemies to force them into melee-combat."
 msgstr ""
+"米诺克不可抗拒吸引力* (塑能系)\n"
+"等级: 1\n"
+"有效距离: 施法者视野所及\n"
+"持续时间: 立即\n"
+"施法时间: 1\n"
+"影响范围: 1 生物\n"
+"豁免率检定: 无\n"
+"\n"
+"同这个法术的名称不一样，它和施法者的吸引力毫无关系。当这个法术被施展后，一条由原始魔法能量组成的绳子出现了，这条绳子会缠住目标然后缩短，把目标拖向施法者。\n"
+"\n"
+"此法术不需要做豁免率检定，他会穿透任何魔法抗力。虽然这个法术主要是用来把遇到麻烦的伙伴拖离战场，可还是有些疯狂的法师以把敌人拖到身边进行白刃战而闻名。"
 
 #: text.tra:23101
 msgid "Meece's Wildarmor"
-msgstr ""
+msgstr "米西野蛮盔甲"
 
 #: text.tra:23102
 msgid ""
@@ -1417,66 +1843,81 @@ msgid ""
 "\n"
 "The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level."
 msgstr ""
+"米西野蛮盔甲* (幻术系)\n"
+"等级: 6\n"
+"有效距离: 0\n"
+"持续时间: 5 轮/级\n"
+"施法时间: 4\n"
+"影响范围: 施法者\n"
+"豁免率检定: 无\n"
+"\n"
+"侏儒狂乱法师\"米西.阿珀诺特\"创造了这个法术来作为一种战斗防御手段。米西无法决定不屈和躲藏哪一种才是在战斗中生存下来的最好方法，所有他创造了这个法术把二者结合起来。\n"
+"\n"
+"施法者会被剧烈波动的魔法织物保护起来，在法术持续期间，任何直接对施法者进行的攻击都有很高的概率被减弱，因而所有对施法者造成的伤害会减少20%。可是，有 50% 的几率，攻击会使保护施法者的魔法织物扭曲而产生狂乱波动。\n"
+"\n"
+"当一次攻击伤害被减少后，这个法术立即使施法者隐身从而避免进一步受伤。这个隐身效果持续5轮，直到被驱散，或者直到施法者攻击任何一个生物。\n"
+"\n"
+"施法者的每个经验等级可以使法术多持续5轮，最高到20级可以持续2小时。"
 
 #: text.tra:30111
 msgid "1st level"
-msgstr ""
+msgstr "1 级"
 
 #: text.tra:30112
 msgid "2nd level"
-msgstr ""
+msgstr "2 级"
 
 #: text.tra:30113
 msgid "3rd level"
-msgstr ""
+msgstr "3 级"
 
 #: text.tra:30114
 msgid "4th level"
-msgstr ""
+msgstr "4 级"
 
 #: text.tra:30115
 msgid "5th level"
-msgstr ""
+msgstr "5 级"
 
 #: text.tra:30116
 msgid "6th level"
-msgstr ""
+msgstr "6 级"
 
 #: text.tra:30117
 msgid "7th level"
-msgstr ""
+msgstr "7 级"
 
 #: text.tra:30118
 msgid "8th level"
-msgstr ""
+msgstr "8 级"
 
 #: text.tra:30119
 msgid "9th level"
-msgstr ""
+msgstr "9 级"
 
 #: text.tra:30120
 msgid "10th level"
-msgstr ""
+msgstr "10 级"
 
 #: text.tra:30121
 msgid "You don't have any suitable spells memorized."
-msgstr ""
+msgstr "你没有记忆合适的法术。"
 
 #: text.tra:30122
 msgid "Wild Magic Backlash"
-msgstr ""
+msgstr "狂乱魔法反冲"
 
 #: text.tra:30301
 msgid "Shape Spell"
-msgstr ""
+msgstr "塑造魔法"
 
 #: text.tra:30302
 msgid "Shaped Spell"
-msgstr ""
+msgstr "魔法被塑造"
 
 #: text.tra:40101
 msgid "Hand"
-msgstr ""
+msgstr "右手"
 
 #: text.tra:40102
 msgid ""
@@ -1518,10 +1959,52 @@ msgid ""
 "-  May wear only one ring\n"
 "-  Alignment must be chaotic\n"
 msgstr ""
+"作为一名魔法塑造者，你有能力利用记忆中的法术释放原始的魔法能量，然后把它\"编织\"成新的魔法效果，塑造魔法的能力只受你想象力的限制。在这只手上戴上戒指不仅影响你的施法技巧，而且还会破坏魔法的流动，严重干扰你\"编织\"魔法的能力。\n"
+"\n"
+"魔法塑造者:\n"
+"\n"
+"魔法塑造者是狂乱魔法的从业者，他们靠原始的魔法天赋来进行施法，作为狂乱法师的反对者，他们的理论是系统而循序渐进的。\n"
+"\n"
+"魔法塑造者分享了术士直觉理解神秘魔法的能力。他们像法师一样记忆魔法，可是他们还有再一次安排魔法使用的能力：一个魔法塑造者有能力\"编织\"原始的魔法能量并出现自己所期望的魔法效果，而不需要预先准备。这种天赋不是完全可靠的，在正常基础上使用它也需要碰运气。在魔法塑造者的保守派中，使用这种能力的人也是不受欢迎的。\n"
+"\n"
+"不同于术士，魔法塑造者可以利用魔法卷轴学习、记忆和施放魔法。出于投机取巧的心态，很少有魔法塑造者同这个可靠的处理魔法的方式断绝关系，尽管是通常供那些防御性和最后真正需要借助的法术之用。魔法塑造者本能施法的天赋是如此的方便，所以只要有可能他们就会加以利用。\n"
+"\n"
+"除去便捷的法术施展，专注于无序的狂乱魔法并不是没有代价的：魔法塑造者不能和真正的法师一样记忆同样多的法术，而且学习新法术的过程也会慢一些。\n"
+"\n"
+"这个职业的人也会有一点古怪：首先，缺乏训练的天性使他们能够选择不同的施法方式，而不断的同无序狂乱魔法联系也影响了他们的个性。同吟游诗人类似，魔法塑造者有许多爱好：他们直觉的学习着身边的每一件事物，可是天性又使他们无法像其它人一样用心的掌握这些事物。\n"
+"\n"
+"大多数魔法塑造者有足够的智慧不去依赖他们那危险的不可预知的魔法能力，他们同时也学习身体对抗的战斗能力。他们不是战士，魔法塑造者在白刃战斗中表现出来能力更接近于一名盗贼。当魔法塑造者获得足够的经验，他们能够学习特殊能力来增强战斗技巧，这些能力包括背刺、对匕首的精通和不受任何惩罚的挥舞双武器。\n"
+"\n"
+"魔法塑造者另外一个古怪的性格特征是他们拒绝任何远程武器的训练，对远程战斗他们使用魔法，如果魔法失败，他们更喜欢近身战斗。\n"
+"\n"
+"魔法塑造者的很多高级技能都要以高敏捷作为先决条件，同法师一样，高智力也会使魔法塑造者得益。\n"
+"\n"
+"职业特长：\n"
+"-  狂乱魔法 （施法等级为当前魔法塑造者等级 ±5 级）\n"
+"-  零级命中值增长按照盗贼增长列表（每6级零级命中值﹣1）\n"
+"-  每级学识 +5\n"
+"-  编织魔法能力\n"
+"-  魔法冲击能力\n"
+"-  塑造魔法能力\n"
+"-  能够学习近战技能\n"
+"\n"
+"职业限制:\n"
+"-  狂乱魔法 （施法等级为当前魔法塑造者等级 ±5 级）\n"
+"-  5% 的几率产生狂乱波动\n"
+"-  学习新法术过程更慢\n"
+"（获得新法术的等级为 4,6,8,10,13,16,19,22)\n"
+"-  更少的法术记忆栏位\n"
+"（1－7级法术栏位-2，8－9级法术栏位-3，以标准狂乱法师记忆栏位为基准）\n"
+"-  无法提高法术记忆栏位\n"
+"（提高法术记忆栏位的物品对魔法塑造者无效）\n"
+"-  当使用远程武器时命中-5，伤害-2\n"
+"-  只能佩戴一枚戒指\n"
+"（一个戒指栏位被永久占据）\n"
+"-  必须为混乱阵营"
 
 #: text.tra:40201
 msgid "Skull Bomb"
-msgstr ""
+msgstr "骷髅炸弹"
 
 #: text.tra:40202
 msgid ""
@@ -1534,29 +2017,38 @@ msgid ""
 " Non-chaotic alignments\n"
 " Wizard Slayer"
 msgstr ""
+"这个奇怪的骷髅头一天夜里突然出现在你的背包中，它承载了魔法能量，几乎就要爆炸了。你打赌这肯定是某个人失败的施展了骷髅陷阱的结果，这个骷髅头没有飞向指定目标，而是物化后跑到了你的背包里。你不清楚为什么它还没有爆炸，最好尽快的把他投掷出去...\n"
+"\n"
+"物品资料:\n"
+"\n"
+"相当于等级为12的施法者施展\"骷髅陷阱\"\n"
+"\n"
+"无法使用:\n"
+"非混乱阵营\n"
+"法师猎人"
 
 #: text.tra:40301
 msgid "Dead Cat"
-msgstr ""
+msgstr "死猫"
 
 #: text.tra:40302
 msgid ""
 "This appears to be a dead cat. It is extremely well preserved and looks as "
 "if it is sleeping."
-msgstr ""
+msgstr "这是一只死猫，它被保护的如此之好，看上去就好像正在睡觉。"
 
 #: text.tra:40401
 msgid "Teddy Bear"
-msgstr ""
+msgstr "玩具熊"
 
 #: text.tra:40402
 msgid ""
 "Although this cute teddy bear looks quite old, it's still in good condition."
-msgstr ""
+msgstr "虽然这个玩具熊看起来有点旧，可是仍然情况良好。"
 
 #: text.tra:40403
 msgid "Teddy Bear of Protection +2, +4 vs. Demons"
-msgstr ""
+msgstr "玩具熊护盾 +2, +4 vs. 恶魔"
 
 #: text.tra:40404
 msgid ""
@@ -1573,10 +2065,22 @@ msgid ""
 "Not Usable By:\n"
 " Wizard Slayer"
 msgstr ""
+"玩具熊护盾 +2, +4 vs. 恶魔:  '勇敢的波奇'\n"
+"这个玩具熊护盾是由大法师哈里克冗.马伊罗为他的小儿子制作的。拿着这个玩具熊的人可以得保护，效果近似于佩戴防护戒指+2。\n"
+"\n"
+"尽管哈里克冗在儿子的安全和魔法教育方面花费了大量的时间，却忽视了教导他必须遵守的魔法准则以及防范措施。6岁的时候，哈里克冗的儿子在父母外出的情况下召唤了一只恶魔。当哈里克冗和妻子回来时，房子已经被烧毁，保姆也被恶魔吞吃了。在一片废墟中，他们发现儿子蜷缩在一个几乎没有损伤的桌子下面，紧紧的抓着他最喜欢的玩具熊。\n"
+"\n"
+"物品资料:\n"
+"\n"
+"防御等级:  +2  (+4 vs. 恶魔)\n"
+"豁免改善:  +2  (+4 vs. 恶魔)\n"
+"\n"
+"无法使用:\n"
+"法师猎人"
 
 #: text.tra:40501
 msgid "Rhialto's Spellbook"
-msgstr ""
+msgstr "瑞奥托的魔法书"
 
 #: text.tra:40502
 msgid ""
@@ -1591,6 +2095,16 @@ msgid ""
 "Only Usable By:\n"
 " Wild Mage"
 msgstr ""
+"这本魔法书曾经属于\"非凡的\"瑞奥托，他死后你得到了它。\n"
+"\n"
+"虽然这本书的状态很差－被撕开的书页，疯狂的涂抹，到处的污秽，可是它仍然放射着魔法能量。\n"
+"\n"
+"书里记载的魔法是如此的与众不同，你可以试着学习如何施展其中的一些法术。\n"
+"\n"
+"物品资料:\n"
+"\n"
+"唯一使用:\n"
+"狂乱法师"
 
 #: text.tra:40503
 msgid ""
@@ -1621,26 +2135,53 @@ msgid ""
 "Only Usable By:\n"
 " Wild Mage"
 msgstr ""
+"这本魔法书曾经属于\"非凡的\"瑞奥托，他死后你得到了它。\n"
+"\n"
+"虽然这本书的状态很差－被撕开的书页，疯狂的涂抹，到处的污秽，可是它仍然放射着魔法能量。\n"
+"\n"
+"相对于魔法书来说它更像是一本日记和便条簿。尽管当你遇到瑞奥托时他是个疯子，可他一定曾经是个天才－不仅创造了新的法术，还被学习选择性的施法方式而困扰，这使他最初接触到了狂乱魔法，很有可能这也是最后导致他疯狂的原因。\n"
+"\n"
+"有些页面上记载了一些神秘的咒语可以用来调用魔法－一个便捷的，可以立刻施展法术的方法，而且不需要记忆它们。虽然只有少数魔法选择可供这样使用，但是看起来瑞奥托发现了其它方法。\n"
+"\n"
+"书里记载的魔法是如此的与众不同，你可以试着学习如何施展其中的一些法术。\n"
+"\n"
+"物品资料:\n"
+"\n"
+"每天可以施展下述魔法中的一个：\n"
+"魔盔甲\n"
+"混乱护盾\n"
+"驱散魔法\n"
+"友好术\n"
+"吉姆莱纳斯光线扭曲\n"
+"恐惧术\n"
+"隐身术\n"
+"拉络克弱吸能术\n"
+"瑞奥托随机魔法飞弹\n"
+"法师之眼\n"
+"\n"
+"唯一使用:\n"
+"\n"
+"狂乱法师"
 
 #: text.tra:40511
 msgid "Read"
-msgstr ""
+msgstr "朗读"
 
 #: text.tra:50101
 msgid "Rhialto the Marvelous"
-msgstr ""
+msgstr "非凡的瑞奥托"
 
 #: text.tra:50102
 msgid "Rhialto"
-msgstr ""
+msgstr "瑞奥托"
 
 #: text.tra:50111
 msgid "Wild Surge: Caster changed into a squirrel"
-msgstr ""
+msgstr "狂乱波动: 施法者变成松鼠"
 
 #: text.tra:69998
 msgid "Letter"
-msgstr ""
+msgstr "信件"
 
 #: text.tra:69999
 msgid ""
@@ -1650,6 +2191,11 @@ msgid ""
 "\n"
 "E."
 msgstr ""
+"吾友葛立安，\n"
+"\n"
+"小心你的旅程，烛堡的高墙外正有一个狂乱法师在四处游荡。他的目的无人所知，一旦你离开烛堡，最好立即离开大道。\n"
+"\n"
+"伊。"
 
 #: text_ee.tra:40202
 msgid ""
@@ -1658,6 +2204,11 @@ msgid ""
 "STATISTICS:\n"
 "Casts the spell \"Skull Trap\" at caster-level 12"
 msgstr ""
+"这个奇怪的骷髅头一天夜里突然出现在你的背包中，它承载了魔法能量，几乎就要爆炸了。你打赌这肯定是某个人失败的施展了骷髅陷阱的结果，这个骷髅头没有飞向指定目标，而是物化后跑到了你的背包里。你不清楚为什么它还没有爆炸，最好尽快的把他投掷出去...\n"
+"\n"
+"数据资料\n"
+"\n"
+"相当于等级为12的施法者施展\"骷髅陷阱\""
 
 #: text_ee.tra:40404
 msgid ""
@@ -1671,6 +2222,15 @@ msgid ""
 "Armor Class:  +2 bonus (+4 vs. Demons)\n"
 "Saving Throws:  +2 bonus (+4 vs. Demons)"
 msgstr ""
+"玩具熊护盾 +2, +4 vs. 恶魔:  '勇敢的波奇'\n"
+"这个玩具熊护盾是由大法师哈里克冗.马伊罗为他的小儿子制作的。拿着这个玩具熊的人可以得保护，效果近似于佩戴防护戒指+2。\n"
+"\n"
+"尽管哈里克冗在儿子的安全和魔法教育方面花费了大量的时间，却忽视了教导他必须遵守的魔法准则以及防范措施。6岁的时候，哈里克冗的儿子在父母外出的情况下召唤了一只恶魔。当哈里克冗和妻子回来时，房子已经被烧毁，保姆也被恶魔吞吃了。在一片废墟中，他们发现儿子蜷缩在一个几乎没有损伤的桌子下面，紧紧的抓着他最喜欢的玩具熊。\n"
+"\n"
+"数据资料\n"
+"\n"
+"防御等级:  +2  (+4 vs. 恶魔)\n"
+"豁免改善:  +2  (+4 vs. 恶魔)"
 
 #: text_ee.tra:40502
 msgid ""
@@ -1680,6 +2240,11 @@ msgid ""
 "\n"
 "The overall selection of spells in this book is quite unusual, you could try to learn how to cast some of these spells."
 msgstr ""
+"这本魔法书曾经属于\"非凡的\"瑞奥托，他死后你得到了它。\n"
+"\n"
+"虽然这本书的状态很差－被撕开的书页，疯狂的涂抹，到处的污秽，可是它仍然放射着魔法能量。\n"
+"\n"
+"书里记载的魔法是如此的与众不同，你可以试着学习如何施展其中的一些法术。"
 
 #: text_ee.tra:40503
 msgid ""
@@ -1707,3 +2272,26 @@ msgid ""
 " Rhialto's Random Missiles\n"
 " Wizard Eye"
 msgstr ""
+"这本魔法书曾经属于\"非凡的\"瑞奥托，他死后你得到了它。\n"
+"\n"
+"虽然这本书的状态很差－被撕开的书页，疯狂的涂抹，到处的污秽，可是它仍然放射着魔法能量。\n"
+"\n"
+"相对于魔法书来说它更像是一本日记和便条簿。尽管当你遇到瑞奥托时他是个疯子，可他一定曾经是个天才－不仅创造了新的法术，还被学习选择性的施法方式而困扰，这使他最初接触到了狂乱魔法，很有可能这也是最后导致他疯狂的原因。\n"
+"\n"
+"有些页面上记载了一些神秘的咒语可以用来调用魔法－一个便捷的，可以立刻施展法术的方法，而且不需要记忆它们。虽然只有少数魔法选择可供这样使用，但是看起来瑞奥托发现了其它方法。\n"
+"\n"
+"书里记载的魔法是如此的与众不同，你可以试着学习如何施展其中的一些法术。\n"
+"\n"
+"数据资料\n"
+"\n"
+"每天可以施展下述魔法中的一个：\n"
+"魔盔甲\n"
+"混乱护盾\n"
+"驱散魔法\n"
+"友好术\n"
+"吉姆莱纳斯光线扭曲\n"
+"恐惧术\n"
+"隐身术\n"
+"拉络克弱吸能术\n"
+"瑞奥托随机魔法飞弹\n"
+"法师之眼"
