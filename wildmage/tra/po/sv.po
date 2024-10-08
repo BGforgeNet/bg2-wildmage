@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-08 05:09+0000\n"
+"PO-Revision-Date: 2024-10-08 06:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -61,20 +61,25 @@ msgid ""
 "same; you wonder if the same madness could affect you, when you continue to "
 "read his writings."
 msgstr ""
+"Rhialto's trollformelsbok är fortfarande en enda röra, och hans sinne måste "
+"ha varit detsamma; du undrar om samma galenskap skulle kunna drabba dig "
+"själv, när du fortsätter att läsa hans skrifter."
 
 #: dialog.tra:5
 msgid ""
 "Again you open Rhialto's spellbook, it's still quite a mess, but meanwhile "
 "you're getting used to it."
 msgstr ""
+"Återigen öppnar du Rhialtos trollformelsbok, den är fortfarande ganska "
+"rörig, men med tiden börjar du vänja dig vid den."
 
 #: dialog.tra:6
 msgid "You continue to study Rhialto's spellbook."
-msgstr ""
+msgstr "Du fortsätter att studera Rhialtos trollformelbok."
 
 #: dialog.tra:7
 msgid "Rhialto may have been insane, but his knowledge was great indeed."
-msgstr ""
+msgstr "Rhialto må ha varit galen, men hans kunskap var verkligen stor."
 
 #: dialog.tra:8
 msgid ""
