@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-08 06:09+0000\n"
+"PO-Revision-Date: 2024-10-11 19:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -86,47 +86,54 @@ msgid ""
 "Although you're sure that you've learned every spell from this this "
 "spellbook, you still feel the strong urge to risk another look."
 msgstr ""
+"Även om du är säker på att du har lärt dig alla trollformler i den här "
+"trollformelsboken känner du ändå en stark lust att ta en titt till."
 
 #: dialog.tra:9
 msgid "When you open Rhialto's spellbook again, it crumbles to dust."
 msgstr ""
+"När du öppnar Rhialtos trollformelsbok igen smulas den sönder till damm."
 
 #: dialog.tra:10
 msgid ""
 "Study the spellbook for a while, and see if you can learn something new."
-msgstr ""
+msgstr "Studera trollformelsboken ett tag och se om du kan lära dig något nytt."
 
 #: dialog.tra:11
 msgid "Close the book."
-msgstr ""
+msgstr "Stäng boken."
 
 #: dialog.tra:12
 msgid ""
 "When you examine this strange spell closer, it proves to be utterly useless."
 " No point in learning it."
 msgstr ""
+"När du undersöker den här märkliga formeln närmare visar den sig vara helt "
+"värdelös. Ingen mening med att lära sig den."
 
 #: dialog.tra:13
 msgid "You spend some time, browsing trough the book..."
-msgstr ""
+msgstr "Du tillbringar lite tid med att bläddra igenom boken..."
 
 #: dialog.tra:14
 msgid "You found something of interest."
-msgstr ""
+msgstr "Du hittade något av intresse."
 
 #: dialog.tra:15
 msgid "You find nothing new."
-msgstr ""
+msgstr "Du hittar inget nytt."
 
 #: dialog.tra:16
 msgid ""
 "You try to learn the spell, but it's too difficult, you need more experience"
 " in the art before you can learn it."
 msgstr ""
+"Du försöker lära dig trollformeln, men den är för svår, du behöver mer "
+"erfarenhet av konsten innan du kan lära dig den."
 
 #: dialog.tra:17
 msgid "You succeed in learning the spell."
-msgstr ""
+msgstr "Du lyckas lära dig trollformeln."
 
 #: dialog.tra:18
 msgid ""
