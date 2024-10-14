@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-14 07:09+0000\n"
+"PO-Revision-Date: 2024-10-14 09:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -159,11 +159,11 @@ msgstr ""
 
 #: dialog.tra:22
 msgid "Try to learn the spell \"Rodent Form\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Gnagarform\"."
 
 #: dialog.tra:23
 msgid "Try to learn the spell \"Blade Shower\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Bladskur\"."
 
 #: dialog.tra:24
 msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
