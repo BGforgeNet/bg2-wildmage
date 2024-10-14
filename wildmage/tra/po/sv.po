@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-14 09:09+0000\n"
+"PO-Revision-Date: 2024-10-14 12:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -167,7 +167,7 @@ msgstr "Försök att lära dig trollformeln \"Bladskur\"."
 
 #: dialog.tra:24
 msgid "Try to learn the spell \"Rhialto's Random Missiles\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Rhialtos Slumpmässiga Missiler\"."
 
 #: dialog.tra:25
 msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
@@ -179,11 +179,11 @@ msgstr ""
 
 #: dialog.tra:27
 msgid "Try to learn the spell \"Cellular Regeneration\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Cellulär Regeneration\"."
 
 #: dialog.tra:28
 msgid "Try to learn the spell \"Glyph of Wild Magic\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Tecken av Vild Magi\"."
 
 #: dialog.tra:29
 msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
@@ -191,11 +191,11 @@ msgstr ""
 
 #: dialog.tra:30
 msgid "Try to learn the spell \"Vortex\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Virvel\"."
 
 #: dialog.tra:31
 msgid "Try to learn the spell \"Paithan's Fiasco\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Paithans Fiasko\"."
 
 #: dialog.tra:32
 msgid "Try to learn the spell \"Wildstrike\"."
@@ -793,7 +793,7 @@ msgstr ""
 
 #: text.tra:21101
 msgid "Vortex"
-msgstr "Vortex"
+msgstr "Virvel"
 
 #: text.tra:21102
 msgid ""
