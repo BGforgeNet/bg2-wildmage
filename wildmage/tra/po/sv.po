@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-11 19:09+0000\n"
+"PO-Revision-Date: 2024-10-14 07:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -141,14 +141,17 @@ msgid ""
 " moment; as if someone powerful wipes it from your memory. Obviously someone"
 " doesn't want you to know this spell."
 msgstr ""
+"Hur mycket du än försöker koncentrera dig läser du en rad och glömmer den i "
+"samma ögonblick; som om någon mäktig person raderar den från ditt minne. "
+"Uppenbarligen är det någon som inte vill att du ska kunna den här formeln."
 
 #: dialog.tra:19
 msgid "You close the book."
-msgstr ""
+msgstr "Du stänger boken."
 
 #: dialog.tra:20
 msgid "Try to learn the spell \"Random Spell I\"."
-msgstr ""
+msgstr "Försök att lära dig formeln \"Slumpmässig Formel I\"."
 
 #: dialog.tra:21
 msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
