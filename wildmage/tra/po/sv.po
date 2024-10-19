@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-19 08:09+0000\n"
+"PO-Revision-Date: 2024-10-19 12:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -151,7 +151,7 @@ msgstr "Du stänger boken."
 
 #: dialog.tra:20
 msgid "Try to learn the spell \"Random Spell I\"."
-msgstr "Försök att lära dig formeln \"Slumpmässig Formel I\"."
+msgstr "Försök att lära dig trollformeln \"Slumpmässig Formel I\"."
 
 #: dialog.tra:21
 msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
@@ -175,7 +175,7 @@ msgstr "Försök att lära dig trollformeln \"Gymlainacs Ljusböjning\"."
 
 #: dialog.tra:26
 msgid "Try to learn the spell \"Vile Word of Discord\"."
-msgstr ""
+msgstr "Försök att lära dig stavningen \"Oenighetens Hemska Ord\"."
 
 #: dialog.tra:27
 msgid "Try to learn the spell \"Cellular Regeneration\"."
@@ -203,7 +203,7 @@ msgstr "Försök att lära dig trollformeln \"Vildslag\"."
 
 #: dialog.tra:33
 msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Hornungs Slumpmässiga Avsändare\"."
 
 #: dialog.tra:34
 msgid "Try to learn the spell \"Summon Cow\"."
@@ -243,19 +243,19 @@ msgstr "Försök att lära dig trollformeln \"Åkalla Vild Hjord\"."
 
 #: dialog.tra:43
 msgid "Try to learn the spell \"Random Spell II\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Slumpmässig Formel II\"."
 
 #: dialog.tra:44
 msgid "Try to learn the spell \"Corporeal Instability\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Kroppslig Instabilitet\"."
 
 #: dialog.tra:45
 msgid "Try to learn the spell \"Random Spell III\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Slumpmässig Formel III\"."
 
 #: dialog.tra:46
 msgid "Try to learn the spell \"Meece's Wild Armour\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Meeces Vildrustning\"."
 
 #: dialog.tra:47
 msgid "Try to learn the spell \"Random Spell IV\"."
@@ -881,7 +881,6 @@ msgid "Wildstrike"
 msgstr ""
 
 #: text.tra:21402
-#, fuzzy
 msgid ""
 "Wildstrike* (Conjuration/Summoning)\n"
 "Level: 6\n"
@@ -912,14 +911,14 @@ msgstr ""
 "besvärjelsen ingen effekt. Om räddningskastet misslyckas omsluts målet av "
 "ett fält av vild magi.\n"
 "\n"
-"Varje försök att kasta trollformler eller användning av en laddning från ett "
+"Varje försök att kasta trollformler eller att använda en laddning från ett "
 "magiskt föremål skapar automatiskt en vild våg. När man bestämmer effekterna "
-"av denna våg subtraheras 5 från tärningsslaget för varje fem nivåer av den "
-"vilda magiker som kastade wildstrike, vilket gör att effekterna av den vilda "
+"av denna våg subtraheras 5 från tärningsslaget för var femte nivå av den "
+"vilda magiker som kastade vildslag, vilket gör att effekterna av den vilda "
 "vågen är mer benägna att påverka offret.\n"
 "\n"
 "Besvärjelsens varaktighet är 1 rond plus två ronder för var femte nivå av "
-"besvärjaren, upp till maximalt 15 ronder på nivå 35."
+"besvärjaren, upp till maximalt 15 ronder vid nivå 35."
 
 #: text.tra:21501
 msgid "Hornung's Random Dispatcher"
@@ -1610,7 +1609,7 @@ msgstr ""
 
 #: text.tra:40403
 msgid "Teddy Bear of Protection +2, +4 vs. Demons"
-msgstr ""
+msgstr "Skyddets nallebjörn +2, +4 mot Demoner"
 
 #: text.tra:40404
 msgid ""
