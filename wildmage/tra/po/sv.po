@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-14 12:09+0000\n"
+"PO-Revision-Date: 2024-10-19 08:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -155,7 +155,7 @@ msgstr "Försök att lära dig formeln \"Slumpmässig Formel I\"."
 
 #: dialog.tra:21
 msgid "Try to learn the spell \"Rhialto's Chaos Conduit\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Rhialtos Kaosledning\"."
 
 #: dialog.tra:22
 msgid "Try to learn the spell \"Rodent Form\"."
@@ -171,7 +171,7 @@ msgstr "Försök att lära dig trollformeln \"Rhialtos Slumpmässiga Missiler\".
 
 #: dialog.tra:25
 msgid "Try to learn the spell \"Gymlainac's Lightbend\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Gymlainacs Ljusböjning\"."
 
 #: dialog.tra:26
 msgid "Try to learn the spell \"Vile Word of Discord\"."
@@ -187,7 +187,7 @@ msgstr "Försök att lära dig trollformeln \"Tecken av Vild Magi\"."
 
 #: dialog.tra:29
 msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Paithans Lyckoperiod\"."
 
 #: dialog.tra:30
 msgid "Try to learn the spell \"Vortex\"."
@@ -199,7 +199,7 @@ msgstr "Försök att lära dig trollformeln \"Paithans Fiasko\"."
 
 #: dialog.tra:32
 msgid "Try to learn the spell \"Wildstrike\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Vildslag\"."
 
 #: dialog.tra:33
 msgid "Try to learn the spell \"Hornung's Random Dispatcher\"."
@@ -207,7 +207,7 @@ msgstr ""
 
 #: dialog.tra:34
 msgid "Try to learn the spell \"Summon Cow\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Åkalla Ko\"."
 
 #: dialog.tra:35
 msgid "Try to learn the spell \"Eye of the Beholder\"."
@@ -239,7 +239,7 @@ msgstr ""
 
 #: dialog.tra:42
 msgid "Try to learn the spell \"Summon Wild Horde\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Åkalla Vild Hjord\"."
 
 #: dialog.tra:43
 msgid "Try to learn the spell \"Random Spell II\"."
@@ -881,6 +881,7 @@ msgid "Wildstrike"
 msgstr ""
 
 #: text.tra:21402
+#, fuzzy
 msgid ""
 "Wildstrike* (Conjuration/Summoning)\n"
 "Level: 6\n"
@@ -896,6 +897,29 @@ msgid ""
 "\n"
 "The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35."
 msgstr ""
+"Vildslag* (Besvärjelse/Åkallelse)\n"
+"Nivå: 6\n"
+"Räckvidd: 30 meter\n"
+"Varaktighet: 1-15 rundor\n"
+"Kastningstid: 3\n"
+"Effektområde: En varelse\n"
+"Räddningskast: Neg.\n"
+"\n"
+"Denna besvärjelse används främst mot fientliga besvärjare. Den förvränger "
+"alla försök till besvärjelser och omvandlar besvärjelsens energi till vilda "
+"vågor. Den som utsätts för ett vildslag får göra ett räddningskast, som "
+"modifieras med -1 för var tionde nivå av besvärjaren. Om det lyckas har "
+"besvärjelsen ingen effekt. Om räddningskastet misslyckas omsluts målet av "
+"ett fält av vild magi.\n"
+"\n"
+"Varje försök att kasta trollformler eller användning av en laddning från ett "
+"magiskt föremål skapar automatiskt en vild våg. När man bestämmer effekterna "
+"av denna våg subtraheras 5 från tärningsslaget för varje fem nivåer av den "
+"vilda magiker som kastade wildstrike, vilket gör att effekterna av den vilda "
+"vågen är mer benägna att påverka offret.\n"
+"\n"
+"Besvärjelsens varaktighet är 1 rond plus två ronder för var femte nivå av "
+"besvärjaren, upp till maximalt 15 ronder på nivå 35."
 
 #: text.tra:21501
 msgid "Hornung's Random Dispatcher"
@@ -1080,7 +1104,7 @@ msgstr ""
 
 #: text.tra:21601
 msgid "Summon Cow"
-msgstr "Kalla På Ko"
+msgstr "Åkalla ko"
 
 #: text.tra:21602
 msgid ""
@@ -1282,7 +1306,7 @@ msgstr ""
 
 #: text.tra:22401
 msgid "Summon Wild Horde"
-msgstr ""
+msgstr "Åkalla vild hord"
 
 #: text.tra:22402
 msgid ""
