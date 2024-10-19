@@ -297,7 +297,7 @@ Anyway, when the spell is successful, the caster gets rid of the target, and it'
 @21548 = ~was sent to the Seven Heavens~
 @21549 = ~was sent to the Tarterus~
 @21550 = ~was sent to the Twin Paradises~
-@21601 = ~Kalla På Ko~
+@21601 = ~Åkalla ko~
 @21602 = ~Summon Cow* (Summoning)
 Level: 7
 Range: Visual range of caster
@@ -425,7 +425,7 @@ Casting Time: 7
 Area of Effect: 20-foot radius
 Saving Throw: Half
 This spell unleashes an acidic cloud on the area of effect, doing 1-4 hit points of damage each round for the first three rounds, 1-6 hit points for the next three rounds, and 1-8 hit points for the next four rounds. Moving out of the area of effect does not stop the damage - the acid adheres to the skin, and the victims continue to suffer damage as long as the spell duration lasts. Affected creatures may make a saving throw vs. spell every round after they have been hit by the cloud - if successful, they only take half-damage (for that round only).~
-@22401 = ~Summon Wild Horde~
+@22401 = ~Åkalla vild hord~
 @22402 = ~Summon Wild Horde* (Conjuration/Summoning)
 Level: 2
 Range: 0
