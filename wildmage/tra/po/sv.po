@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-19 12:09+0000\n"
+"PO-Revision-Date: 2024-10-19 14:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -215,15 +215,15 @@ msgstr ""
 
 #: dialog.tra:36
 msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Mynocs Vilda Återhämtning\"."
 
 #: dialog.tra:37
 msgid "Try to learn the spell \"Entropy Shield\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Entropisköld\"."
 
 #: dialog.tra:38
 msgid "Try to learn the spell \"Wild Sphere\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Vildsfär\"."
 
 #: dialog.tra:39
 msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
