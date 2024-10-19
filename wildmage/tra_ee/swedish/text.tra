@@ -232,19 +232,19 @@ On a roll of 20, there is still a 25% chance for the spell to continue: If the r
 As long as it doesn't expire due to "Good Luck" (20 on D20, then 6 or higher on D20), the spell continues infinitely.~
 @21311 = ~Fiasco~
 @21401 = ~Wildstrike~
-@21402 = ~Wildstrike* (Conjuration/Summoning)
-Level: 6
-Range: 30 yards
-Duration: 1-15 rounds
-Casting Time: 3
-Area of Effect: One creature
-Saving Throw: Neg.
+@21402 = ~Vildslag* (Besvärjelse/Åkallelse)
+Nivå: 6
+Räckvidd: 30 meter
+Varaktighet: 1-15 rundor
+Kastningstid: 3
+Effektområde: En varelse
+Räddningskast: Neg.
 
-This spell is used primarily against hostile spellcasters. It distorts all attempts at spellcasting, converting spell energy into wild surges. The victim of a wildstrike is allowed a saving throw, to which a -1 modifier is applied for every 10 levels of the caster. If successful, the spell has no effect. If the saving throw is failed, the target is enclosed within a field of wild magic.
+Denna besvärjelse används främst mot fientliga besvärjare. Den förvränger alla försök till besvärjelser och omvandlar besvärjelsens energi till vilda vågor. Den som utsätts för ett vildslag får göra ett räddningskast, som modifieras med -1 för var tionde nivå av besvärjaren. Om det lyckas har besvärjelsen ingen effekt. Om räddningskastet misslyckas omsluts målet av ett fält av vild magi.
 
-Each attempt to casts spells or uses a charge from a magical item, automatically creates a wild surge. When determining the effects of this surge, 5 is subtracted from the die roll for every five levels of the wild mage who cast the wildstrike, making the effects of the wild surge more likely to affect the victim.
+Varje försök att kasta trollformler eller att använda en laddning från ett magiskt föremål skapar automatiskt en vild våg. När man bestämmer effekterna av denna våg subtraheras 5 från tärningsslaget för var femte nivå av den vilda magiker som kastade vildslag, vilket gör att effekterna av den vilda vågen är mer benägna att påverka offret.
 
-The duration of the spell is 1 round plus two rounds for every five levels of the caster, up to a maximum of 15 rounds at level 35.~
+Besvärjelsens varaktighet är 1 rond plus två ronder för var femte nivå av besvärjaren, upp till maximalt 15 ronder vid nivå 35.~
 @21501 = ~Hornung's Random Dispatcher~
 @21502 = ~Hornung's Random Dispatcher* (Abjuration)
 Level: 7
@@ -607,7 +607,7 @@ Not Usable By:
 @40302 = ~This appears to be a dead cat. It is extremely well preserved and looks as if it is sleeping.~
 @40401 = ~Teddy Bear~
 @40402 = ~Although this cute teddy bear looks quite old, it's still in good condition.~
-@40403 = ~Teddy Bear of Protection +2, +4 vs. Demons~
+@40403 = ~Skyddets nallebjörn +2, +4 mot Demoner~
 @40404 = ~Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'
 The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.
 
