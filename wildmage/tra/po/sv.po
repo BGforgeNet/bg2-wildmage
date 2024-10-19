@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-19 14:09+0000\n"
+"PO-Revision-Date: 2024-10-19 15:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -227,15 +227,15 @@ msgstr "Försök att lära dig trollformeln \"Vildsfär\"."
 
 #: dialog.tra:39
 msgid "Try to learn the spell \"Rhialto's Marvelous Reincarnation\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Rhialtos Förunderliga Återfödelse\"."
 
 #: dialog.tra:40
 msgid "Try to learn the spell \"Rhialto's Avatar\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Rhialtos Avatar\"."
 
 #: dialog.tra:41
 msgid "Try to learn the spell \"Mynoc's Irresistible Appeal\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Mynocs Oemotståndliga Attraktion\"."
 
 #: dialog.tra:42
 msgid "Try to learn the spell \"Summon Wild Horde\"."
@@ -259,27 +259,31 @@ msgstr "Försök att lära dig trollformeln \"Meeces Vildrustning\"."
 
 #: dialog.tra:47
 msgid "Try to learn the spell \"Random Spell IV\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Slumpmässig Formel IV\"."
 
 #: dialog.tra:48
 msgid "Try to learn the spell \"Entropy Burst\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Entropismäll\"."
 
 #: dialog.tra:49
 msgid "Try to learn the spell \"Wildfire\"."
-msgstr ""
+msgstr "Försök att lära dig trollformeln \"Vild Eld\"."
 
 #: dialog.tra:100
 msgid ""
 "Well, well, well... What do we have here?  Greetings, young one, No doubt "
 "you're honored to meet Rhialto the Marvelous."
 msgstr ""
+"Jaha, jaha, jaha... Vad har vi här?  Var hälsad, yngling. Det är säkert en "
+"ära att få träffa den Förunderlige Rhialto."
 
 #: dialog.tra:101
 msgid ""
 "Ah yes, you are perfect. Be honored, young one, for your existence now has a"
 " purpose: Rhialto the Marvelous needs your spleen."
 msgstr ""
+"Åh ja, du är perfekt. Var hedrad, yngling, för din existens har nu ett syfte:"
+" den Förunderlige Rhialto behöver din mjälte."
 
 #: dialog.tra:102
 msgid ""
@@ -287,6 +291,9 @@ msgid ""
 " well, since ever!!!  Of course, it needs to be extracted while you're still"
 " alive, otherwise it would be worthless as an ingredient."
 msgstr ""
+"Det kommer att vara den sista komponenten i den största trollformeln som har "
+"skapats sedan, ja, sedan någonsin!!!  Naturligtvis måste den utvinnas medan "
+"du fortfarande är vid liv, annars skulle den vara värdelös som ingrediens."
 
 #: dialog.tra:103
 msgid ""
@@ -294,6 +301,9 @@ msgid ""
 "Rhialto the Marvelous is a very experienced surgeon, it will only take an "
 "hour or two..."
 msgstr ""
+"Men det kommer inte att vara alltför smärtsamt... Eller, det tar i alla fall "
+"inte särskilt lång tid.  Den Förunderlige Rhialto är en mycket erfaren "
+"kirurg, det kommer bara att ta en timme eller två..."
 
 #: dialog.tra:110
 msgid ""
