@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-19 15:09+0000\n"
+"PO-Revision-Date: 2024-10-19 18:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -211,7 +211,7 @@ msgstr "Försök att lära dig trollformeln \"Åkalla Ko\"."
 
 #: dialog.tra:35
 msgid "Try to learn the spell \"Eye of the Beholder\"."
-msgstr ""
+msgstr "Försök att lära dig stavningen \"Betraktarens Öga\"."
 
 #: dialog.tra:36
 msgid "Try to learn the spell \"Mynoc's Wild Recuperation\"."
