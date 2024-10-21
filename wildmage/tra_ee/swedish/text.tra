@@ -2,17 +2,17 @@
 
 @10101 = ~Vild Magi~
 @10201 = ~Vild Magi fick dina drömmar att gå i uppfyllelse. (Vad det nu är bra för...)~
-@10301 = ~THAC0 Reduced by 1~
+@10301 = ~THAC0 Minskad med 1~
 @10302 = ~Backstab Multiplier Increased by 1~
-@10303 = ~Dagger Proficiency raised to 2 (Specialized)~
-@10304 = ~Dagger Proficiency raised to 3 (Master)~
-@10305 = ~Gained Ambidexterity (1st Rank)~
-@10306 = ~Raised Ambidexterity to 2nd Rank~
-@10307 = ~Gained +1 Melee Damage Bonus~
-@10308 = ~Gained 20% Hitpoint Bonus~
-@10309 = ~Attacks per round raised by 1~
-@10310 = ~Critical Hit Range increased by 1~
-@20101 = ~Rhialto's Chaos Conduit~
+@10303 = ~Dolkfärdighet ökat till 2 (Specialiserad)~
+@10304 = ~Dolkfärdighet ökat till 3 (Mästare)~
+@10305 = ~Uppnådde Ambidextri (1:a Rang)~
+@10306 = ~Ökade Ambidextri till 2:a Rang~
+@10307 = ~Fick +1 närstridsskadebonus~
+@10308 = ~Fick 20% Hälsopoängsbonus~
+@10309 = ~Attacker per runda höjt med 1~
+@10310 = ~Kritisk träff-räckvidd ökad med 1~
+@20101 = ~Rhialtos Kaosledning~
 @20102 = ~Rhialto's Chaos Conduit* (Alteration)
 Level: 1
 Range: 0
