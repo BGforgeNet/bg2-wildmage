@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-19 19:09+0000\n"
+"PO-Revision-Date: 2024-10-21 20:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -322,50 +322,52 @@ msgid ""
 "But to do this, you had to read Rhialto's spellbook. Rhialto the Marvelous "
 "really doesn't like it when someone touches his stuff!!!"
 msgstr ""
+"Men för att göra detta var du tvungen att läsa Rhialtos trollformelbok. Den "
+"Förunderlige Rhialto gillar verkligen inte när någon rör vid hans saker!!!"
 
 #: dialog.tra:200
 msgid "Select a Special Ability\n"
-msgstr ""
+msgstr "Välj en Specialförmåga\n"
 
 #: dialog.tra:201
 msgid "Ambidexterity (1st Rank)"
-msgstr ""
+msgstr "Ambidextri (1:a rang)"
 
 #: dialog.tra:202
 msgid "Ambidexterity (2nd Rank)"
-msgstr ""
+msgstr "Ambidextri (2:a rang)"
 
 #: dialog.tra:203
 msgid "Backstabbing (x2)"
-msgstr ""
+msgstr "Rygghugg (x2)"
 
 #: dialog.tra:204
 msgid "Backstabbing Adept (x3)"
-msgstr ""
+msgstr "Rygghugg Skicklig (x3)"
 
 #: dialog.tra:205
 msgid "Backstabbing Expert (x4)"
-msgstr ""
+msgstr "Rygghugg Expert (x4)"
 
 #: dialog.tra:206
 msgid "Backstabbing Master (x5)"
-msgstr ""
+msgstr "Rygghugg Mästare (x5)"
 
 #: dialog.tra:207
 msgid "Combat Speed"
-msgstr ""
+msgstr "Stridshastighet"
 
 #: dialog.tra:208
 msgid "Dagger Specialization"
-msgstr ""
+msgstr "Dolk-specialisering"
 
 #: dialog.tra:209
 msgid "Dagger Mastery"
-msgstr ""
+msgstr "Dolk-bemästring"
 
 #: dialog.tra:210
 msgid "Improved Criticals"
-msgstr ""
+msgstr "Förbättrade Kritiska Träffar"
 
 #: dialog.tra:211
 msgid "Toughness"
@@ -373,33 +375,35 @@ msgstr "Tuffhet"
 
 #: dialog.tra:212
 msgid "Vicious hits"
-msgstr ""
+msgstr "Våldsamma träffar"
 
 #: dialog.tra:213
 msgid "Rogue High Level Ability: \"Assassination\""
-msgstr ""
+msgstr "Rackare Hög Nivå Förmåga: \"Lönnmord\""
 
 #: dialog.tra:214
 msgid "Rogue High Level Ability: \"Avoid Death\""
-msgstr ""
+msgstr "Rackare Hög Nivå Förmåga: \"Undvik Död\""
 
 #: dialog.tra:215
 msgid "Rogue High Level Ability: \"Evasion\""
-msgstr ""
+msgstr "Rackare Hög Nivå Förmåga: \"Undanflykt\""
 
 #: dialog.tra:216 text.tra:30101
 msgid "Weave Spell"
-msgstr ""
+msgstr "Vävformel"
 
 #: dialog.tra:217 text.tra:30201
 msgid "Weaveshear"
-msgstr ""
+msgstr "Vävklippning"
 
 #: dialog.tra:220
 msgid ""
 "You don't know exactly what just happened, but in the heat of battle you "
 "somehow managed to cast a spell spontaneously."
 msgstr ""
+"Du vet inte exakt vad som hände, men i stridens hetta lyckades du på något "
+"sätt kasta en trollformel spontant."
 
 #: dialog.tra:221
 msgid ""
@@ -407,28 +411,33 @@ msgid ""
 "happening, somehow you feel that if you yield to it, you will be changed "
 "forever."
 msgstr ""
+"Nu känner du en märklig våg av magisk kraft stiga inom dig. Vad det än är "
+"som händer, så känner du på något sätt att om du ger efter för det, så "
+"kommer du att förändras för alltid."
 
 #: dialog.tra:222
 msgid "Embrace this new power."
-msgstr ""
+msgstr "Omfamna denna nya kraft."
 
 #: dialog.tra:223
 msgid "Try to suppress it."
-msgstr ""
+msgstr "Försök att undertrycka den."
 
 #: dialog.tra:224
 msgid "Whatever that was, you were strong enough to suppress it."
-msgstr ""
+msgstr "Vad det än var, så var du stark nog att undertrycka det."
 
 #: dialog.tra:225
 msgid "A surge of chaotic energy overwhelms you."
-msgstr ""
+msgstr "En våg av kaotisk energi överväldigar dig."
 
 #: dialog.tra:230
 msgid ""
 "When you give in to the surge of magical power, you feel that your "
 "understanding of the magical Weave changes."
 msgstr ""
+"När du ger efter för vågen av magisk kraft känner du att din förståelse för "
+"den magiska Väven förändras."
 
 #: dialog.tra:231
 msgid ""
@@ -468,31 +477,32 @@ msgstr ""
 
 #: setup.tra:62
 msgid "Only ToB and EE engines are supported"
-msgstr ""
+msgstr "Endast ToB- och EE-motorer stöds"
 
 #: setup.tra:63
 msgid "Original avatar"
-msgstr ""
+msgstr "Ursprunglig avatar"
 
 #: setup.tra:64
 msgid "Changed avatar"
-msgstr ""
+msgstr "Ändrad avatar"
 
 #: setup.tra:65
 msgid "Requires BG1 content"
-msgstr ""
+msgstr "Kräver BG1-innehåll"
 
 #: setup.tra:66
 msgid "Retain Rhialto's items"
-msgstr ""
+msgstr "Behåll Rhialtos föremål"
 
 #: text.tra:10101
 msgid "Wild Magic"
-msgstr ""
+msgstr "Vild Magi"
 
 #: text.tra:10201
 msgid "Wild Magic made your dreams come true. (Whatever that's good for...)"
 msgstr ""
+"Vild Magi fick dina drömmar att gå i uppfyllelse. (Vad det nu är bra för...)"
 
 #: text.tra:10301
 msgid "THAC0 Reduced by 1"
