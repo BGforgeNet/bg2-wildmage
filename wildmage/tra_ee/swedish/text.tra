@@ -1,7 +1,7 @@
 // Do not edit. This file is generated automatically by handle-charsets. Your changes will be lost.
 
-@10101 = ~Wild Magic~
-@10201 = ~Wild Magic made your dreams come true. (Whatever that's good for...)~
+@10101 = ~Vild Magi~
+@10201 = ~Vild Magi fick dina drömmar att gå i uppfyllelse. (Vad det nu är bra för...)~
 @10301 = ~THAC0 Reduced by 1~
 @10302 = ~Backstab Multiplier Increased by 1~
 @10303 = ~Dagger Proficiency raised to 2 (Specialized)~
@@ -539,7 +539,7 @@ The caster of the Wildarmor spell is protected by intense fluctuations in the ma
 After the damage done by an attack was reduced, the spell renders the caster invisible to avert further damage. This invisibility lasts for 5 rounds, until dispelled, or until the caster attacks any creature.
 
 The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level.~
-@30101 = ~Weave Spell~
+@30101 = ~Vävformel~
 @30111 = ~1st level~
 @30112 = ~2nd level~
 @30113 = ~3rd level~
@@ -552,7 +552,7 @@ The spell's duration is 5 rounds for every level of the caster, up to 2 hours at
 @30120 = ~10th level~
 @30121 = ~You don't have any suitable spells memorized.~
 @30122 = ~Wild Magic Backlash~
-@30201 = ~Weaveshear~
+@30201 = ~Vävklippning~
 @30301 = ~Shape Spell~
 @30302 = ~Shaped Spell~
 @40101 = ~Hand~
