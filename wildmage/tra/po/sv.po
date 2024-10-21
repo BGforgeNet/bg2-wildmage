@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-21 20:09+0000\n"
+"PO-Revision-Date: 2024-10-21 21:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -506,7 +506,7 @@ msgstr ""
 
 #: text.tra:10301
 msgid "THAC0 Reduced by 1"
-msgstr ""
+msgstr "THAC0 Minskad med 1"
 
 #: text.tra:10302
 msgid "Backstab Multiplier Increased by 1"
@@ -514,39 +514,39 @@ msgstr ""
 
 #: text.tra:10303
 msgid "Dagger Proficiency raised to 2 (Specialized)"
-msgstr ""
+msgstr "Dolkfärdighet ökat till 2 (Specialiserad)"
 
 #: text.tra:10304
 msgid "Dagger Proficiency raised to 3 (Master)"
-msgstr ""
+msgstr "Dolkfärdighet ökat till 3 (Mästare)"
 
 #: text.tra:10305
 msgid "Gained Ambidexterity (1st Rank)"
-msgstr ""
+msgstr "Uppnådde Ambidextri (1:a Rang)"
 
 #: text.tra:10306
 msgid "Raised Ambidexterity to 2nd Rank"
-msgstr ""
+msgstr "Ökade Ambidextri till 2:a Rang"
 
 #: text.tra:10307
 msgid "Gained +1 Melee Damage Bonus"
-msgstr ""
+msgstr "Fick +1 närstridsskadebonus"
 
 #: text.tra:10308
 msgid "Gained 20% Hitpoint Bonus"
-msgstr ""
+msgstr "Fick 20% Hälsopoängsbonus"
 
 #: text.tra:10309
 msgid "Attacks per round raised by 1"
-msgstr ""
+msgstr "Attacker per runda höjt med 1"
 
 #: text.tra:10310
 msgid "Critical Hit Range increased by 1"
-msgstr ""
+msgstr "Kritisk träff-räckvidd ökad med 1"
 
 #: text.tra:20101
 msgid "Rhialto's Chaos Conduit"
-msgstr ""
+msgstr "Rhialtos Kaosledning"
 
 #: text.tra:20102
 msgid ""
