@@ -618,7 +618,7 @@ Saving Throws:  +2 bonus (+4 vs. Demons)
 
 Not Usable By:
  Wizard Slayer~
-@40501 = ~Rhialto's Spellbook~
+@40501 = ~Rhialtos trollformelsbok~
 @40502 = ~This spellbook once belonged to Rhialto "the Marvelous". You obtained it after his sudden demise.
 
 Although the book is in a bad condition - torn pages, insane scribble and stains all over, it's still radiating a lot of magical power.
@@ -655,10 +655,10 @@ May be used once per day to cast one of the following spells:
 
 Only Usable By:
  Wild Mage~
-@40511 = ~Read~
-@50101 = ~Rhialto the Marvelous~
+@40511 = ~Läs~
+@50101 = ~Den Förunderlige Rhialto~
 @50102 = ~Rhialto~
-@50111 = ~Wild Surge: Caster changed into a squirrel~
+@50111 = ~Vild Våg: Kastaren förvandlades till en ekorre~
 @69998 = ~Letter~
 @69999 = ~My dear friend Gorion,
 
