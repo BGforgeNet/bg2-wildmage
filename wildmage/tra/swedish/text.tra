@@ -1,7 +1,7 @@
 @10101 = ~Vild Magi~
 @10201 = ~Vild Magi fick dina drömmar att gå i uppfyllelse. (Vad det nu är bra för...)~
 @10301 = ~THAC0 Minskad med 1~
-@10302 = ~Backstab Multiplier Increased by 1~
+@10302 = ~Rygghugg-multiplicerare Ökad med 1~
 @10303 = ~Dolkfärdighet ökat till 2 (Specialiserad)~
 @10304 = ~Dolkfärdighet ökat till 3 (Mästare)~
 @10305 = ~Uppnådde Ambidextri (1:a Rang)~
@@ -30,8 +30,8 @@ Besvärjelsen kan bara kastas en gång och dess effekt är oåterkallelig. Besv�
 Dessa förändringar kommer dock inte från själva besvärjelsen. Rhialtos Kaosledning frigör och förstärker bara tendenser och intressen som redan finns där. Personer som inte är intresserade av de gåvor som denna besvärjelse har att erbjuda, skulle vara immuna mot dess effekter. Men sådana personer skulle inte ens komma på tanken att kasta en sådan här besvärjelse överhuvudtaget.
 
 Oavsett om du faktiskt tänker på att kasta den här besvärjelsen eller inte, så är en sak säker: om du vågar kasta den kommer den att förändra dig för alltid.~
-@20103 = ~Spellshaper~
-@20111 = ~After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, "weave" it into anything you can imagine.~
+@20103 = ~Besvärjelseformare~
+@20111 = ~Efter att ha kastat denna märkliga besvärjelse känner du att din förståelse för den magiska Väven förändras. En gång försökte du studera kaoset omkring dig, böja det efter din vilja och hämta din styrka från den vilda magins oregelbundna ebb och flod. Nu känner du en relation till Väven. Du känner att du kan trassla till Väven, omforma den, "väva" den till vad du än kan föreställa dig.~
 @20112 = ~You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream.~
 @20201 = ~Rodent Form~
 @20202 = ~Rodent Form* (Alteration)
