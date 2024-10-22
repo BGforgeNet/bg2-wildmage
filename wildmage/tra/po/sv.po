@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-22 09:09+0000\n"
+"PO-Revision-Date: 2024-10-22 12:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -1723,7 +1723,7 @@ msgstr ""
 
 #: text.tra:40501
 msgid "Rhialto's Spellbook"
-msgstr ""
+msgstr "Rhialtos trollformelsbok"
 
 #: text.tra:40502
 msgid ""
@@ -1771,19 +1771,19 @@ msgstr ""
 
 #: text.tra:40511
 msgid "Read"
-msgstr ""
+msgstr "Läs"
 
 #: text.tra:50101
 msgid "Rhialto the Marvelous"
-msgstr ""
+msgstr "Den Förunderlige Rhialto"
 
 #: text.tra:50102
 msgid "Rhialto"
-msgstr ""
+msgstr "Rhialto"
 
 #: text.tra:50111
 msgid "Wild Surge: Caster changed into a squirrel"
-msgstr ""
+msgstr "Vild Våg: Kastaren förvandlades till en ekorre"
 
 #: text.tra:69998
 msgid "Letter"
