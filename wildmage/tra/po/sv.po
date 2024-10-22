@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-22 08:09+0000\n"
+"PO-Revision-Date: 2024-10-22 09:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -461,7 +461,7 @@ msgstr "Nya Trollformler för Vild Magi"
 
 #: setup.tra:2
 msgid "Spellshaper Kit"
-msgstr ""
+msgstr "Besvärjelseformar-kit"
 
 #: setup.tra:4
 msgid "Misc spell modifications"
@@ -640,10 +640,18 @@ msgid ""
 "supposed to be like that. You don't feel as if you were changed, though, "
 "it's more like finally waking up from a long, long dream."
 msgstr ""
+"Du känner också att trollformeln har förändrat mer än bara dina "
+"besvärjelseförmågor. På något sätt känns det som om formeln frigjort en del "
+"av din själ som hittills varit djupt gömd inom dig. Det finns lite mer "
+"individualitet, tolerans, nyfikenhet, men också lite mindre disciplin och "
+"noggrannhet, liksom en misstro mot auktoriteter. Men det känns rätt, som om "
+"det alltid har varit meningen att det ska vara så. Det känns dock inte som "
+"om du har förändrats, det är mer som att äntligen vakna upp ur en lång, lång "
+"dröm."
 
 #: text.tra:20201
 msgid "Rodent Form"
-msgstr ""
+msgstr "Gnagarform"
 
 #: text.tra:20202
 msgid ""
@@ -659,18 +667,34 @@ msgid ""
 "\n"
 "Hopefully, the current revision of this spell does NOT change the caster's personality or mentality."
 msgstr ""
+"Gnagarform* (Omformning)\n"
+"Nivå: 1\n"
+"Räckvidd: 0\n"
+"Varaktighet: 1 runda\n"
+"Kastningstid: 1\n"
+"Effektområde: Den som kastar\n"
+"Räddande kast: Inga\n"
+"\n"
+"Denna trollformel förvandlar besvärjaren till en söt liten ekorre. På grund "
+"av gnagarens pyttelilla storlek får besvärjaren en Rustningsklassbonus på 2 "
+"poäng, och ytterligare 2 poäng mot missilvapen. Rörelsehastigheten ökar "
+"också något. Till skillnad från andra polymorfingsformler behåller "
+"besvärjaren sina besvärjelseförmågor när han är i gnagarform.\n"
+"\n"
+"Förhoppningsvis ändrar den nuvarande versionen av denna besvärjelse INTE "
+"besvärjarens personlighet eller mentalitet."
 
 #: text.tra:20211
 msgid "One of my spells has changed!"
-msgstr ""
+msgstr "En av mina trollformler har ändrats!"
 
 #: text.tra:20212
 msgid "Learned new spell: Ratatosk Shape"
-msgstr ""
+msgstr "Lärde dig en ny trollformel: Ratatoskform"
 
 #: text.tra:20301
 msgid "Ratatosk Shape"
-msgstr ""
+msgstr "Ratatoskform"
 
 #: text.tra:20302
 msgid ""
@@ -693,7 +717,7 @@ msgstr ""
 
 #: text.tra:20401
 msgid "Random Spell I"
-msgstr ""
+msgstr "Slumpmässig trollformel I"
 
 #: text.tra:20402
 msgid ""
@@ -716,7 +740,7 @@ msgstr ""
 
 #: text.tra:20501
 msgid "Blade Shower"
-msgstr ""
+msgstr "Bladeskur"
 
 #: text.tra:20502
 msgid ""
@@ -739,7 +763,7 @@ msgstr ""
 
 #: text.tra:20511
 msgid "\"Blade Shower\" has been added to your Special Abilities menu"
-msgstr ""
+msgstr "\"Bladskur\" har lagts till i din Specialförmågor-meny"
 
 #: text.tra:20601
 msgid "Rhialto's Random Missiles"
@@ -1013,7 +1037,7 @@ msgstr ""
 
 #: text.tra:21511
 msgid "was sent to the Abyss"
-msgstr ""
+msgstr "skickades till Avgrunden"
 
 #: text.tra:21512
 msgid "was sent to Acheron"
@@ -1045,7 +1069,7 @@ msgstr ""
 
 #: text.tra:21519
 msgid "was sent to the Elemental Plane of Air"
-msgstr ""
+msgstr "skickades till Luftens Elementarplan"
 
 #: text.tra:21520
 msgid "was sent to the Elemental Plane of Fire"
