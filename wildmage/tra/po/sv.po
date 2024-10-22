@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-22 06:09+0000\n"
+"PO-Revision-Date: 2024-10-22 08:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -477,7 +477,7 @@ msgstr "Järnman"
 
 #: setup.tra:61
 msgid "Haugthy pansy"
-msgstr ""
+msgstr "Finsmakig fegis"
 
 #: setup.tra:62
 msgid "Only ToB and EE engines are supported"
@@ -514,7 +514,7 @@ msgstr "THAC0 Minskad med 1"
 
 #: text.tra:10302
 msgid "Backstab Multiplier Increased by 1"
-msgstr ""
+msgstr "Rygghugg-multiplicerare Ökad med 1"
 
 #: text.tra:10303
 msgid "Dagger Proficiency raised to 2 (Specialized)"
@@ -613,7 +613,7 @@ msgstr ""
 
 #: text.tra:20103
 msgid "Spellshaper"
-msgstr ""
+msgstr "Besvärjelseformare"
 
 #: text.tra:20111
 msgid ""
@@ -623,6 +623,12 @@ msgid ""
 "magic. Now you feel a relation to the Weave. You feel that you are able to "
 "tangle the Weave, reshape it, \"weave\" it into anything you can imagine."
 msgstr ""
+"Efter att ha kastat denna märkliga besvärjelse känner du att din förståelse "
+"för den magiska Väven förändras. En gång försökte du studera kaoset omkring "
+"dig, böja det efter din vilja och hämta din styrka från den vilda magins "
+"oregelbundna ebb och flod. Nu känner du en relation till Väven. Du känner "
+"att du kan trassla till Väven, omforma den, \"väva\" den till vad du än kan "
+"föreställa dig."
 
 #: text.tra:20112
 msgid ""
