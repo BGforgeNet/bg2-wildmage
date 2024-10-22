@@ -32,22 +32,22 @@ Dessa förändringar kommer dock inte från själva besvärjelsen. Rhialtos Kaos
 Oavsett om du faktiskt tänker på att kasta den här besvärjelsen eller inte, så är en sak säker: om du vågar kasta den kommer den att förändra dig för alltid.~
 @20103 = ~Besvärjelseformare~
 @20111 = ~Efter att ha kastat denna märkliga besvärjelse känner du att din förståelse för den magiska Väven förändras. En gång försökte du studera kaoset omkring dig, böja det efter din vilja och hämta din styrka från den vilda magins oregelbundna ebb och flod. Nu känner du en relation till Väven. Du känner att du kan trassla till Väven, omforma den, "väva" den till vad du än kan föreställa dig.~
-@20112 = ~You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream.~
-@20201 = ~Rodent Form~
-@20202 = ~Rodent Form* (Alteration)
-Level: 1
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+@20112 = ~Du känner också att trollformeln har förändrat mer än bara dina besvärjelseförmågor. På något sätt känns det som om formeln frigjort en del av din själ som hittills varit djupt gömd inom dig. Det finns lite mer individualitet, tolerans, nyfikenhet, men också lite mindre disciplin och noggrannhet, liksom en misstro mot auktoriteter. Men det känns rätt, som om det alltid har varit meningen att det ska vara så. Det känns dock inte som om du har förändrats, det är mer som att äntligen vakna upp ur en lång, lång dröm.~
+@20201 = ~Gnagarform~
+@20202 = ~Gnagarform* (Omformning)
+Nivå: 1
+Räckvidd: 0
+Varaktighet: 1 runda
+Kastningstid: 1
+Effektområde: Den som kastar
+Räddande kast: Inga
 
-This spell transforms the caster into a cute little squirrel. Due to the rodent's tiny size, the caster gets an Armor Class bonus of 2 points, and additional 2 points against missile weapons. Move speed is also slightly increased. Unlike other polymorphing spells, the caster retains his spellcasting abilities while in rodent form.
+Denna trollformel förvandlar besvärjaren till en söt liten ekorre. På grund av gnagarens pyttelilla storlek får besvärjaren en Rustningsklassbonus på 2 poäng, och ytterligare 2 poäng mot missilvapen. Rörelsehastigheten ökar också något. Till skillnad från andra polymorfingsformler behåller besvärjaren sina besvärjelseförmågor när han är i gnagarform.
 
-Hopefully, the current revision of this spell does NOT change the caster's personality or mentality.~
-@20211 = ~One of my spells has changed!~
-@20212 = ~Learned new spell: Ratatosk Shape~
-@20301 = ~Ratatosk Shape~
+Förhoppningsvis ändrar den nuvarande versionen av denna besvärjelse INTE besvärjarens personlighet eller mentalitet.~
+@20211 = ~En av mina trollformler har ändrats!~
+@20212 = ~Lärde dig en ny trollformel: Ratatoskform~
+@20301 = ~Ratatoskform~
 @20302 = ~Ratatosk Shape* (Alteration)
 Level: 1
 Range: 0
@@ -63,7 +63,7 @@ Upon casting this spell, the mage is transformed into one of these little fellow
 The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.
 
 Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active.~
-@20401 = ~Random Spell I~
+@20401 = ~Slumpmässig trollformel I~
 @20402 = ~Random Spell I* (Invocation/Evocation)
 Level: 1
 Range: 40 yards
@@ -79,7 +79,7 @@ In rare cases, an unstable magical energy outburst results in several random eff
 The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
 
 The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@20501 = ~Blade Shower~
+@20501 = ~Bladeskur~
 @20502 = ~Blade Shower* (Conjuration)
 Level: 2
 Range: 40 yards
@@ -95,7 +95,7 @@ Each single dagger does 1d4 points of piercing damage. At level 5, the daggers g
 The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.
 
 Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
-@20511 = ~"Blade Shower" has been added to your Special Abilities menu~
+@20511 = ~"Bladskur" har lagts till i din Specialförmågor-meny~
 @20601 = ~Rhialtos Slumpmässiga Missiler~
 @20602 = ~Rhialto's Random Missiles* (Evocation)
 Level: 2
@@ -257,7 +257,7 @@ With the utterance of a few words, this spell can hurl someone to a random plane
 The caster has no control over the destination of the target. The conditions at the destination may kill the target (for example, arriving in the elemental plane of fire), merely make his life difficult, or promise a new life in paradise (literally).
 
 Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime.~
-@21511 = ~was sent to the Abyss~
+@21511 = ~skickades till Avgrunden~
 @21512 = ~was sent to Acheron~
 @21513 = ~was sent to the prime world known as Oerth~
 @21514 = ~was sent to the prime world known as Athas~
@@ -265,7 +265,7 @@ Anyway, when the spell is successful, the caster gets rid of the target, and it'
 @21516 = ~was sent to the Astral Plane~
 @21517 = ~was sent to the Beastlands~
 @21518 = ~was sent to the Outlands~
-@21519 = ~was sent to the Elemental Plane of Air~
+@21519 = ~skickades till Luftens Elementarplan~
 @21520 = ~was sent to the Elemental Plane of Fire~
 @21521 = ~was sent to the Elemental Plane of Earth~
 @21522 = ~was sent to the Elemental Plane of Water~
