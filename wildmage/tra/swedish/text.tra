@@ -11,25 +11,25 @@
 @10309 = ~Attacker per runda höjt med 1~
 @10310 = ~Kritisk träff-räckvidd ökad med 1~
 @20101 = ~Rhialtos Kaosledning~
-@20102 = ~Rhialto's Chaos Conduit* (Alteration)
-Level: 1
-Range: 0
-Duration: Instantaneous
-Casting Time: 2 rounds
-Area of Effect: The caster
-Saving Throw: None
+@20102 = ~Rhialtos Kaosledning* (Omformning)
+Nivå: 1
+Räckvidd: 0
+Varaktighet: Omedelbar
+Kastningstid: 2 rundor
+Område av effekt: Den som kastar
+Räddande kast: Ingen
 
-You found this strange spell in Rhialto's spellbook. Rhialto spent decades with his research on wild magic, and in the end created this spell that allowed him to learn a new way of spellcasting.
+Du hittade denna märkliga besvärjelse i Rhialtos trollformelsbok. Rhialto tillbringade årtionden med att forska i vild magi och skapade till slut den här formeln som gjorde att han kunde lära sig ett nytt sätt att trolla.
 
-Rhialto's Chaos Conduit establishes a link between the caster and the chaotic plane of Limbo, and then channels raw chaotic energy right into the caster. The purpose of this process is to open the caster's mind for a different kind of spellcasting.
+Rhialtos Kaosledning upprättar en länk mellan besvärjaren och det kaotiska planet Limbo och kanaliserar sedan rå kaotisk energi rakt in i besvärjaren. Syftet med denna process är att öppna besvärjarens sinne för en annan typ av trollformler.
 
-Although the spell's invocation is easy enough to make it available as a 1st level spell, its inner structure is incredible complex and would be appropriate for a spell of 9th, 10th or even higher level. The spell's chaotic nature might partly be responsible for this strange discrepancy.
+Även om besvärjelsen är så pass enkel att den kan användas som en besvärjelse på nivå 1, så är dess inre struktur otroligt komplex och skulle passa för en besvärjelse på nivå 9, 10 eller ännu högre. Besvärjelsens kaotiska natur kan delvis vara ansvarig för denna märkliga diskrepans.
 
-The spell can be cast only once and its effect is irrevocable. The caster's spellcasting capabilities are permanently changed towards a more intuitive way, and the same happens to his personality.
+Besvärjelsen kan bara kastas en gång och dess effekt är oåterkallelig. Besvärjarens förmåga att kasta trollformler förändras permanent mot ett mer intuitivt sätt, och detsamma händer med hans personlighet.
 
-These changes don't come from the spell itself, though. Rhialto's Chaos Conduit only frees and amplifies tendencies and interests that are already there. Persons that aren't interested in the gifts this spell has to offer, would be immune against its effects. However, such persons wouldn't even think of casting a spell like this in the first place.
+Dessa förändringar kommer dock inte från själva besvärjelsen. Rhialtos Kaosledning frigör och förstärker bara tendenser och intressen som redan finns där. Personer som inte är intresserade av de gåvor som denna besvärjelse har att erbjuda, skulle vara immuna mot dess effekter. Men sådana personer skulle inte ens komma på tanken att kasta en sådan här besvärjelse överhuvudtaget.
 
-No matter if you actually think about casting this spell or not, one thing you know for sure: if you dare to cast the spell, it will change you forever.~
+Oavsett om du faktiskt tänker på att kasta den här besvärjelsen eller inte, så är en sak säker: om du vågar kasta den kommer den att förändra dig för alltid.~
 @20103 = ~Spellshaper~
 @20111 = ~After casting this strange spell, you feel your understanding of the magical Weave changing. Once you tried to study the chaos around you, bending it to your will, drawing your strength from the erratic ebb and flow of wild magic. Now you feel a relation to the Weave. You feel that you are able to tangle the Weave, reshape it, "weave" it into anything you can imagine.~
 @20112 = ~You also feel, that the spell has changed more than just your spellcasting abilities. Somehow it feels as if the spell freed a part of your soul that was hidden deep within you until now. There is a bit more individuality, tolerance, curiosity, but also a bit less discipline and diligence, as well as a mistrust to authorities. It feel right though, as if it always was supposed to be like that. You don't feel as if you were changed, though, it's more like finally waking up from a long, long dream.~
