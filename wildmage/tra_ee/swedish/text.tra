@@ -65,7 +65,7 @@ Upon casting this spell, the mage is transformed into one of these little fellow
 The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.
 
 Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active.~
-@20401 = ~Slumpmässig trollformel I~
+@20401 = ~Slumpmässig Formel I~
 @20402 = ~Random Spell I* (Invocation/Evocation)
 Level: 1
 Range: 40 yards
@@ -112,7 +112,7 @@ This spell is an improved, randomized version of the first-level spell Magic Mis
 The actual number of missiles is dependent on the caster's level of experience: 1d4 at first level,  1d6 at fourth level,  1d8 at eighth level  and 1d10 at 12th level.
 
 Each missile inflicts 1d4+1 points of either acid, cold, fire, electrical or magical damage. The chaotic nature of the missiles gives them a 25% chance to bypass any natural or magical resistances the target might have.~
-@20701 = ~Glyph of Wild Magic~
+@20701 = ~Vild Magi-Glyf~
 @20702 = ~Glyph of Wild Magic* (Evocation)
 Level: 4
 Range: 40 yards
@@ -439,7 +439,7 @@ Saving Throw: Special
 This summoning spell calls forth 1d20 aggressive rabbits that defend the caster with their lives.
 
 The tiny animals don't really pose a threat besides distracting the caster's enemies. When one of the rodents dies, however, there is a 25% chance that it will explode in a fireball, doing 2d4 points of fire damage to everyone within a 20 foot radius (save vs. spell for half).~
-@22501 = ~Corporeal Instability~
+@22501 = ~Kroppslig Instabilitet~
 @22502 = ~Corporeal Instability* (Alteration)
 Level: 4
 Range: Visual sight of caster
@@ -451,7 +451,7 @@ Saving Throw: Neg.
 Corporeal Instability temporarily distorts the various bonds that hold the victim's body together.
 
 When the spell is cast on a creature, it has to save vs. spells at -5 or be liquefied. When failing the saving throw, the victim takes 1d20 points of system-shock damage as his body destabilizes into an amorphous, ever-shifting mass. The victim is unable to take any action for 1 round per level of the caster, but is also immune to anything save magical damage.~
-@22601 = ~Random Spell II~
+@22601 = ~Slumpmässig Formel II~
 @22602 = ~Random Spell II* (Invocation/Evocation)
 Level: 3
 Range: 40 yards
@@ -467,7 +467,7 @@ In rare cases, an unstable magical energy outburst results in several random eff
 The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
 
 The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@22701 = ~Random Spell III~
+@22701 = ~Slumpmässig Formel III~
 @22702 = ~Random Spell III* (Invocation/Evocation)
 Level: 5
 Range: 40 yards
@@ -483,7 +483,7 @@ In rare cases, an unstable magical energy outburst results in several random eff
 The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
 
 The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@22801 = ~Random Spell IV~
+@22801 = ~Slumpmässig Formel IV~
 @22802 = ~Random Spell IV* (Invocation/Evocation)
 Level: 7
 Range: 40 yards
