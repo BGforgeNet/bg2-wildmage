@@ -126,8 +126,8 @@ A glyph of wild magic is a powerful inscription magically drawn on the ground or
 For every 10 experience levels of the caster, the disturbances remain in existence for 1 round, though it is possible to dispell them prematurely by causing a distortion with physical or magical means.
 
 Naturally, the spell's outcome is completely random. Victims can be strengthened by the wild surges, or they can be completely annihilated. The larger the number of creatures within the area of effect, the more chaotic the outcome, and the higher the probability that the glyph will cause a lot of damage.~
-@20711 = ~Weave Disturbance~
-@20801 = ~Gymlainac's Lightbend~
+@20711 = ~Störning av Väven~
+@20801 = ~Gymlainacs Ljusböjning~
 @20802 = ~Gymlainac's Lightbend* (Alteration)
 Level: 3
 Range: Touch
@@ -260,20 +260,20 @@ The caster has no control over the destination of the target. The conditions at 
 
 Anyway, when the spell is successful, the caster gets rid of the target, and it's very unlikely that they'll meet again in this lifetime.~
 @21511 = ~skickades till Avgrunden~
-@21512 = ~was sent to Acheron~
-@21513 = ~was sent to the prime world known as Oerth~
-@21514 = ~was sent to the prime world known as Athas~
-@21515 = ~was sent to Arcadia~
-@21516 = ~was sent to the Astral Plane~
+@21512 = ~skickades till Acheron~
+@21513 = ~skickades till den främsta världen känd som Oerth~
+@21514 = ~skickades till den främsta världen känd som Athas~
+@21515 = ~skickades till Arkadien~
+@21516 = ~sändes till det astrala planet~
 @21517 = ~was sent to the Beastlands~
 @21518 = ~was sent to the Outlands~
 @21519 = ~skickades till Luftens Elementarplan~
-@21520 = ~was sent to the Elemental Plane of Fire~
-@21521 = ~was sent to the Elemental Plane of Earth~
-@21522 = ~was sent to the Elemental Plane of Water~
-@21523 = ~was sent to Elysium~
-@21524 = ~was sent to the Ethereal Plane~
-@21525 = ~was sent to Gehenna~
+@21520 = ~skickades till Eldens Elementarplan~
+@21521 = ~skickades till Jordens Elementarplan~
+@21522 = ~skickades till Vattnets Elementarplan~
+@21523 = ~skickades till Elysium~
+@21524 = ~skickades till det eteriska planet~
+@21525 = ~skickades till Gehenna~
 @21526 = ~was sent to Gladsheim~
 @21527 = ~was sent to the Gray Waste~
 @21528 = ~was sent to Limbo~
