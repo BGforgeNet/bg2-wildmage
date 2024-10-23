@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-23 12:09+0000\n"
+"PO-Revision-Date: 2024-10-23 18:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -788,11 +788,11 @@ msgstr ""
 
 #: text.tra:20711
 msgid "Weave Disturbance"
-msgstr ""
+msgstr "Störning av Väven"
 
 #: text.tra:20801
 msgid "Gymlainac's Lightbend"
-msgstr ""
+msgstr "Gymlainacs Ljusböjning"
 
 #: text.tra:20802
 msgid ""
@@ -1010,23 +1010,23 @@ msgstr "skickades till Avgrunden"
 
 #: text.tra:21512
 msgid "was sent to Acheron"
-msgstr ""
+msgstr "skickades till Acheron"
 
 #: text.tra:21513
 msgid "was sent to the prime world known as Oerth"
-msgstr ""
+msgstr "skickades till den främsta världen känd som Oerth"
 
 #: text.tra:21514
 msgid "was sent to the prime world known as Athas"
-msgstr ""
+msgstr "skickades till den främsta världen känd som Athas"
 
 #: text.tra:21515
 msgid "was sent to Arcadia"
-msgstr ""
+msgstr "skickades till Arkadien"
 
 #: text.tra:21516
 msgid "was sent to the Astral Plane"
-msgstr ""
+msgstr "sändes till det astrala planet"
 
 #: text.tra:21517
 msgid "was sent to the Beastlands"
@@ -1042,27 +1042,27 @@ msgstr "skickades till Luftens Elementarplan"
 
 #: text.tra:21520
 msgid "was sent to the Elemental Plane of Fire"
-msgstr ""
+msgstr "skickades till Eldens Elementarplan"
 
 #: text.tra:21521
 msgid "was sent to the Elemental Plane of Earth"
-msgstr ""
+msgstr "skickades till Jordens Elementarplan"
 
 #: text.tra:21522
 msgid "was sent to the Elemental Plane of Water"
-msgstr ""
+msgstr "skickades till Vattnets Elementarplan"
 
 #: text.tra:21523
 msgid "was sent to Elysium"
-msgstr ""
+msgstr "skickades till Elysium"
 
 #: text.tra:21524
 msgid "was sent to the Ethereal Plane"
-msgstr ""
+msgstr "skickades till det eteriska planet"
 
 #: text.tra:21525
 msgid "was sent to Gehenna"
-msgstr ""
+msgstr "skickades till Gehenna"
 
 #: text.tra:21526
 msgid "was sent to Gladsheim"
