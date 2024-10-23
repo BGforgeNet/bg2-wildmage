@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-22 12:09+0000\n"
+"PO-Revision-Date: 2024-10-23 12:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -184,7 +184,7 @@ msgstr "Försök att lära dig trollformeln \"Cellulär Regeneration\"."
 
 #: dialog.tra:28
 msgid "Try to learn the spell \"Glyph of Wild Magic\"."
-msgstr "Försök att lära dig trollformeln \"Tecken av Vild Magi\"."
+msgstr "Försök att lära dig trollformeln \"Vild Magi-Glyf\"."
 
 #: dialog.tra:29
 msgid "Try to learn the spell \"Paithan's Lucky Streak\"."
@@ -696,7 +696,7 @@ msgstr ""
 
 #: text.tra:20401
 msgid "Random Spell I"
-msgstr "Slumpmässig trollformel I"
+msgstr "Slumpmässig Formel I"
 
 #: text.tra:20402
 msgid ""
@@ -767,7 +767,7 @@ msgstr ""
 
 #: text.tra:20701
 msgid "Glyph of Wild Magic"
-msgstr ""
+msgstr "Vild Magi-Glyf"
 
 #: text.tra:20702
 msgid ""
@@ -1387,7 +1387,7 @@ msgstr ""
 
 #: text.tra:22501
 msgid "Corporeal Instability"
-msgstr ""
+msgstr "Kroppslig Instabilitet"
 
 #: text.tra:22502
 msgid ""
@@ -1406,7 +1406,7 @@ msgstr ""
 
 #: text.tra:22601
 msgid "Random Spell II"
-msgstr ""
+msgstr "Slumpmässig Formel II"
 
 #: text.tra:22602
 msgid ""
@@ -1429,7 +1429,7 @@ msgstr ""
 
 #: text.tra:22701
 msgid "Random Spell III"
-msgstr ""
+msgstr "Slumpmässig Formel III"
 
 #: text.tra:22702
 msgid ""
@@ -1452,7 +1452,7 @@ msgstr ""
 
 #: text.tra:22801
 msgid "Random Spell IV"
-msgstr ""
+msgstr "Slumpmässig Formel IV"
 
 #: text.tra:22802
 msgid ""
