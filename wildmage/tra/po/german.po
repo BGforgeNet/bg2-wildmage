@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2018-06-18 07:22+0000\n"
-"Last-Translator: Henry Lavinder <henryklavinder@gmail.com>\n"
+"PO-Revision-Date: 2024-12-23 16:40+0000\n"
+"Last-Translator: DocteurKain <jeanpeuplus@free.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: german\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: dialog.tra:0
 msgid ""
@@ -1090,13 +1090,13 @@ msgstr ""
 #: text.tra:21103
 msgctxt "wizeye01"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. LEAVE empty space in translation
 #: text.tra:21104
 msgctxt "wizeye02"
 msgid " "
-msgstr ""
+msgstr " "
 
 #: text.tra:21201
 msgid "Paithan's Lucky Streak"
