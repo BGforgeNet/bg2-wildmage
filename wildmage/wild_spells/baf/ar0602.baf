@@ -1,22 +1,24 @@
-//This covers BGT/EET
+// Pass Rhialto's spellbook from BG1 to BG2
+
+// This covers BGT/EET
 IF
-  Global("wm_bg1book","GLOBAL",1)
+  Global("wm_bg1book", "GLOBAL", 1)
 THEN
   RESPONSE #100
-    ActionOverride("Jailkeep Table",CreateItem("wm_sbook",0,0,0))
-    SetGlobal("wm_bg1book","GLOBAL",2)
+    ActionOverride("Jailkeep Table", CreateItem("wm_sbook", 0, 0, 0))
+    SetGlobal("wm_bg1book", "GLOBAL", 2)
     Continue()
 END
 
-//And this should cover imported characters (from EE,TuTu)
+// And this should cover imported characters (from EE,TuTu)
 IF
-  Global("wm_bg1book","GLOBAL",0)
+  Global("wm_bg1book", "GLOBAL", 0)
   PartyHasItem("wm_sbook")
 THEN
   RESPONSE #100
     TakePartyItem("wm_sbook")
     DestroyItem("wm_sbook")
-    ActionOverride("Jailkeep Table",CreateItem("wm_sbook",0,0,0))
-    SetGlobal("wm_bg1book","GLOBAL",2)
+    ActionOverride("Jailkeep Table", CreateItem("wm_sbook", 0, 0, 0))
+    SetGlobal("wm_bg1book", "GLOBAL", 2)
     Continue()
 END

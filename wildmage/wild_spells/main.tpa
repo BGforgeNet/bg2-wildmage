@@ -38,11 +38,12 @@ END ELSE BEGIN //stationary Rhialto: create outside Candlekeep's wall and give s
   BUT_ONLY
 END //end pansy
 
-//Retain Spellbook and Teddy bear on transfer from BG1 to BG2
+// Retain Spellbook and Teddy bear on transfer from BG1 to BG2
 ACTION_IF GAME_IS ~bgt eet~ BEGIN
-  EXTEND_TOP ~aram00.bcs~ ~%comp_dir%/baf/aram00.baf~ //set vars for ar0602.baf. Use _TOP to save precious equipment
+    // TODO: this seems too complicated? Why duplicate scripts?
+    EXTEND_TOP ~aram00.bcs~ ~%comp_dir%/baf/aram00.baf~   // Set vars for ar0602.baf. Use _TOP to save precious equipment
 END
-EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/baf/ar0602.baf~ //covers both trilogy and imported characters. Use _TOP to save precious equipment
+EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/baf/ar0602.baf~ // Covers both trilogy and imported characters. Use _TOP to save precious equipment
 
 //-----------------------------------------------------------
 // Rhialto the Marvelous...

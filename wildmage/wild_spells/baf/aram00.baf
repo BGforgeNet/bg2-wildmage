@@ -1,10 +1,13 @@
+// Pass Rhialto's spellbook from BG1 to BG2
+// BGT, EET.
+
 IF
-  Global("wm_bg1book","GLOBAL",0)
+  Global("wm_bg1book", "GLOBAL", 0)
   PartyHasItem("wm_sbook")
 THEN
   RESPONSE #100
     TakePartyItem("wm_sbook")
     DestroyItem("wm_sbook")
-    SetGlobal("wm_bg1book","GLOBAL",1)
+    SetGlobal("wm_bg1book", "GLOBAL", 1)
     Continue()
 END
