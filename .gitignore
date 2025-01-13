@@ -1,3 +1,5 @@
 setup-wildmage.exe
 wildmage/backup/*
 *.DS_Store
+node_modules/
+**/_tmp.tbaf.ts
