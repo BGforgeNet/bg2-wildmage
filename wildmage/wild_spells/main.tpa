@@ -2,15 +2,15 @@
 
 OUTER_SPRINT comp_dir ~%MOD_FOLDER%/wild_spells~
 
-//Rhialto appearance
-ACTION_IF pansy = 0 BEGIN //ironman
-  OUTER_SET rhia_xp = 19000  //written later to wm_rhia1.cre
+// Rhialto appearance
+ACTION_IF pansy = 0 BEGIN       // Ironman
+  OUTER_SET rhia_xp = 19000     // Written later to wm_rhia1.cre
 
-  EXTEND_TOP ~baldur.bcs~ ~%comp_dir%/baf/baldur.baf~ //have to use EXTEND_TOP because of PartyRested/SmallWait in baldur.bcs
+  EXTEND_TOP ~baldur.bcs~ ~%comp_dir%/baf/baldur.baf~   //  Have to use EXTEND_TOP because of PartyRested/SmallWait in baldur.bcs
   EXTEND_TOP ~baldur25.bcs~ ~%comp_dir%/baf/baldur.baf~
 
-END ELSE BEGIN //stationary Rhialto: create outside Candlekeep's wall and give scroll with a hint to Gorion's body
-  OUTER_SET rhia_xp = 2000 //written later to wm_rhia1.cre
+END ELSE BEGIN  // Stationary Rhialto: create outside Candlekeep's wall and give scroll with a hint to Gorion's body
+  OUTER_SET rhia_xp = 2000  // Written later to wm_rhia1.cre
 
   COPY ~%comp_dir%/itm/wm_scrl.itm~ ~override/wm_scrl.itm~
     SAY NAME1 @69998
@@ -36,7 +36,7 @@ END ELSE BEGIN //stationary Rhialto: create outside Candlekeep's wall and give s
   COPY_EXISTING ~%gorion_cre%.cre~ ~override~
     ADD_CRE_ITEM ~wm_scrl~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
   BUT_ONLY
-END //end pansy
+END // End pansy
 
 // Retain Spellbook and Teddy bear on transfer from BG1 to BG2
 ACTION_IF GAME_IS ~bgt eet~ BEGIN
@@ -54,10 +54,10 @@ COMPILE ~%comp_dir%/dialog/wm_rhia.d~
 
 COMPILE EVAL ~%comp_dir%/baf/wm_rhia1.baf~
 
-COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the Marvelous
+COPY ~%comp_dir%/cre/wm_rhia1.cre~  ~override/wm_rhia1.cre~     // Rhialto the Marvelous
   SAY NAME1 @50101
   SAY NAME2 @50102
-  WRITE_LONG CRE_XP_value rhia_xp //see pansy switch earlier
+  WRITE_LONG CRE_XP_value rhia_xp   // See pansy switch earlier
 
   ADD_MEMORIZED_SPELL ~spwi105~ #0 ~wizard~
   ADD_MEMORIZED_SPELL ~spwi112~ #0 ~wizard~
@@ -108,19 +108,19 @@ COPY ~%comp_dir%/cre/wm_rhia1.cre~    ~override/wm_rhia1.cre~    // Rhialto the 
     REMOVE_KNOWN_SPELL ~spcl916~
   END
 
-COPY ~%comp_dir%/cre/wm_rhia2.cre~    ~override/wm_rhia2.cre~    // Rhialto the squirrel
+COPY ~%comp_dir%/cre/wm_rhia2.cre~  ~override/wm_rhia2.cre~     // Rhialto the squirrel
   SAY NAME1 @50101
   SAY NAME2 @50102
-//BG:EE doesn't ship hunter.bcs
+// BG:EE doesn't ship hunter.bcs
 ACTION_IF NOT FILE_EXISTS_IN_GAME ~hunter.bcs~ BEGIN
   COPY ~%comp_dir%/bcs/hunter.bcs~ ~override~
 END
 
-COPY ~%comp_dir%/spl/wm_rhia1.spl~    ~override/wm_rhia1.spl~    // Rhialto's special Vortex
+COPY ~%comp_dir%/spl/wm_rhia1.spl~  ~override/wm_rhia1.spl~       // Rhialto's special Vortex
   SAY NAME1 @21101
   SAY UNIDENTIFIED_DESC @21102
   SAY 0x9e @50111
-  //never actually surge, don't fail, otherwise Rhialto might not turn into squirrel... again
+  // Never actually surge, don't fail, otherwise Rhialto might not turn into squirrel.
   WRITE_LONG SPL_flags (THIS BOR FLAG_SPL_ignore_dead_wild_magic BOR FLAG_SPL_ignore_wild_surge)
 
 

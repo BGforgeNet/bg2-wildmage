@@ -7,6 +7,6 @@ BUT_ONLY
 
 // Retain teddy bear on transfer from BG1 to BG2
 ACTION_IF GAME_IS ~bgt eet~ BEGIN
-  EXTEND_TOP ~aram00.bcs~ ~%comp_dir%/aram00.baf~  // set vars for ar0602.baf. Use _TOP to save precious equipment
+  EXTEND_TOP ~aram00.bcs~ ~%comp_dir%/aram00.baf~   // Set vars for ar0602.baf. Use _TOP to save precious equipment
 END
-EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/ar0602.baf~  // covers both trilogy and imported characters. Use _TOP to save precious equipment
+EXTEND_TOP ~ar0602.bcs~ ~%comp_dir%/ar0602.baf~     // Covers both trilogy and imported characters. Use _TOP to save precious equipment
