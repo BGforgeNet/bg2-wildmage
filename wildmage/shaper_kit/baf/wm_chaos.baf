@@ -419,7 +419,6 @@ IF
 THEN
   RESPONSE #100
     AddSpecialAbility("wm_weave")    // Weave Spell
-
     ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
     ApplySpellRES("wm_chao1", Myself)  // (-1 Level 1 spell...)
     StartDialog("WM_LEVEL", Myself)    // Select Feat
@@ -447,7 +446,6 @@ IF
   ActionListEmpty()
 THEN
   RESPONSE #100
-
     AddSpecialAbility("wm_weave")    // Weave Spell
     AddSpecialAbility("wm_shear")     // Weaveshear
     StartDialog("WM_LEVEL", Myself)    // Select Feat
