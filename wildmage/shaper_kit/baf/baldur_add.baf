@@ -5,7 +5,7 @@
 IF
   Global("wm_spellshaper", "GLOBAL", 0)
   !Alignment(Player1, MASK_LAWFUL)
-  Class(Player1, Mage)
+  Class(Player1, MAGE)
   Kit(Player1, 0)
   HPPercentLT(Player1, 51)
   NotStateCheck(Player1, STATE_HELPLESS)
@@ -20,5 +20,5 @@ THEN
     ActionOverride(Player1, ForceSpell(LastAttackerOf(Myself), WIZARD_LARLOCH_MINOR_DRAIN))
     SmallWait(15)
     SetGlobal("wm_spellshaper", "GLOBAL", 1)
-    ActionOverride(Player1, Startdialog("WM_LEVEL", Myself))
+    ActionOverride(Player1, StartDialog("WM_LEVEL", Myself))
 END
