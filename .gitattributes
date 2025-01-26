@@ -45,3 +45,5 @@ wildmage/tra_ee/schinese/*-win32.tra       working-tree-encoding=cp936
 wildmage/tra_ee/tchinese/*-win32.tra       working-tree-encoding=cp950
 wildmage/tra_ee/ukrainian/*-win32.tra      working-tree-encoding=cp866
 wildmage/tra_ee/vietnamese/*-win32.tra     working-tree-encoding=cp1258
+
+*.tbaf linguist-language=TypeScript
