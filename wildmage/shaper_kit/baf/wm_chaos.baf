@@ -1,159 +1,199 @@
-//---------------------------------------------------------------------
-//---------------------------------------------------------------------
-//           ----------------------------------------
-//          ----   Spellshaper's Override Script  ----
-//           ----------------------------------------
-//---------------------------------------------------------------------
-//---------------------------------------------------------------------
-// Purpose:
-//
-// 1. Class abilities on Levelup
-//
-// 2. "Weave Spell" ability can be used as long as Spells are memorized
-//
-// 3. Wild surges after rest
-//
-// Local Variables:
-//
-// WM_LEVEL:  Gained Class-Abilities for all levels up to this one
-//
-// WM_WEAVE:     1: Has just used Weave Spell Ability  (set by spell "WM_WEAVE")
-//
-//----------------------------------------------------------------------
-//----------------------------------------------------------------------
-
-// ----------------------------------------------------
-// Random Wild Surge
-// ----------------------------------------------------
-
 IF
-  PartyRested()          // Right after Resting:
+  PartyRested()
+  RandomNumLT(28, 9)
 THEN
-  RESPONSE #40
+  RESPONSE #100
     NoAction()
-  RESPONSE #30
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 397)      // "Pretty Sparkles"
-    ApplySpellRES("SPWM130", Myself)    // Wild Magic 30: Pretty Sparkles
-  RESPONSE #15
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 420)      // "What's this in my pocket?"
-    ApplySpellRES("WM_DREAM", Myself)   // Add random treasure....
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 405)      // "I've always said that bird magic is the most difficult."
-    ApplySpellRES("SPWM134", Myself)    // Wild Magic 34: "Bird Magic"
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 316)      // "Squirrels... Everywhere squirrels!"
-    ApplySpellRES("SPWM103", Myself)    // Wild Magic 03: Squirrels
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 27777)    // "What's this?!"
-    ApplySpellRES("SPWM159", Myself)    // Wild Magic 59: Weapons Glow
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 1468)     // "Ahh, no! Help!"
-    ApplySpellRES("SPWI206", Myself)    // Wild Magic 29: Caster Invisible
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 1468)     // "Ahh, no! Help!"
-    ApplySpellRES("SPWM105", Myself)    // Wild Magic 05: Caster Glows
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 1468)     // "Ahh, no! Help!"
-    ApplySpellRES("SPWM145", Myself)    // Wild Magic 45: "Hiccup"
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 1468)     // "Ahh, no! Help!"
-    ApplySpellRES("SPWM107", Myself)    // Wild Magic 07: "Sex Changes"
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 1468)     // "Ahh, no! Help!"
-    ApplySpellRES("wm_sqrl", Myself)    // Wild Magic 83: Polymorph into Squirrel
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 1468)     // "Ahh, no! Help!"
-    ApplySpellRES("SPWM113", Myself)    // Wild Magic 13: Polymorph into Wolf
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 417)      // "Berries in my pocket."
-    ApplySpellRES("SPPR207", Myself)    // Wild Magic 38: Goodberries
-  RESPONSE #5
-    PlaySound("EFF_M10")
-    DisplayString(Myself, @10201)       // "Wild Magic made your dreams come true"
-    DisplayStringHead(Myself, 408)      // "Gems!"
-    ApplySpellRES("SPWM136", Myself)    // Wild Magic 36: Gems
 END
 
-
-//------------------------------------------------------------------
-// -------------------------------------------------------
-//  "Weave Spell" Ability:
-//
-//  WM_WEAVE sets the local variable "WM_WEAVE" to 1
-//
-//  When variable is set to 1, and any Wizard Spell is
-//  memorized then "WM_WAV_1" is cast, else the ability fails.
-//
-// --------------------------------------------------------
-//------------------------------------------------------------------
+IF
+  PartyRested()
+  RandomNumLT(28, 15)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 397)
+    ApplySpellRES("SPWM130", Myself)
+END
 
 IF
-  Global("wm_Weave", "LOCALS", 1)      // "HaveAnySpells" doesn't work here
-  OR(232)            // because it includes innate abilities.
+  PartyRested()
+  RandomNumLT(28, 18)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 420)
+    ApplySpellRES("WM_DREAM", Myself)
+END
 
-  //-------------------------  27 New Spells from this Mod
+IF
+  PartyRested()
+  RandomNumLT(28, 19)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 405)
+    ApplySpellRES("SPWM134", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 20)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 316)
+    ApplySpellRES("SPWM103", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 21)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 27777)
+    ApplySpellRES("SPWM159", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 22)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("SPWI206", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 23)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("SPWM105", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 24)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("SPWM145", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 25)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("SPWM107", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 26)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("wm_sqrl", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 27)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("SPWM113", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 28)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("SPPR207", Myself)
+END
+
+IF
+  PartyRested()
+  RandomNumLT(28, 29)
+THEN
+  RESPONSE #100
+    PlaySound("EFF_M10")
+    DisplayString(Myself, @10201)
+    // "Wild Magic made your dreams come true"
+    DisplayStringHead(Myself, 1468)
+    ApplySpellRES("SPWM136", Myself)
+END
+
+IF
+  Global("wm_Weave", "LOCALS", 1)
+  OR(232)
     HaveSpellRES("WM_ATTR")
     HaveSpellRES("WM_RND")
     HaveSpellRES("WM_SQRL")
     HaveSpellRES("WM_SQRL1")
-
     HaveSpellRES("WM_BLADE")
     HaveSpellRES("WM_MISS")
     HaveSpellRES("WM_HORDE")
-
     HaveSpellRES("WM_RND2")
     HaveSpellRES("WM_LIGHT")
     HaveSpellRES("WM_WORD")
-
     HaveSpellRES("WM_HEAL")
     HaveSpellRES("WM_LIQ")
     HaveSpellRES("WM_GLYPH")
-
     HaveSpellRES("WM_RND3")
     HaveSpellRES("WM_LUCK")
     HaveSpellRES("WM_VORTX")
-
     HaveSpellRES("WM_ARMOR")
     HaveSpellRES("WM_UNLK")
     HaveSpellRES("WM_STRIK")
-
     HaveSpellRES("WM_RND4")
     HaveSpellRES("WM_DISP")
     HaveSpellRES("WM_COW")
-
     HaveSpellRES("WM_CHAOB")
     HaveSpellRES("WM_EYE")
     HaveSpellRES("WM_RECUP")
-
     HaveSpellRES("WM_SHLD")
     HaveSpellRES("WM_WFIRE")
     HaveSpellRES("WM_SPHR")
-
-  //-------------------------  204 Wizard Spells from "SPELL.IDS"
+    //-------------------------  204 Wizard Spells from "SPELL.IDS"
     HaveSpell(2101)
     HaveSpell(2102)
     HaveSpell(2103)
@@ -179,7 +219,6 @@ IF
     HaveSpell(2123)
     HaveSpell(2124)
     HaveSpell(2125)
-
     HaveSpell(2201)
     HaveSpell(2202)
     HaveSpell(2203)
@@ -203,7 +242,6 @@ IF
     HaveSpell(2221)
     HaveSpell(2223)
     HaveSpell(2224)
-
     HaveSpell(2301)
     HaveSpell(2302)
     HaveSpell(2303)
@@ -229,7 +267,6 @@ IF
     HaveSpell(2324)
     HaveSpell(2325)
     HaveSpell(2326)
-
     HaveSpell(2401)
     HaveSpell(2402)
     HaveSpell(2403)
@@ -254,7 +291,6 @@ IF
     HaveSpell(2423)
     HaveSpell(2424)
     HaveSpell(2425)
-
     HaveSpell(2501)
     HaveSpell(2502)
     HaveSpell(2503)
@@ -278,7 +314,6 @@ IF
     HaveSpell(2521)
     HaveSpell(2522)
     HaveSpell(2523)
-
     HaveSpell(2601)
     HaveSpell(2602)
     HaveSpell(2603)
@@ -304,7 +339,6 @@ IF
     HaveSpell(2623)
     HaveSpell(2624)
     HaveSpell(2625)
-
     HaveSpell(2701)
     HaveSpell(2702)
     HaveSpell(2703)
@@ -326,7 +360,6 @@ IF
     HaveSpell(2720)
     HaveSpell(2721)
     HaveSpell(2722)
-
     HaveSpell(2801)
     HaveSpell(2803)
     HaveSpell(2804)
@@ -343,7 +376,6 @@ IF
     HaveSpell(2816)
     HaveSpell(2817)
     HaveSpell(2818)
-
     HaveSpell(2902)
     HaveSpell(2903)
     HaveSpell(2905)
@@ -366,47 +398,32 @@ IF
     HaveSpell(2923)
     HaveSpell(2924)
     HaveSpell(2925)
-  //-------------------------
 THEN
   RESPONSE #100
-    ReallyForceSpellRES("WM_WAV_1", Myself)  // Weave Spell....
-    SetGlobal("wm_weave", "LOCALS", 0)
+    ReallyForceSpellRES("WM_WAV_1", Myself)
+    // Weave Spell....
+    SetGlobal("wm_Weave", "LOCALS", 0)
 END
 
 IF
-  Global("wm_Weave", "LOCALS", 1)      // Still 1 = No spells memorized...
+  Global("wm_Weave", "LOCALS", 1)
 THEN
   RESPONSE #100
-    DisplayString(Myself, @30121)    // "You don't have any suitable spells memorized."
-    ApplySpellRES("SPWM130", Myself)    // Wild Magic 30: Pretty Sparkles
-    SetGlobal("wm_weave", "LOCALS", 0)
+    // "You don't have any suitable spells memorized."
+    DisplayString(Myself, @30121)
+    // Wild Magic 30: Pretty Sparkles
+    ApplySpellRES("SPWM130", Myself)
+    SetGlobal("wm_Weave", "LOCALS", 0)
 END
-
-//------------------------------------------------------------------
-// ----------------------------------------------------
-//  Levelup:
-//
-//  -1 Level 1 spell at Level 4
-//  -1 Level 9 spell at Level 20 (Workaround...)
-//  +1 Level 8/9 spell at Level 45
-//
-//  Gain "Shape Spell" at Level 10
-//  Gain "Weave Spell" at Level 01,03,05,07,09,12,15,18,21,24,27,30,33,36,39,42,45,48
-//  May Select Feat at Level    01,03,05,07,09,12,15,18,21,24,27,30,33,36,39,42,45,48
-//  Gain "Weaveshear" at Level  01,         09,      18,      27,      36,      45
-//  THAC0 reduced by 1 at Level       05,      12,   18,   24,   30,   36,   42,   48
-//
-// ----------------------------------------------------
-//------------------------------------------------------------------
 
 IF
   Global("wm_level", "LOCALS", 1)
-  !LevelLT(Myself, 3)        // Level 3
+  !LevelLT(Myself, 3)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 3)
     Continue()
@@ -414,14 +431,15 @@ END
 
 IF
   Global("wm_level", "LOCALS", 3)
-  !LevelLT(Myself, 5)        // Level 5
+  !LevelLT(Myself, 5)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    ApplySpellRES("wm_chao1", Myself)  // (-1 Level 1 spell...)
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    ApplySpellRES("wm_#thac", Myself)
+    ApplySpellRES("wm_chao1", Myself)
+    // (-1 Level 1 spell...)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 5)
     Continue()
@@ -429,12 +447,12 @@ END
 
 IF
   Global("wm_level", "LOCALS", 5)
-  !LevelLT(Myself, 7)        // Level 7
+  !LevelLT(Myself, 7)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 7)
     Continue()
@@ -442,13 +460,13 @@ END
 
 IF
   Global("wm_level", "LOCALS", 7)
-  !LevelLT(Myself, 9)        // Level 9
+  !LevelLT(Myself, 9)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    AddSpecialAbility("wm_shear")     // Weaveshear
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    AddSpecialAbility("wm_shear")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 9)
     Continue()
@@ -456,24 +474,25 @@ END
 
 IF
   Global("wm_level", "LOCALS", 9)
-  !LevelLT(Myself, 10)        // Level 10
+  !LevelLT(Myself, 10)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_shap")    // Shape Spell
+    AddSpecialAbility("wm_shap")
+    // Shape Spell
     SetGlobal("wm_level", "LOCALS", 10)
     Continue()
 END
 
 IF
   Global("wm_level", "LOCALS", 10)
-  !LevelLT(Myself, 12)        // Level 12
+  !LevelLT(Myself, 12)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    ApplySpellRES("wm_#thac", Myself)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 12)
     Continue()
@@ -481,12 +500,12 @@ END
 
 IF
   Global("wm_level", "LOCALS", 12)
-  !LevelLT(Myself, 15)        // Level 15
+  !LevelLT(Myself, 15)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 15)
     Continue()
@@ -494,25 +513,27 @@ END
 
 IF
   Global("wm_level", "LOCALS", 15)
-  !LevelLT(Myself, 17)        // Level 17
+  !LevelLT(Myself, 17)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    ApplySpellRES("wm_chao2", Myself)  // (-1 Level 8 spell, Workaround...)
-    SetGlobal("wm_level", "LOCALS", 17)  //  Less than 0 spells wrap around to 255..
+    // (-1 Level 8 spell, Workaround...)
+    // Less than 0 spells wrap around to 255..
+    ApplySpellRES("wm_chao2", Myself)
+    SetGlobal("wm_level", "LOCALS", 17)
     Continue()
 END
 
 IF
   Global("wm_level", "LOCALS", 17)
-  !LevelLT(Myself, 18)        // Level 18
+  !LevelLT(Myself, 18)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    AddSpecialAbility("wm_shear")    // Weaveshear
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    AddSpecialAbility("wm_shear")
+    ApplySpellRES("wm_#thac", Myself)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 18)
     Continue()
@@ -520,23 +541,25 @@ END
 
 IF
   Global("wm_level", "LOCALS", 18)
-  !LevelLT(Myself, 20)        // Level 20
+  !LevelLT(Myself, 20)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    ApplySpellRES("wm_chao3", Myself)  // (-1 Level 9 spell, Workaround...)
-    SetGlobal("wm_level", "LOCALS", 20)  //  Less than 0 spells wrap around to 255..
+    // (-1 Level 9 spell, Workaround...)
+    // Less than 0 spells wrap around to 255..
+    ApplySpellRES("wm_chao3", Myself)
+    SetGlobal("wm_level", "LOCALS", 20)
     Continue()
 END
 
 IF
   Global("wm_level", "LOCALS", 20)
-  !LevelLT(Myself, 21)        // Level 21
+  !LevelLT(Myself, 21)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 21)
     Continue()
@@ -544,13 +567,13 @@ END
 
 IF
   Global("wm_level", "LOCALS", 21)
-  !LevelLT(Myself, 24)        // Level 24
+  !LevelLT(Myself, 24)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    ApplySpellRES("wm_#thac", Myself)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 24)
     Continue()
@@ -558,13 +581,13 @@ END
 
 IF
   Global("wm_level", "LOCALS", 24)
-  !LevelLT(Myself, 27)        // Level 27
+  !LevelLT(Myself, 27)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    AddSpecialAbility("wm_shear")    // Weaveshear
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    AddSpecialAbility("wm_shear")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 27)
     Continue()
@@ -572,13 +595,13 @@ END
 
 IF
   Global("wm_level", "LOCALS", 27)
-  !LevelLT(Myself, 30)        // Level 30
+  !LevelLT(Myself, 30)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    ApplySpellRES("wm_#thac", Myself)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 30)
     Continue()
@@ -586,12 +609,12 @@ END
 
 IF
   Global("wm_level", "LOCALS", 30)
-  !LevelLT(Myself, 33)        // Level 33
+  !LevelLT(Myself, 33)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 33)
     Continue()
@@ -599,14 +622,14 @@ END
 
 IF
   Global("wm_level", "LOCALS", 33)
-  !LevelLT(Myself, 36)        // Level 36
+  !LevelLT(Myself, 36)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    AddSpecialAbility("wm_shear")    // Weaveshear
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    AddSpecialAbility("wm_shear")
+    ApplySpellRES("wm_#thac", Myself)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 36)
     Continue()
@@ -614,12 +637,12 @@ END
 
 IF
   Global("wm_level", "LOCALS", 36)
-  !LevelLT(Myself, 39)        // Level 39
+  !LevelLT(Myself, 39)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 39)
     Continue()
@@ -627,13 +650,13 @@ END
 
 IF
   Global("wm_level", "LOCALS", 39)
-  !LevelLT(Myself, 42)        // Level 42
+  !LevelLT(Myself, 42)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    ApplySpellRES("wm_#thac", Myself)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 42)
     Continue()
@@ -641,14 +664,15 @@ END
 
 IF
   Global("wm_level", "LOCALS", 42)
-  !LevelLT(Myself, 45)        // Level 45
+  !LevelLT(Myself, 45)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    AddSpecialAbility("wm_shear")    // Weaveshear
-    ApplySpellRES("wm_chao4", Myself)  // (+1 Level 8/9 spell)
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    AddSpecialAbility("wm_shear")
+    ApplySpellRES("wm_chao4", Myself)
+    // (+1 Level 8/9 spell)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 45)
     Continue()
@@ -656,13 +680,13 @@ END
 
 IF
   Global("wm_level", "LOCALS", 45)
-  !LevelLT(Myself, 48)        // Level 48
+  !LevelLT(Myself, 48)
   ActionListEmpty()
 THEN
   RESPONSE #100
-    AddSpecialAbility("wm_weave")    // Weave Spell
-    ApplySpellRES("wm_#thac", Myself)  // "THAC0 Reduced by 1"
-    StartDialog("WM_LEVEL", Myself)    // Select Feat
+    AddSpecialAbility("wm_weave")
+    ApplySpellRES("wm_#thac", Myself)
+    StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 48)
     Continue()

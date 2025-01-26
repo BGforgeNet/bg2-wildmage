@@ -1,0 +1,322 @@
+import { $obj, GLOBAL, LOCALS } from "ielib";
+import { Allegiance, ApplySpell, AttackReevaluate, Continue, Detect, DisplayString, ENEMY, FaceObject, ForceSpellRES, Global, GlobalGT, GlobalLT, GlobalTimerNotExpired, HasBounceEffects, HasImmunityEffects, IncrementGlobal, LastSeenBy, Level, LevelGT, LevelLT, MoveToObject, Myself, NearestEnemyOf, NumCreatureGT, Player1, Range, ReallyForceSpell, ReallyForceSpellRES, See, SetGlobal, SetGlobalTimer, SmallWait, Spell, SpellRES, StartDialog, STATE_SILENCED, StateCheck, TenthNearestEnemyOf, TookDamage, WIZARD_ABI_DALZIMS_HORRID_WILTING, WIZARD_ARMOR, WIZARD_COLOR_SPRAY, WIZARD_DEATH_SPELL, WIZARD_DISINTEGRATE, WIZARD_DOMINATION, WIZARD_FINGER_OF_DEATH, WIZARD_FIRE_SHIELD_RED, WIZARD_FIREBALL, WIZARD_FLAME_ARROW, WIZARD_FLESH_TO_STONE, WIZARD_IMPROVED_MANTLE, WIZARD_LARLOCH_MINOR_DRAIN, WIZARD_MAGIC_MISSILE, WIZARD_MISLEAD, WIZARD_NPC_SYMBOL_FEAR, WIZARD_NPC_SYMBOL_STUN, WIZARD_POLYMORPH_OTHER, WIZARD_PRISMATIC_SPRAY, WIZARD_PROTECTION_FROM_MAGIC_WEAPONS, WIZARD_SHIELD, WIZARD_SLOW, WIZARD_SPELL_TURNING, WIZARD_SUMMON_EFREET, WIZARD_SUN_FIRE, WIZARD_TRUE_SIGHT, WIZARD_VOCALIZE } from "ielib/bg2";
+import { actDoomAndDelay, castGlyph, castRandomMissiles, castSpellIf, castWildstrike, GVAR_start, LTIMER_delay, LVAR_doomed, turnIntoSquirrel } from './lib.wm_rhia1';
+
+/** Fires a spell-trigger just to show what a great mage he is */
+const LVAR_castSpellTrigger = "SpellTrigger"
+/** And a nice contigency for the same reason */
+const LVAR_contingency = "Prep"
+const LVAR_wipedSummons = "summon"
+
+// First talk, then fight
+if (See(Player1) && Global(LVAR_doomed, LOCALS, 0)) {
+    SetGlobal(LVAR_doomed, LOCALS, 1)
+    FaceObject(Player1)
+    SmallWait(8)
+    StartDialog("WM_RHIA", Player1)
+}
+
+/** Start fight: spell trigger */
+
+/** Common spell trigger actions */
+function actSpellTrigger() {
+    DisplayString(Myself, 39968)    // ~Spell Trigger - Fired~
+    ReallyForceSpellRES("WM_LUCK", Myself)
+    SetGlobal(LVAR_castSpellTrigger, LOCALS, 1)
+}
+
+if (See(NearestEnemyOf(Myself)) && Global(LVAR_castSpellTrigger, LOCALS, 0)) {
+    if (LevelLT(LastSeenBy(Myself), 3)) {
+        actSpellTrigger()
+        ReallyForceSpell(Myself, WIZARD_ARMOR)
+        ReallyForceSpell(Myself, WIZARD_SHIELD)
+    }
+    if (LevelLT(LastSeenBy(Myself), 8)) {
+        actSpellTrigger()
+        ReallyForceSpellRES("WM_LIGHT", Myself)
+        ReallyForceSpell(Myself, WIZARD_SHIELD)
+    }
+    if (LevelGT(LastSeenBy(Myself), 7)) {
+        actSpellTrigger()
+        ReallyForceSpellRES("WM_LIGHT", Myself)
+        ReallyForceSpellRES("WM_SHLD", Myself)
+    }
+}
+/** End start fight: spell trigger */
+
+
+/** Contingencies upon taking first damage */
+if (Global(LVAR_contingency, LOCALS, 0)
+    && See(NearestEnemyOf(Myself))
+    && TookDamage()
+) {
+    // Level 1-14
+    if (LevelLT(LastSeenBy(Myself), 15)) {
+        DisplayString(Myself, 40252)    // ~Contingency - Protection from Magical Weapons~
+        ApplySpell(Myself, WIZARD_PROTECTION_FROM_MAGIC_WEAPONS)
+        SetGlobal(LVAR_contingency, LOCALS, 1)
+    } else { // Level 15+
+        DisplayString(Myself, 43050)    // Chain Contingency - Improved Mantle
+        ApplySpell(Myself, WIZARD_IMPROVED_MANTLE)
+        DisplayString(Myself, 3302)     // Chain Contingency - Spell Turning
+        ApplySpell(Myself, WIZARD_SPELL_TURNING)
+        DisplayString(Myself, 40240)    // Chain Contingency - Mislead
+        ApplySpell(Myself, WIZARD_MISLEAD)
+        SetGlobal(LVAR_contingency, LOCALS, 1)
+    }
+}
+/** End contingencies upon taking first damage */
+
+
+/** First summoned creature is doomed to die... */
+if (See($obj("[GOODCUTOFF.0.0.0.0.SUMMONED]")) && Global(LVAR_wipedSummons, LOCALS, 0)
+) {
+    FaceObject(LastSeenBy(Myself))
+    Spell(LastSeenBy(Myself), WIZARD_DEATH_SPELL)
+    SetGlobal(LVAR_wipedSummons, LOCALS, 1)
+}
+
+
+/** Conditional spells */
+// Spell Turning
+const LVAR_spellTurning = "spell_turning"
+if (See(NearestEnemyOf(Myself))
+    && LevelGT(LastSeenBy(Myself), 9)
+    && !HasBounceEffects(Myself)
+    && !HasImmunityEffects(Myself)
+    && Global(LVAR_spellTurning, LOCALS, 0)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    IncrementGlobal(LVAR_spellTurning, LOCALS, 1)
+    Spell(Myself, WIZARD_SPELL_TURNING)
+}
+
+// Vocalize
+const LVAR_cast_vocalize = "vocalize"
+if (See(NearestEnemyOf(Myself))
+    && StateCheck(Myself, STATE_SILENCED)
+    && Global(LVAR_cast_vocalize, LOCALS, 0)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    IncrementGlobal(LVAR_cast_vocalize, LOCALS, 1)
+    Spell(Myself, WIZARD_VOCALIZE)
+}
+
+// True Sight
+const LVAR_castTrueSight = "true_sight"
+if (Allegiance(Myself, ENEMY)
+    && Detect($obj("[PC]"))
+    && !See(LastSeenBy(Myself))
+    && Global(LVAR_castTrueSight, LOCALS, 0)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    IncrementGlobal(LVAR_castTrueSight, LOCALS, 1)
+    Spell(Myself, WIZARD_TRUE_SIGHT)
+}
+/** End conditional spells */
+
+/** Sequenced battle spells */
+// Slow
+castSpellIf(WIZARD_SLOW, "slow", 0)
+// Fire Shield, Red
+castSpellIf(WIZARD_FIRE_SHIELD_RED, "fireshield", 6, Myself)
+
+// Glyph of Wild Magic
+castGlyph(0)
+
+// Vile Word of Discord
+const LVAR_castVileWord = "word"
+/** Actions to cast Vile Word of Discord */
+function actCastVileWord() {
+    actDoomAndDelay()
+    IncrementGlobal(LVAR_castVileWord, LOCALS, 1)
+    SpellRES("WM_WORD", LastSeenBy(Myself))
+}
+if (Global(LVAR_castVileWord, LOCALS, 0)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+    && See(NearestEnemyOf(Myself))
+) {
+    // Useless when there's only one enemy nearby...
+    if (NumCreatureGT($obj("[ENEMY]"), 1)) {
+        actCastVileWord()
+    }
+    // But we can also cast it at neutrals...
+    if (See($obj("[NEUTRAL]"))) {
+        // The action is the same, but the condition is different.
+        actCastVileWord()
+    }
+}
+
+// Wildstrike
+castWildstrike(0)
+
+// Wild Sphere
+const LVAR_castWildSphere = "sphere"
+if (Global(LVAR_castWildSphere, LOCALS, 0)
+    && GlobalGT(LVAR_doomed, LOCALS, 4)
+    && See(TenthNearestEnemyOf(Myself))
+    && LevelGT(LastSeenBy(Myself), 15)      // Only at Level 16+
+    && !Range(LastSeenBy(Myself), 15)       // And when the target is far away...
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    actDoomAndDelay()
+    IncrementGlobal(LVAR_castWildSphere, LOCALS, 1)
+    SpellRES("WM_SPHR", LastSeenBy(Myself))
+}
+
+
+/** Turn into squirrel */
+// Only when PC is level 1, check it manually
+if (Global(GVAR_start, GLOBAL, 1)
+    && See(NearestEnemyOf(Myself))
+    && GlobalGT(LVAR_doomed, LOCALS, 5)
+    && Level(Player1, 1)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    SetGlobal(GVAR_start, GLOBAL, 2)
+    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    ForceSpellRES("WM_RHIA1", LastSeenBy(Myself))
+}
+// Otherwise, check any enemy
+turnIntoSquirrel(5, 8)      // Levels 2-4
+turnIntoSquirrel(10, 12)    // Levels 5-9
+turnIntoSquirrel(20, 16)    // Levels 10-19
+turnIntoSquirrel(51, 20)    // Levels 20+
+/** End turn into squirrel */
+
+
+/** Generic battle spells */
+// Color Spray
+const LVAR_castSpray = "spray"
+if (See(NearestEnemyOf(Myself))
+    && Global(LVAR_castSpray, LOCALS, 0)
+    && Range(LastSeenBy(Myself), 5)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    actDoomAndDelay()
+    IncrementGlobal(LVAR_castSpray, LOCALS, 1)
+    ReallyForceSpell(LastSeenBy(Myself), WIZARD_COLOR_SPRAY)
+}
+
+// Rhialto's Random Missiles
+castRandomMissiles(0)
+
+// Magic Missiles
+castSpellIf(WIZARD_MAGIC_MISSILE, "missile2", 2)
+
+// Rhialto's Random Missiles - 2
+castRandomMissiles(1)
+
+// Wizard Shield
+castSpellIf(WIZARD_SHIELD, "wiz_shield", 0, Myself)
+
+// Symbol, Fear
+castSpellIf(WIZARD_NPC_SYMBOL_FEAR, "symbol_fear")
+
+// Rhialto's Random Missiles - 3
+castRandomMissiles(2)
+
+// Larloch's Minor Drain
+const LVAR_castLarloch = "larloch"
+if (See(TenthNearestEnemyOf(Myself))
+    && Global(LVAR_castLarloch, LOCALS, 0)
+    && !Range(LastSeenBy(Myself), 10)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    actDoomAndDelay()
+    IncrementGlobal(LVAR_castLarloch, LOCALS, 1)
+    ReallyForceSpell(LastSeenBy(Myself), WIZARD_LARLOCH_MINOR_DRAIN)
+}
+
+// Fireball
+const LVAR_castFireball = "fireball"
+if (See(TenthNearestEnemyOf(Myself))
+    && LevelGT(LastSeenBy(Myself), 5)      // Level 6+
+    && !Range(LastSeenBy(Myself), 15)
+    && Global(LVAR_castFireball, LOCALS, 0)
+    && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+) {
+    actDoomAndDelay()
+    IncrementGlobal(LVAR_castFireball, LOCALS, 1)
+    ReallyForceSpell(LastSeenBy(Myself), WIZARD_FIREBALL)
+}
+
+// Symbol, Stun
+castSpellIf(WIZARD_NPC_SYMBOL_STUN, "symbol_stun", 2)
+
+// Domination
+castSpellIf(WIZARD_DOMINATION, "domination", 6)
+
+// Flame Arrow
+castSpellIf(WIZARD_FLAME_ARROW, "flame_arrow", 3)
+
+// Polymorph Other
+castSpellIf(WIZARD_POLYMORPH_OTHER, "poly_other")
+
+// Glyph of Wild Magic - 2
+castGlyph(1)
+
+// Wildstrike - 2
+castWildstrike(1)
+
+// Abi-Dalzim's Horrid Wilting
+castSpellIf(WIZARD_ABI_DALZIMS_HORRID_WILTING, "abi_dalzim", 15)
+
+// Summon Efreeti
+castSpellIf(WIZARD_SUMMON_EFREET, "efreeti", 15, Myself)
+
+// Sunfire
+castSpellIf(WIZARD_SUN_FIRE, "sunfire", 15, Myself)
+
+// Prismatic Spray
+castSpellIf(WIZARD_PRISMATIC_SPRAY, "prismatic", 15, Myself)
+
+// Finger of Death
+castSpellIf(WIZARD_FINGER_OF_DEATH, "finger", 15)
+
+// Flesh to Stone
+castSpellIf(WIZARD_FLESH_TO_STONE, "flesh_to_stone", 15)
+
+// Disintegrate
+castSpellIf(WIZARD_DISINTEGRATE, "disintegrate", 15)
+
+// Assassination
+const LVAR_castAssassination = "assassin"
+if (See(NearestEnemyOf(Myself))
+    && GlobalLT(LVAR_castAssassination, LOCALS, 2)
+    && LevelGT(LastSeenBy(Myself), 15)    // Level 16+
+    && Range(LastSeenBy(Myself), 4)
+) {
+    SetGlobalTimer(LTIMER_delay, LOCALS, 10)
+    IncrementGlobal(LVAR_castAssassination, LOCALS, 1)
+    SpellRES("SPCL916", Myself)
+    Continue()
+}
+
+/** End generic battle spells */
+
+/** Keep casting Larloch's if nothing else comes up, doom must happen finally */
+for (let i = 0; i < 5; i++) {
+    if (See(TenthNearestEnemyOf(Myself))
+        && !Range(LastSeenBy(Myself), 10)
+        && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
+    ) {
+        actDoomAndDelay()
+        ReallyForceSpell(LastSeenBy(Myself), WIZARD_LARLOCH_MINOR_DRAIN)
+    }
+}
+
+// Physical attacks
+if (See(NearestEnemyOf(Myself))) {
+    AttackReevaluate(LastSeenBy(Myself), 15)
+    Continue()
+}
+
+// If all else fails, cheat and go straight to PC
+if (!See(NearestEnemyOf(Myself))) {
+    MoveToObject(Player1)
+    Continue()
+}
