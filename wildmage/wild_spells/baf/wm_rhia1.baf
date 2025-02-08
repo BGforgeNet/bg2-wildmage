@@ -1,3 +1,5 @@
+/* DO NOT EDIT MANUALLY. This file is generated from wm_rhia1.tbaf. Make your changes there and regenerate this file. */
+
 IF
   See(Player1)
   Global("doomed", "LOCALS", 0)

@@ -1,3 +1,5 @@
+/* DO NOT EDIT MANUALLY. This file is generated from wm_chaos.tbaf. Make your changes there and regenerate this file. */
+
 IF
   PartyRested()
   RandomNumLT(28, 9)
