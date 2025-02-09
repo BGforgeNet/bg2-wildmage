@@ -15,19 +15,14 @@ wildmage/tra/tchinese/**.tra               working-tree-encoding=cp950
 wildmage/tra/ukrainian/**.tra              working-tree-encoding=cp1251
 wildmage/tra/vietnamese/**.tra             working-tree-encoding=cp1258
 
-# Classic or EE console, RU/UA
-wildmage/**/russian/**/install.tra         working-tree-encoding=cp866
-wildmage/**/russian/**/setup.tra           working-tree-encoding=cp866
-wildmage/**/ukrainian/**/install.tra       working-tree-encoding=cp866
-wildmage/**/ukrainian/**/setup.tra         working-tree-encoding=cp866
+
+# Console
+wildmage/**/setup.tra                      working-tree-encoding=utf8
 
 # EE only
 wildmage/tra/**/ee.tra                     working-tree-encoding=utf8
 wildmage/tra/**/*_ee.tra                   working-tree-encoding=utf8
 
-# Linux console
-wildmage/**/setup-unix.tra                 working-tree-encoding=utf8
-wildmage/**/setup-osx.tra                  working-tree-encoding=utf8
 
 # Windows console, other languages
 wildmage/tra_ee/czech/*-win32.tra          working-tree-encoding=cp1250

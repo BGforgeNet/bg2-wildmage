@@ -26,7 +26,6 @@ jobs:
           handle_charsets: true
           handle_charsets_tra_path: wildmage/tra
           handle_charsets_out_path: wildmage/tra_ee
-          handle_charsets_split_console: true
 
       - name: Poify/Unpoify test
         if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
@@ -40,4 +39,3 @@ jobs:
           handle_charsets: true
           handle_charsets_tra_path: wildmage/tra
           handle_charsets_out_path: wildmage/tra_ee
-          handle_charsets_split_console: true

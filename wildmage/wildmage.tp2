@@ -21,14 +21,14 @@ ALWAYS
   INCLUDE ~%BGFORGE_LIB_DIR%/main.tpa~
 END
 
-LANGUAGE ~English~                    ~english~     ~%MOD_FOLDER%/tra_ee/english/setup-%WEIDU_OS%.tra~
-LANGUAGE ~Deutsch~                    ~german~      ~%MOD_FOLDER%/tra_ee/german/setup-%WEIDU_OS%.tra~
-LANGUAGE ~Francais (d'Oghmatiques)~   ~french~      ~%MOD_FOLDER%/tra_ee/french/setup-%WEIDU_OS%.tra~
-LANGUAGE ~Polski (Maciek F)~          ~polish~      ~%MOD_FOLDER%/tra_ee/polish/setup-%WEIDU_OS%.tra~
-LANGUAGE ~Brazilian Portuguese~       ~portuguese~  ~%MOD_FOLDER%/tra_ee/portuguese/setup-%WEIDU_OS%.tra~
-LANGUAGE ~Russian (aerie.ru)~         ~russian~     ~%MOD_FOLDER%/tra_ee/russian/setup-%WEIDU_OS%.tra~
-LANGUAGE ~Swedish~                    ~swedish~     ~%MOD_FOLDER%/tra_ee/swedish/setup-%WEIDU_OS%.tra~
-LANGUAGE ~Simplified Chinese~         ~schinese~    ~%MOD_FOLDER%/tra_ee/schinese/setup-%WEIDU_OS%.tra~
+LANGUAGE ~English~                    ~english~     ~%MOD_FOLDER%/tra/english/setup.tra~
+LANGUAGE ~Deutsch~                    ~german~      ~%MOD_FOLDER%/tra/german/setup.tra~
+LANGUAGE ~Francais (d'Oghmatiques)~   ~french~      ~%MOD_FOLDER%/tra/french/setup.tra~
+LANGUAGE ~Polski (Maciek F)~          ~polish~      ~%MOD_FOLDER%/tra/polish/setup.tra~
+LANGUAGE ~Brazilian Portuguese~       ~portuguese~  ~%MOD_FOLDER%/tra/portuguese/setup.tra~
+LANGUAGE ~Russian (aerie.ru)~         ~russian~     ~%MOD_FOLDER%/tra/russian/setup.tra~
+LANGUAGE ~Swedish~                    ~swedish~     ~%MOD_FOLDER%/tra/swedish/setup.tra~
+LANGUAGE ~Simplified Chinese~         ~schinese~    ~%MOD_FOLDER%/tra/schinese/setup.tra~
 BEGIN @60  // Ironman
 SUBCOMPONENT @1  // New Wild Magic Spells
 REQUIRE_PREDICATE ENGINE_IS ~tob bgee bg2ee eet iwdee~ @62  // Only ToB or EE engine supported
