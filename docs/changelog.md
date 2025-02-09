@@ -9,6 +9,12 @@
 - [Version 2.beta1](#version-2.beta1)
 - [Version 1](#version-1)
 
+### Version 2.4
+
+- Setup files [switched](https://github.com/BGforgeNet/bg2-wildmage/issues/30) to UTF-8.
+- Multiple translation updates.
+- Spellshaper's Special Snare [no longer](https://github.com/BGforgeNet/bg2-wildmage/issues/27) applies hold effect, just web.
+
 ### Version 2.3
 
 Updated French translation by Deratiseur.
