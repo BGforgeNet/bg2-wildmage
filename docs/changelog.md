@@ -1,5 +1,6 @@
 ## Changelog
 
+- [Version 2.4](#version-24)
 - [Version 2.3](#version-23)
 - [Version 2.2](#version-22)
 - [Version 2.1](#version-21)
