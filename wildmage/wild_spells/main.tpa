@@ -456,7 +456,8 @@ COPY ~%comp_dir%/itm/wm_bear.itm~  ~override/wm_bear.itm~    // "Teddy Bear of P
   SAY NAME2 @40403
   SAY DESC @40404
   WRITE_ASCII_TERMINATE 0x3a ~wm_bear~
-
+// Bear is "of protection", so shouldn't stack
+APPEND itemexcl.2da "wm_bear 1" UNLESS wm_bear
 
 //------------------------------------------------------
 //   Spellbook "Talking Item" with dialogue
