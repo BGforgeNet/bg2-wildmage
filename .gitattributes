@@ -23,22 +23,4 @@ wildmage/**/setup.tra                      working-tree-encoding=utf8
 wildmage/tra/**/ee.tra                     working-tree-encoding=utf8
 wildmage/tra/**/*_ee.tra                   working-tree-encoding=utf8
 
-
-# Windows console, other languages
-wildmage/tra_ee/czech/*-win32.tra          working-tree-encoding=cp1250
-wildmage/tra_ee/french/*-win32.tra         working-tree-encoding=cp1252
-wildmage/tra_ee/german/*-win32.tra         working-tree-encoding=cp1252
-wildmage/tra_ee/hungarian/*-win32.tra      working-tree-encoding=cp1250
-wildmage/tra_ee/italian/*-win32.tra        working-tree-encoding=cp1252
-wildmage/tra_ee/korean/*-win32.tra         working-tree-encoding=cp949
-wildmage/tra_ee/polish/*-win32.tra         working-tree-encoding=cp1250
-wildmage/tra_ee/portuguese/*-win32.tra     working-tree-encoding=cp1252
-wildmage/tra_ee/russian/*-win32.tra        working-tree-encoding=cp866
-wildmage/tra_ee/spanish/*-win32.tra        working-tree-encoding=cp1252
-wildmage/tra_ee/swedish/*-win32.tra        working-tree-encoding=cp1252
-wildmage/tra_ee/schinese/*-win32.tra       working-tree-encoding=cp936
-wildmage/tra_ee/tchinese/*-win32.tra       working-tree-encoding=cp950
-wildmage/tra_ee/ukrainian/*-win32.tra      working-tree-encoding=cp866
-wildmage/tra_ee/vietnamese/*-win32.tra     working-tree-encoding=cp1258
-
 *.tbaf linguist-language=TypeScript
