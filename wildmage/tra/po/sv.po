@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-23 18:09+0000\n"
+"PO-Revision-Date: 2025-11-09 15:27+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -947,7 +947,7 @@ msgstr ""
 
 #: text.tra:21311
 msgid "Fiasco"
-msgstr ""
+msgstr "Fiasko"
 
 #: text.tra:21401
 msgid "Wildstrike"
@@ -1066,7 +1066,7 @@ msgstr "skickades till Gehenna"
 
 #: text.tra:21526
 msgid "was sent to Gladsheim"
-msgstr ""
+msgstr "skickades till Gladsheim"
 
 #: text.tra:21527
 msgid "was sent to the Gray Waste"
@@ -1074,7 +1074,7 @@ msgstr ""
 
 #: text.tra:21528
 msgid "was sent to Limbo"
-msgstr ""
+msgstr "skickades till Limbo"
 
 #: text.tra:21529
 msgid "was sent to the Negative Material Plane"
@@ -1102,15 +1102,15 @@ msgstr ""
 
 #: text.tra:21535
 msgid "was sent to Nirvana"
-msgstr ""
+msgstr "skickades till Nirvana"
 
 #: text.tra:21536
 msgid "was sent to Olympus"
-msgstr ""
+msgstr "skickades till Olympus"
 
 #: text.tra:21537
 msgid "was sent to Pandemonium"
-msgstr ""
+msgstr "skickades till Pandemonium"
 
 #: text.tra:21538
 msgid "was sent to the Para-Elemental Plane of Smoke"
@@ -1194,7 +1194,7 @@ msgstr ""
 
 #: text.tra:21701
 msgid "Mynoc's Wild Recuperation"
-msgstr ""
+msgstr "Mynocs vilda återhämtning"
 
 #: text.tra:21702
 msgid ""
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #: text.tra:21803
 msgid "Beholder's Gaze"
-msgstr ""
+msgstr "Bevarares Blick"
 
 #: text.tra:21811
 msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
@@ -1258,7 +1258,7 @@ msgstr ""
 
 #: text.tra:21901
 msgid "Entropy Shield"
-msgstr ""
+msgstr "Entropisköld"
 
 #: text.tra:21902
 msgid ""
@@ -1302,7 +1302,7 @@ msgstr ""
 
 #: text.tra:22101
 msgid "Rhialto's Marvelous Reincarnation"
-msgstr ""
+msgstr "Rhialtos förunderliga återuppståndelse"
 
 #: text.tra:22102
 msgid ""
@@ -1475,7 +1475,7 @@ msgstr ""
 
 #: text.tra:22901
 msgid "Wildfire"
-msgstr ""
+msgstr "Skogsbrand"
 
 #: text.tra:22902
 msgid ""
@@ -1494,7 +1494,7 @@ msgstr ""
 
 #: text.tra:23001
 msgid "Mynoc's Irresistible Appeal"
-msgstr ""
+msgstr "Mynocs oemotståndliga dragningskraft"
 
 #: text.tra:23002
 msgid ""
@@ -1513,7 +1513,7 @@ msgstr ""
 
 #: text.tra:23101
 msgid "Meece's Wildarmor"
-msgstr ""
+msgstr "Meeces Vildrustning"
 
 #: text.tra:23102
 msgid ""
@@ -1536,43 +1536,43 @@ msgstr ""
 
 #: text.tra:30111
 msgid "1st level"
-msgstr ""
+msgstr "1:a nivå"
 
 #: text.tra:30112
 msgid "2nd level"
-msgstr ""
+msgstr "2:a nivå"
 
 #: text.tra:30113
 msgid "3rd level"
-msgstr ""
+msgstr "3:e nivå"
 
 #: text.tra:30114
 msgid "4th level"
-msgstr ""
+msgstr "4:e nivå"
 
 #: text.tra:30115
 msgid "5th level"
-msgstr ""
+msgstr "5:e nivå"
 
 #: text.tra:30116
 msgid "6th level"
-msgstr ""
+msgstr "6:e nivå"
 
 #: text.tra:30117
 msgid "7th level"
-msgstr ""
+msgstr "7:e nivå"
 
 #: text.tra:30118
 msgid "8th level"
-msgstr ""
+msgstr "8:e nivå"
 
 #: text.tra:30119
 msgid "9th level"
-msgstr ""
+msgstr "9:e nivå"
 
 #: text.tra:30120
 msgid "10th level"
-msgstr ""
+msgstr "10:e nivå"
 
 #: text.tra:30121
 msgid "You don't have any suitable spells memorized."
@@ -1580,19 +1580,19 @@ msgstr ""
 
 #: text.tra:30122
 msgid "Wild Magic Backlash"
-msgstr ""
+msgstr "Vildmagi-bakslag"
 
 #: text.tra:30301
 msgid "Shape Spell"
-msgstr ""
+msgstr "Formbesvärjelse"
 
 #: text.tra:30302
 msgid "Shaped Spell"
-msgstr ""
+msgstr "Formad Besvärjelse"
 
 #: text.tra:40101
 msgid "Hand"
-msgstr ""
+msgstr "Hand"
 
 #: text.tra:40102
 msgid ""
@@ -1637,7 +1637,7 @@ msgstr ""
 
 #: text.tra:40201
 msgid "Skull Bomb"
-msgstr ""
+msgstr "Dödskallebomb"
 
 #: text.tra:40202
 msgid ""
@@ -1653,7 +1653,7 @@ msgstr ""
 
 #: text.tra:40301
 msgid "Dead Cat"
-msgstr ""
+msgstr "Död katt"
 
 #: text.tra:40302
 msgid ""
@@ -1663,7 +1663,7 @@ msgstr ""
 
 #: text.tra:40401
 msgid "Teddy Bear"
-msgstr ""
+msgstr "Nallebjörn"
 
 #: text.tra:40402
 msgid ""
@@ -1756,7 +1756,7 @@ msgstr "Vild Våg: Kastaren förvandlades till en ekorre"
 
 #: text.tra:69998
 msgid "Letter"
-msgstr ""
+msgstr "Brev"
 
 #: text.tra:69999
 msgid ""
