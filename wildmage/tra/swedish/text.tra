@@ -273,30 +273,30 @@ Anyway, when the spell is successful, the caster gets rid of the target, and it'
 @21524 = ~skickades till det eteriska planet~
 @21525 = ~skickades till Gehenna~
 @21526 = ~skickades till Gladsheim~
-@21527 = ~was sent to the Gray Waste~
+@21527 = ~skickades till Den Grå Ökesmarken~
 @21528 = ~skickades till Limbo~
-@21529 = ~was sent to the Negative Material Plane~
-@21530 = ~was sent to the Quasi-Plane of Vacuum~
-@21531 = ~was sent to the Quasi-Plane of Ash~
-@21532 = ~was sent to the Quasi-Plane of Dust~
-@21533 = ~was sent to the Quasi-Plane of Salt~
-@21534 = ~was sent to the Nine Hells~
+@21529 = ~skickades till det Negativt Materiella Planet~
+@21530 = ~skickades till Kvasi-Planet av Vakuum~
+@21531 = ~skickades till Kvasi-Planet av Aska~
+@21532 = ~skickades till Kvasi-Planet av Damm~
+@21533 = ~skickades till Kvasi-Planet av Salt~
+@21534 = ~skickades till De Nio Helvetena~
 @21535 = ~skickades till Nirvana~
 @21536 = ~skickades till Olympus~
 @21537 = ~skickades till Pandemonium~
-@21538 = ~was sent to the Para-Elemental Plane of Smoke~
-@21539 = ~was sent to the Para-Elemental Plane of Magma~
+@21538 = ~skickades till det Para-Elementära Rökplanet~
+@21539 = ~skickades till det Para-Elementära Magmaplanet~
 @21540 = ~was sent to the Para-Elemental Plane of Ooze~
-@21541 = ~was sent to the Para-Elemental Plane of Ice~
-@21542 = ~was sent to the Positive Material Plane~
-@21543 = ~was sent to the Quasi-Plane of Lightning~
-@21544 = ~was sent to the Quasi-Plane of Radiance~
-@21545 = ~was sent to the Quasi-Plane of Minerals~
-@21546 = ~was sent to the Quasi-Plane of Steam~
+@21541 = ~skickades till det Para-Elementära Isplanet~
+@21542 = ~skickades till det Positivt Materiella Planet~
+@21543 = ~skickades till Kvasi-Planet av Blixtar~
+@21544 = ~skickades till Kvasi-Planet av Strålar~
+@21545 = ~skickades till Kvasi-Planet av Mineraler~
+@21546 = ~skickades till Kvasi-Planet av Ånga~
 @21547 = ~was sent to the Icewind Dale~
-@21548 = ~was sent to the Seven Heavens~
-@21549 = ~was sent to the Tarterus~
-@21550 = ~was sent to the Twin Paradises~
+@21548 = ~sändes till De Sju Himlarna~
+@21549 = ~skickades till Tarterus~
+@21550 = ~skickades till Tvillingsparadisen~
 @21601 = ~Åkalla ko~
 @21602 = ~Summon Cow* (Summoning)
 Level: 7
@@ -330,11 +330,11 @@ Saving Throw: None
 When casting this spell, the wild mage willingly releases raw magical energy in form of a wild surge. If he manages to control the wild surge, he can use the energy to bring back into memory 1d4 spells that have been previously cast. If no spells have been cast yet, then nothing happens, and the spell is wasted.
 
 For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less.~
-@21711 = ~1 spell restored to memory~
-@21712 = ~2 spells restored to memory~
-@21713 = ~3 spells restored to memory~
-@21714 = ~4 spells restored to memory~
-@21801 = ~Eye of the Beholder~
+@21711 = ~1 besvärjelse återställd till minnet~
+@21712 = ~2 besvärjelser återställda till minnet~
+@21713 = ~3 besvärjelser återställda till minnet~
+@21714 = ~4 besvärjelser återställda till minnet~
+@21801 = ~Bevakarens Öga~
 @21802 = ~Eye of the Beholder* (Evocation)
 Level: 8
 Range: Visual range of caster
@@ -349,7 +349,7 @@ Once per round, the wild mage may use this eyestalk to gaze at a target, causing
 
 Usually, the caster's eye returns to its original shape and place after the spell has expired.~
 @21803 = ~Bevarares Blick~
-@21811 = ~"Beholder's Gaze" has been added to your Special Abilities menu~
+@21811 = ~"Bevakarens Blick" har lagts till i din Specialförmågor-meny~
 @21901 = ~Entropisköld~
 @21902 = ~Entropy Shield* (Abjuration)
 Level: 9
@@ -548,7 +548,7 @@ The spell's duration is 5 rounds for every level of the caster, up to 2 hours at
 @30118 = ~8:e nivå~
 @30119 = ~9:e nivå~
 @30120 = ~10:e nivå~
-@30121 = ~You don't have any suitable spells memorized.~
+@30121 = ~Du har inga lämpliga besvärjelser memoriserade.~
 @30122 = ~Vildmagi-bakslag~
 @30201 = ~Vävklippning~
 @30301 = ~Formbesvärjelse~
@@ -602,9 +602,9 @@ Not Usable By:
  Non-chaotic alignments
  Wizard Slayer~
 @40301 = ~Död katt~
-@40302 = ~This appears to be a dead cat. It is extremely well preserved and looks as if it is sleeping.~
+@40302 = ~Detta ser ut att vara en död katt. Den är extremt välbevarad och ser ut som om den sover.~
 @40401 = ~Nallebjörn~
-@40402 = ~Although this cute teddy bear looks quite old, it's still in good condition.~
+@40402 = ~Även om den här söta nallebjörnen ser ganska gammal ut är den fortfarande i gott skick.~
 @40403 = ~Skyddets nallebjörn +2, +4 mot Demoner~
 @40404 = ~Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'
 The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.
