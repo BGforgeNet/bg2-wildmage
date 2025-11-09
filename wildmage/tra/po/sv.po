@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2025-11-09 15:27+0000\n"
+"PO-Revision-Date: 2025-11-09 16:27+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -1070,7 +1070,7 @@ msgstr "skickades till Gladsheim"
 
 #: text.tra:21527
 msgid "was sent to the Gray Waste"
-msgstr ""
+msgstr "skickades till Den Grå Ökesmarken"
 
 #: text.tra:21528
 msgid "was sent to Limbo"
@@ -1078,27 +1078,27 @@ msgstr "skickades till Limbo"
 
 #: text.tra:21529
 msgid "was sent to the Negative Material Plane"
-msgstr ""
+msgstr "skickades till det Negativt Materiella Planet"
 
 #: text.tra:21530
 msgid "was sent to the Quasi-Plane of Vacuum"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Vakuum"
 
 #: text.tra:21531
 msgid "was sent to the Quasi-Plane of Ash"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Aska"
 
 #: text.tra:21532
 msgid "was sent to the Quasi-Plane of Dust"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Damm"
 
 #: text.tra:21533
 msgid "was sent to the Quasi-Plane of Salt"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Salt"
 
 #: text.tra:21534
 msgid "was sent to the Nine Hells"
-msgstr ""
+msgstr "skickades till De Nio Helvetena"
 
 #: text.tra:21535
 msgid "was sent to Nirvana"
@@ -1114,11 +1114,11 @@ msgstr "skickades till Pandemonium"
 
 #: text.tra:21538
 msgid "was sent to the Para-Elemental Plane of Smoke"
-msgstr ""
+msgstr "skickades till det Para-Elementära Rökplanet"
 
 #: text.tra:21539
 msgid "was sent to the Para-Elemental Plane of Magma"
-msgstr ""
+msgstr "skickades till det Para-Elementära Magmaplanet"
 
 #: text.tra:21540
 msgid "was sent to the Para-Elemental Plane of Ooze"
@@ -1126,27 +1126,27 @@ msgstr ""
 
 #: text.tra:21541
 msgid "was sent to the Para-Elemental Plane of Ice"
-msgstr ""
+msgstr "skickades till det Para-Elementära Isplanet"
 
 #: text.tra:21542
 msgid "was sent to the Positive Material Plane"
-msgstr ""
+msgstr "skickades till det Positivt Materiella Planet"
 
 #: text.tra:21543
 msgid "was sent to the Quasi-Plane of Lightning"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Blixtar"
 
 #: text.tra:21544
 msgid "was sent to the Quasi-Plane of Radiance"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Strålar"
 
 #: text.tra:21545
 msgid "was sent to the Quasi-Plane of Minerals"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Mineraler"
 
 #: text.tra:21546
 msgid "was sent to the Quasi-Plane of Steam"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Ånga"
 
 #: text.tra:21547
 msgid "was sent to the Icewind Dale"
@@ -1154,15 +1154,15 @@ msgstr ""
 
 #: text.tra:21548
 msgid "was sent to the Seven Heavens"
-msgstr ""
+msgstr "sändes till De Sju Himlarna"
 
 #: text.tra:21549
 msgid "was sent to the Tarterus"
-msgstr ""
+msgstr "skickades till Tarterus"
 
 #: text.tra:21550
 msgid "was sent to the Twin Paradises"
-msgstr ""
+msgstr "skickades till Tvillingsparadisen"
 
 #: text.tra:21601
 msgid "Summon Cow"
@@ -1213,23 +1213,23 @@ msgstr ""
 
 #: text.tra:21711
 msgid "1 spell restored to memory"
-msgstr ""
+msgstr "1 besvärjelse återställd till minnet"
 
 #: text.tra:21712
 msgid "2 spells restored to memory"
-msgstr ""
+msgstr "2 besvärjelser återställda till minnet"
 
 #: text.tra:21713
 msgid "3 spells restored to memory"
-msgstr ""
+msgstr "3 besvärjelser återställda till minnet"
 
 #: text.tra:21714
 msgid "4 spells restored to memory"
-msgstr ""
+msgstr "4 besvärjelser återställda till minnet"
 
 #: text.tra:21801
 msgid "Eye of the Beholder"
-msgstr ""
+msgstr "Bevakarens Öga"
 
 #: text.tra:21802
 msgid ""
@@ -1254,7 +1254,7 @@ msgstr "Bevarares Blick"
 
 #: text.tra:21811
 msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
-msgstr ""
+msgstr "\"Bevakarens Blick\" har lagts till i din Specialförmågor-meny"
 
 #: text.tra:21901
 msgid "Entropy Shield"
@@ -1576,7 +1576,7 @@ msgstr "10:e nivå"
 
 #: text.tra:30121
 msgid "You don't have any suitable spells memorized."
-msgstr ""
+msgstr "Du har inga lämpliga besvärjelser memoriserade."
 
 #: text.tra:30122
 msgid "Wild Magic Backlash"
@@ -1660,6 +1660,8 @@ msgid ""
 "This appears to be a dead cat. It is extremely well preserved and looks as "
 "if it is sleeping."
 msgstr ""
+"Detta ser ut att vara en död katt. Den är extremt välbevarad och ser ut som "
+"om den sover."
 
 #: text.tra:40401
 msgid "Teddy Bear"
@@ -1669,6 +1671,8 @@ msgstr "Nallebjörn"
 msgid ""
 "Although this cute teddy bear looks quite old, it's still in good condition."
 msgstr ""
+"Även om den här söta nallebjörnen ser ganska gammal ut är den fortfarande i "
+"gott skick."
 
 #: text.tra:40403
 msgid "Teddy Bear of Protection +2, +4 vs. Demons"
@@ -1759,6 +1763,7 @@ msgid "Letter"
 msgstr "Brev"
 
 #: text.tra:69999
+#, fuzzy
 msgid ""
 "My dear friend Gorion,\n"
 "\n"
@@ -1766,6 +1771,13 @@ msgid ""
 "\n"
 "E."
 msgstr ""
+"Min käre vän Gorion,\n"
+"\n"
+"var försiktig vid din avfärd, det finns en Vildmagiker som hänger utanför "
+"murarna kring Candlekeep. Hans avsikter är okända, så när du lämnat tornet "
+"är det bäst att du ger dig av direkt.\n"
+"\n"
+"E."
 
 #: text_ee.tra:40202
 msgid ""
