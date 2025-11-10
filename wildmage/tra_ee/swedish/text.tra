@@ -53,10 +53,10 @@ Förhoppningsvis ändrar den nuvarande versionen av denna besvärjelse INTE besv
 @20302 = ~Ratatoskform* (Förändring)
 Nivå: 1
 Räckvidd: 0
-Varaktighet: 1 varv
-Gjuttid: 1
-Område av effekt: Den som kastar
-Sparande kast: Ingen
+Varaktighet: 1 runda
+Besvärjaretid: 1
+Område av effekt: Besvärjaren
+Räddningskast: Ingen
 
 Ratatosk är en extraplanarisk ras av tänkande krigar-ekorrar som härstammar från Yggdrasil, Världsasken, det stora gudomliga trädet vars grenar och rötter sträcker sig över alla yttre plan.
 
@@ -66,37 +66,37 @@ Besvärjaren får också några av Ratatoskens stridsförmågor: en extra attack
 
 Till skillnad från andra polymorfiseringsbesvärjelser behåller besvärjaren sina besvärjelseförmågor medan denna besvärjelse är aktiv.~
 @20401 = ~Slumpmässig Formel I~
-@20402 = ~Random Spell I* (Invocation/Evocation)
-Level: 1
-Range: 40 yards
-Duration: Instantaneous
-Casting Time: 1
-Area of Effect: Special
-Saving Throw: Special
+@20402 = ~Slumpmässig Besvärjelse I* (Invokation/Evokation)
+Nivå: 1
+Räckvidd: 40 yard
+Varaktighet: Omedelbar
+Besvärjelsetid: 1
+Effektområde: Speciell
+Sparande kast: Speciell
 
-This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.
+Denna riskfyllda besvärjelse utnyttjar magins kaos för att forma magisk energi till en besvärjelse med mer kraft än vad vildmagikern annars skulle kunna använda. Slumpmässig besvärjelse skapar en effekt som motsvarar en slumpmässigt vald besvärjelse på 2:a eller 3:e nivå när den kastas.
 
-In rare cases, an unstable magical energy outburst results in several random effects being created.
+I sällsynta fall kan ett instabilt utbrott av magisk energi resultera i att flera slumpmässiga effekter skapas.
 
-The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+Besvärjaren väljer en varelse inom 40 meter som mål för besvärjelsen. Den skapade besvärjelsen kommer att vara centrerad på den varelsen, såvida den inte är av den typ som bara påverkar besvärjaren.
 
-The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@20501 = ~Bladeskur~
-@20502 = ~Blade Shower* (Conjuration)
-Level: 2
-Range: 40 yards
-Duration: 3 rounds/5 levels
-Casting Time: 1
-Area of Effect: 1-25 creatures
-Saving Throw: Special
+Fördelarna med Slumpmässig besvärjelse är besvärjelsetiden som alltid är 1, räckvidden som är 40 yard oavsett den duplicerade besvärjelsens ursprungliga räckvidd, och det faktum att vildmagikern inte behöver kunna kasta besvärjelsen eller ens ha den i sin besvärjelsebok. På baksidan har besvärjaren ingen kunskap om vilken besvärjelse som kommer att dupliceras, inte ens om besvärjelsens effekt är skadlig eller hjälpsam.~
+@20501 = ~Bladskur~
+@20502 = ~Bladskur* (Framkallning)
+Nivå: 2
+Räckvidd: 40 yard
+Varaktighet: 3 rundor/5 nivåer
+Besvärjelsetid: 1
+Effektområde: 1-25 varelser
+Räddningskast: Special
 
-The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.
+Besvärjelsen skapar en uppsättning magiska dolkar som svävar i luften tills de avfyras mot sina mål. En dolk per nivå 1-5 skapas, plus ytterligare en uppsättning om 5 dolkar för varje fem nivåer av besvärjaren, upp till 25 dolkar vid nivå 25. Varje uppsättning dolkar avfyras på en gång mot 1-5 mål som besvärjaren väljer. Dolkarna består av instabil kaosmateria och löses upp efter att besvärjelsen har löpt ut; för varje uppsättning dolkar som skapas förlängs besvärjelsens varaktighet med 3 ronder.
 
-Each single dagger does 1d4 points of piercing damage. At level 5, the daggers get +1 damage bonus. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.
+Varje enskild dolk gör 1d4 poäng penetrerande skada. Vid nivå 5 får dolkarna +1 skadebonus. Denna bonus ökas med en för var femte nivå av besvärjaren: +2 vid nivå 10, +3 vid nivå 15, upp till maximalt +5 vid nivå 25.
 
-The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.
+Dolkarna, som är gjorda av rå kaosmateria, kringgår alla fysiska och magiska försvar och träffar därför alltid målet. De kan dock fortfarande stoppas av stridsskydd som Steneskinn eller Järnskinn. Skydd eller immunitet från magiska vapen har ingen effekt.
 
-Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
+Dessutom slår besvärjaren d20 för varje enskild dolk för att avgöra om det är en kritisk träff eller miss. Vid en kritisk miss tar målet ingen skada alls. Vid en kritisk träff gör dolken dubbel skada och målet måste rädda sig mot besvärjelser, eller drabbas av en av följande effekter i 5 ronder: Tystnad, Förvirring, Skräck, Sömn, Vild Magi.~
 @20511 = ~"Bladskur" har lagts till i din Specialförmågor-meny~
 @20601 = ~Rhialtos Slumpmässiga Missiler~
 @20602 = ~Rhialto's Random Missiles* (Evocation)
@@ -231,7 +231,7 @@ On a roll of 20, there is still a 25% chance for the spell to continue: If the r
 
 As long as it doesn't expire due to "Good Luck" (20 on D20, then 6 or higher on D20), the spell continues infinitely.~
 @21311 = ~Fiasko~
-@21401 = ~Wildstrike~
+@21401 = ~Vildhugg~
 @21402 = ~Vildslag* (Besvärjelse/Åkallelse)
 Nivå: 6
 Räckvidd: 30 meter
@@ -350,7 +350,7 @@ When this spell is cast, one of the wild mage's eyeballs pops out, and is transf
 Once per round, the wild mage may use this eyestalk to gaze at a target, causing one of 10 possible effects to shoot forth from the eye. The exact result (including saving throws, range, duration, etc.) are determined at random from among the 10 functions of a beholder's eye stalks: Charm Person, Fear, Disintegrate, Slow, Petrification, Cause Serious Wounds, Hold Person, Lightning Bolt, Paralyze or Death Ray.
 
 Usually, the caster's eye returns to its original shape and place after the spell has expired.~
-@21803 = ~Bevarares Blick~
+@21803 = ~Bevakarblick~
 @21811 = ~"Bevakarens Blick" har lagts till i din Specialförmågor-meny~
 @21901 = ~Entropisköld~
 @21902 = ~Entropy Shield* (Abjuration)
@@ -366,7 +366,7 @@ This spell surrounds the caster in a protective field of raw magical energy. Thi
 For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield.
 
 In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect.~
-@22001 = ~Wild Sphere~
+@22001 = ~Vildsfär~
 @22002 = ~Wild Sphere* (Conjuration/Summoning)
 Level: 9
 Range: Visual range of the caster
@@ -398,7 +398,7 @@ Casting this spell causes fluctuations in the laws of probability, and weakens t
 The purpose of this spell is to bring a dead back to life by changing an event in the past and letting another creature (one that still lives in the present) die instead. There is no divine intervention involved: the reincarnated creature isn't raised from the dead, on successful casting of this spell, the fatal event never happened and the spell's beneficiary never has died.
 
 Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood.~
-@22201 = ~Entropy Burst~
+@22201 = ~Entropismäll~
 @22202 = ~Entropy Burst (Invocation)
 Level: 8
 Range: 0
@@ -418,7 +418,7 @@ Less than 4  --  Death
 12 and up  --  Deafened for 1 turn with 50% chance of spell failure
 
 There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled.~
-@22301 = ~Acid Storm~
+@22301 = ~Syrastorm~
 @22302 = ~Acid Storm (Evocation)
 Level: 7
 Range: Sight of Caster
@@ -662,8 +662,8 @@ Only Usable By:
 @50102 = ~Rhialto~
 @50111 = ~Vild Våg: Kastaren förvandlades till en ekorre~
 @69998 = ~Brev~
-@69999 = ~My dear friend Gorion,
+@69999 = ~Min käre vän Gorion,
 
-be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.
+var försiktig vid din avfärd, det finns en Vildmagiker som hänger utanför murarna kring Candlekeep. Hans avsikter är okända, så när du lämnat tornet är det bäst att du ger dig av direkt.
 
 E.~
