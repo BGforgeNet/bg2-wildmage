@@ -50,21 +50,21 @@ Förhoppningsvis ändrar den nuvarande versionen av denna besvärjelse INTE besv
 @20211 = ~En av mina trollformler har ändrats!~
 @20212 = ~Lärde dig en ny trollformel: Ratatoskform~
 @20301 = ~Ratatoskform~
-@20302 = ~Ratatosk Shape* (Alteration)
-Level: 1
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+@20302 = ~Ratatoskform* (Förändring)
+Nivå: 1
+Räckvidd: 0
+Varaktighet: 1 varv
+Gjuttid: 1
+Område av effekt: Den som kastar
+Sparande kast: Ingen
 
-The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.
+Ratatosk är en extraplanarisk ras av tänkande krigar-ekorrar som härstammar från Yggdrasil, Världsasken, det stora gudomliga trädet vars grenar och rötter sträcker sig över alla yttre plan.
 
-Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points, and additional 2 points against missile weapons. Move speed is also slightly increased. On top of that, caster's dexterity is raised by four points. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.
+Magikern som kastar denna besvärjelse förvandlas till en av dessa små krabater. På grund av att Ratatosker är så små får besvärjaren en Rustningsklassbonus på 3 poäng och ytterligare 2 poäng mot missilvapen. Förflyttningshastigheten är också något ökad. Dessutom höjs besvärjarens rörlighet med fyra poäng. Alla rustningsklassbonusar som erhålls från rörlighetshöjningen staplas med de som erhålls från storleken.
 
-The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.
+Besvärjaren får också några av Ratatoskens stridsförmågor: en extra attack per runda och tassar som betraktas som +5-vapen i alla avseenden utom skadebonus. Tassarna gör 1d4+1 poäng skärande skada.
 
-Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active.~
+Till skillnad från andra polymorfiseringsbesvärjelser behåller besvärjaren sina besvärjelseförmågor medan denna besvärjelse är aktiv.~
 @20401 = ~Slumpmässig Formel I~
 @20402 = ~Random Spell I* (Invocation/Evocation)
 Level: 1
