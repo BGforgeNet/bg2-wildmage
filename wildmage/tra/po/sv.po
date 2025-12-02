@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-15-07:50+0000\n"
-"PO-Revision-Date: 2024-10-23 18:09+0000\n"
+"PO-Revision-Date: 2025-11-10 15:27+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -693,6 +693,31 @@ msgid ""
 "\n"
 "Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active."
 msgstr ""
+"Ratatoskform* (Förändring)\n"
+"Nivå: 1\n"
+"Räckvidd: 0\n"
+"Varaktighet: 1 runda\n"
+"Besvärjaretid: 1\n"
+"Område av effekt: Besvärjaren\n"
+"Räddningskast: Ingen\n"
+"\n"
+"Ratatosk är en extraplanarisk ras av tänkande krigar-ekorrar som härstammar "
+"från Yggdrasil, Världsasken, det stora gudomliga trädet vars grenar och "
+"rötter sträcker sig över alla yttre plan.\n"
+"\n"
+"Magikern som kastar denna besvärjelse förvandlas till en av dessa små "
+"krabater. På grund av att Ratatosker är så små får besvärjaren en "
+"Rustningsklassbonus på 3 poäng och ytterligare 2 poäng mot missilvapen. "
+"Förflyttningshastigheten är också något ökad. Dessutom höjs besvärjarens "
+"rörlighet med fyra poäng. Alla rustningsklassbonusar som erhålls från "
+"rörlighetshöjningen staplas med de som erhålls från storleken.\n"
+"\n"
+"Besvärjaren får också några av Ratatoskens stridsförmågor: en extra attack "
+"per runda och tassar som betraktas som +5-vapen i alla avseenden utom "
+"skadebonus. Tassarna gör 1d4+1 poäng skärande skada.\n"
+"\n"
+"Till skillnad från andra polymorfiseringsbesvärjelser behåller besvärjaren "
+"sina besvärjelseförmågor medan denna besvärjelse är aktiv."
 
 #: text.tra:20401
 msgid "Random Spell I"
@@ -716,10 +741,36 @@ msgid ""
 "\n"
 "The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful."
 msgstr ""
+"Slumpmässig Besvärjelse I* (Invokation/Evokation)\n"
+"Nivå: 1\n"
+"Räckvidd: 40 yard\n"
+"Varaktighet: Omedelbar\n"
+"Besvärjelsetid: 1\n"
+"Effektområde: Speciell\n"
+"Sparande kast: Speciell\n"
+"\n"
+"Denna riskfyllda besvärjelse utnyttjar magins kaos för att forma magisk "
+"energi till en besvärjelse med mer kraft än vad vildmagikern annars skulle "
+"kunna använda. Slumpmässig besvärjelse skapar en effekt som motsvarar en "
+"slumpmässigt vald besvärjelse på 2:a eller 3:e nivå när den kastas.\n"
+"\n"
+"I sällsynta fall kan ett instabilt utbrott av magisk energi resultera i att "
+"flera slumpmässiga effekter skapas.\n"
+"\n"
+"Besvärjaren väljer en varelse inom 40 meter som mål för besvärjelsen. Den "
+"skapade besvärjelsen kommer att vara centrerad på den varelsen, såvida den "
+"inte är av den typ som bara påverkar besvärjaren.\n"
+"\n"
+"Fördelarna med Slumpmässig besvärjelse är besvärjelsetiden som alltid är 1, "
+"räckvidden som är 40 yard oavsett den duplicerade besvärjelsens ursprungliga "
+"räckvidd, och det faktum att vildmagikern inte behöver kunna kasta "
+"besvärjelsen eller ens ha den i sin besvärjelsebok. På baksidan har "
+"besvärjaren ingen kunskap om vilken besvärjelse som kommer att dupliceras, "
+"inte ens om besvärjelsens effekt är skadlig eller hjälpsam."
 
 #: text.tra:20501
 msgid "Blade Shower"
-msgstr "Bladeskur"
+msgstr "Bladskur"
 
 #: text.tra:20502
 msgid ""
@@ -739,6 +790,36 @@ msgid ""
 "\n"
 "Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic."
 msgstr ""
+"Bladskur* (Framkallning)\n"
+"Nivå: 2\n"
+"Räckvidd: 40 yard\n"
+"Varaktighet: 3 rundor/5 nivåer\n"
+"Besvärjelsetid: 1\n"
+"Effektområde: 1-25 varelser\n"
+"Räddningskast: Special\n"
+"\n"
+"Besvärjelsen skapar en uppsättning magiska dolkar som svävar i luften tills "
+"de avfyras mot sina mål. En dolk per nivå 1-5 skapas, plus ytterligare en "
+"uppsättning om 5 dolkar för varje fem nivåer av besvärjaren, upp till 25 "
+"dolkar vid nivå 25. Varje uppsättning dolkar avfyras på en gång mot 1-5 mål "
+"som besvärjaren väljer. Dolkarna består av instabil kaosmateria och löses "
+"upp efter att besvärjelsen har löpt ut; för varje uppsättning dolkar som "
+"skapas förlängs besvärjelsens varaktighet med 3 ronder.\n"
+"\n"
+"Varje enskild dolk gör 1d4 poäng penetrerande skada. Vid nivå 5 får dolkarna "
+"+1 skadebonus. Denna bonus ökas med en för var femte nivå av besvärjaren: +2 "
+"vid nivå 10, +3 vid nivå 15, upp till maximalt +5 vid nivå 25.\n"
+"\n"
+"Dolkarna, som är gjorda av rå kaosmateria, kringgår alla fysiska och magiska "
+"försvar och träffar därför alltid målet. De kan dock fortfarande stoppas av "
+"stridsskydd som Steneskinn eller Järnskinn. Skydd eller immunitet från "
+"magiska vapen har ingen effekt.\n"
+"\n"
+"Dessutom slår besvärjaren d20 för varje enskild dolk för att avgöra om det "
+"är en kritisk träff eller miss. Vid en kritisk miss tar målet ingen skada "
+"alls. Vid en kritisk träff gör dolken dubbel skada och målet måste rädda sig "
+"mot besvärjelser, eller drabbas av en av följande effekter i 5 ronder: "
+"Tystnad, Förvirring, Skräck, Sömn, Vild Magi."
 
 #: text.tra:20511
 msgid "\"Blade Shower\" has been added to your Special Abilities menu"
@@ -947,11 +1028,11 @@ msgstr ""
 
 #: text.tra:21311
 msgid "Fiasco"
-msgstr ""
+msgstr "Fiasko"
 
 #: text.tra:21401
 msgid "Wildstrike"
-msgstr ""
+msgstr "Vildhugg"
 
 #: text.tra:21402
 msgid ""
@@ -1066,59 +1147,59 @@ msgstr "skickades till Gehenna"
 
 #: text.tra:21526
 msgid "was sent to Gladsheim"
-msgstr ""
+msgstr "skickades till Gladsheim"
 
 #: text.tra:21527
 msgid "was sent to the Gray Waste"
-msgstr ""
+msgstr "skickades till Den Grå Ökesmarken"
 
 #: text.tra:21528
 msgid "was sent to Limbo"
-msgstr ""
+msgstr "skickades till Limbo"
 
 #: text.tra:21529
 msgid "was sent to the Negative Material Plane"
-msgstr ""
+msgstr "skickades till det Negativt Materiella Planet"
 
 #: text.tra:21530
 msgid "was sent to the Quasi-Plane of Vacuum"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Vakuum"
 
 #: text.tra:21531
 msgid "was sent to the Quasi-Plane of Ash"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Aska"
 
 #: text.tra:21532
 msgid "was sent to the Quasi-Plane of Dust"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Damm"
 
 #: text.tra:21533
 msgid "was sent to the Quasi-Plane of Salt"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Salt"
 
 #: text.tra:21534
 msgid "was sent to the Nine Hells"
-msgstr ""
+msgstr "skickades till De Nio Helvetena"
 
 #: text.tra:21535
 msgid "was sent to Nirvana"
-msgstr ""
+msgstr "skickades till Nirvana"
 
 #: text.tra:21536
 msgid "was sent to Olympus"
-msgstr ""
+msgstr "skickades till Olympus"
 
 #: text.tra:21537
 msgid "was sent to Pandemonium"
-msgstr ""
+msgstr "skickades till Pandemonium"
 
 #: text.tra:21538
 msgid "was sent to the Para-Elemental Plane of Smoke"
-msgstr ""
+msgstr "skickades till det Para-Elementära Rökplanet"
 
 #: text.tra:21539
 msgid "was sent to the Para-Elemental Plane of Magma"
-msgstr ""
+msgstr "skickades till det Para-Elementära Magmaplanet"
 
 #: text.tra:21540
 msgid "was sent to the Para-Elemental Plane of Ooze"
@@ -1126,27 +1207,27 @@ msgstr ""
 
 #: text.tra:21541
 msgid "was sent to the Para-Elemental Plane of Ice"
-msgstr ""
+msgstr "skickades till det Para-Elementära Isplanet"
 
 #: text.tra:21542
 msgid "was sent to the Positive Material Plane"
-msgstr ""
+msgstr "skickades till det Positivt Materiella Planet"
 
 #: text.tra:21543
 msgid "was sent to the Quasi-Plane of Lightning"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Blixtar"
 
 #: text.tra:21544
 msgid "was sent to the Quasi-Plane of Radiance"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Strålar"
 
 #: text.tra:21545
 msgid "was sent to the Quasi-Plane of Minerals"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Mineraler"
 
 #: text.tra:21546
 msgid "was sent to the Quasi-Plane of Steam"
-msgstr ""
+msgstr "skickades till Kvasi-Planet av Ånga"
 
 #: text.tra:21547
 msgid "was sent to the Icewind Dale"
@@ -1154,15 +1235,15 @@ msgstr ""
 
 #: text.tra:21548
 msgid "was sent to the Seven Heavens"
-msgstr ""
+msgstr "sändes till De Sju Himlarna"
 
 #: text.tra:21549
 msgid "was sent to the Tarterus"
-msgstr ""
+msgstr "skickades till Tarterus"
 
 #: text.tra:21550
 msgid "was sent to the Twin Paradises"
-msgstr ""
+msgstr "skickades till Tvillingsparadisen"
 
 #: text.tra:21601
 msgid "Summon Cow"
@@ -1194,7 +1275,7 @@ msgstr ""
 
 #: text.tra:21701
 msgid "Mynoc's Wild Recuperation"
-msgstr ""
+msgstr "Mynocs vilda återhämtning"
 
 #: text.tra:21702
 msgid ""
@@ -1213,23 +1294,23 @@ msgstr ""
 
 #: text.tra:21711
 msgid "1 spell restored to memory"
-msgstr ""
+msgstr "1 besvärjelse återställd till minnet"
 
 #: text.tra:21712
 msgid "2 spells restored to memory"
-msgstr ""
+msgstr "2 besvärjelser återställda till minnet"
 
 #: text.tra:21713
 msgid "3 spells restored to memory"
-msgstr ""
+msgstr "3 besvärjelser återställda till minnet"
 
 #: text.tra:21714
 msgid "4 spells restored to memory"
-msgstr ""
+msgstr "4 besvärjelser återställda till minnet"
 
 #: text.tra:21801
 msgid "Eye of the Beholder"
-msgstr ""
+msgstr "Bevakarens Öga"
 
 #: text.tra:21802
 msgid ""
@@ -1250,15 +1331,15 @@ msgstr ""
 
 #: text.tra:21803
 msgid "Beholder's Gaze"
-msgstr ""
+msgstr "Bevakarblick"
 
 #: text.tra:21811
 msgid "\"Beholder's Gaze\" has been added to your Special Abilities menu"
-msgstr ""
+msgstr "\"Bevakarens Blick\" har lagts till i din Specialförmågor-meny"
 
 #: text.tra:21901
 msgid "Entropy Shield"
-msgstr ""
+msgstr "Entropisköld"
 
 #: text.tra:21902
 msgid ""
@@ -1279,7 +1360,7 @@ msgstr ""
 
 #: text.tra:22001
 msgid "Wild Sphere"
-msgstr ""
+msgstr "Vildsfär"
 
 #: text.tra:22002
 msgid ""
@@ -1302,7 +1383,7 @@ msgstr ""
 
 #: text.tra:22101
 msgid "Rhialto's Marvelous Reincarnation"
-msgstr ""
+msgstr "Rhialtos förunderliga återuppståndelse"
 
 #: text.tra:22102
 msgid ""
@@ -1325,7 +1406,7 @@ msgstr ""
 
 #: text.tra:22201
 msgid "Entropy Burst"
-msgstr ""
+msgstr "Entropismäll"
 
 #: text.tra:22202
 msgid ""
@@ -1352,7 +1433,7 @@ msgstr ""
 
 #: text.tra:22301
 msgid "Acid Storm"
-msgstr ""
+msgstr "Syrastorm"
 
 #: text.tra:22302
 msgid ""
@@ -1475,7 +1556,7 @@ msgstr ""
 
 #: text.tra:22901
 msgid "Wildfire"
-msgstr ""
+msgstr "Skogsbrand"
 
 #: text.tra:22902
 msgid ""
@@ -1494,7 +1575,7 @@ msgstr ""
 
 #: text.tra:23001
 msgid "Mynoc's Irresistible Appeal"
-msgstr ""
+msgstr "Mynocs oemotståndliga dragningskraft"
 
 #: text.tra:23002
 msgid ""
@@ -1513,7 +1594,7 @@ msgstr ""
 
 #: text.tra:23101
 msgid "Meece's Wildarmor"
-msgstr ""
+msgstr "Meeces Vildrustning"
 
 #: text.tra:23102
 msgid ""
@@ -1536,63 +1617,63 @@ msgstr ""
 
 #: text.tra:30111
 msgid "1st level"
-msgstr ""
+msgstr "1:a nivå"
 
 #: text.tra:30112
 msgid "2nd level"
-msgstr ""
+msgstr "2:a nivå"
 
 #: text.tra:30113
 msgid "3rd level"
-msgstr ""
+msgstr "3:e nivå"
 
 #: text.tra:30114
 msgid "4th level"
-msgstr ""
+msgstr "4:e nivå"
 
 #: text.tra:30115
 msgid "5th level"
-msgstr ""
+msgstr "5:e nivå"
 
 #: text.tra:30116
 msgid "6th level"
-msgstr ""
+msgstr "6:e nivå"
 
 #: text.tra:30117
 msgid "7th level"
-msgstr ""
+msgstr "7:e nivå"
 
 #: text.tra:30118
 msgid "8th level"
-msgstr ""
+msgstr "8:e nivå"
 
 #: text.tra:30119
 msgid "9th level"
-msgstr ""
+msgstr "9:e nivå"
 
 #: text.tra:30120
 msgid "10th level"
-msgstr ""
+msgstr "10:e nivå"
 
 #: text.tra:30121
 msgid "You don't have any suitable spells memorized."
-msgstr ""
+msgstr "Du har inga lämpliga besvärjelser memoriserade."
 
 #: text.tra:30122
 msgid "Wild Magic Backlash"
-msgstr ""
+msgstr "Vildmagi-bakslag"
 
 #: text.tra:30301
 msgid "Shape Spell"
-msgstr ""
+msgstr "Formbesvärjelse"
 
 #: text.tra:30302
 msgid "Shaped Spell"
-msgstr ""
+msgstr "Formad Besvärjelse"
 
 #: text.tra:40101
 msgid "Hand"
-msgstr ""
+msgstr "Hand"
 
 #: text.tra:40102
 msgid ""
@@ -1637,7 +1718,7 @@ msgstr ""
 
 #: text.tra:40201
 msgid "Skull Bomb"
-msgstr ""
+msgstr "Dödskallebomb"
 
 #: text.tra:40202
 msgid ""
@@ -1653,22 +1734,26 @@ msgstr ""
 
 #: text.tra:40301
 msgid "Dead Cat"
-msgstr ""
+msgstr "Död katt"
 
 #: text.tra:40302
 msgid ""
 "This appears to be a dead cat. It is extremely well preserved and looks as "
 "if it is sleeping."
 msgstr ""
+"Detta ser ut att vara en död katt. Den är extremt välbevarad och ser ut som "
+"om den sover."
 
 #: text.tra:40401
 msgid "Teddy Bear"
-msgstr ""
+msgstr "Nallebjörn"
 
 #: text.tra:40402
 msgid ""
 "Although this cute teddy bear looks quite old, it's still in good condition."
 msgstr ""
+"Även om den här söta nallebjörnen ser ganska gammal ut är den fortfarande i "
+"gott skick."
 
 #: text.tra:40403
 msgid "Teddy Bear of Protection +2, +4 vs. Demons"
@@ -1756,7 +1841,7 @@ msgstr "Vild Våg: Kastaren förvandlades till en ekorre"
 
 #: text.tra:69998
 msgid "Letter"
-msgstr ""
+msgstr "Brev"
 
 #: text.tra:69999
 msgid ""
@@ -1766,6 +1851,13 @@ msgid ""
 "\n"
 "E."
 msgstr ""
+"Min käre vän Gorion,\n"
+"\n"
+"var försiktig vid din avfärd, det finns en Vildmagiker som hänger utanför "
+"murarna kring Candlekeep. Hans avsikter är okända, så när du lämnat tornet "
+"är det bäst att du ger dig av direkt.\n"
+"\n"
+"E."
 
 #: text_ee.tra:40202
 msgid ""

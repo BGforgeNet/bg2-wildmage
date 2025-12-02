@@ -48,53 +48,53 @@ Förhoppningsvis ändrar den nuvarande versionen av denna besvärjelse INTE besv
 @20211 = ~En av mina trollformler har ändrats!~
 @20212 = ~Lärde dig en ny trollformel: Ratatoskform~
 @20301 = ~Ratatoskform~
-@20302 = ~Ratatosk Shape* (Alteration)
-Level: 1
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+@20302 = ~Ratatoskform* (Förändring)
+Nivå: 1
+Räckvidd: 0
+Varaktighet: 1 runda
+Besvärjaretid: 1
+Område av effekt: Besvärjaren
+Räddningskast: Ingen
 
-The Ratatosk are an extraplanar race of sentient warrior-squirrels native to Yggdrasil, the World Ash, the great divine tree whose branches and roots span all the outer planes.
+Ratatosk är en extraplanarisk ras av tänkande krigar-ekorrar som härstammar från Yggdrasil, Världsasken, det stora gudomliga trädet vars grenar och rötter sträcker sig över alla yttre plan.
 
-Upon casting this spell, the mage is transformed into one of these little fellows. Due to the Ratatosk's tiny size, the caster gets an Armor Class bonus of 3 points, and additional 2 points against missile weapons. Move speed is also slightly increased. On top of that, caster's dexterity is raised by four points. Any armor-class bonuses gained from the dexterity-raise stack with those gained from the size.
+Magikern som kastar denna besvärjelse förvandlas till en av dessa små krabater. På grund av att Ratatosker är så små får besvärjaren en Rustningsklassbonus på 3 poäng och ytterligare 2 poäng mot missilvapen. Förflyttningshastigheten är också något ökad. Dessutom höjs besvärjarens rörlighet med fyra poäng. Alla rustningsklassbonusar som erhålls från rörlighetshöjningen staplas med de som erhålls från storleken.
 
-The caster also gets some of the Ratatosk's fighting abilities: one additional attack per round, and paws that are considered as +5 weapons in all respects but damage bonus. The paws do 1d4+1 points of slashing damage.
+Besvärjaren får också några av Ratatoskens stridsförmågor: en extra attack per runda och tassar som betraktas som +5-vapen i alla avseenden utom skadebonus. Tassarna gör 1d4+1 poäng skärande skada.
 
-Unlike other polymorphing spells, the caster retains his spellcasting abilities while this spell is active.~
+Till skillnad från andra polymorfiseringsbesvärjelser behåller besvärjaren sina besvärjelseförmågor medan denna besvärjelse är aktiv.~
 @20401 = ~Slumpmässig Formel I~
-@20402 = ~Random Spell I* (Invocation/Evocation)
-Level: 1
-Range: 40 yards
-Duration: Instantaneous
-Casting Time: 1
-Area of Effect: Special
-Saving Throw: Special
+@20402 = ~Slumpmässig Besvärjelse I* (Invokation/Evokation)
+Nivå: 1
+Räckvidd: 40 yard
+Varaktighet: Omedelbar
+Besvärjelsetid: 1
+Effektområde: Speciell
+Sparande kast: Speciell
 
-This risky spell draws upon the chaos of magic to form magical energy into a spell of more power than the wild mage could otherwise be casting. Random spell, when cast, creates an effect equal to a randomly selected spell of 2nd or 3rd level.
+Denna riskfyllda besvärjelse utnyttjar magins kaos för att forma magisk energi till en besvärjelse med mer kraft än vad vildmagikern annars skulle kunna använda. Slumpmässig besvärjelse skapar en effekt som motsvarar en slumpmässigt vald besvärjelse på 2:a eller 3:e nivå när den kastas.
 
-In rare cases, an unstable magical energy outburst results in several random effects being created.
+I sällsynta fall kan ett instabilt utbrott av magisk energi resultera i att flera slumpmässiga effekter skapas.
 
-The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
+Besvärjaren väljer en varelse inom 40 meter som mål för besvärjelsen. Den skapade besvärjelsen kommer att vara centrerad på den varelsen, såvida den inte är av den typ som bara påverkar besvärjaren.
 
-The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@20501 = ~Bladeskur~
-@20502 = ~Blade Shower* (Conjuration)
-Level: 2
-Range: 40 yards
-Duration: 3 rounds/5 levels
-Casting Time: 1
-Area of Effect: 1-25 creatures
-Saving Throw: Special
+Fördelarna med Slumpmässig besvärjelse är besvärjelsetiden som alltid är 1, räckvidden som är 40 yard oavsett den duplicerade besvärjelsens ursprungliga räckvidd, och det faktum att vildmagikern inte behöver kunna kasta besvärjelsen eller ens ha den i sin besvärjelsebok. På baksidan har besvärjaren ingen kunskap om vilken besvärjelse som kommer att dupliceras, inte ens om besvärjelsens effekt är skadlig eller hjälpsam.~
+@20501 = ~Bladskur~
+@20502 = ~Bladskur* (Framkallning)
+Nivå: 2
+Räckvidd: 40 yard
+Varaktighet: 3 rundor/5 nivåer
+Besvärjelsetid: 1
+Effektområde: 1-25 varelser
+Räddningskast: Special
 
-The spell creates a set of magical daggers that hover in mid-air until fired at their targets. One dagger per level 1-5 is created, plus an additional set of 5 daggers for every five levels of the caster, up to 25 daggers at level 25. Each set of daggers is fired at once at 1-5 targets chosen by the caster. The daggers consist of instable chaos matter, and dissolve after the spell expires; for every set of daggers created, the spell's duration is extended by 3 rounds.
+Besvärjelsen skapar en uppsättning magiska dolkar som svävar i luften tills de avfyras mot sina mål. En dolk per nivå 1-5 skapas, plus ytterligare en uppsättning om 5 dolkar för varje fem nivåer av besvärjaren, upp till 25 dolkar vid nivå 25. Varje uppsättning dolkar avfyras på en gång mot 1-5 mål som besvärjaren väljer. Dolkarna består av instabil kaosmateria och löses upp efter att besvärjelsen har löpt ut; för varje uppsättning dolkar som skapas förlängs besvärjelsens varaktighet med 3 ronder.
 
-Each single dagger does 1d4 points of piercing damage. At level 5, the daggers get +1 damage bonus. This bonus is increased by one for every five levels of the caster: +2 at level 10, +3 at level 15, up to the maximum of +5 at level 25.
+Varje enskild dolk gör 1d4 poäng penetrerande skada. Vid nivå 5 får dolkarna +1 skadebonus. Denna bonus ökas med en för var femte nivå av besvärjaren: +2 vid nivå 10, +3 vid nivå 15, upp till maximalt +5 vid nivå 25.
 
-The daggers, being made of raw chaos stuff, bypass all physical and spell defenses and thus always strike the target. However, they can still be stopped by combat protections such as Stoneskin or Iron skin. Protections or immunities from magical weapons have no effect.
+Dolkarna, som är gjorda av rå kaosmateria, kringgår alla fysiska och magiska försvar och träffar därför alltid målet. De kan dock fortfarande stoppas av stridsskydd som Steneskinn eller Järnskinn. Skydd eller immunitet från magiska vapen har ingen effekt.
 
-Furthermore, the caster rolls d20 for each single dagger to determine a critical hit or miss. On a critical miss, the target takes no damage at all. On a critical hit, the dagger does double damage and the target must save against spells, or suffer one of the following effects for 5 rounds: Silence, Confusion, Horror, Sleep, Wild Magic.~
+Dessutom slår besvärjaren d20 för varje enskild dolk för att avgöra om det är en kritisk träff eller miss. Vid en kritisk miss tar målet ingen skada alls. Vid en kritisk träff gör dolken dubbel skada och målet måste rädda sig mot besvärjelser, eller drabbas av en av följande effekter i 5 ronder: Tystnad, Förvirring, Skräck, Sömn, Vild Magi.~
 @20511 = ~"Bladskur" har lagts till i din Specialförmågor-meny~
 @20601 = ~Rhialtos Slumpmässiga Missiler~
 @20602 = ~Rhialto's Random Missiles* (Evocation)
@@ -228,8 +228,8 @@ At the end of each round, a d20 throw is made to determine if the spell expires.
 On a roll of 20, there is still a 25% chance for the spell to continue: If the result of a second d20 roll is 5 or lower, the spell does not only continue, but the next round is also a "Fiasco" round, in which the victim gets 8 points of bad luck penalty and suffers one of the following things: stumble and drop down to the ground for two rounds,  drop weapon due to a sudden spasm,  fail horrible at parrying and loose all attacks for this round,  hurt himself for 1d20 hitpoints  or getting blinded by splinters from his own weapon for three rounds.
 
 As long as it doesn't expire due to "Good Luck" (20 on D20, then 6 or higher on D20), the spell continues infinitely.~
-@21311 = ~Fiasco~
-@21401 = ~Wildstrike~
+@21311 = ~Fiasko~
+@21401 = ~Vildhugg~
 @21402 = ~Vildslag* (Besvärjelse/Åkallelse)
 Nivå: 6
 Räckvidd: 30 meter
@@ -272,31 +272,31 @@ Anyway, when the spell is successful, the caster gets rid of the target, and it'
 @21523 = ~skickades till Elysium~
 @21524 = ~skickades till det eteriska planet~
 @21525 = ~skickades till Gehenna~
-@21526 = ~was sent to Gladsheim~
-@21527 = ~was sent to the Gray Waste~
-@21528 = ~was sent to Limbo~
-@21529 = ~was sent to the Negative Material Plane~
-@21530 = ~was sent to the Quasi-Plane of Vacuum~
-@21531 = ~was sent to the Quasi-Plane of Ash~
-@21532 = ~was sent to the Quasi-Plane of Dust~
-@21533 = ~was sent to the Quasi-Plane of Salt~
-@21534 = ~was sent to the Nine Hells~
-@21535 = ~was sent to Nirvana~
-@21536 = ~was sent to Olympus~
-@21537 = ~was sent to Pandemonium~
-@21538 = ~was sent to the Para-Elemental Plane of Smoke~
-@21539 = ~was sent to the Para-Elemental Plane of Magma~
+@21526 = ~skickades till Gladsheim~
+@21527 = ~skickades till Den Grå Ökesmarken~
+@21528 = ~skickades till Limbo~
+@21529 = ~skickades till det Negativt Materiella Planet~
+@21530 = ~skickades till Kvasi-Planet av Vakuum~
+@21531 = ~skickades till Kvasi-Planet av Aska~
+@21532 = ~skickades till Kvasi-Planet av Damm~
+@21533 = ~skickades till Kvasi-Planet av Salt~
+@21534 = ~skickades till De Nio Helvetena~
+@21535 = ~skickades till Nirvana~
+@21536 = ~skickades till Olympus~
+@21537 = ~skickades till Pandemonium~
+@21538 = ~skickades till det Para-Elementära Rökplanet~
+@21539 = ~skickades till det Para-Elementära Magmaplanet~
 @21540 = ~was sent to the Para-Elemental Plane of Ooze~
-@21541 = ~was sent to the Para-Elemental Plane of Ice~
-@21542 = ~was sent to the Positive Material Plane~
-@21543 = ~was sent to the Quasi-Plane of Lightning~
-@21544 = ~was sent to the Quasi-Plane of Radiance~
-@21545 = ~was sent to the Quasi-Plane of Minerals~
-@21546 = ~was sent to the Quasi-Plane of Steam~
+@21541 = ~skickades till det Para-Elementära Isplanet~
+@21542 = ~skickades till det Positivt Materiella Planet~
+@21543 = ~skickades till Kvasi-Planet av Blixtar~
+@21544 = ~skickades till Kvasi-Planet av Strålar~
+@21545 = ~skickades till Kvasi-Planet av Mineraler~
+@21546 = ~skickades till Kvasi-Planet av Ånga~
 @21547 = ~was sent to the Icewind Dale~
-@21548 = ~was sent to the Seven Heavens~
-@21549 = ~was sent to the Tarterus~
-@21550 = ~was sent to the Twin Paradises~
+@21548 = ~sändes till De Sju Himlarna~
+@21549 = ~skickades till Tarterus~
+@21550 = ~skickades till Tvillingsparadisen~
 @21601 = ~Åkalla ko~
 @21602 = ~Summon Cow* (Summoning)
 Level: 7
@@ -318,7 +318,7 @@ Warning:
 Basically, this spell is just a purposeful release of a specific wild surge. As such, there is a chance for unwanted side effects.
 
 It is also strongly advised against using this spell in the presence of rangers or druids.~
-@21701 = ~Mynoc's Wild Recuperation~
+@21701 = ~Mynocs vilda återhämtning~
 @21702 = ~Mynoc's Wild Recuperation* (Evocation)
 Level: 8
 Range: 0
@@ -330,11 +330,11 @@ Saving Throw: None
 When casting this spell, the wild mage willingly releases raw magical energy in form of a wild surge. If he manages to control the wild surge, he can use the energy to bring back into memory 1d4 spells that have been previously cast. If no spells have been cast yet, then nothing happens, and the spell is wasted.
 
 For determining the result of the wild surge, the wild mage gains a +40 bonus on the wild surge table; making it very likely that the spell has at least some kind of favorable result. Mynoc's Wild Recuperation can only restore spells of 7th-level or less.~
-@21711 = ~1 spell restored to memory~
-@21712 = ~2 spells restored to memory~
-@21713 = ~3 spells restored to memory~
-@21714 = ~4 spells restored to memory~
-@21801 = ~Eye of the Beholder~
+@21711 = ~1 besvärjelse återställd till minnet~
+@21712 = ~2 besvärjelser återställda till minnet~
+@21713 = ~3 besvärjelser återställda till minnet~
+@21714 = ~4 besvärjelser återställda till minnet~
+@21801 = ~Bevakarens Öga~
 @21802 = ~Eye of the Beholder* (Evocation)
 Level: 8
 Range: Visual range of caster
@@ -348,9 +348,9 @@ When this spell is cast, one of the wild mage's eyeballs pops out, and is transf
 Once per round, the wild mage may use this eyestalk to gaze at a target, causing one of 10 possible effects to shoot forth from the eye. The exact result (including saving throws, range, duration, etc.) are determined at random from among the 10 functions of a beholder's eye stalks: Charm Person, Fear, Disintegrate, Slow, Petrification, Cause Serious Wounds, Hold Person, Lightning Bolt, Paralyze or Death Ray.
 
 Usually, the caster's eye returns to its original shape and place after the spell has expired.~
-@21803 = ~Beholder's Gaze~
-@21811 = ~"Beholder's Gaze" has been added to your Special Abilities menu~
-@21901 = ~Entropy Shield~
+@21803 = ~Bevakarblick~
+@21811 = ~"Bevakarens Blick" har lagts till i din Specialförmågor-meny~
+@21901 = ~Entropisköld~
 @21902 = ~Entropy Shield* (Abjuration)
 Level: 9
 Range: 0
@@ -364,7 +364,7 @@ This spell surrounds the caster in a protective field of raw magical energy. Thi
 For the spell's duration, the caster is immune to all spells of 7th level or lower, this includes spells like Ruby Ray Of Reversal that are specifically designed to cancel spell protections. Only pierce shield and spellstrike are capable of bringing down an entropy shield.
 
 In addition, the caster gains a +100 bonus to rolls on the wild surge table, forcing all his spell to be cast normally; this also applies to Nahal's Reckless Dweomer - as long as the entropy shield is active, the caster always succeeds in creating the desired spell effect.~
-@22001 = ~Wild Sphere~
+@22001 = ~Vildsfär~
 @22002 = ~Wild Sphere* (Conjuration/Summoning)
 Level: 9
 Range: Visual range of the caster
@@ -380,7 +380,7 @@ Any spell cast within the Wild Sphere automatically causes a wild surge. Effects
 In addition, everyone within the area of effect must make a save vs. spells at -5 every round, or cause a weave disturbance that fires multiple wild surges at random targets for one round, comparable to the 4th level spell Glyph of Wild Magic.
 
 Vicims that also fail the save vs. spells without modifier, are subject to one of the following random effects: randomly teleported, polymorphed into a squirrel, confused, paralyzed, healed by 1d8 hit points, take 1d8 hit points of damage, rendered unconscious or hasted.~
-@22101 = ~Rhialto's Marvelous Reincarnation~
+@22101 = ~Rhialtos förunderliga återuppståndelse~
 @22102 = ~Rhialto's Marvelous Reincarnation* (Alteration)
 Level: 10
 Range: Visual range of the caster
@@ -396,7 +396,7 @@ Casting this spell causes fluctuations in the laws of probability, and weakens t
 The purpose of this spell is to bring a dead back to life by changing an event in the past and letting another creature (one that still lives in the present) die instead. There is no divine intervention involved: the reincarnated creature isn't raised from the dead, on successful casting of this spell, the fatal event never happened and the spell's beneficiary never has died.
 
 Once the victim is chosen, the strands of time are rewoven, so that the victim died at the same moment and in the same way as the spell's beneficiary. The beneficiary reappears at the same place where the victim stood.~
-@22201 = ~Entropy Burst~
+@22201 = ~Entropismäll~
 @22202 = ~Entropy Burst (Invocation)
 Level: 8
 Range: 0
@@ -416,7 +416,7 @@ Less than 4  --  Death
 12 and up  --  Deafened for 1 turn with 50% chance of spell failure
 
 There is no saving throw vs. this spell and the effects are instantaneous and last for the duration of the spell or until dispelled.~
-@22301 = ~Acid Storm~
+@22301 = ~Syrastorm~
 @22302 = ~Acid Storm (Evocation)
 Level: 7
 Range: Sight of Caster
@@ -497,7 +497,7 @@ In rare cases, an unstable magical energy outburst results in several random eff
 The caster chooses one creature within 40 yards as the spell's target. The created spell will be centered on that creature, unless it is of the type that only affects the caster.
 
 The advantages of Random Spell are the casting time which is always 1, the range which is 40 yards regardless of the duplicated spell's original range, and the fact that the wild mage doesn't need to be able to cast the spell or even have it in his spellbook. On the backside, the caster has no knowledge about which spell will be duplicated, not even if the spell's effect is harmful or helpful.~
-@22901 = ~Wildfire~
+@22901 = ~Skogsbrand~
 @22902 = ~Wildfire* (Invocation/Evocation)
 Level: 9
 Range: 0
@@ -509,7 +509,7 @@ Saving Throw: Special
 By means of this spell, the wild mage is able to channel raw magical energy through himself, shaping it into any form or effect he desires.
 
 Wildfire allows the caster to create the effect of any wizard spell of 8th level or lower. He need only have general knowledge of the spell and its effects; the spell does not need to be in his own spellbooks.~
-@23001 = ~Mynoc's Irresistible Appeal~
+@23001 = ~Mynocs oemotståndliga dragningskraft~
 @23002 = ~Mynoc's Irresistible Appeal* (Invocation/Evocation)
 Level: 1
 Range: Visual sight of caster
@@ -521,7 +521,7 @@ Saving Throw: none
 Other than its name suggests, this spell has nothing to do with making the caster more attractive. When Mynoc's Irresistible Appeal is cast, a rope consisting of raw magical energy appears; this rope loops itself around the targeted creature and then shortens, drawing the target toward the caster.
 
 There is no saving throw against this spell and it bypasses all magic resistances the targeted creature might have. While this spell is mainly used to get friends out of trouble (or learn to know new ones), some wild mages are known to be crazy enough to cast this spell on enemies to force them into melee-combat.~
-@23101 = ~Meece's Wildarmor~
+@23101 = ~Meeces Vildrustning~
 @23102 = ~Meece's Wildarmor* (Illusion/Phantasm)
 Level: 6
 Range: 0
@@ -538,21 +538,21 @@ After the damage done by an attack was reduced, the spell renders the caster inv
 
 The spell's duration is 5 rounds for every level of the caster, up to 2 hours at 20th level.~
 @30101 = ~Vävformel~
-@30111 = ~1st level~
-@30112 = ~2nd level~
-@30113 = ~3rd level~
-@30114 = ~4th level~
-@30115 = ~5th level~
-@30116 = ~6th level~
-@30117 = ~7th level~
-@30118 = ~8th level~
-@30119 = ~9th level~
-@30120 = ~10th level~
-@30121 = ~You don't have any suitable spells memorized.~
-@30122 = ~Wild Magic Backlash~
+@30111 = ~1:a nivå~
+@30112 = ~2:a nivå~
+@30113 = ~3:e nivå~
+@30114 = ~4:e nivå~
+@30115 = ~5:e nivå~
+@30116 = ~6:e nivå~
+@30117 = ~7:e nivå~
+@30118 = ~8:e nivå~
+@30119 = ~9:e nivå~
+@30120 = ~10:e nivå~
+@30121 = ~Du har inga lämpliga besvärjelser memoriserade.~
+@30122 = ~Vildmagi-bakslag~
 @30201 = ~Vävklippning~
-@30301 = ~Shape Spell~
-@30302 = ~Shaped Spell~
+@30301 = ~Formbesvärjelse~
+@30302 = ~Formad Besvärjelse~
 @40101 = ~Hand~
 @40102 = ~As a Spellshaper you have the ability to release the raw magical energy of memorized spells and "weave" it into a new spell effect. The shape the magical power can take is only limited by your imagination. Wearing a ring on this hand would not only hinder your handicraft, it would also disrupt the flow of magic, effectively crippling your spellweaving ability.
 
@@ -592,7 +592,7 @@ Disadvantages:
 -  May wear only one ring
 -  Alignment must be chaotic
 ~
-@40201 = ~Skull Bomb~
+@40201 = ~Dödskallebomb~
 @40202 = ~This strange skull appeared in your inventory one night. It's so loaded with magical energy, it's almost bursting. You wager that this is the result of someone's fizzled Skull Trap spell. Instead of flying at the intended target, the skull materialized in your pockets. You have no idea why it didn't explode as yet, but luckily it didn't. You better throw it at someone mean as soon as possible...
 
 STATISTICS:
@@ -601,10 +601,10 @@ Casts the spell "Skull Trap" at caster-level 12
 Not Usable By:
  Non-chaotic alignments
  Wizard Slayer~
-@40301 = ~Dead Cat~
-@40302 = ~This appears to be a dead cat. It is extremely well preserved and looks as if it is sleeping.~
-@40401 = ~Teddy Bear~
-@40402 = ~Although this cute teddy bear looks quite old, it's still in good condition.~
+@40301 = ~Död katt~
+@40302 = ~Detta ser ut att vara en död katt. Den är extremt välbevarad och ser ut som om den sover.~
+@40401 = ~Nallebjörn~
+@40402 = ~Även om den här söta nallebjörnen ser ganska gammal ut är den fortfarande i gott skick.~
 @40403 = ~Skyddets nallebjörn +2, +4 mot Demoner~
 @40404 = ~Teddy Bear of Protection +2, +4 vs. Demons:  'Pookie the Brave'
 The Teddy Bear of Protection was made by the archmage Halycron Maeral for his infant son. Whoever holds the item gains protection similar to a ring of protection +2.
@@ -659,9 +659,9 @@ Only Usable By:
 @50101 = ~Den Förunderlige Rhialto~
 @50102 = ~Rhialto~
 @50111 = ~Vild Våg: Kastaren förvandlades till en ekorre~
-@69998 = ~Letter~
-@69999 = ~My dear friend Gorion,
+@69998 = ~Brev~
+@69999 = ~Min käre vän Gorion,
 
-be careful on your departure, there's a Wild Mage hanging about outside the walls of Candlekeep. His intentions are unknown; once you left the keep, better hit the trail straightaway.
+var försiktig vid din avfärd, det finns en Vildmagiker som hänger utanför murarna kring Candlekeep. Hans avsikter är okända, så när du lämnat tornet är det bäst att du ger dig av direkt.
 
 E.~
