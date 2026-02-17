@@ -31,19 +31,19 @@
 BEGIN WM_SBOOK
 
 IF ~Global("wm_book_open","LOCALS",0)~ 1
-  SAY @00
+  SAY @0
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
 
 IF ~Global("wm_book_open","LOCALS",5)~ 2
-  SAY @01
+  SAY @1
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
 
 IF ~Global("wm_book_open","LOCALS",10)~ 3
-  SAY @02
+  SAY @2
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
@@ -52,7 +52,7 @@ IF ~OR(3)
       Global("wm_book_open","LOCALS",7)
       Global("wm_book_open","LOCALS",14)
       Global("wm_book_open","LOCALS",21)~ 4
-  SAY @03
+  SAY @3
   IF ~RandomNum(21,01)~ DO ~GiveItemCreate("SCRL7k",Myself,1,0,0)~ REPLY @11 GOTO close // (6) Mislead
   IF ~RandomNum(21,02)~ DO ~GiveItemCreate("SCRL5p",Myself,1,0,0)~ REPLY @11 GOTO close // (5) Chaos
   IF ~RandomNum(21,03)~ DO ~GiveItemCreate("SCRL6q",Myself,1,0,0)~ REPLY @11 GOTO close // (5) Feeblemind
@@ -77,37 +77,37 @@ IF ~OR(3)
 END
 
 IF ~!GlobalLT("wm_book_spell","LOCALS",36)~ 4a
-  SAY @09
+  SAY @9
   IF ~~ DO ~Actionoverride(Myself,DestroyItem("wm_sbook"))~
   EXIT
 END
 
 IF ~!GlobalLT("wm_book_spell","LOCALS",31)~ 4b
-  SAY @08
+  SAY @8
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
 
 IF ~RandomNum(4,1)~ 5
-  SAY @04
+  SAY @4
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
 
 IF ~RandomNum(4,2)~ 6
-  SAY @05
+  SAY @5
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
 
 IF ~RandomNum(4,3)~ 7
-  SAY @06
+  SAY @6
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
 
 IF ~RandomNum(4,4)~ 8
-  SAY @07
+  SAY @7
   IF ~~ REPLY @10 GOTO study
   IF ~~ REPLY @11 GOTO close
 END
