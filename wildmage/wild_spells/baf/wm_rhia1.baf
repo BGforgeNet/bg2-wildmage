@@ -58,7 +58,6 @@ IF
 THEN
   RESPONSE #100
     DisplayString(Myself, 40252)
-    // ~Contingency - Protection from Magical Weapons~
     ApplySpell(Myself, WIZARD_PROTECTION_FROM_MAGIC_WEAPONS)
     SetGlobal("Prep", "LOCALS", 1)
 END
@@ -70,15 +69,11 @@ IF
   !LevelLT(LastSeenBy(Myself), 15)
 THEN
   RESPONSE #100
-    // Level 15+
     DisplayString(Myself, 43050)
-    // Chain Contingency - Improved Mantle
     ApplySpell(Myself, WIZARD_IMPROVED_MANTLE)
     DisplayString(Myself, 3302)
-    // Chain Contingency - Spell Turning
     ApplySpell(Myself, WIZARD_SPELL_TURNING)
     DisplayString(Myself, 40240)
-    // Chain Contingency - Mislead
     ApplySpell(Myself, WIZARD_MISLEAD)
     SetGlobal("Prep", "LOCALS", 1)
 END
@@ -191,7 +186,6 @@ IF
   See([NEUTRAL])
 THEN
   RESPONSE #100
-    // The action is the same, but the condition is different.
     SetGlobalTimer("delay", "LOCALS", 6)
     IncrementGlobal("doomed", "LOCALS", 1)
     IncrementGlobal("word", "LOCALS", 1)
@@ -215,8 +209,8 @@ IF
   Global("sphere", "LOCALS", 0)
   GlobalGT("doomed", "LOCALS", 4)
   See(TenthNearestEnemyOf(Myself))
-  LevelGT(LastSeenBy(Myself), 15) // Only at Level 16+
-  !Range(LastSeenBy(Myself), 15) // And when the target is far away...
+  LevelGT(LastSeenBy(Myself), 15)
+  !Range(LastSeenBy(Myself), 15)
   !GlobalTimerNotExpired("delay", "LOCALS")
 THEN
   RESPONSE #100
@@ -307,7 +301,7 @@ END
 IF
   Global("missile", "LOCALS", 0)
   See(TenthNearestEnemyOf(Myself))
-  LevelGT(LastSeenBy(Myself), 4) // Level 5+
+  LevelGT(LastSeenBy(Myself), 4)
   !GlobalTimerNotExpired("delay", "LOCALS")
 THEN
   RESPONSE #100
@@ -333,7 +327,7 @@ END
 IF
   Global("missile", "LOCALS", 1)
   See(TenthNearestEnemyOf(Myself))
-  LevelGT(LastSeenBy(Myself), 4) // Level 5+
+  LevelGT(LastSeenBy(Myself), 4)
   !GlobalTimerNotExpired("delay", "LOCALS")
 THEN
   RESPONSE #100
@@ -372,7 +366,7 @@ END
 IF
   Global("missile", "LOCALS", 2)
   See(TenthNearestEnemyOf(Myself))
-  LevelGT(LastSeenBy(Myself), 4) // Level 5+
+  LevelGT(LastSeenBy(Myself), 4)
   !GlobalTimerNotExpired("delay", "LOCALS")
 THEN
   RESPONSE #100
@@ -397,7 +391,7 @@ END
 
 IF
   See(TenthNearestEnemyOf(Myself))
-  LevelGT(LastSeenBy(Myself), 5) // Level 6+
+  LevelGT(LastSeenBy(Myself), 5)
   !Range(LastSeenBy(Myself), 15)
   Global("fireball", "LOCALS", 0)
   !GlobalTimerNotExpired("delay", "LOCALS")
@@ -581,7 +575,7 @@ END
 IF
   See(NearestEnemyOf(Myself))
   GlobalLT("assassin", "LOCALS", 2)
-  LevelGT(LastSeenBy(Myself), 15) // Level 16+
+  LevelGT(LastSeenBy(Myself), 15)
   Range(LastSeenBy(Myself), 4)
 THEN
   RESPONSE #100

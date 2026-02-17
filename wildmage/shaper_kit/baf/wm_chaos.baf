@@ -1,3 +1,4 @@
+/** @tra text.tra */
 /* Do not edit. This file is generated from wm_chaos.tbaf. Make your changes there and regenerate this file. */
 
 IF
@@ -15,7 +16,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 397)
     ApplySpellRES("SPWM130", Myself)
 END
@@ -27,7 +27,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 420)
     ApplySpellRES("WM_DREAM", Myself)
 END
@@ -39,7 +38,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 405)
     ApplySpellRES("SPWM134", Myself)
 END
@@ -51,7 +49,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 316)
     ApplySpellRES("SPWM103", Myself)
 END
@@ -63,7 +60,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 27777)
     ApplySpellRES("SPWM159", Myself)
 END
@@ -75,7 +71,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("SPWI206", Myself)
 END
@@ -87,7 +82,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("SPWM105", Myself)
 END
@@ -99,7 +93,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("SPWM145", Myself)
 END
@@ -111,7 +104,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("SPWM107", Myself)
 END
@@ -123,7 +115,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("wm_sqrl", Myself)
 END
@@ -135,7 +126,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("SPWM113", Myself)
 END
@@ -147,7 +137,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("SPPR207", Myself)
 END
@@ -159,7 +148,6 @@ THEN
   RESPONSE #100
     PlaySound("EFF_M10")
     DisplayString(Myself, @10201)
-    // "Wild Magic made your dreams come true"
     DisplayStringHead(Myself, 1468)
     ApplySpellRES("SPWM136", Myself)
 END
@@ -195,7 +183,6 @@ IF
     HaveSpellRES("WM_SHLD")
     HaveSpellRES("WM_WFIRE")
     HaveSpellRES("WM_SPHR")
-    //-------------------------  204 Wizard Spells from "SPELL.IDS"
     HaveSpell(2101)
     HaveSpell(2102)
     HaveSpell(2103)
@@ -403,7 +390,6 @@ IF
 THEN
   RESPONSE #100
     ReallyForceSpellRES("WM_WAV_1", Myself)
-    // Weave Spell....
     SetGlobal("wm_Weave", "LOCALS", 0)
 END
 
@@ -411,9 +397,7 @@ IF
   Global("wm_Weave", "LOCALS", 1)
 THEN
   RESPONSE #100
-    // "You don't have any suitable spells memorized."
     DisplayString(Myself, @30121)
-    // Wild Magic 30: Pretty Sparkles
     ApplySpellRES("SPWM130", Myself)
     SetGlobal("wm_Weave", "LOCALS", 0)
 END
@@ -440,7 +424,6 @@ THEN
     AddSpecialAbility("wm_weave")
     ApplySpellRES("wm_#thac", Myself)
     ApplySpellRES("wm_chao1", Myself)
-    // (-1 Level 1 spell...)
     StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 5)
@@ -481,7 +464,6 @@ IF
 THEN
   RESPONSE #100
     AddSpecialAbility("wm_shap")
-    // Shape Spell
     SetGlobal("wm_level", "LOCALS", 10)
     Continue()
 END
@@ -519,8 +501,6 @@ IF
   ActionListEmpty()
 THEN
   RESPONSE #100
-    // (-1 Level 8 spell, Workaround...)
-    // Less than 0 spells wrap around to 255..
     ApplySpellRES("wm_chao2", Myself)
     SetGlobal("wm_level", "LOCALS", 17)
     Continue()
@@ -547,8 +527,6 @@ IF
   ActionListEmpty()
 THEN
   RESPONSE #100
-    // (-1 Level 9 spell, Workaround...)
-    // Less than 0 spells wrap around to 255..
     ApplySpellRES("wm_chao3", Myself)
     SetGlobal("wm_level", "LOCALS", 20)
     Continue()
@@ -673,7 +651,6 @@ THEN
     AddSpecialAbility("wm_weave")
     AddSpecialAbility("wm_shear")
     ApplySpellRES("wm_chao4", Myself)
-    // (+1 Level 8/9 spell)
     StartDialog("WM_LEVEL", Myself)
     SetDialog("")
     SetGlobal("wm_level", "LOCALS", 45)

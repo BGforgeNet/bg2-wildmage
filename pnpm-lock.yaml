@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       ielib:
-        specifier: ^0.1.2
-        version: 0.1.2
+        specifier: ^0.3.0
+        version: 0.3.0
     devDependencies:
       '@eslint/js':
         specifier: ^9.39.1
@@ -300,8 +300,8 @@ packages:
     resolution: {integrity: sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==}
     engines: {node: '>=8'}
 
-  ielib@0.1.2:
-    resolution: {integrity: sha512-5PxOktwsCDpRwiLIK3Zq/33HGUTZ3CWZck8MRot5SGUdU53PSbYqClq4b8KzWaXZGQ3xo71yy3ZbZR9ggApSdQ==}
+  ielib@0.3.0:
+    resolution: {integrity: sha512-CehNLRulQuxMUbXTvSp5E04Vrr7ggnjtth++N2k5n5V1JbIex6az7mEScZUVaMPKZruMoyCs6fe09pxjZOSybA==}
 
   ignore@5.3.2:
     resolution: {integrity: sha512-hsBTNUqQTDwkWtcdYI2i06Y/nUBEsNEDJKjWdigLvegy8kDuJAS8uRlpkkcQpyEXL0Z/pjDy5HBmMjRCJ2gq+g==}
@@ -789,7 +789,7 @@ snapshots:
 
   has-flag@4.0.0: {}
 
-  ielib@0.1.2: {}
+  ielib@0.3.0: {}
 
   ignore@5.3.2: {}
 

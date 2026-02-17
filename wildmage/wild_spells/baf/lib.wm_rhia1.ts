@@ -1,4 +1,4 @@
-import { $obj, GLOBAL, LOCALS, ObjectPtr, SpellID } from "ielib";
+import { GLOBAL, LOCALS, obj, ObjectPtr, SpellID } from "ielib";
 import {
     ForceSpellRES, Global, GlobalGT, GlobalTimerNotExpired, IncrementGlobal,
     LastSeenBy, LevelGT, LevelLT, Myself, NearestEnemyOf, Range, ReallyForceSpell, See, SetGlobal,
@@ -67,7 +67,7 @@ export function castWildstrike(lvar: number) {
     const LVAR_castWildstrike = "strike"
     if (Global(LVAR_castWildstrike, LOCALS, lvar)
         && GlobalGT("doomed", LOCALS, 2)
-        && See(TenthNearestEnemyOfType($obj("[0.0.0.MAGE_ALL]")))
+        && See(TenthNearestEnemyOfType(obj("[0.0.0.MAGE_ALL]")))
         && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
     ) {
         actDoomAndDelay()

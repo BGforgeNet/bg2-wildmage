@@ -1,4 +1,5 @@
-import { $tra, LOCALS } from "ielib";
+/** @tra text.tra */
+import { LOCALS, tra } from "ielib";
 import { ActionListEmpty, AddSpecialAbility, ApplySpellRES, Continue, DisplayString, Global, LevelLT, Myself, NoAction, PartyRested, RandomNumLT, ReallyForceSpellRES, SetDialog, SetGlobal, StartDialog } from "ielib/bg2";
 import { haveWizardSpells, randomEffect, SLEEP_MAX_ROLL } from "./lib.wm_chaos";
 
@@ -89,7 +90,7 @@ if (Global(LVAR_weaveSpell, LOCALS, 1) && haveWizardSpells()) {
 // Still 1 = No spells memorized...
 if (Global(LVAR_weaveSpell, LOCALS, 1)) {
     // "You don't have any suitable spells memorized."
-    DisplayString(Myself, $tra(30121))
+    DisplayString(Myself, tra(30121))
     // Wild Magic 30: Pretty Sparkles
     ApplySpellRES("SPWM130", Myself)
     SetGlobal(LVAR_weaveSpell, LOCALS, 0)

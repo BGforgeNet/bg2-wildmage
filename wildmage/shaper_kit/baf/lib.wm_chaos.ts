@@ -1,4 +1,4 @@
-import { $tra, SplRef } from "ielib";
+import { SplRef, tlk, tra } from "ielib";
 import { ApplySpellRES, DisplayString, DisplayStringHead, HaveSpell, HaveSpellRES, Myself, PartyRested, PlaySound, RandomNumLT } from "ielib/bg2";
 
 
@@ -17,8 +17,8 @@ export const SLEEP_MAX_ROLL = 28;
 export function randomEffect(rollLimit: number, headString: number, spellRes: SplRef) {
     if (PartyRested() && RandomNumLT(SLEEP_MAX_ROLL, rollLimit)) {
         PlaySound("EFF_M10")
-        DisplayString(Myself, $tra(10201))  // "Wild Magic made your dreams come true"
-        DisplayStringHead(Myself, headString)
+        DisplayString(Myself, tra(10201))  // "Wild Magic made your dreams come true"
+        DisplayStringHead(Myself, tlk(headString))
         ApplySpellRES(spellRes, Myself)
     }
 }

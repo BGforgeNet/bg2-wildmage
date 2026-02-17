@@ -1,4 +1,4 @@
-import { $obj, GLOBAL, LOCALS } from "ielib";
+import { GLOBAL, LOCALS, obj, tlk } from "ielib";
 import { Allegiance, ApplySpell, AttackReevaluate, Continue, Detect, DisplayString, ENEMY, FaceObject, ForceSpellRES, Global, GlobalGT, GlobalLT, GlobalTimerNotExpired, HasBounceEffects, HasImmunityEffects, IncrementGlobal, LastSeenBy, Level, LevelGT, LevelLT, MoveToObject, Myself, NearestEnemyOf, NumCreatureGT, Player1, Range, ReallyForceSpell, ReallyForceSpellRES, See, SetGlobal, SetGlobalTimer, SmallWait, Spell, SpellRES, StartDialog, STATE_SILENCED, StateCheck, TenthNearestEnemyOf, TookDamage, WIZARD_ABI_DALZIMS_HORRID_WILTING, WIZARD_ARMOR, WIZARD_COLOR_SPRAY, WIZARD_DEATH_SPELL, WIZARD_DISINTEGRATE, WIZARD_DOMINATION, WIZARD_FINGER_OF_DEATH, WIZARD_FIRE_SHIELD_RED, WIZARD_FIREBALL, WIZARD_FLAME_ARROW, WIZARD_FLESH_TO_STONE, WIZARD_IMPROVED_MANTLE, WIZARD_LARLOCH_MINOR_DRAIN, WIZARD_MAGIC_MISSILE, WIZARD_MISLEAD, WIZARD_NPC_SYMBOL_FEAR, WIZARD_NPC_SYMBOL_STUN, WIZARD_POLYMORPH_OTHER, WIZARD_PRISMATIC_SPRAY, WIZARD_PROTECTION_FROM_MAGIC_WEAPONS, WIZARD_SHIELD, WIZARD_SLOW, WIZARD_SPELL_TURNING, WIZARD_SUMMON_EFREET, WIZARD_SUN_FIRE, WIZARD_TRUE_SIGHT, WIZARD_VOCALIZE } from "ielib/bg2";
 import { actDoomAndDelay, castGlyph, castRandomMissiles, castSpellIf, castWildstrike, GVAR_start, LTIMER_delay, LVAR_doomed, turnIntoSquirrel } from './lib.wm_rhia1';
 
@@ -20,7 +20,7 @@ if (See(Player1) && Global(LVAR_doomed, LOCALS, 0)) {
 
 /** Common spell trigger actions */
 function actSpellTrigger() {
-    DisplayString(Myself, 39968)    // ~Spell Trigger - Fired~
+    DisplayString(Myself, tlk(39968))    // ~Spell Trigger - Fired~
     ReallyForceSpellRES("WM_LUCK", Myself)
     SetGlobal(LVAR_castSpellTrigger, LOCALS, 1)
 }
@@ -52,15 +52,15 @@ if (Global(LVAR_contingency, LOCALS, 0)
 ) {
     // Level 1-14
     if (LevelLT(LastSeenBy(Myself), 15)) {
-        DisplayString(Myself, 40252)    // ~Contingency - Protection from Magical Weapons~
+        DisplayString(Myself, tlk(40252))    // ~Contingency - Protection from Magical Weapons~
         ApplySpell(Myself, WIZARD_PROTECTION_FROM_MAGIC_WEAPONS)
         SetGlobal(LVAR_contingency, LOCALS, 1)
     } else { // Level 15+
-        DisplayString(Myself, 43050)    // Chain Contingency - Improved Mantle
+        DisplayString(Myself, tlk(43050))    // Chain Contingency - Improved Mantle
         ApplySpell(Myself, WIZARD_IMPROVED_MANTLE)
-        DisplayString(Myself, 3302)     // Chain Contingency - Spell Turning
+        DisplayString(Myself, tlk(3302))     // Chain Contingency - Spell Turning
         ApplySpell(Myself, WIZARD_SPELL_TURNING)
-        DisplayString(Myself, 40240)    // Chain Contingency - Mislead
+        DisplayString(Myself, tlk(40240))    // Chain Contingency - Mislead
         ApplySpell(Myself, WIZARD_MISLEAD)
         SetGlobal(LVAR_contingency, LOCALS, 1)
     }
@@ -69,7 +69,7 @@ if (Global(LVAR_contingency, LOCALS, 0)
 
 
 /** First summoned creature is doomed to die... */
-if (See($obj("[GOODCUTOFF.0.0.0.0.SUMMONED]")) && Global(LVAR_wipedSummons, LOCALS, 0)
+if (See(obj("[GOODCUTOFF.0.0.0.0.SUMMONED]")) && Global(LVAR_wipedSummons, LOCALS, 0)
 ) {
     FaceObject(LastSeenBy(Myself))
     Spell(LastSeenBy(Myself), WIZARD_DEATH_SPELL)
@@ -107,7 +107,7 @@ if (See(NearestEnemyOf(Myself))
 // True Sight
 const LVAR_castTrueSight = "true_sight"
 if (Allegiance(Myself, ENEMY)
-    && Detect($obj("[PC]"))
+    && Detect(obj("[PC]"))
     && !See(LastSeenBy(Myself))
     && Global(LVAR_castTrueSight, LOCALS, 0)
     && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
@@ -140,11 +140,11 @@ if (Global(LVAR_castVileWord, LOCALS, 0)
     && See(NearestEnemyOf(Myself))
 ) {
     // Useless when there's only one enemy nearby...
-    if (NumCreatureGT($obj("[ENEMY]"), 1)) {
+    if (NumCreatureGT(obj("[ENEMY]"), 1)) {
         actCastVileWord()
     }
     // But we can also cast it at neutrals...
-    if (See($obj("[NEUTRAL]"))) {
+    if (See(obj("[NEUTRAL]"))) {
         // The action is the same, but the condition is different.
         actCastVileWord()
     }
