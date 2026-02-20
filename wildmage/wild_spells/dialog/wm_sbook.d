@@ -127,7 +127,6 @@ IF ~~ study
         DO ~IncrementGlobal("wm_book_open","LOCALS",1)~ GOTO study1
 
   IF ~Global("wm_book_spell","LOCALS",31)
-      !GlobalLT("wm_book_spell_A","LOCALS",9)
       GlobalLT("wm_level","LOCALS",19)~
         DO ~IncrementGlobal("wm_book_open","LOCALS",1)~ GOTO study2
 
