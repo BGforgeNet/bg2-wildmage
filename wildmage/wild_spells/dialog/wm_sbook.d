@@ -518,7 +518,7 @@ END
 IF ~~ 21
   SAY ~~
   IF ~~ DO ~
-  Actionoverride(Myself,AddSpecialAbility("wm_attr"))   // Mynok's Irresistible Appeal
+  Actionoverride(Myself,AddSpecialAbility("wm_attr"))   // Mynoc's Irresistible Appeal
   IncrementGlobal("wm_book_spell_A","LOCALS",1)~
         GOTO success
 END
