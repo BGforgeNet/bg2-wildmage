@@ -24,3 +24,4 @@ wildmage/tra/**/ee.tra                     working-tree-encoding=utf8
 wildmage/tra/**/*_ee.tra                   working-tree-encoding=utf8
 
 *.tbaf linguist-language=TypeScript
+*.td   linguist-language=TypeScript
