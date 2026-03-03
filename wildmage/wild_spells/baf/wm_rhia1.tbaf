@@ -1,6 +1,6 @@
-import { GLOBAL, LOCALS, obj, tlk } from "ielib";
-import { Allegiance, ApplySpell, AttackReevaluate, Continue, Detect, DisplayString, ENEMY, FaceObject, ForceSpellRES, Global, GlobalGT, GlobalLT, GlobalTimerNotExpired, HasBounceEffects, HasImmunityEffects, IncrementGlobal, LastSeenBy, Level, LevelGT, LevelLT, MoveToObject, Myself, NearestEnemyOf, NumCreatureGT, Player1, Range, ReallyForceSpell, ReallyForceSpellRES, See, SetGlobal, SetGlobalTimer, SmallWait, Spell, SpellRES, StartDialog, STATE_SILENCED, StateCheck, TenthNearestEnemyOf, TookDamage, WIZARD_ABI_DALZIMS_HORRID_WILTING, WIZARD_ARMOR, WIZARD_COLOR_SPRAY, WIZARD_DEATH_SPELL, WIZARD_DISINTEGRATE, WIZARD_DOMINATION, WIZARD_FINGER_OF_DEATH, WIZARD_FIRE_SHIELD_RED, WIZARD_FIREBALL, WIZARD_FLAME_ARROW, WIZARD_FLESH_TO_STONE, WIZARD_IMPROVED_MANTLE, WIZARD_LARLOCH_MINOR_DRAIN, WIZARD_MAGIC_MISSILE, WIZARD_MISLEAD, WIZARD_NPC_SYMBOL_FEAR, WIZARD_NPC_SYMBOL_STUN, WIZARD_POLYMORPH_OTHER, WIZARD_PRISMATIC_SPRAY, WIZARD_PROTECTION_FROM_MAGIC_WEAPONS, WIZARD_SHIELD, WIZARD_SLOW, WIZARD_SPELL_TURNING, WIZARD_SUMMON_EFREET, WIZARD_SUN_FIRE, WIZARD_TRUE_SIGHT, WIZARD_VOCALIZE } from "ielib/bg2";
-import { actDoomAndDelay, castGlyph, castRandomMissiles, castSpellIf, castWildstrike, GVAR_start, LTIMER_delay, LVAR_doomed, turnIntoSquirrel } from './lib.wm_rhia1';
+import { GLOBAL, LOCALS, obj, tlk } from "@bgforge/iets";
+import { Allegiance, ApplySpell, AttackReevaluate, Continue, Detect, DisplayString, ENEMY, FaceObject, ForceSpellRES, Global, GlobalGT, GlobalLT, GlobalTimerNotExpired, GTimes, HasBounceEffects, HasImmunityEffects, IncrementGlobal, LastSeenBy, Level, LevelGT, LevelLT, MoveToObject, Myself, NearestEnemyOf, NumCreatureGT, Player1, Range, ReallyForceSpell, ReallyForceSpellRES, See, SetGlobal, SetGlobalTimer, SmallWait, Spell, SpellRES, StartDialog, STATE_SILENCED, StateCheck, TenthNearestEnemyOf, TookDamage, WIZARD_ABI_DALZIMS_HORRID_WILTING, WIZARD_ARMOR, WIZARD_COLOR_SPRAY, WIZARD_DEATH_SPELL, WIZARD_DISINTEGRATE, WIZARD_DOMINATION, WIZARD_FINGER_OF_DEATH, WIZARD_FIRE_SHIELD_RED, WIZARD_FIREBALL, WIZARD_FLAME_ARROW, WIZARD_FLESH_TO_STONE, WIZARD_IMPROVED_MANTLE, WIZARD_LARLOCH_MINOR_DRAIN, WIZARD_MAGIC_MISSILE, WIZARD_MISLEAD, WIZARD_NPC_SYMBOL_FEAR, WIZARD_NPC_SYMBOL_STUN, WIZARD_POLYMORPH_OTHER, WIZARD_PRISMATIC_SPRAY, WIZARD_PROTECTION_FROM_MAGIC_WEAPONS, WIZARD_SHIELD, WIZARD_SLOW, WIZARD_SPELL_TURNING, WIZARD_SUMMON_EFREET, WIZARD_SUN_FIRE, WIZARD_TRUE_SIGHT, WIZARD_VOCALIZE } from "@bgforge/iets/bg2";
+import { actDoomAndDelay, castGlyph, castRandomMissiles, castSpellIf, castWildstrike, GTIMES_ONE_ROUND, GVAR_start, LTIMER_delay, LVAR_doomed, turnIntoSquirrel } from './lib.wm_rhia1';
 
 /** Fires a spell-trigger just to show what a great mage he is */
 const LVAR_castSpellTrigger = "SpellTrigger"
@@ -80,6 +80,7 @@ if (See(obj("[GOODCUTOFF.0.0.0.0.SUMMONED]")) && Global(LVAR_wipedSummons, LOCAL
 /** Conditional spells */
 // Spell Turning
 const LVAR_spellTurning = "spell_turning"
+
 if (See(NearestEnemyOf(Myself))
     && LevelGT(LastSeenBy(Myself), 9)
     && !HasBounceEffects(Myself)
@@ -87,7 +88,7 @@ if (See(NearestEnemyOf(Myself))
     && Global(LVAR_spellTurning, LOCALS, 0)
     && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
 ) {
-    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    SetGlobalTimer(LTIMER_delay, LOCALS, GTIMES_ONE_ROUND)
     IncrementGlobal(LVAR_spellTurning, LOCALS, 1)
     Spell(Myself, WIZARD_SPELL_TURNING)
 }
@@ -99,7 +100,7 @@ if (See(NearestEnemyOf(Myself))
     && Global(LVAR_cast_vocalize, LOCALS, 0)
     && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
 ) {
-    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    SetGlobalTimer(LTIMER_delay, LOCALS, GTIMES_ONE_ROUND)
     IncrementGlobal(LVAR_cast_vocalize, LOCALS, 1)
     Spell(Myself, WIZARD_VOCALIZE)
 }
@@ -112,7 +113,7 @@ if (Allegiance(Myself, ENEMY)
     && Global(LVAR_castTrueSight, LOCALS, 0)
     && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
 ) {
-    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    SetGlobalTimer(LTIMER_delay, LOCALS, GTIMES_ONE_ROUND)
     IncrementGlobal(LVAR_castTrueSight, LOCALS, 1)
     Spell(Myself, WIZARD_TRUE_SIGHT)
 }
@@ -177,7 +178,7 @@ if (Global(GVAR_start, GLOBAL, 1)
     && !GlobalTimerNotExpired(LTIMER_delay, LOCALS)
 ) {
     SetGlobal(GVAR_start, GLOBAL, 2)
-    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    SetGlobalTimer(LTIMER_delay, LOCALS, GTIMES_ONE_ROUND)
     ForceSpellRES("WM_RHIA1", LastSeenBy(Myself))
 }
 // Otherwise, check any enemy
@@ -290,7 +291,7 @@ if (See(NearestEnemyOf(Myself))
     && LevelGT(LastSeenBy(Myself), 15)    // Level 16+
     && Range(LastSeenBy(Myself), 4)
 ) {
-    SetGlobalTimer(LTIMER_delay, LOCALS, 10)
+    SetGlobalTimer(LTIMER_delay, LOCALS, 10 as GTimes)
     IncrementGlobal(LVAR_castAssassination, LOCALS, 1)
     SpellRES("SPCL916", Myself)
     Continue()

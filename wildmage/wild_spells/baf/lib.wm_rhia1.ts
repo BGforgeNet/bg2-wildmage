@@ -1,9 +1,9 @@
-import { GLOBAL, LOCALS, obj, ObjectPtr, SpellID } from "ielib";
+import { GLOBAL, LOCALS, obj, ObjectPtr, SpellID } from "@bgforge/iets";
 import {
-    ForceSpellRES, Global, GlobalGT, GlobalTimerNotExpired, IncrementGlobal,
+    ForceSpellRES, Global, GlobalGT, GlobalTimerNotExpired, GTimes, IncrementGlobal,
     LastSeenBy, LevelGT, LevelLT, Myself, NearestEnemyOf, Range, ReallyForceSpell, See, SetGlobal,
     SetGlobalTimer, SpellRES, TenthNearestEnemyOf, TenthNearestEnemyOfType
-} from "ielib/bg2";
+} from "@bgforge/iets/bg2";
 
 /** Spellcasting delay */
 export const LTIMER_delay = "delay"
@@ -12,6 +12,9 @@ export const LVAR_doomed = "doomed"
 
 /** Main quest state tracking */
 export const GVAR_start = "wm_start";
+
+/** One round timer */
+export const GTIMES_ONE_ROUND = 6 as GTimes;
 
 /**
  * Rhialto permanently turns himself into a squirrel.
@@ -27,7 +30,7 @@ export function turnIntoSquirrel(enemyLevelLimit: number, doomedThreshold: numbe
         && !GlobalTimerNotExpired("delay", LOCALS)
     ) {
         SetGlobal(GVAR_start, GLOBAL, 2)
-        SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+        SetGlobalTimer(LTIMER_delay, LOCALS, GTIMES_ONE_ROUND)
         ForceSpellRES("WM_RHIA1", LastSeenBy(Myself))
     }
 }
@@ -55,7 +58,7 @@ export function castSpellIf(spell: SpellID, spellVar: string, enemyMinLevel: num
  * Increment `LVAR_doomed`, set `LVAR_delay` cast timer
  */
 export function actDoomAndDelay() {
-    SetGlobalTimer(LTIMER_delay, LOCALS, 6)
+    SetGlobalTimer(LTIMER_delay, LOCALS, GTIMES_ONE_ROUND)
     IncrementGlobal(LVAR_doomed, LOCALS, 1)
 }
 

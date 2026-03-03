@@ -1,6 +1,6 @@
 /** @tra text.tra */
-import { LOCALS, tra } from "ielib";
-import { ActionListEmpty, AddSpecialAbility, ApplySpellRES, Continue, DisplayString, Global, LevelLT, Myself, NoAction, PartyRested, RandomNumLT, ReallyForceSpellRES, SetDialog, SetGlobal, StartDialog } from "ielib/bg2";
+import { LOCALS, tra } from "@bgforge/iets";
+import { ActionListEmpty, AddSpecialAbility, ApplySpellRES, Continue, DisplayString, Global, LevelLT, Myself, NoAction, PartyRested, RandomNumLT, ReallyForceSpellRES, SetDialog, SetGlobal, StartDialog } from "@bgforge/iets/bg2";
 import { haveWizardSpells, randomEffect, SLEEP_MAX_ROLL } from "./lib.wm_chaos";
 
 //---------------------------------------------------------------------
