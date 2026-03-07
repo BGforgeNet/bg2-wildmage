@@ -1,6 +1,6 @@
 {
   "name": "wildmage",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@eslint/js": "^9.39.3",
-    "eslint": "^9.39.3",
+    "@eslint/js": "^9.39.4",
+    "eslint": "^9.39.4",
     "typescript-eslint": "^8.56.1"
   },
   "dependencies": {
