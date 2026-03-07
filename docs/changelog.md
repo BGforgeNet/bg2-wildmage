@@ -13,7 +13,7 @@
 
 ### Version 2.5
 
-- Teddy bear of protection now follows the protection exlusion rules.
+- Teddy bear of protection now follows the protection exclusion rules.
 - Shaper: fixed (removed) leftover Dex requirement for Improved Criticals at high levels.
 - Fixed the book giving out duplicated scrolls of Chaos/Teleport Field instead of Feeblemind.
 
