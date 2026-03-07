@@ -1,5 +1,6 @@
 ## Changelog
 
+- [Version 2.5](#version-25)
 - [Version 2.4](#version-24)
 - [Version 2.3](#version-23)
 - [Version 2.2](#version-22)
@@ -9,6 +10,12 @@
 - [Version 2.beta2](#version-2.beta2)
 - [Version 2.beta1](#version-2.beta1)
 - [Version 1](#version-1)
+
+### Version 2.5
+
+- Teddy bear of protection now follows the protection exlusion rules.
+- Shaper: fixed (removed) leftover Dex requirement for Improved Criticals at high levels.
+- Fixed the book giving out duplicated scrolls of Chaos/Teleport Field instead of Feeblemind.
 
 ### Version 2.4
 
